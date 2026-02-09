@@ -8,6 +8,7 @@ import pandas as pd
 
 from stfc_parser.AbstractSectionParser import AbstractSectionParser
 from stfc_parser.StartsWhen import SECTION_HEADERS, section_to_dataframe
+from stfc_parser.core.FixPlayersDataframe import FixPlayersDataframe
 from stfc_parser.schemas import PlayersSchema, validate_dataframe
 
 logger = logging.getLogger(__name__)
@@ -24,10 +25,14 @@ class PlayerSectionParser(AbstractSectionParser):
         """Return a normalized players dataframe, with inferred entries as needed."""
         players_df = section_to_dataframe(self.section_text, SECTION_HEADERS["players"])
         players_df = self._normalize_dataframe(players_df)
-        players_df = self._augment_players_df(players_df, self.combat_df)
+        #players_df = self._augment_players_df(players_df, self.combat_df)
         return validate_dataframe(
             players_df,
             PlayersSchema,
             soft=soft,
             context="player section",
         )
+
+    def repair(self, players_df: pd.DataFrame, combat_df: pd.DataFrame, fleet_df: pd.DataFrame):
+        fixer: FixPlayersDataframe = FixPlayersDataframe(players_df, combat_df, fleet_df)
+        return fixer.fix()
