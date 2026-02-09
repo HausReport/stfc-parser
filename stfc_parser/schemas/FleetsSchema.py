@@ -12,6 +12,8 @@ COLUMN_ORDER: ClassVar[list[str]] = [
     "Attack",
     "Defense",
     "Health",
+    "Officer Attack Bonus",
+    "Hull Health",
     "buff_applied",
     "debuff_applied",
 ]
@@ -23,6 +25,9 @@ class FleetsSchema(pa.DataFrameModel):
     attack: Series[float] = pa.Field(alias="Attack", nullable=True)
     defense: Series[float] = pa.Field(alias="Defense", nullable=True)
     health: Series[float] = pa.Field(alias="Health", nullable=True)
+
+    officer_attack_bonus: Series[float] = pa.Field(alias="Officer Attack Bonus", nullable=True)
+    hull_health: Series[float] = pa.Field(alias="Hull Health", nullable=True)
 
     buff_applied: Series[pd.BooleanDtype] = pa.Field(nullable=True)
     debuff_applied: Series[pd.BooleanDtype] = pa.Field(nullable=True)

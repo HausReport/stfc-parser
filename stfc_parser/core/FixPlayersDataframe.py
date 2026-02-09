@@ -84,8 +84,63 @@ class FixPlayersDataframe:
         }
         return pd.DataFrame(aligned)
 
-    def fix(self):
-        return self._augment_players_df()
+    def fix(self) -> pd.DataFrame:
+        """
+        Drop-in replacement for the fix method to handle header recovery,
+        outcome propagation, and health reconciliation.
+        """
+
+        if len(self.players_df) > 1:
+            return self.players_df
+        # 1. Identify Participants from shadow data (Attack events)
+        # We need the order of appearance to map to Player Fleet 1, 2, 3
+        attacks = self.combat_df[self.combat_df['event_type'].str.lower() == 'attack']
+        shadow_players = (
+            attacks[['attacker_name', 'attacker_alliance', 'attacker_ship']]
+            .drop_duplicates()
+            .reset_index(drop=True)
+        )
+
+        # 2. Identify the Enemy (Team 2)
+        # Per requirements, Team 2 is the last row of the original players_df or the Enemy Fleet
+        npc_row = self.players_df.iloc[-1:] if not self.players_df.empty else pd.DataFrame()
+        npc_name = str(npc_row.get("Player Name", pd.Series([""])).iloc[0]).strip()
+
+        # Filter shadow_players to exclude the NPC
+        players_only = shadow_players[shadow_players['attacker_name'] != npc_name].reset_index(drop=True)
+
+        # 3. Propagate Outcomes
+        # If NPC DEFEAT, Players VICTORY (and vice versa)
+        npc_outcome = str(npc_row.get("Outcome", pd.Series(["UNKNOWN"])).iloc[0]).upper()
+        inferred_outcome = "DEFEAT" if "VICTORY" in npc_outcome else "VICTORY"
+
+        # 4. Reconstruct the Players Dataframe
+        reconstructed_rows = []
+        for i, (_, row) in enumerate(players_only.iterrows()):
+            new_row = {
+                "Player Name": row['attacker_name'],
+                "Alliance": row['attacker_alliance'],
+                "Ship Name": row['attacker_ship'],
+                "Outcome": inferred_outcome,
+                "Fleet Type": f"Player Fleet {i + 1}"
+            }
+
+            # 5. Calculate Hull Health Remaining (Point 6)
+            # Find max health from fleet_df and subtract damage from combat_df
+            max_hull = self.fleet_df.loc[self.fleet_df['Fleet Type'] == f"Player Fleet {i + 1}", 'Hull Health'].sum()
+            damage_taken = self.combat_df[self.combat_df['target_ship'] == row['attacker_ship']]['hull_damage'].sum()
+            new_row["Hull Health Remaining"] = max(0, max_hull - damage_taken)
+            new_row["Hull Health"] = max_hull  # Restore max health to the header
+
+            reconstructed_rows.append(new_row)
+
+        # Combine players and the original NPC row
+        fallback_df = pd.DataFrame(reconstructed_rows)
+        combined = pd.concat([fallback_df, npc_row], ignore_index=True)
+
+        # Align to original column structure (filling missing as pd.NA)
+        return self._align_players_columns(combined, self.players_df.columns)
+
 
     def _augment_players_df( self) -> pd.DataFrame:
         """Augment player metadata with entries inferred from the combat log."""
