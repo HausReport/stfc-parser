@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import pytest
 
+from stfc_parser.core.Outcome import Outcome
 from tests import helpers
 from stfc_parser.SessionInfo import SessionInfo
 
@@ -14,12 +15,15 @@ def _outcome_for_name(
     name: str,
 ) -> str:
     players_df = session_info.players_df
+    combat_df = session_info.combat_df
+    outcome = Outcome(players_df, combat_df)
+
     rows = players_df.loc[players_df["Player Name"] == name]
     assert not rows.empty
     row = rows.iloc[0]
-    ship = session_info.normalize_text(row.get("Ship Name"))
-    alliance = session_info._resolve_player_alliance(row)
-    key = session_info.normalize_spec_key(name, alliance, ship)
+    ship = Outcome.normalize_text(row.get("Ship Name"))
+    alliance = outcome._resolve_player_alliance(row)
+    key = Outcome.normalize_spec_key(name, alliance, ship)
     assert key in outcome_lookup
     return session_info.normalize_outcome(outcome_lookup.get(key))
 
