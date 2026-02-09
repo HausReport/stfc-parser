@@ -24,9 +24,9 @@ OUTCOME_SYNONYMS = {
 UNKNOWN_OUTCOMES = {"UNKNOWN", "UNSURE", "N/A", "NA", "?", ""}
 
 class Outcome:
-
-    def __init__(self, players_df: pd.DataFrame):
+    def __init__(self, players_df: pd.DataFrame, combat_df: pd.DataFrame):
         self.players_df = players_df
+        self.combat_df = combat_df
 
     def build_outcome_lookup(self) -> dict[tuple[str, str, str], object]:
         """Return a lookup of normalized ship specs to Outcome values."""

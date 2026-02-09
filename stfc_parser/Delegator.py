@@ -28,7 +28,7 @@ class Delegator:
         self.combatants = Combatants(self.players_df, self.combat_df)
         self.crew = Crew(self.players_df, self.combat_df)
         self.ships = Ships(self.combat_df)
-        self.outcome = Outcome(self.players_df)
+        self.outcome = Outcome(self.players_df, self.combat_df)
     #
     # From core/Crew
     #
