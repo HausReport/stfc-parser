@@ -8,13 +8,14 @@ import pandas as pd
 from stfc_parser.Delegator import Delegator
 from stfc_parser.ShipSpecifier import ShipSpecifier
 from stfc_parser.core.FilterCombatDataframeByCombatant import FilterCombatDataframeByCombatant
-
+from stfc_parser.teams import get_teams_from_players_df
 logger = logging.getLogger(__name__)
 
 class SessionInfo(Delegator):
     """Expose filtered views and helpers for combat session data."""
 
-
+    def get_teams(self):
+        return get_teams_from_players_df(self.players_df)
 
     def get_combat_df_filtered_by_attackers(
         self,
