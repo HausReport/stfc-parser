@@ -4,7 +4,7 @@ import logging
 from typing import Iterable, Type
 
 import pandas as pd
-import pandera as pa
+import pandera.pandas as pa
 from pandera.api.pandas.model import DataFrameModel
 
 logger = logging.getLogger(__name__)

@@ -2,7 +2,7 @@
 
 from typing import ClassVar
 import pandas as pd
-import pandera as pa
+import pandera.pandas as pa
 from pandera.typing import Series
 
 COLUMN_ORDER: ClassVar[list[str]] = [

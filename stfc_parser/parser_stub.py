@@ -10,6 +10,7 @@ from stfc_parser.BattleSectionParser import BattleSectionParser
 from stfc_parser.FleetSectionParser import FleetSectionParser
 from stfc_parser.LootSectionParser import LootSectionParser
 from stfc_parser.PlayerSectionParser import PlayerSectionParser
+from stfc_parser.SessionInfo import SessionInfo
 
 logger = logging.getLogger(__name__)
 
@@ -36,3 +37,11 @@ def parse_battle_log(file_bytes: bytes, filename: str) -> pd.DataFrame:
         }
     )
     return df
+
+def parse_filename_to_session_info(filename:str) -> SessionInfo:
+    file_bytes = filename.read_bytes()
+    df = parse_battle_log(file_bytes, filename)
+    session_info = SessionInfo(df)
+    return session_info
+
+
