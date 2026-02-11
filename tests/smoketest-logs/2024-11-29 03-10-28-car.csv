@@ -1,0 +1,289 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Central Command Station	36	DEFEAT	Central Command Station	36	21607486	0	Cardassian Gul	--	--	18774534	0	7509814	0	Kora	11/29/2024 3:10:28 AM
+
+Reward Name	Count
+Uncommon Armada Credit	29344
+Cardassian Loot	7580
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1383805	1168095	5994586	Optimized Crew Interface	Safe Cracker	No Locked Doors	The Looking Glass	Persistence Is Key	3	1057983	11070	12651	202389	0.12	2.2	3	8032	218559	7028	3	5908160	6081011	133	75	26.92	226200	0	1	NO	NO
+Player Fleet 2	1743335	1215790	6796432	Optimized Crew Interface	On the Hunt	Strengthener	Weapon Contribution	Honor Among Thieves	3	1325465	17470	18778	262717	0.12	2.4	3	8492	227235	7431	3	6627440	6965424	104	99	38.64	238960	0	1	NO	NO
+Player Fleet 3	526516	492120	1289562	Protector	Captain's Prerogative	We Used to Be Explorers	Honor Guard	Critical Avoidance	3	473323	54317	5189	6053	0.12	1.64	3	1336	1589	95499	3	1087955	1491169	135	60	14.84	124000	0	1	NO	NO
+Player Fleet 4	279986	324155	657365	Phase Discriminating Amplifier	Resistance is Futile	Strengthen the Unimatrix	Adapt & Overcome	Cybernetic Enhancements	0	202605	3409	43056	3409	0.12	1.91	0	57883	3474	3474	0	294205	1020525	100	33	13.17	57350	0	1	NO	NO
+Player Fleet 5	502519	469760	1456291	Phase Discriminating Amplifier	Test That Assumption	Always a Light	The Riker Lean	Rerouting Power	0	284119	8400	132000	8400	0.12	2.2	0	83520	5216	5216	0	785275	2127306	114	60	21.34	135780	0	1	NO	NO
+Enemy Fleet 1	5315402	3149910	13142174	ship_ability_name_{0}	--	--	--	--	0	4165705	153293	153293	153293	0.2	3	0	209994	209994	209994	0	7509814	18774534	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	0.4	Critical Avoidance	Gaila	--	--	--
+1	4	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+1	5	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	6	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+1	7	Forbidden Tech Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.55	--	Transphasic Torpedoes	--	--	--
+1	8	Forbidden Tech Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Transphasic Torpedoes	--	--	--
+1	9	Forbidden Tech Ability	noBuenoman	Continuum	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	Transphasic Torpedoes	--	--	--
+1	10	Forbidden Tech Ability	noBuenoman	Continuum	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Transphasic Torpedoes	--	--	--
+1	11	Forbidden Tech Ability	noBuenoman	Continuum	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.08	--	Transphasic Torpedoes	--	--	--
+1	12	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	25906	103623	305744	0	0	435273	0	--	--	--	--	--	--	--
+1	13	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	38601	154402	220590	0	0	392031	21562	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	37588	150354	214806	0	0	381752	20996	--	--	--	--	--	--	--
+1	15	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	49812	199246	251377	0	0	450842	49593	--	--	--	--	--	--	--
+1	16	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	NO	81220	324882	606679	0	0	959982	52799	--	--	--	--	--	--	--
+1	17	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1870	7481	15195	0	0	23377	1169	--	--	--	--	--	--	--
+1	18	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1849	7397	15024	0	0	23114	1156	--	--	--	--	--	--	--
+1	19	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1765	7058	14338	0	0	22058	1103	--	--	--	--	--	--	--
+1	20	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2504	10017	15649	0	0	26701	1469	--	--	--	--	--	--	--
+1	21	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2351	9404	14692	0	0	25068	1379	--	--	--	--	--	--	--
+1	22	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2404	9618	15026	0	0	25638	1410	--	--	--	--	--	--	--
+1	23	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+1	24	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORG CUBE	YES	NO	62142	248568	85108	0	0	395818	0	--	--	--	--	--	--	--
+1	25	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	33555	134219	191755	0	0	340786	18743	--	--	--	--	--	--	--
+1	26	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	33450	133799	191155	0	0	339719	18685	--	--	--	--	--	--	--
+1	27	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	49144	196578	248009	0	0	444803	48928	--	--	--	--	--	--	--
+1	28	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	NO	24991	99965	186673	0	0	295383	16246	--	--	--	--	--	--	--
+1	29	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	3508	14033	28504	0	0	43852	2193	--	--	--	--	--	--	--
+1	30	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	3536	14145	28733	0	0	44204	2210	--	--	--	--	--	--	--
+1	31	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	3421	13684	27796	0	0	42763	2138	--	--	--	--	--	--	--
+1	32	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	5045	20179	31527	0	0	53792	2959	--	--	--	--	--	--	--
+1	33	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	4952	19808	30949	0	0	52805	2904	--	--	--	--	--	--	--
+1	34	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	5633	22532	35204	0	0	60065	3304	--	--	--	--	--	--	--
+1	35	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+1	36	Attack	Central Command Station	--	Central Command Station	NO	FalconCommand	Continuum	USS SALADIN	YES	YES	155572	622290	259142	0	0	1037004	0	--	--	--	--	--	--	--
+1	37	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	38	Charging Weapons	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	39	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	3559	14238	28921	0	0	44493	2225	--	--	--	--	--	--	--
+1	40	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1812	7250	14726	0	0	22655	1133	--	--	--	--	--	--	--
+1	41	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2051	8204	16665	0	0	25638	1282	--	--	--	--	--	--	--
+1	42	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2593	10372	16204	0	0	27648	1521	--	--	--	--	--	--	--
+1	43	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2360	9439	14747	0	0	25162	1384	--	--	--	--	--	--	--
+1	44	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2378	9510	14859	0	0	25353	1394	--	--	--	--	--	--	--
+1	45	Officer Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	0.07	Honor Guard	Decius	--	--	--
+1	46	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	208272	833089	2458062	0	0	3499423	0	--	--	--	--	--	--	--
+1	47	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	8176	32703	66431	0	0	102200	5110	--	--	--	--	--	--	--
+1	48	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	4086	16342	33196	0	0	51070	2554	--	--	--	--	--	--	--
+1	49	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	3400	13599	27624	0	0	42498	2125	--	--	--	--	--	--	--
+1	50	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	4834	19338	30214	0	0	51551	2835	--	--	--	--	--	--	--
+1	51	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	4867	19470	30419	0	0	51901	2855	--	--	--	--	--	--	--
+1	52	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	5069	20276	31679	0	0	54051	2973	--	--	--	--	--	--	--
+1	53	Attack	Central Command Station	--	Central Command Station	NO	endur2	Continuum	BORG CUBE	YES	NO	183293	733171	287820	0	0	1204284	0	--	--	--	--	--	--	--
+2	55	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+2	56	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	57	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+2	58	Attack	Central Command Station	--	Central Command Station	NO	endur2	Continuum	BORG CUBE	YES	NO	66561	266246	104519	0	0	437326	0	--	--	--	--	--	--	--
+2	59	Shield Depleted	endur2	Continuum	BORG CUBE	NO	Central Command Station	--	BORG CUBE	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	60	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	79582	318328	448860	0	0	802626	44144	--	--	--	--	--	--	--
+2	61	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	36819	147278	207669	0	0	371342	20424	--	--	--	--	--	--	--
+2	62	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	36348	145392	205011	0	0	366589	20162	--	--	--	--	--	--	--
+2	63	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	47386	189543	236737	0	0	426726	46940	--	--	--	--	--	--	--
+2	64	Charging Weapons	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	65	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1964	7857	15695	0	0	24301	1215	--	--	--	--	--	--	--
+2	66	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1904	7614	15210	0	0	23550	1178	--	--	--	--	--	--	--
+2	67	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1840	7361	14704	0	0	22767	1138	--	--	--	--	--	--	--
+2	68	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2540	10159	15487	0	0	26717	1469	--	--	--	--	--	--	--
+2	69	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2434	9734	14838	0	0	25598	1408	--	--	--	--	--	--	--
+2	70	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2817	11269	17177	0	0	29633	1630	--	--	--	--	--	--	--
+2	71	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+2	72	Attack	Central Command Station	--	Central Command Station	NO	endur2	Continuum	BORG CUBE	YES	NO	325808	0	102321	0	0	428129	0	--	--	--	--	--	--	--
+2	73	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	34747	138988	195980	0	0	350441	19274	--	--	--	--	--	--	--
+2	74	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	34067	136267	192144	0	0	343581	18897	--	--	--	--	--	--	--
+2	75	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	33281	133123	187710	0	0	335653	18461	--	--	--	--	--	--	--
+2	76	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	123931	495724	619131	0	0	1116023	122763	--	--	--	--	--	--	--
+2	77	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	YES	39051	156204	282768	0	0	453102	24921	--	--	--	--	--	--	--
+2	78	Charging Weapons	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	79	Charging Weapons	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	80	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+2	81	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORG CUBE	YES	NO	61519	246074	84255	0	0	391848	0	--	--	--	--	--	--	--
+2	82	Shield Depleted	noBuenoman	Continuum	BORG CUBE	NO	Central Command Station	--	BORG CUBE	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	83	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	46356	185422	261393	0	0	467461	25710	--	--	--	--	--	--	--
+2	84	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	45187	180749	254805	0	0	455679	25062	--	--	--	--	--	--	--
+2	85	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	50441	201765	284432	0	0	508662	27976	--	--	--	--	--	--	--
+2	86	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	47954	191817	270407	0	0	483581	26597	--	--	--	--	--	--	--
+2	87	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	49444	197774	278806	0	0	498601	27423	--	--	--	--	--	--	--
+2	88	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	45327	181309	255594	0	0	457090	25140	--	--	--	--	--	--	--
+2	89	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	158657	634630	790222	0	0	1426585	156924	--	--	--	--	--	--	--
+2	90	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	64056	256224	319042	0	0	575966	63356	--	--	--	--	--	--	--
+2	91	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	4297	17190	34340	0	0	53169	2658	--	--	--	--	--	--	--
+2	92	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1795	7179	14342	0	0	22206	1110	--	--	--	--	--	--	--
+2	93	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1774	7094	14172	0	0	21943	1097	--	--	--	--	--	--	--
+2	94	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	5541	22163	33784	0	0	58282	3206	--	--	--	--	--	--	--
+2	95	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2555	10219	15577	0	0	26873	1478	--	--	--	--	--	--	--
+2	96	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2671	10682	16284	0	0	28092	1545	--	--	--	--	--	--	--
+2	97	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+2	98	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	99	Charging Weapons	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	100	Charging Weapons	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	101	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	103	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	104	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+3	105	Attack	Central Command Station	--	Central Command Station	NO	FalconCommand	Continuum	USS SALADIN	YES	YES	180676	722704	300958	0	0	1204338	0	--	--	--	--	--	--	--
+3	106	Shield Depleted	FalconCommand	Continuum	USS SALADIN	NO	Central Command Station	--	USS SALADIN	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	107	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	89746	358983	499793	0	0	899073	49449	--	--	--	--	--	--	--
+3	108	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	36347	145386	202413	0	0	364119	20027	--	--	--	--	--	--	--
+3	109	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	128384	513535	634632	0	0	1150046	126505	--	--	--	--	--	--	--
+3	110	Charging Weapons	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	111	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	3689	14755	28739	0	0	44936	2247	--	--	--	--	--	--	--
+3	112	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2001	8006	15592	0	0	24380	1219	--	--	--	--	--	--	--
+3	113	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	1758	7031	13694	0	0	21412	1071	--	--	--	--	--	--	--
+3	114	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2790	11162	16604	0	0	28963	1593	--	--	--	--	--	--	--
+3	115	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2706	10824	16102	0	0	28087	1545	--	--	--	--	--	--	--
+3	116	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	2422	9689	14413	0	0	25141	1383	--	--	--	--	--	--	--
+3	117	Officer Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	0.07	Honor Guard	Decius	--	--	--
+3	118	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+3	119	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	NO	45857	183426	162726	0	0	392009	0	--	--	--	--	--	--	--
+3	120	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	82500	329999	459440	0	0	826482	45457	--	--	--	--	--	--	--
+3	121	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	38175	152699	212595	0	0	382435	21034	--	--	--	--	--	--	--
+3	122	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	45198	180793	223385	0	0	404843	44533	--	--	--	--	--	--	--
+3	123	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	NO	25900	103600	180689	0	0	294018	16171	--	--	--	--	--	--	--
+3	124	Shield Depleted	Central Command Station	--	Central Command Station	YES	FalconCommand	Continuum	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	125	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	18890	0	29434	0	0	46023	2301	--	--	--	--	--	--	--
+3	126	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	39320	0	61267	0	0	95797	4790	--	--	--	--	--	--	--
+3	127	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	19897	0	31002	0	0	48475	2424	--	--	--	--	--	--	--
+3	128	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	28345	0	33735	0	0	58844	3236	--	--	--	--	--	--	--
+3	129	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	25883	0	30804	0	0	53732	2955	--	--	--	--	--	--	--
+3	130	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	67232	0	80015	0	0	139571	7676	--	--	--	--	--	--	--
+3	131	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+3	132	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	NO	46447	185788	164821	0	0	397056	0	--	--	--	--	--	--	--
+3	133	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	134	Charging Weapons	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	135	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	20877	0	32530	0	0	50864	2543	--	--	--	--	--	--	--
+3	136	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	9836	0	15326	0	0	23964	1198	--	--	--	--	--	--	--
+3	137	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	10359	0	16141	0	0	25238	1262	--	--	--	--	--	--	--
+3	138	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	12182	0	14497	0	0	25288	1391	--	--	--	--	--	--	--
+3	139	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14011	0	16674	0	0	29085	1600	--	--	--	--	--	--	--
+3	140	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13250	0	15768	0	0	27505	1513	--	--	--	--	--	--	--
+3	141	Attack	Central Command Station	--	Central Command Station	NO	endur2	Continuum	BORG CUBE	YES	NO	909930	0	285768	0	0	1195698	0	--	--	--	--	--	--	--
+3	142	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	19981	0	31134	0	0	48681	2434	--	--	--	--	--	--	--
+3	143	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	18771	0	29248	0	0	45732	2287	--	--	--	--	--	--	--
+3	144	Attack	noBuenoman	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	17459	0	27204	0	0	42536	2127	--	--	--	--	--	--	--
+3	145	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	27099	0	32251	0	0	56256	3094	--	--	--	--	--	--	--
+3	146	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	26798	0	31892	0	0	55630	3060	--	--	--	--	--	--	--
+3	147	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	25599	0	30466	0	0	53142	2923	--	--	--	--	--	--	--
+3	148	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORG CUBE	YES	YES	2884817	0	790202	0	0	3675019	0	--	--	--	--	--	--	--
+3	149	Combatant Destroyed	noBuenoman	Continuum	BORG CUBE	NO	Central Command Station	--	BORG CUBE	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	151	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	152	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+4	153	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	144784	579134	513778	0	0	1237696	0	--	--	--	--	--	--	--
+4	154	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	176347	0	193990	0	0	351030	19307	--	--	--	--	--	--	--
+4	155	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	234784	0	229052	0	0	417870	45966	--	--	--	--	--	--	--
+4	156	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	NO	395097	0	528246	0	0	875207	48136	--	--	--	--	--	--	--
+4	157	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	32857	0	38186	0	0	67339	3704	--	--	--	--	--	--	--
+4	158	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13083	0	15205	0	0	26813	1475	--	--	--	--	--	--	--
+4	159	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14593	0	16960	0	0	29908	1645	--	--	--	--	--	--	--
+4	160	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+4	161	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	65114	260456	768486	0	0	1094056	0	--	--	--	--	--	--	--
+4	162	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	176982	0	194689	0	0	352295	19376	--	--	--	--	--	--	--
+4	163	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	232146	0	226338	0	0	413049	45435	--	--	--	--	--	--	--
+4	164	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	NO	127072	0	169895	0	0	281485	15482	--	--	--	--	--	--	--
+4	165	Charging Weapons	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	166	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+4	167	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	NO	49588	198351	175967	0	0	423906	0	--	--	--	--	--	--	--
+4	168	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	236764	0	259751	0	0	470630	25885	--	--	--	--	--	--	--
+4	169	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	230416	0	252786	0	0	458011	25191	--	--	--	--	--	--	--
+4	170	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	319553	0	303714	0	0	561502	61765	--	--	--	--	--	--	--
+4	171	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	781021	0	742309	0	0	1372369	150961	--	--	--	--	--	--	--
+4	172	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14267	0	16581	0	0	29240	1608	--	--	--	--	--	--	--
+4	173	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13096	0	15220	0	0	26840	1476	--	--	--	--	--	--	--
+4	174	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14174	0	16472	0	0	29048	1598	--	--	--	--	--	--	--
+4	175	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+4	176	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	177	Charging Weapons	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	178	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	180	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	181	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+5	182	Officer Ability	FalconCommand	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	0.1	Knock it Down	B'Elanna Torres	--	--	--
+5	183	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	23367	93468	275780	0	0	392615	0	--	--	--	--	--	--	--
+5	184	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	192178	0	208695	0	0	379974	20899	--	--	--	--	--	--	--
+5	185	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	222246	0	211362	0	0	390638	42970	--	--	--	--	--	--	--
+5	186	Charging Weapons	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+5	187	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	12420	0	14109	0	0	25146	1383	--	--	--	--	--	--	--
+5	188	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14788	0	16799	0	0	29940	1647	--	--	--	--	--	--	--
+5	189	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13600	0	15450	0	0	27536	1514	--	--	--	--	--	--	--
+5	190	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+5	191	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	128800	515199	457059	0	0	1101058	0	--	--	--	--	--	--	--
+5	192	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	182450	0	198131	0	0	360740	19841	--	--	--	--	--	--	--
+5	193	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	1050076	0	996729	0	0	1843968	202837	--	--	--	--	--	--	--
+5	194	Attack	FalconCommand	Continuum	USS SALADIN	YES	Central Command Station	--	Central Command Station	NO	YES	315242	0	402330	0	0	680163	37409	--	--	--	--	--	--	--
+5	195	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	28835	0	32756	0	0	58380	3211	--	--	--	--	--	--	--
+5	196	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	29264	0	33243	0	0	59248	3259	--	--	--	--	--	--	--
+5	197	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	24952	0	28345	0	0	50518	2779	--	--	--	--	--	--	--
+5	198	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+5	199	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	134949	539796	478880	0	0	1153625	0	--	--	--	--	--	--	--
+5	200	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	201	Charging Weapons	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	202	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14119	0	16039	0	0	28586	1572	--	--	--	--	--	--	--
+5	203	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	14916	0	16944	0	0	30199	1661	--	--	--	--	--	--	--
+5	204	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	12644	0	14363	0	0	25599	1408	--	--	--	--	--	--	--
+5	205	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	195004	780018	2301472	0	0	3276494	0	--	--	--	--	--	--	--
+5	206	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	27992	0	31799	0	0	56674	3117	--	--	--	--	--	--	--
+5	207	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	28589	0	32476	0	0	57881	3184	--	--	--	--	--	--	--
+5	208	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	25970	0	29502	0	0	52580	2892	--	--	--	--	--	--	--
+5	209	Attack	Central Command Station	--	Central Command Station	NO	FalconCommand	Continuum	USS SALADIN	YES	YES	2395727	0	798128	0	0	3193855	0	--	--	--	--	--	--	--
+5	210	Combatant Destroyed	FalconCommand	Continuum	USS SALADIN	NO	Central Command Station	--	USS SALADIN	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	212	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	213	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+6	214	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	NO	53476	213906	189766	0	0	457148	0	--	--	--	--	--	--	--
+6	215	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	170504	0	181963	0	0	334092	18375	--	--	--	--	--	--	--
+6	216	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	241369	0	216432	0	0	412433	45368	--	--	--	--	--	--	--
+6	217	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	YES	33749	0	37512	0	0	67546	3715	--	--	--	--	--	--	--
+6	218	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13914	0	15464	0	0	27846	1532	--	--	--	--	--	--	--
+6	219	Attack	endur2	Continuum	BORG CUBE	YES	Central Command Station	--	Central Command Station	NO	NO	13553	0	15064	0	0	27125	1492	--	--	--	--	--	--	--
+6	220	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+6	221	Attack	Central Command Station	--	Central Command Station	NO	endur2	Continuum	BORG CUBE	YES	YES	939838	0	295161	0	0	1234999	0	--	--	--	--	--	--	--
+6	222	Combatant Destroyed	endur2	Continuum	BORG CUBE	NO	Central Command Station	--	BORG CUBE	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	223	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	450497	0	480775	0	0	882722	48550	--	--	--	--	--	--	--
+6	224	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	258880	0	231137	0	0	441457	48560	--	--	--	--	--	--	--
+6	225	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+6	226	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	62861	251442	741890	0	0	1056193	0	--	--	--	--	--	--	--
+6	227	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	548476	0	569044	0	0	1059261	58259	--	--	--	--	--	--	--
+6	228	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	625878	0	649348	0	0	1208745	66481	--	--	--	--	--	--	--
+6	229	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	897228	0	709388	0	0	1447402	159214	--	--	--	--	--	--	--
+6	230	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	340386	0	269124	0	0	549108	60402	--	--	--	--	--	--	--
+6	231	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+6	232	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	233	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	235	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+7	236	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	237	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+7	238	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	64397	257587	760021	0	0	1082005	0	--	--	--	--	--	--	--
+7	239	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	193207	0	197697	0	0	370525	20379	--	--	--	--	--	--	--
+7	240	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	448546	0	458972	0	0	860207	47311	--	--	--	--	--	--	--
+7	241	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	280355	0	216000	0	0	447167	49188	--	--	--	--	--	--	--
+7	242	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+7	243	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	140113	560454	497206	0	0	1197773	0	--	--	--	--	--	--	--
+7	244	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	179419	0	183589	0	0	344083	18925	--	--	--	--	--	--	--
+7	245	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	198984	0	203609	0	0	381605	20988	--	--	--	--	--	--	--
+7	246	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	270973	0	207299	0	0	430876	47396	--	--	--	--	--	--	--
+7	247	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+7	248	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	69811	279243	823917	0	0	1172971	0	--	--	--	--	--	--	--
+7	249	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	250	Charging Weapons	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	251	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	72051	288202	850351	0	0	1210604	0	--	--	--	--	--	--	--
+7	252	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	434375	1737498	1541421	0	0	3713294	0	--	--	--	--	--	--	--
+8	254	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+8	255	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+8	256	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+8	257	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	137454	549814	487767	0	0	1175035	0	--	--	--	--	--	--	--
+8	258	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	188355	0	164722	0	0	334670	18407	--	--	--	--	--	--	--
+8	259	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	478400	0	418377	0	0	850026	46751	--	--	--	--	--	--	--
+8	260	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	219968	0	192369	0	0	390841	21496	--	--	--	--	--	--	--
+8	261	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	286480	0	161346	0	0	403447	44379	--	--	--	--	--	--	--
+8	262	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+8	263	Attack	Central Command Station	--	Central Command Station	NO	Dustan27	Continuum	USS ENTERPRISE	YES	YES	120437	481750	427384	0	0	1029571	0	--	--	--	--	--	--	--
+8	264	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	222388	0	194485	0	0	395140	21733	--	--	--	--	--	--	--
+8	265	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	200568	0	175403	0	0	356371	19600	--	--	--	--	--	--	--
+8	266	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	517878	0	452902	0	0	920171	50609	--	--	--	--	--	--	--
+8	267	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	281719	0	157479	0	0	395674	43524	--	--	--	--	--	--	--
+8	268	Officer Ability	Dustan27	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Weapon Contribution	Azetbur	--	--	--
+8	269	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	70861	283446	836316	0	0	1190623	0	--	--	--	--	--	--	--
+8	270	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	311399	0	226211	0	0	509583	28027	--	--	--	--	--	--	--
+8	271	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	303938	0	220791	0	0	497373	27356	--	--	--	--	--	--	--
+8	272	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	689022	0	500530	0	0	1127537	62015	--	--	--	--	--	--	--
+8	273	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	681445	0	495026	0	0	1115138	61333	--	--	--	--	--	--	--
+8	274	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	743198	0	539885	0	0	1216192	66891	--	--	--	--	--	--	--
+8	275	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	306701	0	222799	0	0	501896	27604	--	--	--	--	--	--	--
+8	276	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	1170912	0	521892	0	0	1525049	167755	--	--	--	--	--	--	--
+8	277	Attack	Dustan27	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	413133	0	184139	0	0	538083	59189	--	--	--	--	--	--	--
+8	278	Combatant Destroyed	Central Command Station	--	Central Command Station	YES	Dustan27	Continuum	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

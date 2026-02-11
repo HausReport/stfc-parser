@@ -1,0 +1,627 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	U.S.S. RELATIVITY	70	18171875328	0	Kathryn Janeway	Trip Tucker	Enterprise-E Data	16088412436	15263042720	49677009372	32063348006	Fiavoli	1/12/2026 6:53:05 PM
+V'ger Hurak Honorguard ▶	67	DEFEAT	V'ger Hurak Honorguard	67	173570162688	0	Replicated Hurak Commander	--	--	178362164781	0	166061325830	0	Fiavoli	1/12/2026 6:53:05 PM
+
+Reward Name	Count
+6★ Broken Interceptor Parts	45787
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	867099136	695567424	16609208320	Anti-Tachyon Weaponry---Relative Growth	Red Alert! Raise Shields!	Bend the Rules	Things Blow Up	Saddle up. Lock and Load!	5	669775360	15756681	15990547	92230588	0.22	3.45	5	18476998	111265590	9370892	5	17130003465	16088412186	222	1889	561	56516070	0	1	NO	NO
+Enemy Fleet 1	810102528	548309888	172211748864	Replicated Honorguard Apex---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	757946944	16606133	4735823	4735823	0.15	1.5	0	18451258	8180058	83030664	0	166061326336	178362171392	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Saddle up. Lock and Load!	Enterprise-E Data	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	6	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	7	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20281976	95615024	28471980	1309904000	16309828	40556616	1430026192	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	891944960	3072254720	459947456	13327333376	698889920	1874085248	16576285184	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	787625024	2712930560	406152992	11768597504	617149248	1654896288	14637559040	--	--	--	--	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+1	11	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	14	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+1	15	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13539360	104194200	29893188	1379793280	16568281	42581037	1501407272	--	--	--	--	--	--	--
+1	16	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13666477	105172456	30173846	1392747904	16723836	42980823	1515503696	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	623587904	2147913728	476834176	9721501696	488616768	1367034368	12091419904	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	614271872	2115825280	469710592	9576267776	481317152	1346611744	11910780928	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	608180928	2094845440	465053088	9481313280	476544576	1333259168	11792678144	--	--	--	--	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	24	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20298648	348767648	94412744	4331241984	51937564	133664060	4712994528	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	37013060	127489432	28302494	577019776	29001850	81140324	717686288	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	628758080	2165722112	480787616	9802102784	492667904	1378368480	12191670016	--	--	--	--	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	30	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	31	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	384257984	98299000	4509526528	54075440	139165992	4906992960	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	990047552	3410163968	510535840	14793170944	775758912	2080210976	18399466240	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	51935068	178887456	26781252	776007488	40694096	109121920	965183440	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	928366208	3197705984	478728736	13871535104	727428032	1950611040	17253153024	--	--	--	--	--	--	--
+2	36	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	33893230	--	--	--	--
+2	37	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	38	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	39	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+2	40	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	43	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	19821130	93442472	28758240	1327407104	15939237	40964375	1444403808	--	--	--	--	--	--	--
+2	44	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20244912	95440304	29373102	1355787520	16280024	41840206	1475285656	--	--	--	--	--	--	--
+2	45	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1004690304	3460599808	518086624	15011959808	787232320	2110976928	18671591936	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	896180928	3086845440	462131808	13390625792	702209024	1882985760	16655007232	--	--	--	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	51	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13461533	103595272	29721356	1371862016	16473043	42336268	1492776952	--	--	--	--	--	--	--
+2	52	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13084722	100695472	28889406	1333461248	16011935	41151215	1450991568	--	--	--	--	--	--	--
+2	53	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	54	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	57	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	21500896	369424480	100004624	4587772928	55013720	141580712	4992135936	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	669128384	2304775680	511657312	10431460352	524300384	1466868864	12974453248	--	--	--	--	--	--	--
+2	59	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	676650752	2330685952	517409344	10548730880	530194560	1483359424	13120312064	--	--	--	--	--	--	--
+2	60	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	61	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	64	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	382831616	97934112	4492787200	53874712	138649400	4888778240	--	--	--	--	--	--	--
+2	65	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	67	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	44056600	--	--	--	--
+3	68	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	69	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	70	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+3	71	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	73	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22860946	91443784	28080814	1291907584	16085752	39999416	1410379464	--	--	--	--	--	--	--
+3	74	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	940318912	3761275648	545503872	15806397440	828892864	2222690560	19659698176	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	909955648	3639822592	527889344	15296002048	802127552	2150919104	19024878080	--	--	--	--	--	--	--
+3	77	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	78	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+3	79	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	80	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	81	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+3	82	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16479874	101233512	29888066	1379556864	16565442	42573742	1501150016	--	--	--	--	--	--	--
+3	83	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16499292	101352792	29923280	1381182336	16584960	42623900	1502918760	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	649280640	2597122560	558540544	11387297792	572342144	1601277952	14163305728	--	--	--	--	--	--	--
+3	85	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	634910272	2539641088	546178496	11135264768	559674560	1565837504	13849831680	--	--	--	--	--	--	--
+3	86	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	625084544	2500338176	537725952	10962937856	551013184	1541604800	13635494912	--	--	--	--	--	--	--
+3	87	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+3	89	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	90	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	91	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31518924	362467648	100787720	4623697920	55444512	142689396	5031227328	--	--	--	--	--	--	--
+3	92	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	688845120	2755380480	592575680	12081191936	607218240	1698853440	15026358016	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	698457024	2793828096	600844288	12249768960	615691200	1722558592	15236030976	--	--	--	--	--	--	--
+3	94	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	95	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+3	96	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	97	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	98	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7645078	374608832	97786336	4486007296	53793416	138440190	4881400768	--	--	--	--	--	--	--
+3	99	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1008102848	4032411392	584827136	16945819648	888644544	2382915456	21076890112	--	--	--	--	--	--	--
+3	100	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	942178816	3768715264	546582848	15837661184	830532352	2227086912	19698583552	--	--	--	--	--	--	--
+3	101	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1021706944	4086827776	592719232	17174498304	900636544	2415072448	21361316352	--	--	--	--	--	--	--
+4	103	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	47502060	--	--	--	--
+4	104	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	105	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	106	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	107	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+4	108	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	109	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	110	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	111	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15920131	97795088	28872910	1332699904	16002793	41127706	1450163120	--	--	--	--	--	--	--
+4	112	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+4	113	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	892764800	3571059200	553380800	15635810304	1049295488	2254785472	19447525120	--	--	--	--	--	--	--
+4	114	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	882169728	3528678912	546813440	15450249216	1036842816	2228026304	19216727808	--	--	--	--	--	--	--
+4	115	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	116	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+4	117	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	118	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	119	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+4	120	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8971244	103169312	29461164	1364291328	15781195	41965643	1479708600	--	--	--	--	--	--	--
+4	121	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9131024	105006784	29985874	1388589696	16062262	42713064	1506062576	--	--	--	--	--	--	--
+4	122	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	123	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	124	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+4	125	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	126	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7264617	355966240	96149016	4425293312	51116360	136122153	4799667392	--	--	--	--	--	--	--
+4	127	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	685251136	2741004544	630330752	12531288064	805397952	1807093120	15586179328	--	--	--	--	--	--	--
+4	128	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	682927936	2731711744	628193728	12488803328	802667392	1800966528	15533337600	--	--	--	--	--	--	--
+4	129	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	130	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+4	131	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	132	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	133	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	387116064	102471544	4716290048	54477648	145073224	5115282080	--	--	--	--	--	--	--
+4	134	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	136	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	20643510	--	--	--	--
+5	137	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	138	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	139	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+5	140	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	141	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	142	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22242396	88969592	28237324	1303362944	15650520	40222360	1418240416	--	--	--	--	--	--	--
+5	143	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23818284	95273136	30237956	1395706880	16759368	43072136	1518723488	--	--	--	--	--	--	--
+5	144	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	931085312	3724341248	577133760	16306952192	1094334848	2351568448	20282278912	--	--	--	--	--	--	--
+5	145	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	821272960	3285091840	509066528	14383707136	965268800	2074224096	17890183168	--	--	--	--	--	--	--
+5	146	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	147	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+5	148	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	149	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	150	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15916645	97773680	28866588	1332408064	15999288	41118713	1449845552	--	--	--	--	--	--	--
+5	151	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16402202	100756384	29747200	1373054848	16487367	42373081	1494074920	--	--	--	--	--	--	--
+5	152	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	640530240	2562120960	589194112	11713470464	752836032	1689158528	14568993280	--	--	--	--	--	--	--
+5	153	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	668612032	2674448128	615025152	12227005440	785841408	1763213760	15207718400	--	--	--	--	--	--	--
+5	154	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	671470784	2685883136	617654848	12279284736	789201408	1770752768	15272742144	--	--	--	--	--	--	--
+5	155	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	156	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+5	157	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	158	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	159	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31893488	366775136	101985464	4678645248	56103404	144385076	5091017664	--	--	--	--	--	--	--
+5	160	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	696905536	2787622144	641051072	12744414208	819095744	1837827264	15851261440	--	--	--	--	--	--	--
+5	161	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	687337280	2749349120	632249728	12569438208	807849856	1812594496	15633629696	--	--	--	--	--	--	--
+5	162	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	163	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+5	164	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	165	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	166	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+5	167	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	974384320	3897537280	603972736	17065287680	1145225600	2460925376	21225482240	--	--	--	--	--	--	--
+5	168	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	963633536	3854534144	597308800	16876998656	1132589824	2433773056	20991291904	--	--	--	--	--	--	--
+5	169	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	960011264	3840045056	595063552	16813558784	1128332416	2424624512	20912386560	--	--	--	--	--	--	--
+6	171	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	55136510	--	--	--	--
+6	172	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+6	173	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	174	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+6	175	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	176	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	177	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	178	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+6	179	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22617470	90469880	28713490	1325341440	15914434	40900626	1442156088	--	--	--	--	--	--	--
+6	180	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22678462	90713848	28790922	1328915584	15957350	41010918	1446045248	--	--	--	--	--	--	--
+6	181	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	865258944	3461035776	536331232	15154073600	1016966912	2185316256	18848350208	--	--	--	--	--	--	--
+6	182	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	871862784	3487451136	540424704	15269734400	1024728704	2201994880	18992206848	--	--	--	--	--	--	--
+6	183	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	184	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+6	185	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	186	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	187	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16716167	102685024	30316610	1399337344	16802962	43184171	1522673936	--	--	--	--	--	--	--
+6	188	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16423660	100888192	29786114	1374851072	16508936	42428510	1496029464	--	--	--	--	--	--	--
+6	189	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	190	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	191	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+6	192	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	193	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+6	194	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	658161216	2632644864	605412032	12035891200	773558272	1735653632	14970013952	--	--	--	--	--	--	--
+6	195	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	669086528	2676346112	615461632	12235682816	786399104	1764465088	15218511104	--	--	--	--	--	--	--
+6	196	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+6	197	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	198	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	199	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+6	200	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	29678264	341300032	98199800	4519681536	52206632	139025560	4902040704	--	--	--	--	--	--	--
+6	201	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	203	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	54057010	--	--	--	--
+7	204	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+7	205	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+7	206	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	207	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+7	208	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	209	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	210	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16184659	99420048	30371254	1406435840	16268694	43262007	1525418488	--	--	--	--	--	--	--
+7	211	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	14969093	91953000	28090188	1300803968	15046817	40012770	1410850296	--	--	--	--	--	--	--
+7	212	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	980789120	3923156480	607942720	17177460736	1152753408	2477101504	21365000960	--	--	--	--	--	--	--
+7	213	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	981106560	3924426240	608139456	17183019008	1153126400	2477903168	21371914496	--	--	--	--	--	--	--
+7	214	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	215	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+7	216	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	217	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	218	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8561831	98461064	28116670	1302030336	15061002	40050495	1412180408	--	--	--	--	--	--	--
+7	219	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8764884	100796160	28783484	1332909312	15418188	41000324	1445671704	--	--	--	--	--	--	--
+7	220	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	640020352	2560081408	588725056	11704146944	752236736	1687813760	14557396736	--	--	--	--	--	--	--
+7	221	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	678109568	2712438272	623761536	12400689152	797004224	1788260032	15423742720	--	--	--	--	--	--	--
+7	222	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	628789248	2515156992	578394112	11498761216	739036480	1658196032	14301942016	--	--	--	--	--	--	--
+7	223	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	224	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+7	225	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	226	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	227	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7391143	362165984	97823608	4502367232	52006636	138492939	4883261664	--	--	--	--	--	--	--
+7	228	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	664797760	2659191040	611516608	12157253632	781358400	1753155136	15120962304	--	--	--	--	--	--	--
+7	229	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	646665280	2586661120	594837376	11825662976	760046720	1705337408	14708536064	--	--	--	--	--	--	--
+7	230	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	231	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+7	232	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	233	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	234	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	380972352	100845272	4641440768	53613064	142770848	5034100608	--	--	--	--	--	--	--
+7	235	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	960512000	3842048000	595373952	16822329344	1128920960	2425889024	20923295232	--	--	--	--	--	--	--
+7	236	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	931809792	3727239168	577582848	16319640576	1095186304	2353398400	20298060288	--	--	--	--	--	--	--
+7	237	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1012452736	4049810944	627569408	17732014080	1189968640	2557071744	22054744064	--	--	--	--	--	--	--
+8	239	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	27935800	--	--	--	--
+8	240	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+8	241	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+8	242	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+8	243	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	244	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	245	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	246	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24492814	97971256	30085288	1384126976	17233990	42854676	1511055648	--	--	--	--	--	--	--
+8	247	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22967692	91870768	28211934	1297939968	16160863	40186185	1416965040	--	--	--	--	--	--	--
+8	248	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	914053440	3656213760	566576576	16008656896	1074316672	2308552576	19911264768	--	--	--	--	--	--	--
+8	249	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	989534464	3958137856	613363520	17330624512	1163032064	2499189056	21555503360	--	--	--	--	--	--	--
+8	250	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	251	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+8	252	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	253	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	254	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16417816	100852296	28809308	1325423360	16503062	41037114	1446968728	--	--	--	--	--	--	--
+8	255	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16518347	101469840	28985714	1333539200	16604114	41288391	1455828824	--	--	--	--	--	--	--
+8	256	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	257	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	258	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+8	259	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	260	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	30934314	355744608	95704192	4376155648	54416132	135492398	4777462496	--	--	--	--	--	--	--
+8	261	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	671192000	2684768000	617398400	12274186240	788873792	1770017664	15266400768	--	--	--	--	--	--	--
+8	262	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	696595584	2786382336	640765952	12738745344	818731456	1837009984	15844210688	--	--	--	--	--	--	--
+8	263	Shield Depleted	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+8	264	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	265	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+8	266	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	267	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	268	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7968805	390471456	98615152	4509261824	56071268	139613593	4922774912	--	--	--	--	--	--	--
+8	269	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	271	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	59649900	--	--	--	--
+9	272	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+9	273	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+9	274	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	275	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+9	276	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	277	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	278	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17111568	105113928	30026678	1381430528	17200416	42771182	1508111936	--	--	--	--	--	--	--
+9	279	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15998247	98274944	28073066	1291551232	16081314	39988379	1409990424	--	--	--	--	--	--	--
+9	280	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4729026560	0	586257984	16564756480	1111635712	2388745792	20602930944	--	--	--	--	--	--	--
+9	281	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4439614464	0	550379520	15551009792	1043604672	2242556608	19342051840	--	--	--	--	--	--	--
+9	282	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	283	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+9	284	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	285	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	286	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9458580	108773672	29045672	1336297728	16638460	41373800	1458840312	--	--	--	--	--	--	--
+9	287	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9353513	107565400	28723030	1321453952	16453638	40914221	1442635312	--	--	--	--	--	--	--
+9	288	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3155656704	0	580548416	11541591040	741789184	1664372544	14355212800	--	--	--	--	--	--	--
+9	289	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3357788416	0	617734784	12280873984	789303552	1770981760	15274718976	--	--	--	--	--	--	--
+9	290	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3295225600	0	606225024	12052055040	774597184	1737984704	14990118144	--	--	--	--	--	--	--
+9	291	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	292	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+9	293	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	294	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	295	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7728765	378709504	95644624	4373431808	54382264	135408069	4774488896	--	--	--	--	--	--	--
+9	296	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3170394112	0	583259712	11595492352	745253440	1672145536	14422254080	--	--	--	--	--	--	--
+9	297	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3220825856	0	592537664	11779943424	757108288	1698744448	14651670784	--	--	--	--	--	--	--
+9	298	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	299	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+9	300	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	301	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	302	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	383119008	94823096	4335866880	53915156	134245004	4733479136	--	--	--	--	--	--	--
+9	303	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4593125376	0	569410304	16088725504	1079689984	2320098560	20010852608	--	--	--	--	--	--	--
+9	304	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	5105746944	0	632960064	17884327936	1200190080	2579036352	22244188672	--	--	--	--	--	--	--
+9	305	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4733433344	0	586804288	16580193280	1112671616	2390971584	20622130944	--	--	--	--	--	--	--
+10	307	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	29825340	--	--	--	--
+10	308	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+10	309	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+10	310	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+10	311	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	312	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	313	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	314	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24415888	97663560	29990798	1379779840	17179864	42720078	1506309872	--	--	--	--	--	--	--
+10	315	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22960276	91841104	28202824	1297520896	16155645	40173209	1416507536	--	--	--	--	--	--	--
+10	316	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4376322560	0	542533248	15329311744	1028726912	2210586368	19066308096	--	--	--	--	--	--	--
+10	317	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4257964544	0	527860352	14914728960	1000904832	2150800896	18550657792	--	--	--	--	--	--	--
+10	318	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	319	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+10	320	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	321	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	322	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16498148	101345760	28950270	1331908608	16583810	41237900	1454048696	--	--	--	--	--	--	--
+10	323	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+10	324	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	325	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	326	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+10	327	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	328	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+10	329	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+10	330	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3273846784	0	602291968	11973863424	769571712	1726708864	14892865024	--	--	--	--	--	--	--
+10	331	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3370760448	0	620121280	12328317952	792352896	1777823808	15333728768	--	--	--	--	--	--	--
+10	332	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+10	333	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	334	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	335	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+10	336	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	29414492	338266656	97327024	4479512064	51742632	137789940	4858472928	--	--	--	--	--	--	--
+10	337	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	339	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	46644400	--	--	--	--
+11	340	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+11	341	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+11	342	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	343	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+11	344	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	345	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	346	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15868730	97479344	29778398	1378981888	15951125	42417525	1495641960	--	--	--	--	--	--	--
+11	347	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15525198	95369072	29133744	1349129088	15605809	41499255	1463263656	--	--	--	--	--	--	--
+11	348	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2924588544	0	569597568	16094015488	2750092032	2320861568	20017432064	--	--	--	--	--	--	--
+11	349	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2959818496	0	576458944	16287885312	2783219968	2348818880	20258563840	--	--	--	--	--	--	--
+11	350	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	351	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+11	352	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	353	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	354	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9073833	104349088	29798062	1379892480	15961658	42445537	1496629584	--	--	--	--	--	--	--
+11	355	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8608197	98994264	28268932	1309081344	15142562	40267379	1419827920	--	--	--	--	--	--	--
+11	356	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2052410624	0	593197504	11793060864	1929953024	1700636096	14667985920	--	--	--	--	--	--	--
+11	357	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2131058432	0	615928640	12244966400	2003908224	1765803968	15230057728	--	--	--	--	--	--	--
+11	358	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2128498944	0	615188864	12230259712	2001501440	1763682944	15211766016	--	--	--	--	--	--	--
+11	359	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	360	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+11	361	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	362	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	363	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7381730	361704800	97699032	4496633856	51940408	138316594	4877043232	--	--	--	--	--	--	--
+11	364	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2195575808	0	634575744	12615680000	2064576000	1819263360	15691144192	--	--	--	--	--	--	--
+11	365	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2143238656	0	619449024	12314953728	2015361664	1775896384	15317106688	--	--	--	--	--	--	--
+11	366	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	367	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+11	368	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	369	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	370	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	382837216	101338912	4664160256	53875500	143469740	5058742144	--	--	--	--	--	--	--
+11	371	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3191669504	0	621614656	17563762688	3001237504	2532808512	21845475840	--	--	--	--	--	--	--
+11	372	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	3398133248	0	661825856	18699931648	3195382528	2696651840	23258621440	--	--	--	--	--	--	--
+11	373	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2825348864	0	550269440	15547898880	2656773632	2242108160	19338182656	--	--	--	--	--	--	--
+12	375	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	28228840	--	--	--	--
+12	376	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+12	377	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+12	378	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+12	379	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	380	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	381	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	382	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24515358	98061432	30112980	1385400960	17249854	42894112	1512446472	--	--	--	--	--	--	--
+12	383	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23316984	93267928	28640978	1317678976	16406635	40797341	1438514160	--	--	--	--	--	--	--
+12	384	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2267355136	0	602102592	17012447232	3731160832	2453305664	21159760128	--	--	--	--	--	--	--
+12	385	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2352358912	0	624675584	17650247680	3871043072	2545280768	21953044480	--	--	--	--	--	--	--
+12	386	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	387	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+12	388	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	389	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	390	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15972263	98115328	28027470	1289453440	16055195	39923432	1407700264	--	--	--	--	--	--	--
+12	391	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16670346	102403552	29252438	1345810304	16756903	41668327	1469225216	--	--	--	--	--	--	--
+12	392	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	393	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	394	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+12	395	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	396	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31475278	361965696	97377816	4452683776	55367736	137861822	4861008480	--	--	--	--	--	--	--
+12	397	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1579217536	0	622335616	12372340736	2598761472	1784172032	15388483328	--	--	--	--	--	--	--
+12	398	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1567062656	0	617545600	12277112832	2578759424	1770439680	15270040832	--	--	--	--	--	--	--
+12	399	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	400	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+12	401	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	402	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	403	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+12	404	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	406	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	55975110	--	--	--	--
+13	407	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+13	408	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+13	409	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+13	410	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	411	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	412	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+13	413	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23979976	95919912	30443230	1405181824	16873142	43364540	1529033544	--	--	--	--	--	--	--
+13	414	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22507816	90031264	28574282	1318915968	15837278	40702328	1435164280	--	--	--	--	--	--	--
+13	415	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1769127424	0	595036096	16812782592	4158987776	2424512704	20911421184	--	--	--	--	--	--	--
+13	416	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1536762496	0	516881440	14604518400	3612728064	2106066336	18164824064	--	--	--	--	--	--	--
+13	417	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	418	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+13	419	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	420	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	421	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15499153	95209088	28109420	1297459200	15579629	40040170	1411816320	--	--	--	--	--	--	--
+13	422	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15854403	97391336	28753706	1327197696	15936723	40957912	1444175952	--	--	--	--	--	--	--
+13	423	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1203663744	0	600787712	11943958528	2829656320	1722396544	14855669760	--	--	--	--	--	--	--
+13	424	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1229272064	0	613569664	12198070272	2889858048	1759040896	15171729152	--	--	--	--	--	--	--
+13	425	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1164107264	0	581043840	11551439872	2736664320	1665792896	14367462400	--	--	--	--	--	--	--
+13	426	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	427	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+13	428	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	429	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	430	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31229268	359136576	99861488	4581206528	54934984	141378060	4984990784	--	--	--	--	--	--	--
+13	431	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1219917184	0	608900416	12105241600	2867866112	1745654464	15056270848	--	--	--	--	--	--	--
+13	432	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1170634368	0	584301696	11616207872	2752008704	1675132928	14448019712	--	--	--	--	--	--	--
+13	433	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	434	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+13	435	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	436	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	437	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7730735	378806016	98881944	4536269312	54396124	139991299	4936092832	--	--	--	--	--	--	--
+13	438	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1742896512	0	586213440	16563499008	4097322240	2388564160	20601367040	--	--	--	--	--	--	--
+13	439	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1641456896	0	552094784	15599474688	3858850816	2249545536	19402331648	--	--	--	--	--	--	--
+13	440	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1759809024	0	591901888	16724226048	4137081344	2411742144	20801276160	--	--	--	--	--	--	--
+14	442	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	58400680	--	--	--	--
+14	443	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+14	444	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+14	445	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	446	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+14	447	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	448	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	449	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+14	450	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16294889	100097176	29552576	1364071552	16379497	42095850	1484299840	--	--	--	--	--	--	--
+14	451	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16665007	102370760	30223824	1395054720	16751536	43052007	1518013840	--	--	--	--	--	--	--
+14	452	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1509795712	0	614691904	17368158208	4614142464	2504601280	21602187008	--	--	--	--	--	--	--
+14	453	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1463694080	0	595922240	16837821440	4473249792	2428123456	20942564096	--	--	--	--	--	--	--
+14	454	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	455	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+14	456	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	457	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	458	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9577122	110136904	30396038	1403003648	16846986	43297322	1526663376	--	--	--	--	--	--	--
+14	459	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+14	460	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	461	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	462	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+14	463	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	464	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+14	465	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7296917	357548928	96576512	4444969472	51343632	136727365	4821008096	--	--	--	--	--	--	--
+14	466	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1043978816	0	630757824	12539779072	3190542080	1808317696	15596740096	--	--	--	--	--	--	--
+14	467	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1022735744	0	617923072	12284617728	3125620480	1771521664	15279375360	--	--	--	--	--	--	--
+14	468	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	469	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+14	470	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	471	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	472	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	364791840	96562216	4444311040	51336032	136707144	4820293984	--	--	--	--	--	--	--
+14	473	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	475	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	24916970	--	--	--	--
+15	476	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+15	477	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+15	478	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+15	479	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	480	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+15	481	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22911612	91646440	29086910	1342577536	16121402	41432540	1460911360	--	--	--	--	--	--	--
+15	482	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23363580	93454320	29660696	1369062144	16439423	42249867	1489730296	--	--	--	--	--	--	--
+15	483	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1108644096	0	529851328	14970983424	4170060288	2158913216	18620625920	--	--	--	--	--	--	--
+15	484	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1103205760	0	527252224	14897545216	4149604864	2148322944	18529285120	--	--	--	--	--	--	--
+15	485	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	486	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+15	487	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	488	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	489	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16317297	100234824	29593214	1365947264	16402021	42153740	1486340880	--	--	--	--	--	--	--
+15	490	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15770281	96874584	28601140	1320155648	15852164	40740593	1436513224	--	--	--	--	--	--	--
+15	491	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	873016960	0	619179072	12309586944	3283771136	1775122624	15310431488	--	--	--	--	--	--	--
+15	492	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	884300736	0	627181952	12468688896	3326213888	1798065984	15508319488	--	--	--	--	--	--	--
+15	493	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	884254144	0	627148928	12468032512	3326038784	1797971264	15507503104	--	--	--	--	--	--	--
+15	494	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	495	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+15	496	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	497	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	498	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31097658	357623072	99440640	4561900032	54703468	140782246	4963982624	--	--	--	--	--	--	--
+15	499	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	831296064	0	589588928	11721320448	3126841856	1690290688	14578756608	--	--	--	--	--	--	--
+15	500	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	898831808	0	637488000	12673577984	3380871168	1827612224	15763156736	--	--	--	--	--	--	--
+15	501	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	502	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+15	503	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	504	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	505	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+15	506	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1383736064	0	661325312	18685788160	5204792832	2694612224	23241030144	--	--	--	--	--	--	--
+15	507	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1167307008	0	557887936	15763160064	4390715904	2273150400	19605920512	--	--	--	--	--	--	--
+15	508	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1200080256	0	573551168	16205725696	4513989120	2336970944	20156375296	--	--	--	--	--	--	--
+16	510	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	54730210	--	--	--	--
+16	511	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+16	512	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+16	513	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+16	514	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	515	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+16	516	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+16	517	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+16	518	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22328908	89315632	28347154	1308432384	15711393	40378799	1423756672	--	--	--	--	--	--	--
+16	519	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22355270	89421080	28380620	1309977088	15729941	40426479	1425437520	--	--	--	--	--	--	--
+16	520	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1002184128	0	549916032	15537912832	4476417536	2240668224	19325762304	--	--	--	--	--	--	--
+16	521	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	981115008	0	538355008	15211255808	4382308864	2193562048	18919472640	--	--	--	--	--	--	--
+16	522	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	523	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+16	524	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	525	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+16	526	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15833171	97260904	28715198	1325420288	15915381	40903062	1442241880	--	--	--	--	--	--	--
+16	527	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+16	528	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	529	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	530	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+16	531	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	532	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+16	533	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	30414284	349764256	100635152	4631769600	53501356	142473384	5023611264	--	--	--	--	--	--	--
+16	534	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	720052864	0	586333824	11656607744	3216232448	1680958720	14498268160	--	--	--	--	--	--	--
+16	535	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	770470592	0	627388672	12472797184	3441431552	1798658496	15513429504	--	--	--	--	--	--	--
+16	536	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	537	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+16	538	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	539	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+16	540	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+16	541	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	543	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	45465820	--	--	--	--
+17	544	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+17	545	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+17	546	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+17	547	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	548	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+17	549	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+17	550	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22354638	89418552	30420292	1413290368	15729496	43331866	1527881480	--	--	--	--	--	--	--
+17	551	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22012028	88048104	29954066	1391630080	15488423	42667749	1504464952	--	--	--	--	--	--	--
+17	552	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	845522368	0	523808352	14800238592	4372978688	2134290976	18408257024	--	--	--	--	--	--	--
+17	553	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	844614528	0	523245920	14784347136	4368283136	2131999200	18388491520	--	--	--	--	--	--	--
+17	554	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	555	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+17	556	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	557	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	558	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15033919	92351216	29226034	1357806592	15111979	41630716	1467899024	--	--	--	--	--	--	--
+17	559	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15085993	92671096	29327266	1362509824	15164323	41774910	1472983592	--	--	--	--	--	--	--
+17	560	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	648604672	0	596292160	11854584832	3354534912	1709508160	14744508416	--	--	--	--	--	--	--
+17	561	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	668579776	0	614656192	12219670528	3457844736	1762155904	15198595328	--	--	--	--	--	--	--
+17	562	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	627610496	0	576991296	11470872576	3245954560	1654174400	14267254528	--	--	--	--	--	--	--
+17	563	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	564	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+17	565	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	566	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	567	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	29899136	343840064	102492336	4732596224	52595164	145102668	5116320256	--	--	--	--	--	--	--
+17	568	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	665124608	0	611479680	12156519424	3439974656	1753049216	15120049152	--	--	--	--	--	--	--
+17	569	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	677019072	0	622414784	12373915648	3501491968	1784399232	15390442240	--	--	--	--	--	--	--
+17	570	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	571	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+17	572	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	573	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	574	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6862345	336254912	94094736	4344836096	48285832	133213825	4697120096	--	--	--	--	--	--	--
+17	575	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1006860544	0	623758720	17624342528	5207407616	2541545088	21920824320	--	--	--	--	--	--	--
+17	576	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	974015424	0	603410880	17049413632	5037534720	2458636160	21205738496	--	--	--	--	--	--	--
+17	577	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1049818944	0	650371840	18376298496	5429584896	2649981504	22856092672	--	--	--	--	--	--	--
+18	579	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	55624030	--	--	--	--
+18	580	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+18	581	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+18	582	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	583	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+18	584	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	585	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+18	586	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+18	587	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+18	588	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16259354	99878888	29488128	1361096832	16343777	42004051	1481062928	--	--	--	--	--	--	--
+18	589	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	766381120	0	529033504	14947875840	4504175616	2155580768	18591885312	--	--	--	--	--	--	--
+18	590	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	881607744	0	608574528	17195313152	5181385728	2479675776	21387205376	--	--	--	--	--	--	--
+18	591	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+18	592	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	593	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	594	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+18	595	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+18	596	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8866530	101965096	29117286	1348366976	15596993	41475809	1462437072	--	--	--	--	--	--	--
+18	597	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8647105	99441704	28396702	1314998144	15211005	40449380	1426245280	--	--	--	--	--	--	--
+18	598	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	599	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	600	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+18	601	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	602	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7746573	379582080	102527824	4718880256	54507568	145152909	5118091392	--	--	--	--	--	--	--
+18	603	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	611468160	0	626388736	12452919296	3593721344	1795792000	15488705536	--	--	--	--	--	--	--
+18	604	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	623160960	0	638366848	12691049472	3662441984	1830131968	15784887296	--	--	--	--	--	--	--
+18	605	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	606	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+18	607	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	608	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+18	609	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	375367968	99361768	4573161984	52824380	140670596	4960045504	--	--	--	--	--	--	--
+18	610	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+19	612	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	20759780	--	--	--	--
+19	613	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+19	614	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+19	615	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+19	616	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	617	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+19	618	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23813432	95253728	30231794	1395422592	16755954	43063364	1518414136	--	--	--	--	--	--	--
+19	619	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22458908	89835632	28512190	1316050048	15802864	40613890	1432045752	--	--	--	--	--	--	--
+19	620	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	681859648	0	518958784	14663214080	4488326656	2114530816	18237828352	--	--	--	--	--	--	--
+19	621	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	700513408	0	533155968	15064356864	4611113984	2172378112	18736762112	--	--	--	--	--	--	--
+19	622	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+19	623	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Things Blow Up	Trip Tucker	--	--	--
+19	624	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	625	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+19	626	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+19	627	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15651585	96145456	28385872	1310219520	15732853	40433958	1425701328	--	--	--	--	--	--	--
+19	628	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	510223968	0	576275840	11456650240	3358538240	1652123360	14249564928	--	--	--	--	--	--	--
+19	629	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	535781824	0	605142336	12030529536	3526772224	1734880512	14963345408	--	--	--	--	--	--	--
+19	630	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	522915744	0	590610688	11741633536	3442081792	1693220000	14604021760	--	--	--	--	--	--	--
+19	631	Combatant Destroyed	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

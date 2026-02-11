@@ -1,0 +1,27 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	SS REVENANT	75	5896109568	0	Kathryn Janeway	Enterprise-E Data	The Doctor	4224186993	4077919190	4204187053	3514638840	Gusoeop	1/20/2026 6:50:59 PM
+Assimilated Coryn-class	70	DEFEAT	Assimilated Coryn-class	70	395842191360	0	Assimilated El-Aurian	--	--	597853863397	0	149463465849	0	Gusoeop	1/20/2026 6:50:59 PM
+
+Reward Name	Count
+Chaos Module	3313463
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	126907416	957601152	4811600896	Laid to Rest---Phantom's Tithe---Collective's Bane	Red Alert! Raise Shields!	Bend the Rules	Saddle up. Lock and Load!	Over My Dead Program	5	120644080	6156004	711538	1051697	0.22	3.45	5	19548347	13205645	158766244	5	3821988230	5801213939	277	1856	899.25	61715660	0	1	NO	NO
+Enemy Fleet 1	21333848064	849675648	373658681344	Focused Isolysis---Intraluminary	--	--	--	--	0	18614886400	113290080	113290080	1132900864	0.1	1.5	0	14161261	141612608	14161261	0	149463465984	597853863936	60	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Saddle up. Lock and Load!	Enterprise-E Data	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	6	Attack	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	NO	73234736	345249472	213863808	0	224307200	856655216	0	--	--	--	--	--	--	--
+1	7	Attack	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	XanOfHanoi	ThunderDome	SS REVENANT	NO	--	--	NO	73033072	344298752	213274896	0	223689536	854296256	0	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	SS REVENANT	NO	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	--	--	NO	400464609280	1379378003968	110957453312	0	0	160645734400	1730154332160	--	--	--	--	--	--	--
+1	9	Shield Depleted	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	XanOfHanoi	ThunderDome	Assimilated Coryn-class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	SS REVENANT	NO	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	--	--	NO	1671810908160	0	104222621696	0	0	150895001600	1625138528256	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	SS REVENANT	NO	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	--	--	YES	26630485442560	0	1660175253504	0	0	2403624026112	25887036669952	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	SS REVENANT	NO	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	--	--	NO	1765574443008	0	110067957760	0	0	159357845504	1716284555264	--	--	--	--	--	--	--
+1	13	Combatant Destroyed	Assimilated Coryn-class	--	Assimilated Coryn-class	NO	XanOfHanoi	ThunderDome	Assimilated Coryn-class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

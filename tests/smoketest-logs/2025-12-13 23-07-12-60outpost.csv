@@ -1,0 +1,306 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Assimilated Galor-Class	60	DEFEAT	Assimilated Galor-Class	60	62140071936	0	Assimilated Gul	--	--	98780473035	0	24695118259	0	Xandrel	12/13/2025 11:07:12 PM
+
+Reward Name	Count
+Solo Outpost Credits	42
+Common Solo Outpost Components	35
+Outpost Retaliation Medal	33
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	610459392	315510816	6729436160	Anti-Tachyon Weaponry---Relative Growth	Weaponry is irrelevant	You will be assimilated	Savage Tenacity	Creating Opportunities	5	494077216	9293344	9431278	54397879	0.22	3.65	5	9152964	46208283	7740915	5	6161808048	7297064228	252	1607	432.3	55666080	0	1	NO	NO
+Player Fleet 2	784187520	302858912	5756693504	True Aim	Glorious Gaze	Wartime Chancellor	Fear Is the True Enemy	Quick Thinking	31.5	700573312	3851700	3907929	54196544	0.22	3.45	31.5	2486118	55544611	2541054	27	5174674906	6338712107	242	1557	424.44	446760	0	1	NO	NO
+Enemy Fleet 1	349044032	53232472	61737795584	Isolytic Burst---Diverted Power	--	--	--	--	0	328243264	1652400	3304794	8909991	0.1	1.5	0	395369	9545201	705924	0	24695117824	98780471296	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Glorious Gaze	Gowron	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	8	Wartime Chancellor	Gowron	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	4	Forbidden Tech Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	5	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2582683	12175507	31215104	41517944	191853	43841545	43841546	--	--	--	--	--	--	--
+1	6	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2478863	11686071	29960308	39848988	184141	42079186	42079185	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	33445404	100336208	15691911	0	0	53574739	95898784	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	33723080	101169232	15822191	0	0	54019535	96694968	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	65540176	196620528	56172356	0	0	109018180	209314880	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	68198776	204596336	58450960	0	0	113440440	217805632	--	--	--	--	--	--	--
+1	11	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	13	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6911577	32583146	83535440	111107104	513424	117325344	117325347	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	33367440	100102320	15655332	0	0	53449852	95675240	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	136844928	410534784	64204888	0	0	219205976	392378624	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	35158608	105475816	16495711	0	0	56319047	100811088	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	63222668	189668000	54186100	0	0	105163280	201913488	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	237147888	711443648	203251760	0	0	394466912	757376384	--	--	--	--	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	21	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2572734	12128606	31094860	41358012	191114	43672663	43672663	--	--	--	--	--	--	--
+1	22	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2497116	11772118	30180912	40142408	185497	42389025	42389026	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	25518024	76554080	13997493	0	0	41602005	74467592	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	30357546	91072640	16652133	0	0	49491871	88590448	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	265642800	796928384	227673824	0	0	441864720	848380288	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1150596096	3451788288	986138560	0	0	1913877696	3674645248	--	--	--	--	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	29967096	89901288	16437958	0	0	48855318	87451024	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	21956228	65868684	12043728	0	0	35795212	64073428	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	19635088	58905264	10770505	0	0	32011061	57299796	--	--	--	--	--	--	--
+2	33	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	34	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	35	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	36	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2474848	11667140	29911772	39784436	183843	42011019	42011020	--	--	--	--	--	--	--
+2	37	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2601529	12264352	31442884	41820904	193253	44161461	44161461	--	--	--	--	--	--	--
+2	38	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	33183566	99550704	15569063	0	0	53155317	95148016	--	--	--	--	--	--	--
+2	39	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	32152684	96458048	15085393	0	0	51503989	92192136	--	--	--	--	--	--	--
+2	40	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	41	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	42	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6749543	31819276	81577056	108502336	501387	114574798	114574800	--	--	--	--	--	--	--
+2	43	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	44	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	45	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	46	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2571143	12121102	31075626	41332432	190996	43645648	43645651	--	--	--	--	--	--	--
+2	47	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2466950	11629906	29816314	39657472	183256	41876948	41876950	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	29063912	87191736	15942531	0	0	47382859	84815320	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	22832708	68498120	12524506	0	0	37224134	66631200	--	--	--	--	--	--	--
+2	50	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	51	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	52	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	54	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	55	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	56	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	57	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2929887	11719550	31076394	41377020	190440	43646645	43646646	--	--	--	--	--	--	--
+3	58	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2901747	11606990	30777922	40979616	188611	43227443	43227443	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	206830048	827320192	87870928	0	0	300005616	822015552	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	37594016	150376048	15971668	0	0	54529876	149411856	--	--	--	--	--	--	--
+3	61	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	72088104	288352416	55360256	0	0	107442056	308358720	--	--	--	--	--	--	--
+3	62	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	70729320	282917280	54316776	0	0	105416880	302546496	--	--	--	--	--	--	--
+3	63	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	64	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	65	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	66	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	11304246	45216984	119900584	159643008	734766	168399791	168399797	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	38375060	153500240	16303492	0	0	55662776	152516016	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	37115908	148463632	15768546	0	0	53836390	147511696	--	--	--	--	--	--	--
+3	69	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	197712176	790848704	83997240	0	0	286780200	785777920	--	--	--	--	--	--	--
+3	70	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	420107872	1680431488	322623008	0	0	626140160	1797022208	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	68449256	273797024	52565796	0	0	102018604	292793472	--	--	--	--	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	73	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	74	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	75	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+3	76	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2787969	11151875	29658338	39530588	181215	41654992	41654993	--	--	--	--	--	--	--
+3	77	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2767914	11071656	29444996	39246232	179912	41355355	41355355	--	--	--	--	--	--	--
+3	78	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	30982760	123931032	15314241	0	0	45515513	124712520	--	--	--	--	--	--	--
+3	79	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	29325012	117300048	14494846	0	0	43080194	118039712	--	--	--	--	--	--	--
+3	80	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	81	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	178052336	712209344	88008192	0	0	261569520	716700352	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	29368060	117472248	14516125	0	0	43143433	118213000	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	163580960	654323840	80855240	0	0	240310184	658449856	--	--	--	--	--	--	--
+4	86	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	87	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	88	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	89	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	90	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2804399	11217595	29833118	39763548	182283	41900471	41900472	--	--	--	--	--	--	--
+4	91	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2946004	11784014	31339508	41771360	191487	44016187	44016186	--	--	--	--	--	--	--
+4	92	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	198219984	792879936	84212976	0	0	287516864	787796032	--	--	--	--	--	--	--
+4	93	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	211228928	844915712	89739776	0	0	306386240	839498176	--	--	--	--	--	--	--
+4	94	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	95	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	96	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	97	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7367398	29469594	78374184	104462288	478874	110076165	110076173	--	--	--	--	--	--	--
+4	98	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	99	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	100	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	101	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2758610	11034438	29346018	39114308	179307	41216340	41216341	--	--	--	--	--	--	--
+4	102	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2915258	11661033	31012440	41335424	189489	43556822	43556822	--	--	--	--	--	--	--
+4	103	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	193915936	775663744	95849296	0	0	284874032	780554944	--	--	--	--	--	--	--
+4	104	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	138184672	552738688	68302296	0	0	203001464	556224192	--	--	--	--	--	--	--
+4	105	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1843607040	7374428160	1415803008	0	0	2747761792	7886076416	--	--	--	--	--	--	--
+4	106	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1795980160	7183920640	1379227904	0	0	2676777600	7682351104	--	--	--	--	--	--	--
+4	107	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+4	108	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	109	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	110	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	111	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	113	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	114	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	115	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2797726	11190903	29674598	39510584	181849	41677829	41677831	--	--	--	--	--	--	--
+5	116	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2836942	11347770	30090554	40064412	184398	42262038	42262038	--	--	--	--	--	--	--
+5	117	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1024858368	0	87081408	0	0	297310080	814629696	--	--	--	--	--	--	--
+5	118	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1034683392	0	87916232	0	0	300160328	822439296	--	--	--	--	--	--	--
+5	119	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2057816064	0	316061088	0	0	613404960	1760472192	--	--	--	--	--	--	--
+5	120	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2079726848	0	319426368	0	0	619936320	1779216896	--	--	--	--	--	--	--
+5	121	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	122	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	123	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	124	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7873068	31492272	83507152	111186560	511742	117285393	117285401	--	--	--	--	--	--	--
+5	125	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	183961680	0	15631078	0	0	53367046	146225712	--	--	--	--	--	--	--
+5	126	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	993167808	0	84388688	0	0	288116688	789439808	--	--	--	--	--	--	--
+5	127	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1043277888	0	88646496	0	0	302653600	829270784	--	--	--	--	--	--	--
+5	128	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	342996736	0	52681056	0	0	102242336	293435456	--	--	--	--	--	--	--
+5	129	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1987719552	0	305294944	0	0	592510176	1700504320	--	--	--	--	--	--	--
+5	130	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	131	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	132	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	133	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2936173	11744691	31143060	41465784	190848	43740277	43740279	--	--	--	--	--	--	--
+5	134	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2913586	11654344	30903488	41146800	189380	43403800	43403798	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	645157568	0	63778048	0	0	189554944	519380672	--	--	--	--	--	--	--
+5	136	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	893475136	0	88325864	0	0	262513640	719287360	--	--	--	--	--	--	--
+5	137	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+5	138	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	139	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	140	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	866450240	0	85654272	0	0	254573440	697531072	--	--	--	--	--	--	--
+5	141	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	627380288	0	62020644	0	0	184331812	505069120	--	--	--	--	--	--	--
+5	142	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	629626880	0	62242736	0	0	184991856	506877760	--	--	--	--	--	--	--
+6	144	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	145	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	146	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+6	147	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	148	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2757952	11031806	29252724	38948876	179264	41085310	41085312	--	--	--	--	--	--	--
+6	149	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2812935	11251741	29835918	39725376	182838	41904403	41904405	--	--	--	--	--	--	--
+6	150	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1017450752	0	86451984	0	0	295161168	808741568	--	--	--	--	--	--	--
+6	151	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1013417920	0	86109320	0	0	293991240	805536000	--	--	--	--	--	--	--
+6	152	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	153	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	154	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	155	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7697378	30789510	81643664	108705384	500322	114668131	114668127	--	--	--	--	--	--	--
+6	156	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	157	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	158	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	159	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2763350	11053398	29309980	39025108	179615	41165725	41165726	--	--	--	--	--	--	--
+6	160	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2970609	11882438	31508318	41952112	193087	44253281	44253283	--	--	--	--	--	--	--
+6	161	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	572688704	0	56614024	0	0	168262760	461039968	--	--	--	--	--	--	--
+6	162	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	741429248	0	73295128	0	0	217840792	596883584	--	--	--	--	--	--	--
+6	163	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	164	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	165	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	166	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	168	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	169	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+7	170	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	171	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2787605	11150422	29567254	39367660	181191	41527065	41527067	--	--	--	--	--	--	--
+7	172	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	4276254	17105018	45356884	60390944	277952	63703525	63703527	--	--	--	--	--	--	--
+7	173	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1039940800	0	88362944	0	0	301685504	826618240	--	--	--	--	--	--	--
+7	174	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1046569472	0	88926184	0	0	303608488	831887168	--	--	--	--	--	--	--
+7	175	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	332622016	0	51087600	0	0	99149776	284559840	--	--	--	--	--	--	--
+7	176	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1879348736	0	288650208	0	0	560206432	1607792512	--	--	--	--	--	--	--
+7	177	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	178	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	179	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	180	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+7	181	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7425645	29702580	78993808	105288160	482660	110946425	110946428	--	--	--	--	--	--	--
+7	182	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1002476800	0	85179664	0	0	290817232	796839232	--	--	--	--	--	--	--
+7	183	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1003269632	0	85247032	0	0	291047224	797469440	--	--	--	--	--	--	--
+7	184	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1041263104	0	88475304	0	0	302069096	827669312	--	--	--	--	--	--	--
+7	185	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	325776128	0	50036136	0	0	97109096	278703168	--	--	--	--	--	--	--
+7	186	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	359376704	0	55196868	0	0	107124932	307448640	--	--	--	--	--	--	--
+7	187	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	188	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	189	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	190	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2802141	11208566	29809106	39731540	182136	41866745	41866744	--	--	--	--	--	--	--
+7	191	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2915083	11660332	31010576	41332940	189477	43554204	43554204	--	--	--	--	--	--	--
+7	192	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	788774208	0	77975488	0	0	231751232	634998464	--	--	--	--	--	--	--
+7	193	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	836906432	0	82733672	0	0	245893096	673747008	--	--	--	--	--	--	--
+7	194	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	9447793664	0	1451091712	0	0	2816249600	8082635776	--	--	--	--	--	--	--
+7	195	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	9080770560	0	1394720512	0	0	2706845440	7768645632	--	--	--	--	--	--	--
+7	196	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	197	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	198	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	199	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	620550400	0	61345464	0	0	182325112	499570752	--	--	--	--	--	--	--
+7	200	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	650787264	0	64334576	0	0	191209040	523912800	--	--	--	--	--	--	--
+7	201	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	874917120	0	86491280	0	0	257061072	704347328	--	--	--	--	--	--	--
+8	203	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	204	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	205	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+8	206	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	207	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2940779	11763114	31283924	41697280	191148	43938121	43938124	--	--	--	--	--	--	--
+8	208	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2865178	11460710	30479684	40625332	186234	42808569	42808569	--	--	--	--	--	--	--
+8	209	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1002680896	0	85197000	0	0	290876488	797001408	--	--	--	--	--	--	--
+8	210	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1040997056	0	88452696	0	0	301991960	827457792	--	--	--	--	--	--	--
+8	211	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	212	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	213	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	214	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7834725	31338898	83345592	111088496	509250	117058482	117058479	--	--	--	--	--	--	--
+8	215	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	216	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	217	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	218	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2755665	11022659	29314690	39072552	179115	41172340	41172341	--	--	--	--	--	--	--
+8	219	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2927631	11710524	31144062	41510856	190293	43741684	43741682	--	--	--	--	--	--	--
+8	220	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	930155648	0	91951968	0	0	273290784	748816832	--	--	--	--	--	--	--
+8	221	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	784184768	0	77521792	0	0	230402816	631303744	--	--	--	--	--	--	--
+8	222	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+8	223	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	224	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	225	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	227	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+9	228	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+9	229	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	230	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2986941	11947764	31681542	42182752	194148	44496573	44496574	--	--	--	--	--	--	--
+9	231	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2822225	11288898	29934448	39856564	183442	42042788	42042789	--	--	--	--	--	--	--
+9	232	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1043972864	0	88705552	0	0	302855184	829823232	--	--	--	--	--	--	--
+9	233	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1055823040	0	89712448	0	0	306292928	839242560	--	--	--	--	--	--	--
+9	234	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	358925664	0	55127588	0	0	106990500	307062752	--	--	--	--	--	--	--
+9	235	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	339370464	0	52124096	0	0	101161376	290333184	--	--	--	--	--	--	--
+9	236	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	237	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	238	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	239	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7637362	30549446	81007088	107857816	496421	113774065	113774068	--	--	--	--	--	--	--
+9	240	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1025759168	0	87157952	0	0	297571392	815345728	--	--	--	--	--	--	--
+9	241	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1008371520	0	85680528	0	0	292527312	801524736	--	--	--	--	--	--	--
+9	242	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	999361024	0	84914912	0	0	289913376	794362560	--	--	--	--	--	--	--
+9	243	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	331737248	0	50951704	0	0	98886040	283802912	--	--	--	--	--	--	--
+9	244	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1854925184	0	284898976	0	0	552926240	1586897920	--	--	--	--	--	--	--
+9	245	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	246	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	247	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	248	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2814014	11256056	29847360	39740608	182908	41920473	41920473	--	--	--	--	--	--	--
+9	249	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2889289	11557154	30645774	40803664	187801	43041842	43041840	--	--	--	--	--	--	--
+9	250	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	844716416	0	83505736	0	0	248187784	680034368	--	--	--	--	--	--	--
+9	251	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	906442816	0	89607800	0	0	266323704	729726912	--	--	--	--	--	--	--
+9	252	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	253	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	254	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	255	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	687395776	0	67953568	0	0	201965088	553384256	--	--	--	--	--	--	--
+9	256	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	739889984	0	73142960	0	0	217388464	595644480	--	--	--	--	--	--	--
+9	257	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	882515584	0	87242440	0	0	259293576	710464448	--	--	--	--	--	--	--
+10	259	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	260	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+10	261	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+10	262	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	263	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2858169	11432677	30315704	40364192	185778	42578259	42578261	--	--	--	--	--	--	--
+10	264	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2940473	11761890	31188668	41526508	191128	43804334	43804333	--	--	--	--	--	--	--
+10	265	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1018318016	0	86525672	0	0	295412776	809430912	--	--	--	--	--	--	--
+10	266	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1047595840	0	89013392	0	0	303906192	832703040	--	--	--	--	--	--	--
+10	267	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	268	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	269	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	270	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7737987	30951950	82074400	109278896	502962	115273098	115273097	--	--	--	--	--	--	--
+10	271	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	272	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	273	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	274	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2850778	11403111	30237302	40259800	185298	42468145	42468144	--	--	--	--	--	--	--
+10	275	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2875458	11501834	30499084	40608356	186902	42835816	42835818	--	--	--	--	--	--	--
+10	276	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	902233472	0	89191680	0	0	265086912	726338240	--	--	--	--	--	--	--
+10	277	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	951766080	0	94088304	0	0	279640176	766214208	--	--	--	--	--	--	--
+10	278	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	9166428160	0	1407876736	0	0	2732378752	7841926144	--	--	--	--	--	--	--
+10	279	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	8397137920	0	1289721088	0	0	2503064320	7183794688	--	--	--	--	--	--	--
+10	280	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	281	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	282	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+10	283	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	285	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+11	286	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+11	287	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	288	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2923575	11694298	31009436	41287868	190029	43552603	43552603	--	--	--	--	--	--	--
+11	289	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2870848	11483390	30450176	40543236	186602	42767125	42767127	--	--	--	--	--	--	--
+11	290	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1050401728	0	89251808	0	0	304720224	834933312	--	--	--	--	--	--	--
+11	291	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	996366464	0	84660472	0	0	289044600	791982336	--	--	--	--	--	--	--
+11	292	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	335078176	0	51464844	0	0	99881900	286661120	--	--	--	--	--	--	--
+11	293	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	345117184	0	53006736	0	0	102874384	295249536	--	--	--	--	--	--	--
+11	294	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+11	295	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	296	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	297	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7600340	30401358	80614408	107334976	494015	113222548	113222549	--	--	--	--	--	--	--
+11	298	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1044157312	0	88721224	0	0	302908680	829969856	--	--	--	--	--	--	--
+11	299	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	994463168	0	84498752	0	0	288492480	790469440	--	--	--	--	--	--	--
+11	300	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1011233152	0	85923680	0	0	293357408	803799424	--	--	--	--	--	--	--
+11	301	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

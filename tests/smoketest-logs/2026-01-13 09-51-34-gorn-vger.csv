@@ -1,0 +1,821 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	U.S.S. RELATIVITY	70	18217404416	0	Kathryn Janeway	The Doctor	Annorax	14332497066	13761796622	49677009372	41173564118	Fiavoli	1/13/2026 9:51:34 AM
+V'ger Gorn Hunter ▶	67	DEFEAT	V'ger Gorn Hunter	67	110065106944	0	Replicated Gorn Pilot	--	--	77086468368	0	140958113587	0	Fiavoli	1/13/2026 9:51:34 AM
+
+Reward Name	Count
+6★ Broken Explorer Parts	50970
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	867099136	741097920	16609208320	Anti-Tachyon Weaponry---Relative Growth	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	5	669775360	15756681	15990547	92230588	0.22	3.45	5	18476998	111265590	18476998	5	17130003465	16088412186	252	1889	558.87	56516070	0	1	NO	NO
+Enemy Fleet 1	961334336	81491408	109022281728	Replicated Plasma Cannon---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	947855232	374420	2620940	1497680	0	1.5	0	3303706	11673094	1321482	0	140958105600	77086466048	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23597696	103957424	48949048	2168865536	93880520	68905376	2370344848	--	--	--	--	--	--	--
+1	6	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23053706	101560920	47820640	2118867200	91716312	67316922	2315701856	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	24341746	83843792	108661080	612418176	41110440	108661090	761714144	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	23223108	79990712	103667504	584274240	39221188	103667504	726709248	--	--	--	--	--	--	--
+1	9	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	11	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	14	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6163281	105896376	50326132	2224811008	114973400	70682773	2431487424	--	--	--	--	--	--	--
+1	15	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5863906	100752560	47881588	2116742784	109388680	67249422	2313380096	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	17076656	58819592	76229856	429634496	28840528	76229864	534371264	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	17050792	58730508	76114408	428983840	28796848	76114412	533561984	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	16680246	57454184	74460296	419661184	28171038	74460300	521966648	--	--	--	--	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	24	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	96170728	49372580	2182656512	126560640	69343516	2385416944	--	--	--	--	--	--	--
+1	25	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	95710480	49136300	2172210944	125954960	69011660	2374001024	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	287325952	989678272	1282617472	7228882944	485260832	1282617440	8991148032	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	300187040	1033977536	1340029056	7552457216	506981728	1340029120	9393603456	--	--	--	--	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	30	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	31	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	84079408	48570024	2147177088	135031440	68216328	2346641632	--	--	--	--	--	--	--
+1	32	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	84598992	48870172	2160445952	135865888	68637884	2361143120	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	466541408	1606976000	2082631680	11737795584	787935360	2082631648	14599248384	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	403474400	1389745152	1801101952	10151081984	681422336	1801101920	12625723904	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	395596832	1362611328	1765936640	9952888832	668118016	1765936544	12379215104	--	--	--	--	--	--	--
+1	36	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	37	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	38	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	39	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	31789876	20407588	902175936	60273568	28662344	985984624	--	--	--	--	--	--	--
+1	40	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	34507640	22152262	979304256	65426444	31112730	1070277872	--	--	--	--	--	--	--
+1	41	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	42	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	43	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	28906634	20414936	902500736	63189960	28672666	986339600	--	--	--	--	--	--	--
+1	44	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	29857208	21086268	932178880	65267920	29615548	1018774728	--	--	--	--	--	--	--
+2	46	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	29339300	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	52	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12834796	52984672	50715252	2242012928	162968992	71229280	2450287360	--	--	--	--	--	--	--
+2	53	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12272492	50663368	48493372	2143788416	155829184	68108672	2342938160	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	NO	23533360	81059352	105052464	592079872	39745168	105052472	736417744	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	420705440	1449096576	1878020992	10584601600	710523648	1878021024	13164927232	--	--	--	--	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	57	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	58	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	59	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	60	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	61	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3807915	54775392	48905556	2162010112	162041200	68687583	2362852592	--	--	--	--	--	--	--
+2	62	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3812695	54844156	48966952	2164724480	162244624	68773819	2365819088	--	--	--	--	--	--	--
+2	63	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	64	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	65	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	66	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	67	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	68	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	54923384	49381040	2183030528	167846144	69355384	2385825712	--	--	--	--	--	--	--
+2	69	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	55101088	49540816	2190093824	168389216	69579792	2393545152	--	--	--	--	--	--	--
+2	70	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	330136992	1137138560	1473725056	8305973760	557563776	1473725088	10330813056	--	--	--	--	--	--	--
+2	71	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	332766400	1146195328	1485462656	8372126720	562004544	1485462656	10413092992	--	--	--	--	--	--	--
+2	72	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	73	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	74	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	75	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49818860	47994040	2121713920	166693568	67407364	2318813024	--	--	--	--	--	--	--
+2	76	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	50479648	48630620	2149856000	168904560	68301436	2349569392	--	--	--	--	--	--	--
+2	77	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	78	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	79	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	80	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	21187188	21773166	962545152	77036696	30580290	1051961912	--	--	--	--	--	--	--
+2	81	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20359056	20922130	924922752	74025616	29385018	1010844536	--	--	--	--	--	--	--
+2	82	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	83	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	84	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20092172	21939500	969898432	78882088	30813904	1059998288	--	--	--	--	--	--	--
+2	85	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19381276	21163242	935581760	76091104	29723654	1022493728	--	--	--	--	--	--	--
+3	87	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	16363950	--	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	89	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	90	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	91	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	92	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	93	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13658713	45726996	49575404	2191622912	164260640	69628377	2395216288	--	--	--	--	--	--	--
+3	94	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13617069	45587580	49424252	2184940800	163759824	69416085	2387913440	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	385239712	1540958848	1934665472	10903852032	731954304	1934665376	13562004992	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	450707072	1802828288	2263441152	12756844544	856342080	2263441088	15866722048	--	--	--	--	--	--	--
+3	97	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	98	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	99	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	100	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	101	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	102	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5304703	47742332	47694036	2108451584	162112016	66985999	2304318672	--	--	--	--	--	--	--
+3	103	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5354209	48187884	48139140	2128128512	163624928	67611153	2325823520	--	--	--	--	--	--	--
+3	104	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	321199264	1284797056	1613055616	9091246080	610277632	1613055648	11307520000	--	--	--	--	--	--	--
+3	105	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	299148928	1196595712	1502319488	8467132416	568382080	1502319360	10531259264	--	--	--	--	--	--	--
+3	106	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	321831520	1287326080	1616230784	9109141504	611478912	1616230880	11329777920	--	--	--	--	--	--	--
+3	107	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	108	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	109	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	110	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	111	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	112	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	51017728	49148988	2172771840	170704960	69029468	2374614048	--	--	--	--	--	--	--
+3	113	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49714816	47893808	2117282944	166345440	67266576	2313970432	--	--	--	--	--	--	--
+3	114	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	335618848	1342475392	1685470464	9499378688	637674752	1685470368	11815147776	--	--	--	--	--	--	--
+3	115	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	332035776	1328143104	1667476352	9397962752	630866944	1667476544	11689008384	--	--	--	--	--	--	--
+3	116	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	117	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	118	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	119	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46242460	47521396	2100819584	168137776	66743536	2295977680	--	--	--	--	--	--	--
+3	120	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46871084	48167408	2129378304	170423456	67650860	2327189392	--	--	--	--	--	--	--
+3	121	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	407881472	1631525888	2048371840	11544706048	774973568	2048371712	14359087104	--	--	--	--	--	--	--
+3	122	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	490692512	1962770048	2464247040	13888594944	932314304	2464247008	17274371840	--	--	--	--	--	--	--
+3	123	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	485783808	1943135232	2439595520	13749658624	922987712	2439595456	17101565440	--	--	--	--	--	--	--
+3	124	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	125	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	126	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	127	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19659328	21466862	949004160	77182752	30150086	1037163016	--	--	--	--	--	--	--
+3	128	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18924120	20664054	913513728	74296304	29022550	998375656	--	--	--	--	--	--	--
+3	129	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	130	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	131	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17709680	20476336	905215104	74663904	28758896	989306128	--	--	--	--	--	--	--
+3	132	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19371400	22397656	990152576	81669712	31457384	1082133960	--	--	--	--	--	--	--
+4	134	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	18967350	--	--	--	--
+4	135	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	136	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	137	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	138	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	139	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	140	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13960096	44206968	48558076	2146648960	160889872	68199540	2346064432	--	--	--	--	--	--	--
+4	141	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13960217	44207352	48558500	2146667520	160891280	68200149	2346084720	--	--	--	--	--	--	--
+4	142	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	399939552	1599758208	2250632704	12358944768	1013179328	2250632736	15371821824	--	--	--	--	--	--	--
+4	143	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	406406432	1625625728	2287024896	12558784512	1029562112	2287024800	15620378880	--	--	--	--	--	--	--
+4	144	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	145	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	146	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	147	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	148	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	149	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6211696	50258272	50771560	2244502272	172572512	71308376	2453007936	--	--	--	--	--	--	--
+4	150	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5870058	47494104	47979164	2121056384	163081168	67386478	2318094400	--	--	--	--	--	--	--
+4	151	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	152	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	153	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	154	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	155	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	156	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	50184336	48346124	2137278976	167916448	67901868	2335824016	--	--	--	--	--	--	--
+4	157	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	52111756	50202944	2219365120	174365584	70509756	2425535648	--	--	--	--	--	--	--
+4	158	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	293188608	1172754432	1649899136	9060123648	742743872	1649899200	11268810496	--	--	--	--	--	--	--
+4	159	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	304049760	1216199040	1711019392	9395755008	770258752	1711019424	11686262528	--	--	--	--	--	--	--
+4	160	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	161	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	162	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	163	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46908724	48206088	2131088256	170560320	67705180	2329058208	--	--	--	--	--	--	--
+4	164	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47966228	49292840	2179131136	174405408	69231516	2381564096	--	--	--	--	--	--	--
+4	165	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	166	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	167	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	168	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19657068	21464392	948894976	77173872	30146620	1037043688	--	--	--	--	--	--	--
+4	169	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19400100	21183798	936490496	76165008	29752522	1023486880	--	--	--	--	--	--	--
+4	170	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	171	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	172	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17767844	20543588	908188160	74909128	28853360	992555360	--	--	--	--	--	--	--
+4	173	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18857756	21803768	963898048	79504184	30623268	1053440488	--	--	--	--	--	--	--
+5	175	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	20001030	--	--	--	--
+5	176	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	177	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	178	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	179	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	180	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	181	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15078762	45236288	50351220	2225920000	166831184	70717998	2432699456	--	--	--	--	--	--	--
+5	182	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	14888941	44666824	49717368	2197898752	164731008	69827757	2402075136	--	--	--	--	--	--	--
+5	183	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	431482656	1725930624	2428139520	13333690368	1093088512	2428139680	16584192000	--	--	--	--	--	--	--
+5	184	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	367105120	1468420480	2065859200	11344293888	929998848	2065859168	14109818368	--	--	--	--	--	--	--
+5	185	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	186	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	187	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	188	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	189	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	190	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6459294	47368156	48395700	2139470592	164496976	67971486	2338219232	--	--	--	--	--	--	--
+5	191	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6489129	47586948	48619240	2149352704	165256784	68285461	2349019344	--	--	--	--	--	--	--
+5	192	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	300244480	1200977920	1689605504	9278163968	760618688	1689605440	11540005120	--	--	--	--	--	--	--
+5	193	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	291005216	1164020864	1637612160	8992652288	737212608	1637612256	11184890880	--	--	--	--	--	--	--
+5	194	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	310037760	1240151040	1744716544	9580796928	785428352	1744716416	11916414208	--	--	--	--	--	--	--
+5	195	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	196	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	197	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	198	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	199	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	200	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49264988	47460452	2098125312	164840320	66657936	2293033136	--	--	--	--	--	--	--
+5	201	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	50239080	48398864	2139610496	168099616	67975928	2338372128	--	--	--	--	--	--	--
+5	202	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	307137728	1228550784	1728396672	9491179520	778081536	1728396480	11804949760	--	--	--	--	--	--	--
+5	203	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	294766208	1179064832	1658776832	9108874240	746740416	1658776896	11329445632	--	--	--	--	--	--	--
+5	204	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	205	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	206	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	207	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47068084	48369856	2138328064	171139744	67935188	2336970560	--	--	--	--	--	--	--
+5	208	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46586904	47875368	2116467840	169390176	67240672	2313079616	--	--	--	--	--	--	--
+5	209	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	437396064	1749584256	2461416704	13516427264	1108069120	2461416928	16811476480	--	--	--	--	--	--	--
+5	210	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	445900896	1783603584	2509277184	13779244032	1129614720	2509277280	17138363136	--	--	--	--	--	--	--
+5	211	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	426885056	1707540224	2402266880	13191615488	1081441280	2402266816	16407482112	--	--	--	--	--	--	--
+5	212	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	213	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	214	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	215	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18814164	20543992	908206016	73864624	28853916	992574880	--	--	--	--	--	--	--
+5	216	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20198788	22055920	975045120	79300672	30977420	1065623080	--	--	--	--	--	--	--
+5	217	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	218	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	219	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18985166	21951084	970410496	80041352	30830178	1060557920	--	--	--	--	--	--	--
+5	220	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18007564	20820758	920441280	75919792	29242642	1005946752	--	--	--	--	--	--	--
+6	222	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	21458060	--	--	--	--
+6	223	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	224	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+6	225	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	226	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	227	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	228	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15476819	44049408	49692708	2196808448	164649312	69793143	2400883552	--	--	--	--	--	--	--
+6	229	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15140949	43093472	48614304	2149134592	161076176	68278517	2348780976	--	--	--	--	--	--	--
+6	230	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	403490496	1613961984	2270615296	12468675584	1022175040	2270615296	15508303104	--	--	--	--	--	--	--
+6	231	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	394266048	1577064192	2218705664	12183622656	998806528	2218705600	15153759488	--	--	--	--	--	--	--
+6	232	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	233	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	234	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	235	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	236	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	237	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6912883	46263140	47810012	2113578496	162506208	67148883	2309921856	--	--	--	--	--	--	--
+6	238	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6982890	46731648	48294184	2134982784	164151920	67828914	2333314512	--	--	--	--	--	--	--
+6	239	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	240	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	241	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	242	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	243	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	244	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	50185632	48347376	2137334272	167920784	67903616	2335884448	--	--	--	--	--	--	--
+6	245	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	51653388	49761368	2199843840	172831888	69889556	2404200928	--	--	--	--	--	--	--
+6	246	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308722656	1234890624	1737315968	9540157440	782096768	1737315936	11865867520	--	--	--	--	--	--	--
+6	247	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	306600416	1226401664	1725373184	9474576384	776720448	1725373088	11784299008	--	--	--	--	--	--	--
+6	248	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	249	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	250	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	251	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47209728	48515416	2144763008	171654768	68139624	2344003296	--	--	--	--	--	--	--
+6	252	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	48611008	49955456	2208423936	176749840	70162160	2413578080	--	--	--	--	--	--	--
+6	253	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	254	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	255	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	256	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20144470	21996608	972423040	79087416	30894110	1062757424	--	--	--	--	--	--	--
+6	257	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18825464	20556330	908751488	73908992	28871250	993171024	--	--	--	--	--	--	--
+6	258	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	259	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	260	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19121564	22108792	977382464	80616408	31051668	1068177560	--	--	--	--	--	--	--
+6	261	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18996608	21964312	970995328	80089584	30848752	1061197080	--	--	--	--	--	--	--
+7	263	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	22256770	--	--	--	--
+7	264	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+7	265	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+7	266	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	267	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	268	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	269	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15972303	43184376	49384208	2183170304	163627136	69359847	2385978480	--	--	--	--	--	--	--
+7	270	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16378004	44281268	50638580	2238623488	167783312	71121596	2446583056	--	--	--	--	--	--	--
+7	271	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	407485696	1629942784	2293098240	12592136192	1032296256	2293098048	15661861120	--	--	--	--	--	--	--
+7	272	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	365810528	1463242112	2058574080	11304289280	926719232	2058574048	14060061184	--	--	--	--	--	--	--
+7	273	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	274	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	275	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	276	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	277	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	278	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7745139	47577284	49739812	2198891008	169065616	69859291	2403159568	--	--	--	--	--	--	--
+7	279	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7691559	47248144	49395716	2183679232	167896032	69376011	2386534672	--	--	--	--	--	--	--
+7	280	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	302434016	1209736064	1701926912	9345825792	766165504	1701927008	11624161280	--	--	--	--	--	--	--
+7	281	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	293375840	1173503360	1650952704	9065909248	743218176	1650952672	11276006656	--	--	--	--	--	--	--
+7	282	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308914944	1235659776	1738398080	9546099712	782583936	1738397952	11873258496	--	--	--	--	--	--	--
+7	283	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	284	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	285	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	286	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	287	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	288	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	503593	49855664	48514640	2144728704	168501728	68138537	2343965792	--	--	--	--	--	--	--
+7	289	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	523731	51849356	50454704	2230494720	175240000	70863359	2437699152	--	--	--	--	--	--	--
+7	290	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	297542400	1190169600	1674399744	9194664960	753773440	1674399872	11436150272	--	--	--	--	--	--	--
+7	291	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	306236000	1224944000	1723322496	9463315456	775797248	1723322464	11770292736	--	--	--	--	--	--	--
+7	292	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	293	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	294	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	295	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	296	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	297	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47162932	48467328	2142637056	171484624	68072100	2341679840	--	--	--	--	--	--	--
+7	298	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	48148228	49479872	2187399424	175067152	69494212	2390600464	--	--	--	--	--	--	--
+7	299	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	469497952	1877991808	2642067968	14508440576	1189393792	2642068064	18045324032	--	--	--	--	--	--	--
+7	300	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	460798272	1843193088	2593111296	14239603712	1167354624	2593111104	17710949888	--	--	--	--	--	--	--
+7	301	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	452392000	1809568000	2545805568	13979832320	1146058752	2545805376	17387851264	--	--	--	--	--	--	--
+7	302	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	303	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	304	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	305	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19171056	20933694	925433984	75265784	29401262	1011403256	--	--	--	--	--	--	--
+7	306	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19094250	20849828	921726400	74964240	29283462	1007351256	--	--	--	--	--	--	--
+7	307	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	308	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	309	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18878100	21827292	964937984	79589968	30656312	1054577032	--	--	--	--	--	--	--
+7	310	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18569342	21470298	949156032	78288240	30154912	1037329000	--	--	--	--	--	--	--
+8	312	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	24407160	--	--	--	--
+8	313	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+8	314	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+8	315	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	316	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	317	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	318	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16253895	41795732	48460036	2142314880	160565040	68061855	2341327728	--	--	--	--	--	--	--
+8	319	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16011511	41172456	47737384	2110367744	158170624	67046887	2306412832	--	--	--	--	--	--	--
+8	320	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	436966400	1747865600	2458999040	13503150080	1106980608	2458999040	16794962688	--	--	--	--	--	--	--
+8	321	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	390347360	1561389440	2196653312	12062526464	988879168	2196653344	15003142400	--	--	--	--	--	--	--
+8	322	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	323	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	324	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	325	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	326	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	327	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8427876	47757964	50516104	2233209088	171704224	70949592	2440665664	--	--	--	--	--	--	--
+8	328	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8353059	47334000	50067656	2213384192	170179952	70319739	2418999120	--	--	--	--	--	--	--
+8	329	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	330	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	331	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	332	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	333	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	334	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	988677	48445184	47623144	2105317504	165405376	66886445	2300893440	--	--	--	--	--	--	--
+8	335	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1014264	49698924	48855604	2159802112	169685984	68617432	2360439456	--	--	--	--	--	--	--
+8	336	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308672960	1234691840	1737036288	9538621440	781970880	1737036416	11863956992	--	--	--	--	--	--	--
+8	337	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	310797728	1243190912	1748993152	9604281344	787353536	1748993120	11945623552	--	--	--	--	--	--	--
+8	338	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	339	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	340	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	341	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	342	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	343	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46563896	47851724	2115422592	169306528	67207476	2311937264	--	--	--	--	--	--	--
+8	344	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	48247176	49581560	2191894784	175426928	69637024	2395513424	--	--	--	--	--	--	--
+8	345	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	346	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	347	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	348	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20181222	22036738	974197120	79231704	30950472	1064696312	--	--	--	--	--	--	--
+8	349	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19670954	21479554	949565248	77228384	30167908	1037776232	--	--	--	--	--	--	--
+8	350	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	351	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	352	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19483672	22527470	995891328	82143056	31639702	1088405824	--	--	--	--	--	--	--
+8	353	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18455126	21338240	943318016	77806704	29969438	1030948648	--	--	--	--	--	--	--
+9	355	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	25524640	--	--	--	--
+9	356	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+9	357	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+9	358	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	359	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	360	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	361	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16939144	41471696	48761580	2155645440	161564160	68485364	2355896656	--	--	--	--	--	--	--
+9	362	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17307624	42373840	49822304	2202537728	165078704	69975144	2407145056	--	--	--	--	--	--	--
+9	363	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	424300128	1697200512	2387720448	13111736320	1074892800	2387720416	16308129792	--	--	--	--	--	--	--
+9	364	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	388788416	1555153664	2187880704	12014352384	984929856	2187880704	14943224320	--	--	--	--	--	--	--
+9	365	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	366	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	367	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	368	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	369	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	370	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8665594	45494368	48694660	2152686848	165513136	68391374	2352663232	--	--	--	--	--	--	--
+9	371	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8794179	46169440	49417220	2184629760	167969120	69406215	2387573504	--	--	--	--	--	--	--
+9	372	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	292433696	1169734784	1645650944	9036795904	740831424	1645650784	11239795968	--	--	--	--	--	--	--
+9	373	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	299794592	1199178368	1687073792	9264262144	759479040	1687073824	11522714112	--	--	--	--	--	--	--
+9	374	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308769824	1235079296	1737581440	9541615616	782216256	1737581408	11867681024	--	--	--	--	--	--	--
+9	375	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	376	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	377	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	378	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	379	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	380	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1577471	51004884	50656308	2239407104	175940192	71146503	2447439456	--	--	--	--	--	--	--
+9	381	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1555052	50280008	49936384	2207580928	173439760	70135380	2412656752	--	--	--	--	--	--	--
+9	382	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	302681888	1210727552	1703321856	9353485312	766793472	1703321760	11633688320	--	--	--	--	--	--	--
+9	383	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	299015808	1196063232	1682691328	9240196096	757506112	1682691264	11492781312	--	--	--	--	--	--	--
+9	384	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	385	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	386	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	387	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	388	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	389	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46410000	47693572	2108430976	168746960	66985364	2304296144	--	--	--	--	--	--	--
+9	390	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47336144	48645328	2150506240	172114416	68322096	2350280032	--	--	--	--	--	--	--
+9	391	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	438712480	1754849920	2468824832	13557106688	1111404032	2468824864	16862073088	--	--	--	--	--	--	--
+9	392	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	461658272	1846633088	2597950720	14266178560	1169533312	2597950880	17744003072	--	--	--	--	--	--	--
+9	393	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	450250688	1801002752	2533755392	13913661440	1140634112	2533755328	17305549056	--	--	--	--	--	--	--
+9	394	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	395	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	396	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	397	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20617992	22513666	995281088	80946464	31620314	1087738896	--	--	--	--	--	--	--
+9	398	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18792444	20520272	907157376	73779344	28820604	991428832	--	--	--	--	--	--	--
+9	399	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	400	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	401	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18238164	21087384	932228224	76892000	29617116	1018828656	--	--	--	--	--	--	--
+9	402	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17982128	20791350	919141184	75812552	29201326	1004525888	--	--	--	--	--	--	--
+10	404	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	27419530	--	--	--	--
+10	405	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+10	406	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+10	407	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	408	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	409	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	410	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17570012	40996696	48891696	2161397504	161995280	68668116	2362183072	--	--	--	--	--	--	--
+10	411	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17913464	41798080	49847412	2203647744	165161888	70010412	2408358176	--	--	--	--	--	--	--
+10	412	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	434659584	1738638336	2446017536	13431864320	1101136768	2446017408	16706299136	--	--	--	--	--	--	--
+10	413	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	378734080	1514936320	2131300480	11703652352	959458880	2131300544	14556781568	--	--	--	--	--	--	--
+10	414	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	415	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	416	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	417	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	418	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	419	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9110642	44481368	48184020	2130112640	163777472	67674190	2327991952	--	--	--	--	--	--	--
+10	420	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9469804	46234924	50083544	2214086400	170233952	70342064	2419766560	--	--	--	--	--	--	--
+10	421	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	422	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	423	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	424	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	425	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	426	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2008153	48195668	48364896	2138108800	167981648	67928237	2336730928	--	--	--	--	--	--	--
+10	427	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2036757	48882168	49053812	2168564224	170374384	68895793	2370015552	--	--	--	--	--	--	--
+10	428	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	310971168	1243884672	1749969280	9609640960	787792960	1749969248	11952289792	--	--	--	--	--	--	--
+10	429	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	316809600	1267238400	1782824576	9790060544	802583616	1782824512	12176692224	--	--	--	--	--	--	--
+10	430	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	431	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	432	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	433	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	434	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	435	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47488064	48801452	2157408000	172666800	68541356	2357822960	--	--	--	--	--	--	--
+10	436	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46439412	47723796	2109767168	168853904	67027816	2305756464	--	--	--	--	--	--	--
+10	437	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	438	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	439	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	440	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18996668	20743274	917015872	74581136	29133814	1002203136	--	--	--	--	--	--	--
+10	441	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18881418	20617428	911452480	74128664	28957062	996122928	--	--	--	--	--	--	--
+10	442	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	443	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	444	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17883754	20677606	914112832	75397808	29041584	999030416	--	--	--	--	--	--	--
+10	445	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19443580	22481114	993842048	81974032	31574598	1086166176	--	--	--	--	--	--	--
+11	447	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	29054420	--	--	--	--
+11	448	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+11	449	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+11	450	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	451	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	452	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	453	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	18310232	40755032	49307892	2179796736	163374272	69252660	2382291504	--	--	--	--	--	--	--
+11	454	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	18625928	41457712	50158036	2217379840	166191104	70446684	2423365936	--	--	--	--	--	--	--
+11	455	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	414383520	1657534080	2331915264	12805293056	1049770688	2331915232	15926981376	--	--	--	--	--	--	--
+11	456	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	426264864	1705059456	2398776832	13172450304	1079870080	2398776864	16383644672	--	--	--	--	--	--	--
+11	457	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	458	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	459	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	460	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	461	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	462	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9616413	43808104	48033428	2123455360	163265616	67462681	2320716240	--	--	--	--	--	--	--
+11	463	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9658111	43998064	48241708	2132662912	163973552	67755211	2330779136	--	--	--	--	--	--	--
+11	464	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	310574368	1242297472	1747736320	9597379584	786787776	1747736416	11937039104	--	--	--	--	--	--	--
+11	465	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	307277248	1229108992	1729181952	9495491584	778435072	1729181888	11810312960	--	--	--	--	--	--	--
+11	466	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308577600	1234310400	1736499712	9535675392	781729280	1736499520	11860292864	--	--	--	--	--	--	--
+11	467	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	468	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	469	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	470	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	471	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	472	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2577415	48970880	49660128	2195368192	172480256	69747367	2399309504	--	--	--	--	--	--	--
+11	473	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	2532407	48115740	48792948	2157031936	169468352	68529415	2357411968	--	--	--	--	--	--	--
+11	474	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	309553536	1238214144	1741991680	9565834240	784201664	1741991488	11897803776	--	--	--	--	--	--	--
+11	475	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	316153216	1264612864	1779130752	9769776128	800920768	1779130816	12151462912	--	--	--	--	--	--	--
+11	476	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	477	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	478	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	479	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	480	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	481	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47614936	48931832	2163171840	173128096	68724480	2364122224	--	--	--	--	--	--	--
+11	482	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	48273240	49608344	2193079040	175521712	69674640	2396807696	--	--	--	--	--	--	--
+11	483	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	457460384	1829841536	2574327552	14136456192	1158898688	2574327328	17582657024	--	--	--	--	--	--	--
+11	484	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	431785184	1727140736	2429841920	13343040512	1093854976	2429842016	16595821312	--	--	--	--	--	--	--
+11	485	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	424406016	1697624064	2388316160	13115008000	1075160960	2388316032	16312199168	--	--	--	--	--	--	--
+11	486	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	487	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	488	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	489	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20353756	22225136	982525824	79909080	31215084	1073798712	--	--	--	--	--	--	--
+11	490	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19278074	21050552	930600000	75685936	29565378	1017049184	--	--	--	--	--	--	--
+11	491	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	492	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	493	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19489706	22534444	996199680	82168488	31649494	1088742824	--	--	--	--	--	--	--
+11	494	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18830994	21772826	962530176	79391360	30579812	1051945544	--	--	--	--	--	--	--
+12	496	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	30660250	--	--	--	--
+12	497	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+12	498	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+12	499	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	500	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	501	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	502	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	18730840	39803032	48864288	2160185856	161904464	68629616	2360858864	--	--	--	--	--	--	--
+12	503	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	19227136	40857664	50159008	2217422592	166194320	70448048	2423412672	--	--	--	--	--	--	--
+12	504	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	399366976	1597467904	2247410688	12341251072	1011728832	2247410688	15349814784	--	--	--	--	--	--	--
+12	505	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	397907104	1591628416	2239195392	12296137728	1008030464	2239195424	15293703680	--	--	--	--	--	--	--
+12	506	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	507	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	508	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	509	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	510	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	511	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10163446	43328376	48093940	2126130304	163471280	67547666	2323639680	--	--	--	--	--	--	--
+12	512	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10492651	44731828	49651756	2194998016	168766304	69735611	2398904944	--	--	--	--	--	--	--
+12	513	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	514	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	515	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	516	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	517	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	518	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3066974	48049252	49243884	2176966912	171034544	69162750	2379198816	--	--	--	--	--	--	--
+12	519	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3037830	47592676	48775952	2156280832	169409328	68505546	2356591072	--	--	--	--	--	--	--
+12	520	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	308401824	1233607296	1735510400	9530243072	781283968	1735510304	11853536256	--	--	--	--	--	--	--
+12	521	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	304364288	1217457152	1712789504	9405474816	771055552	1712789440	11698351872	--	--	--	--	--	--	--
+12	522	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	523	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	524	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	525	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	526	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	527	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46479480	47764976	2111587584	168999584	67085640	2307745984	--	--	--	--	--	--	--
+12	528	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46339076	47620684	2105208832	168489072	66882992	2300774672	--	--	--	--	--	--	--
+12	529	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	530	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	531	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	532	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18801754	20530438	907606848	73815896	28834888	991920048	--	--	--	--	--	--	--
+12	533	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19150892	20911678	924460608	75186624	29370338	1010339464	--	--	--	--	--	--	--
+12	534	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	535	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	536	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18311084	21171696	935955456	77199432	29735524	1022902144	--	--	--	--	--	--	--
+12	537	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18460692	21344674	943602496	77830176	29978478	1031259560	--	--	--	--	--	--	--
+13	539	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	32359440	--	--	--	--
+13	540	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+13	541	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+13	542	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	543	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	544	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	545	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	18776004	38120976	47497804	2099776512	157376832	66710400	2294837728	--	--	--	--	--	--	--
+13	546	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	18961678	38497952	47967508	2120541056	158933120	67370098	2317531216	--	--	--	--	--	--	--
+13	547	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	433452096	1733808384	2439222272	13394550784	1098077696	2439222336	16659888896	--	--	--	--	--	--	--
+13	548	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	425201888	1700807552	2392794880	13139602432	1077177216	2392794848	16342789120	--	--	--	--	--	--	--
+13	549	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	550	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	551	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	552	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	553	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	554	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10931405	43725616	49141560	2172443392	167032160	69019045	2374255088	--	--	--	--	--	--	--
+13	555	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10722405	42889620	48202012	2130908160	163838624	67699445	2328861376	--	--	--	--	--	--	--
+13	556	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	310552736	1242210944	1747614592	9596710912	786732928	1747614496	11936207616	--	--	--	--	--	--	--
+13	557	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	301447520	1205790080	1696375424	9315340288	763666368	1696375584	11586244096	--	--	--	--	--	--	--
+13	558	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	287106336	1148425344	1615671552	8872169472	727335488	1615671520	11035036672	--	--	--	--	--	--	--
+13	559	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	560	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	561	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	562	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	563	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	564	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3570879	47441684	49144016	2172551936	170687680	69022483	2374373712	--	--	--	--	--	--	--
+13	565	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	3530584	46906332	48589456	2148036096	168761584	68243620	2347580432	--	--	--	--	--	--	--
+13	566	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	315733632	1262934528	1776769664	9756810240	799857856	1776769728	12135336192	--	--	--	--	--	--	--
+13	567	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	305538560	1222154240	1719397504	9441762304	774030336	1719397504	11743485440	--	--	--	--	--	--	--
+13	568	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	569	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	570	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	571	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	572	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	573	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47758980	49079860	2169715968	173651856	68932392	2371274272	--	--	--	--	--	--	--
+13	574	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49067624	50424700	2229168384	178410096	70821220	2436249584	--	--	--	--	--	--	--
+13	575	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	454932384	1819729536	2560101376	14058335232	1152494464	2560101280	17485491712	--	--	--	--	--	--	--
+13	576	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	393938848	1575755392	2216864256	12173510656	997977600	2216864288	15141182464	--	--	--	--	--	--	--
+13	577	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	420370944	1681483776	2365608960	12990316544	1064938816	2365609024	16157110016	--	--	--	--	--	--	--
+13	578	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	579	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	580	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	581	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19632822	21437918	947724544	77078680	30109436	1035764528	--	--	--	--	--	--	--
+13	582	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20525904	22413112	990835840	80584936	31479088	1082880704	--	--	--	--	--	--	--
+13	583	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	584	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	585	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18470832	21356400	944120832	77872928	29994944	1031826048	--	--	--	--	--	--	--
+13	586	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18982432	21947922	970270784	80029824	30825738	1060405224	--	--	--	--	--	--	--
+14	588	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	33246480	--	--	--	--
+14	589	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+14	590	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+14	591	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	592	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	593	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+14	594	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20368176	39538224	50010080	2210839040	165700880	70238880	2416217520	--	--	--	--	--	--	--
+14	595	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	19807088	38449052	48632436	2149936128	161136256	68303984	2349656976	--	--	--	--	--	--	--
+14	596	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	393883392	1575533568	2216552192	12171797504	997837120	2216552256	15139051520	--	--	--	--	--	--	--
+14	597	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	414052224	1656208896	2330051072	12795055104	1048931456	2330051072	15914247680	--	--	--	--	--	--	--
+14	598	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	599	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	600	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	601	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	602	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	603	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	11369411	42770640	48676756	2151895552	165452288	68366231	2351798416	--	--	--	--	--	--	--
+14	604	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	11342007	42667548	48559428	2146708736	165053488	68201447	2346129760	--	--	--	--	--	--	--
+14	605	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	606	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	607	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	608	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	609	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	610	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4123674	47422252	49657844	2195267328	172472320	69744170	2399199248	--	--	--	--	--	--	--
+14	611	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4109694	47261476	49489488	2187824640	171887584	69507714	2391065168	--	--	--	--	--	--	--
+14	612	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	293212832	1172851328	1650035328	9060872192	742805248	1650035360	11269741568	--	--	--	--	--	--	--
+14	613	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	295396448	1181585792	1662323584	9128350720	748337088	1662323488	11353670144	--	--	--	--	--	--	--
+14	614	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	615	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	616	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	617	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	618	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	619	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49257264	50619580	2237783552	179099616	71094924	2445665088	--	--	--	--	--	--	--
+14	620	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46297136	47577584	2103303424	168336576	66822464	2298692256	--	--	--	--	--	--	--
+14	621	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	622	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	623	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	624	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19566454	21365446	944520768	76818120	30007652	1032263136	--	--	--	--	--	--	--
+14	625	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19691692	21502198	950566272	77309800	30199714	1038870248	--	--	--	--	--	--	--
+14	626	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	627	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	628	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18380404	21251842	939498624	77491672	29848094	1026774448	--	--	--	--	--	--	--
+14	629	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17645672	20402330	901943488	74394056	28654954	985730592	--	--	--	--	--	--	--
+15	631	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	35560020	--	--	--	--
+15	632	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+15	633	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+15	634	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	635	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	636	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+15	637	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20517812	38104504	48938120	2163449856	162149088	68733300	2364426080	--	--	--	--	--	--	--
+15	638	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	21233214	39433112	50644468	2238883840	167802816	71129866	2446867584	--	--	--	--	--	--	--
+15	639	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	403644064	1614576256	2271479552	12473421824	1022564096	2271479584	15514206208	--	--	--	--	--	--	--
+15	640	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	386572224	1546288896	2175409152	11945867264	979315520	2175409152	14858043904	--	--	--	--	--	--	--
+15	641	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	642	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	643	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	644	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	645	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	646	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	11686718	41434728	47760940	2111409280	162339424	67079970	2307551120	--	--	--	--	--	--	--
+15	647	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12238960	43392676	50017824	2211181312	170010576	70249748	2416591600	--	--	--	--	--	--	--
+15	648	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	285154176	1140616832	1604685952	8811843584	722390016	1604685952	10960004608	--	--	--	--	--	--	--
+15	649	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	289707648	1158830592	1630310144	8952554496	733925440	1630310080	11135018240	--	--	--	--	--	--	--
+15	650	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	307067712	1228270848	1728002944	9489016832	777904256	1728002880	11802259712	--	--	--	--	--	--	--
+15	651	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	652	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	653	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	654	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	655	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	656	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4570460	46212424	48922752	2162770432	169919184	68711732	2363683520	--	--	--	--	--	--	--
+15	657	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4681410	47334256	50110376	2215272704	174044064	70379738	2421063072	--	--	--	--	--	--	--
+15	658	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	299999648	1199998592	1688227712	9270598656	759998464	1688227744	11530595328	--	--	--	--	--	--	--
+15	659	Shield Depleted	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+15	660	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1492727424	0	1680044544	9225662464	756314560	1680044608	11474704384	--	--	--	--	--	--	--
+15	661	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	662	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	663	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	664	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	665	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	666	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46375880	47658508	2106880768	168622880	66936100	2302601936	--	--	--	--	--	--	--
+15	667	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47575596	48891404	2161384448	172985056	68667704	2362168800	--	--	--	--	--	--	--
+15	668	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2154728960	0	2425118464	13317101568	1091728512	2425118336	16563559168	--	--	--	--	--	--	--
+15	669	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2328500992	0	2620696320	14391081984	1179772800	2620696192	17899355904	--	--	--	--	--	--	--
+15	670	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2017510016	0	2270680320	12469031936	1022204224	2270680256	15508746240	--	--	--	--	--	--	--
+15	671	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	672	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	673	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	674	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18840406	20572644	909472704	73967648	28894162	993959240	--	--	--	--	--	--	--
+15	675	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19193748	20958474	926529344	75354872	29436062	1012600376	--	--	--	--	--	--	--
+15	676	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	677	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	678	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19028220	22000864	972611200	80222864	30900092	1062963056	--	--	--	--	--	--	--
+15	679	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18429696	21308838	942018176	77699496	29928142	1029528064	--	--	--	--	--	--	--
+16	681	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	37464290	--	--	--	--
+16	682	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+16	683	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+16	684	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	685	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	686	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+16	687	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	21157532	37613388	49062176	2168934144	162560128	68907544	2370419824	--	--	--	--	--	--	--
+16	688	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	20930776	37210268	48536352	2145688576	160817904	68169044	2345014832	--	--	--	--	--	--	--
+16	689	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1862343680	0	2096042624	11510040576	943586688	2096042752	14315970816	--	--	--	--	--	--	--
+16	690	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2218139392	0	2496485888	13709002752	1123856384	2496485888	17050998528	--	--	--	--	--	--	--
+16	691	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	692	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+16	693	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	694	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	695	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+16	696	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12827268	42943464	50142884	2216709888	170435648	70425392	2422633760	--	--	--	--	--	--	--
+16	697	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12323584	41257216	48173940	2129667072	163743216	67660036	2327504992	--	--	--	--	--	--	--
+16	698	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	699	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	700	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+16	701	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	702	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	703	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5051467	45463208	48664364	2151347712	169021760	68348831	2351199680	--	--	--	--	--	--	--
+16	704	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5081543	45733892	48954108	2164156672	170028096	68755767	2365198544	--	--	--	--	--	--	--
+16	705	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1532568832	0	1724885504	9471897600	776500864	1724885632	11780967168	--	--	--	--	--	--	--
+16	706	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1602370176	0	1803446016	9903299584	811866880	1803445888	12317536768	--	--	--	--	--	--	--
+16	707	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+16	708	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+16	709	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	710	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	711	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+16	712	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	48201524	49534644	2189820928	175260944	69571128	2393246912	--	--	--	--	--	--	--
+16	713	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47103288	48406032	2139927296	171267744	67986008	2338718352	--	--	--	--	--	--	--
+16	714	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	715	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	716	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	717	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20237614	22098316	976919360	79453104	31036962	1067671432	--	--	--	--	--	--	--
+16	718	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19844280	21668818	957932160	77908872	30433738	1046920392	--	--	--	--	--	--	--
+16	719	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	720	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	721	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18252510	21103970	932961472	76952480	29640408	1019630024	--	--	--	--	--	--	--
+16	722	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18601116	21507036	950780160	78422200	30206512	1039104000	--	--	--	--	--	--	--
+17	724	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	38686080	--	--	--	--
+17	725	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+17	726	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+17	727	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	728	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	729	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+17	730	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	21546356	36687036	48613444	2149096704	161073328	68277300	2348739568	--	--	--	--	--	--	--
+17	731	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22184642	37773848	50053564	2212761344	165844944	70299942	2418318400	--	--	--	--	--	--	--
+17	732	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1914238208	0	2154449152	11830770688	969879936	2154449024	14714888960	--	--	--	--	--	--	--
+17	733	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1922536320	0	2163788544	11882055680	974084224	2163788544	14778676224	--	--	--	--	--	--	--
+17	734	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	735	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+17	736	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	737	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	738	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	739	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13350007	42275020	50011884	2210918656	169990384	70241407	2416304544	--	--	--	--	--	--	--
+17	740	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	12758419	40401660	47795676	2112944768	162457488	67128763	2309229248	--	--	--	--	--	--	--
+17	741	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1473630976	0	1658551808	9107638272	746639104	1658551808	11327908352	--	--	--	--	--	--	--
+17	742	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1541824000	0	1735302144	9529099264	781190208	1735302208	11852113408	--	--	--	--	--	--	--
+17	743	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1524329600	0	1715612416	9420977152	772326400	1715612288	11717633280	--	--	--	--	--	--	--
+17	744	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	745	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+17	746	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	747	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	748	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	749	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5460018	44176508	47818384	2113948544	166083472	67160638	2310326288	--	--	--	--	--	--	--
+17	750	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5653970	45745756	49516996	2189040640	171983136	69546354	2392394144	--	--	--	--	--	--	--
+17	751	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1447316608	0	1628935296	8945004544	733306496	1628935296	11125627648	--	--	--	--	--	--	--
+17	752	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1460399872	0	1643660288	9025864704	739935296	1643660352	11226199808	--	--	--	--	--	--	--
+17	753	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+17	754	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+17	755	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	756	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	757	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	758	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	47431600	48743424	2154842624	172461488	68459872	2355019264	--	--	--	--	--	--	--
+17	759	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46580340	47868620	2116169600	169366304	67231200	2312753664	--	--	--	--	--	--	--
+17	760	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1945740416	0	2189904384	12025465856	985840960	2189904320	14957047296	--	--	--	--	--	--	--
+17	761	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2179384320	0	2452867584	13469480960	1104220544	2452867456	16753085952	--	--	--	--	--	--	--
+17	762	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2056553728	0	2314623232	12710337536	1041986304	2314623232	15808877568	--	--	--	--	--	--	--
+17	763	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	764	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	765	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+17	766	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20390496	22265254	984299328	80053320	31271422	1075736976	--	--	--	--	--	--	--
+17	767	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	20438392	22317552	986611328	80241352	31344880	1078263744	--	--	--	--	--	--	--
+17	768	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	769	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	770	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	17601228	20350942	899671680	74206672	28582778	983247744	--	--	--	--	--	--	--
+17	771	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19275376	22286630	985244352	81264872	31301446	1076769784	--	--	--	--	--	--	--
+18	773	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	40476700	--	--	--	--
+18	774	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+18	775	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+18	776	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	777	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	778	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+18	779	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22309756	36400128	49011224	2166681600	162391312	68835988	2367958032	--	--	--	--	--	--	--
+18	780	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22342136	36452960	49082356	2169826304	162627008	68935900	2371394864	--	--	--	--	--	--	--
+18	781	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2242464768	0	2523863808	13859344384	1136181248	2523863808	17237990400	--	--	--	--	--	--	--
+18	782	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2080382720	0	2341442560	12857610240	1054059712	2341442496	15992052736	--	--	--	--	--	--	--
+18	783	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	784	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+18	785	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	786	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	787	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+18	788	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13286096	39858288	47781560	2112320896	162409520	67108936	2308547424	--	--	--	--	--	--	--
+18	789	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	13568925	40706776	48798716	2157287168	165866832	68537537	2357690880	--	--	--	--	--	--	--
+18	790	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	791	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	792	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+18	793	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	794	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	795	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6194612	45427160	49730908	2198497280	172726096	69846792	2402729264	--	--	--	--	--	--	--
+18	796	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6116542	44854640	49104148	2170789632	170549232	68966514	2372447680	--	--	--	--	--	--	--
+18	797	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1472731392	0	1657539200	9102077952	746183296	1657539328	11320992512	--	--	--	--	--	--	--
+18	798	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	1595295360	0	1795483392	9859573760	808282304	1795483456	12263151360	--	--	--	--	--	--	--
+18	799	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+18	800	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+18	801	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	802	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	803	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+18	804	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	49270040	50632712	2238364160	179146080	71113360	2446299632	--	--	--	--	--	--	--
+18	805	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	46674376	47965260	2120441728	169708224	67366932	2317422656	--	--	--	--	--	--	--
+18	806	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	807	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	808	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	809	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18915292	20654414	913087552	74261648	29009010	997909896	--	--	--	--	--	--	--
+18	810	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	19611052	21414146	946673664	76993208	30076046	1034616024	--	--	--	--	--	--	--
+18	811	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	812	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	813	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18172308	21011238	928861952	76614344	29510170	1015149672	--	--	--	--	--	--	--
+18	814	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	18646712	21559756	953110720	78614432	30280556	1041651064	--	--	--	--	--	--	--
+19	816	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	41909030	--	--	--	--
+19	817	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+19	818	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+19	819	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+19	820	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	821	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+19	822	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22909800	35833280	49038936	2167906560	162483120	68874912	2369296784	--	--	--	--	--	--	--
+19	823	Attack	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	22636128	35405228	48453136	2142009600	160542160	68052156	2340994096	--	--	--	--	--	--	--
+19	824	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2172215296	0	2444798976	13425173504	1100588160	2444799104	16697976832	--	--	--	--	--	--	--
+19	825	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	--	--	YES	2135266688	0	2403213824	13196815360	1081867520	2403213952	16413949440	--	--	--	--	--	--	--
+19	826	Combatant Destroyed	V'ger Gorn Hunter ▶	--	V'ger Gorn Hunter	NO	XanOfHanoi	ThunderDome	V'ger Gorn Hunter	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

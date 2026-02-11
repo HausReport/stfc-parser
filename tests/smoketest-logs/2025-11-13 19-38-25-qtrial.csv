@@ -1,0 +1,64 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	65	DEFEAT	U.S.S. ENTERPRISE-D	60	3377154560	0	Kathryn Janeway	The Doctor	Annorax	3028249924	0	2691015207	0	Anzat Alpha	11/13/2025 7:38:25 PM
+--	1	VICTORY	Klingon Bird-of-Prey	1	246416211968	0	Klingon Strike Force	--	--	167828000000	162518048407	167828000000	157746787554	Anzat Alpha	11/13/2025 7:38:25 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	454027872	185812928	2737313792	Galaxy Class	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	6.5	387891680	3633309	3687741	42593916	0.22	3.4	6.5	2545949	32058110	2558528	6.5	2446377461	3028249924	207	1184	311.36	4187470	0	1	NO	NO
+Enemy Fleet 1	64434372608	14153834496	167827996672	ship_ability_name_{0}	--	--	--	--	0	60213772288	175858368	1342740480	591701632	0.1	1.5	0	1054859328	1054859328	721048256	0	167827996672	167827996672	103	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1750	--	Agony Booth	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	--	Agony Booth	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1500	Not Playing Nice	The Godsend	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.35	Black Market Armaments	The Godsend	--	--	--
+1	10	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	87566584	412813888	142844016	0	194147728	837372216	0	--	--	--	--	--	--	--
+1	11	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	72625960	342379520	118471936	0	161022208	694499624	0	--	--	--	--	--	--	--
+1	12	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	81392744	383708640	132772856	0	180459424	778333664	0	--	--	--	--	--	--	--
+1	13	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	78636800	370716320	128277184	0	174349088	751979392	0	--	--	--	--	--	--	--
+1	14	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	82468088	388778112	134527024	0	182843616	788616840	0	--	--	--	--	--	--	--
+1	15	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	87545104	412712608	142808960	0	194100080	837166752	0	--	--	--	--	--	--	--
+1	16	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	76241160	359422624	124369280	0	169037632	729070696	0	--	--	--	--	--	--	--
+1	17	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	84296472	397397632	137509600	0	186897408	806101112	0	--	--	--	--	--	--	--
+1	18	Shield Depleted	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1669915904	3170419968	662365696	0	0	930295808	4572405760	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1714347136	3254775040	679989184	0	0	955048256	4694063104	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	NO	115388424	219070784	45768376	0	0	64281920	315945664	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1594360704	3026974720	632397056	0	0	888204928	4365527552	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	NO	102302784	194227024	40578004	0	0	56992004	280115808	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	Klingon Bird-of-Prey	NO	--	--	NO	113636592	215744848	45073520	0	0	63306000	311148960	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	30	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	31	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	32	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	218217360	0	539822592	0	134858304	892898256	0	--	--	--	--	--	--	--
+1	33	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	34	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	238544640	0	590107968	0	147420576	976073184	0	--	--	--	--	--	--	--
+1	35	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	204821648	0	506684544	0	126579768	838085960	0	--	--	--	--	--	--	--
+1	36	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	233824272	0	578430720	0	144503376	956758368	0	--	--	--	--	--	--	--
+1	37	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	232106864	0	574182272	0	143442032	949731168	0	--	--	--	--	--	--	--
+1	38	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	39	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	40	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	41	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+1	42	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+1	43	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	44	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	45	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	46	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	218939344	0	368194144	0	185660208	772793696	0	--	--	--	--	--	--	--
+1	47	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	221546560	0	372578752	0	187871136	781996448	0	--	--	--	--	--	--	--
+1	48	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	208835920	0	351203040	0	177092544	737131504	0	--	--	--	--	--	--	--
+1	49	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	201913024	0	339560672	0	171221936	712695632	0	--	--	--	--	--	--	--
+1	50	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	203067168	0	341501632	0	172200640	716769440	0	--	--	--	--	--	--	--
+1	51	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	NO	201595424	0	339026560	0	170952608	711574592	0	--	--	--	--	--	--	--
+1	52	Combatant Destroyed	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

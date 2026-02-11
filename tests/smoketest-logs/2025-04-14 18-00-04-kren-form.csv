@@ -1,0 +1,124 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Temporal Dreadnought	43	DEFEAT	Static Temporal Dreadnought	43	4066685184	0	Krenim Commander	--	--	3600000000	0	3900000000	0	Vorex Cluster	4/14/2025 6:00:04 PM
+
+Formation Armada Results	Leader	Alliance Tag
+VICTORY	SubspaceEddie	TD
+VICTORY	MalIce420	TD
+VICTORY	DemonicWalker	TD
+
+Reward Name	Count
+Encrypted Intelligence	56361
+Krenim Temporal Wreckage	201
+Mega Chest	1
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	9709136	9289710	47737592	Anti-Tachyon Weaponry	Never Give Up	Never Surrender	No Locked Doors	I Have One Job!	5	4762224	373528	382866	2317041	0.12	2.4	5	219367	1434233	204342	5	51945291	43529896	181	252	121.52	5180940	0	1	NO	NO
+Player Fleet 2	134505744	51978760	741236480	Drain of the Empire	Visionary	Maquis Strike	Me Against The Galaxy	Bend the Rules	6	122319016	16522415	1800813	1359762	0.22	3.1	6	917251	313251	9165250	6	528738232	953734789	186	607	157.77	2110980	0	1	NO	NO
+Player Fleet 3	17832604	94148448	114956256	Omega-13	Weaponry is irrelevant	You will be assimilated	Savage Tenacity	Defenses are irrelevant	5	15395278	280365	3005453	197577	0.22	2.9	5	3083081	12677729	3068879	5	138491911	91420606	211	415	142.63	10418450	0	11	NO	NO
+Enemy Fleet 1	24185000	292500000	3750000128	ship_ability_name_{0}	--	--	--	--	0	12985000	2500000	1500000	1600000	0.15	1.5	0	1000000	2500000	55000000	0	3900000000	3600000000	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Visionary	Chakotay	--	--	--
+1	4	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.1	Bend the Rules	Kathryn Janeway	--	--	--
+1	5	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	6	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	3	War's Almost Over	Tom Paris	--	--	--
+1	7	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	8	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	9	Forbidden Tech Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	12	Black Market Armaments	The Godsend	--	--	--
+1	10	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	389739	1716960	1549223	3308567	0	2176403	4788086	--	--	--	--	--	--	--
+1	11	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	436292	1922044	1734272	3703763	0	2436366	5360005	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	950837	3687390	1471237	4006827	1971250	2362232	9725309	--	--	--	--	--	--	--
+1	13	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	996466	3864342	1541839	4199109	2065847	2475591	10192012	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	966063	3746439	1494797	4070991	2002817	2400060	9881047	--	--	--	--	--	--	--
+1	15	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3406626	13211060	5271100	14355529	7062529	8463327	34843517	--	--	--	--	--	--	--
+1	16	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	113350696	439579520	191659632	367934304	234995776	454475512	893044416	--	--	--	--	--	--	--
+1	17	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	17225500	66801332	29125830	55913660	35711468	69065018	135712772	--	--	--	--	--	--	--
+1	18	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	129128192	500765408	218337088	419147744	267705280	517734816	1017348896	--	--	--	--	--	--	--
+1	19	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	17429836	67593752	29471330	56576928	36135092	69884298	137322640	--	--	--	--	--	--	--
+1	20	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	709826	2752741	3066455	1897206	1471593	5292952	4604869	--	--	--	--	--	--	--
+1	21	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	701058	2718739	3028577	1873771	1453416	5227573	4547988	--	--	--	--	--	--	--
+1	22	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	23	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	24	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.2	Defenses are irrelevant	Six of Eleven	--	--	--
+1	25	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	533423	2349942	2120369	4528323	0	2978768	6553289	--	--	--	--	--	--	--
+1	26	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	510530	2249093	2029371	4333985	0	2850931	6272048	--	--	--	--	--	--	--
+1	27	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	985489	3821775	1524855	4152853	2043090	2448321	10079741	--	--	--	--	--	--	--
+1	28	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3233680	12540368	5003500	13626736	6703983	8033667	33074600	--	--	--	--	--	--	--
+1	29	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1014946	3936012	1570435	4276987	2104161	2521505	10381036	--	--	--	--	--	--	--
+1	30	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1025950	3978682	1587460	4323354	2126972	2548840	10493578	--	--	--	--	--	--	--
+1	31	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3433724	13316150	5313029	14469722	7118709	8530648	35120686	--	--	--	--	--	--	--
+1	32	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	994518	3856789	1538825	4190901	2061809	2470752	10172090	--	--	--	--	--	--	--
+1	33	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	19350904	75043744	27470482	60841108	40117800	75151442	147672596	--	--	--	--	--	--	--
+1	34	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	117529176	455783872	166844048	369523072	243658496	456437992	896900672	--	--	--	--	--	--	--
+1	35	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	18387288	71306800	26102536	57811408	38120056	71409136	140318952	--	--	--	--	--	--	--
+1	36	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	128494800	498309120	182410816	404000064	266392160	499024304	980582656	--	--	--	--	--	--	--
+1	37	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5124671	19873722	16065597	12256983	10624336	34195352	29749957	--	--	--	--	--	--	--
+1	38	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1866407	7238016	5851095	4463996	3869386	12453957	10834943	--	--	--	--	--	--	--
+1	39	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	40	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	41	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.2	Defenses are irrelevant	Six of Eleven	--	--	--
+1	42	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	499597	2200928	1985911	4241172	0	2789877	6137731	--	--	--	--	--	--	--
+1	43	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	AmigoSniped	ThunderDome	SANCTUS	YES	NO	573249	2525394	2278679	4866415	0	3201168	7042569	--	--	--	--	--	--	--
+1	44	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4188332	16242558	6262157	17541308	8683144	10341507	42575992	--	--	--	--	--	--	--
+1	45	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1307338	5069922	1954657	5475310	2710340	3227978	13289589	--	--	--	--	--	--	--
+1	46	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4491764	17419280	6715830	18812120	9312211	11090719	45660486	--	--	--	--	--	--	--
+1	47	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4171499	16177278	6236989	17470810	8648246	10299944	42404878	--	--	--	--	--	--	--
+1	48	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	127467176	494323936	140566720	385600320	264261712	476296728	935923136	--	--	--	--	--	--	--
+1	49	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	128334768	497688512	141523472	388224864	266060384	479538656	942293344	--	--	--	--	--	--	--
+1	50	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	130979208	507943776	144439680	396224544	271542752	489419912	961710048	--	--	--	--	--	--	--
+1	51	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	127731248	495348000	140857920	386399168	264809168	477283488	937862016	--	--	--	--	--	--	--
+1	52	Shield Depleted	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	AmigoSniped	ThunderDome	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	53	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	615992128	0	139255760	382004128	261797136	471854688	927194464	--	--	--	--	--	--	--
+1	54	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	630993152	0	142646992	391306912	268172576	483345584	949774048	--	--	--	--	--	--	--
+1	55	Charging Weapons	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	56	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	57	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	58	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	NO	571461	2285843	1683689	3028906	0	2365593	5204306	--	--	--	--	--	--	--
+1	59	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	NO	687646	2750585	2026005	3644723	0	2846549	6262410	--	--	--	--	--	--	--
+1	60	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	16127547	0	5115629	13932113	6854220	8213700	33815809	--	--	--	--	--	--	--
+1	61	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4708822	0	1493629	4067812	2001253	2398185	9873331	--	--	--	--	--	--	--
+1	62	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4854233	0	1539753	4193428	2063052	2472242	10178224	--	--	--	--	--	--	--
+1	63	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4993507	0	1583931	4313743	2122244	2543174	10470251	--	--	--	--	--	--	--
+1	64	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4783574	0	1517341	4132389	2033022	2436256	10030070	--	--	--	--	--	--	--
+1	65	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	16401277	0	5202455	14168579	6970555	8353111	34389755	--	--	--	--	--	--	--
+1	66	Charging Weapons	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	68	battle_action_type_{0}	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	--	--	147141.5	--	--	--	--
+2	69	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	70	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	71	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+2	72	Officer Ability	AmigoSniped	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+2	73	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	74	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4917810	0	1559920	4248352	2090073	2504622	10311533	--	--	--	--	--	--	--
+2	75	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4758306	0	1509326	4110560	2022283	2423387	9977088	--	--	--	--	--	--	--
+2	76	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4938641	0	1566528	4266346	2098926	2515231	10355210	--	--	--	--	--	--	--
+2	77	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4739890	0	1503484	4094652	2014457	2414008	9938475	--	--	--	--	--	--	--
+2	78	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4941164	0	1567328	4268526	2099998	2516516	10360500	--	--	--	--	--	--	--
+2	79	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	17108798	0	5426880	14779786	7271252	8713448	35873268	--	--	--	--	--	--	--
+2	80	Charging Weapons	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	81	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	4177972	0	2976229	2117555	1775641	5907699	5139698	--	--	--	--	--	--	--
+2	82	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	14500662	0	10329724	7349490	6162793	20504101	17838568	--	--	--	--	--	--	--
+2	83	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.2	Defenses are irrelevant	Six of Eleven	--	--	--
+2	84	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	85	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	86	Charging Weapons	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	87	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7878961	0	4579154	3748277	3348564	10457196	9097760	--	--	--	--	--	--	--
+2	88	Attack	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7703914	0	4477419	3665002	3274169	10224868	8895636	--	--	--	--	--	--	--
+2	89	Officer Ability	DemonicWalker	ThunderDome	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.2	Defenses are irrelevant	Six of Eleven	--	--	--
+2	90	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	91	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	5854560	0	1794448	5026537	2488192	2963403	12200334	--	--	--	--	--	--	--
+2	92	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	20085526	0	6156301	17244790	8536364	10166695	41856286	--	--	--	--	--	--	--
+2	93	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	5770292	0	1768619	4954188	2452378	2920749	12024728	--	--	--	--	--	--	--
+2	94	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	6286002	0	1926686	5396960	2671555	3181786	13099417	--	--	--	--	--	--	--
+2	95	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	19613212	0	6011534	16839276	8335630	9927624	40872028	--	--	--	--	--	--	--
+2	96	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	6160824	0	1888319	5289487	2618355	3118425	12838560	--	--	--	--	--	--	--
+2	97	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	573170752	0	198675520	381402880	243598032	471112016	925735168	--	--	--	--	--	--	--
+2	98	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	589559296	0	204356192	392308224	250563152	484582448	952204416	--	--	--	--	--	--	--
+2	99	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	90500984	0	31369934	60221732	38462988	74386386	146169252	--	--	--	--	--	--	--
+2	100	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	614671552	0	213060736	409018592	261235888	505223216	992763552	--	--	--	--	--	--	--
+2	101	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	571517376	0	198102400	380302656	242895328	469753056	923064704	--	--	--	--	--	--	--
+2	102	Attack	AmigoSniped	ThunderDome	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	88664000	0	30733190	58999352	37682268	72876498	143202312	--	--	--	--	--	--	--
+2	103	Combatant Destroyed	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	AmigoSniped	ThunderDome	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

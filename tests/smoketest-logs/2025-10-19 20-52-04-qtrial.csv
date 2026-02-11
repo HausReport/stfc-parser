@@ -1,0 +1,268 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	64	DEFEAT	USS ENTERPRISE-D	60	3166620672	0	Christopher Pike	Marlena Moreau	Annorax	2769140310	0	2364466970	0	Muhg	10/25/2025 1:03:53 PM
+--	1	VICTORY	Starfleet Patrol	1	69128970240	0	Starfleet Captain	--	--	29689458651	24327880429	339257635911	326246792335	Muhg	10/25/2025 1:03:53 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	421764352	178052864	2566803456	Galaxy Class	Teaching Moments	Advanced Training	No Fear	Time is Patient	6.5	357587776	3502673	3557105	41287522	0.22	3.6	6.5	2417645	30775283	2417645	6.5	2364466970	2769140310	207	1184	322.88	4169120	0	1	NO	NO
+Enemy Fleet 1	22094813184	636446080	46397710336	Plausible Deniability	--	--	--	--	0	18923415552	726778560	132141552	726778560	0.1	1.79	0	46279224	55398988	25611006	0	63105957888	29689458688	40	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	No Fear	Marlena Moreau	--	--	--
+1	3	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	4	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1500	Not Playing Nice	The Godsend	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.35	Black Market Armaments	The Godsend	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1700	--	Agony Booth	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	--	Agony Booth	--	--	--
+1	8	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9170047	43230224	179160832	0	20069284	251630387	0	--	--	--	--	--	--	--
+1	9	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9500112	44786240	185609520	0	20791652	260687524	0	--	--	--	--	--	--	--
+1	10	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	10870760	51247868	212388704	0	23791412	298298744	0	--	--	--	--	--	--	--
+1	11	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9025751	42549968	176341632	0	19753480	247670831	0	--	--	--	--	--	--	--
+1	12	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9346083	44060104	182600160	0	20454550	256460897	0	--	--	--	--	--	--	--
+1	13	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9768349	46050784	190850224	0	21378708	268048065	0	--	--	--	--	--	--	--
+1	14	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8984752	42356688	175540624	0	19663752	246545816	0	--	--	--	--	--	--	--
+1	15	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	9758436	46004056	190656544	0	21357012	267776048	0	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	36728912	83693744	33001792	0	0	50056912	103367536	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	38308720	87293640	34421288	0	0	52210000	107813648	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	281500224	641451328	252934592	0	0	383649664	792236480	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	287800992	655808832	258595984	0	0	392236784	809969024	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	317050208	722458688	284877088	0	0	432099840	892286144	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	36233864	82565688	32556982	0	0	49382230	101974304	--	--	--	--	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	23	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7556948	35625616	201663616	0	38389240	283235420	0	--	--	--	--	--	--	--
+1	24	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6420620	30268636	171339728	0	32616700	240645684	0	--	--	--	--	--	--	--
+1	25	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6503705	30660326	173556928	0	33038774	243759733	0	--	--	--	--	--	--	--
+1	26	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7546508	35576396	201385024	0	38336204	282844132	0	--	--	--	--	--	--	--
+1	27	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6903101	32543192	184215152	0	35067704	258729149	0	--	--	--	--	--	--	--
+1	28	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6606775	31146226	176307440	0	33562368	247622809	0	--	--	--	--	--	--	--
+1	29	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7320086	34508976	195342752	0	37185980	274357794	0	--	--	--	--	--	--	--
+1	30	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	8159638	38466864	217746896	0	41450896	305824294	0	--	--	--	--	--	--	--
+1	31	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7153351	33722940	190893280	0	36338968	268108539	0	--	--	--	--	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	33	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11915065	56171020	403135360	0	94979904	566201349	0	--	--	--	--	--	--	--
+1	34	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10474897	49381660	354408608	0	83499736	497764901	0	--	--	--	--	--	--	--
+1	35	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10239478	48271828	346443424	0	81623112	486577842	0	--	--	--	--	--	--	--
+1	36	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11697321	55144512	395768224	0	93244184	555854241	0	--	--	--	--	--	--	--
+1	37	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10411677	49083624	352269632	0	82995784	494760717	0	--	--	--	--	--	--	--
+1	38	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10878353	51283664	368059168	0	86715848	516937033	0	--	--	--	--	--	--	--
+1	39	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10486724	49437416	354808768	0	83594016	498326924	0	--	--	--	--	--	--	--
+1	40	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9918866	46760368	335595808	0	79067384	471342426	0	--	--	--	--	--	--	--
+1	41	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10467608	49347292	354161984	0	83441624	497418508	0	--	--	--	--	--	--	--
+1	42	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	43	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8055030	37973712	330114048	0	87500536	463643326	0	--	--	--	--	--	--	--
+1	44	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	9705014	45752208	397734240	0	105424048	558615510	0	--	--	--	--	--	--	--
+1	45	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9129720	43040108	374157344	0	99174720	525501892	0	--	--	--	--	--	--	--
+1	46	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9490291	44739944	388934432	0	103091552	546256219	0	--	--	--	--	--	--	--
+1	47	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7872012	37110912	322613504	0	85512432	453108860	0	--	--	--	--	--	--	--
+1	48	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8674104	40892204	355485152	0	94225440	499276900	0	--	--	--	--	--	--	--
+1	49	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8913192	42019332	365283520	0	96822608	513038652	0	--	--	--	--	--	--	--
+1	50	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9191211	43329992	376677376	0	99842680	529041259	0	--	--	--	--	--	--	--
+2	52	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	24649250	--	--	--	--
+2	53	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	54	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3939060	18569856	189589712	0	54179056	266277684	0	--	--	--	--	--	--	--
+2	55	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3774175	17792536	181653632	0	51911164	255131507	0	--	--	--	--	--	--	--
+2	56	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3405131	16052763	163891328	0	46835228	230184450	0	--	--	--	--	--	--	--
+2	57	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	4392138	20705792	211396640	0	60410824	296905394	0	--	--	--	--	--	--	--
+2	58	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3319191	15647612	159754944	0	45653172	224374919	0	--	--	--	--	--	--	--
+2	59	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3845183	18127294	185071344	0	52887844	259931665	0	--	--	--	--	--	--	--
+2	60	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3502043	16509634	168555776	0	48168188	236735641	0	--	--	--	--	--	--	--
+2	61	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3410340	16077316	164142016	0	46906868	230536540	0	--	--	--	--	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	63	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3661939	17263428	202428240	0	60955720	284309327	0	--	--	--	--	--	--	--
+2	64	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3633245	17128156	200842064	0	60478088	282081553	0	--	--	--	--	--	--	--
+2	65	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3308162	15595622	182871824	0	55066840	256842448	0	--	--	--	--	--	--	--
+2	66	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3683416	17364676	203615472	0	61313220	285976784	0	--	--	--	--	--	--	--
+2	67	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3040267	14332686	168062832	0	50607516	236043301	0	--	--	--	--	--	--	--
+2	68	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3253656	15338664	179858768	0	54159540	252610628	0	--	--	--	--	--	--	--
+2	69	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3215128	15157033	177728992	0	53518216	249619369	0	--	--	--	--	--	--	--
+2	70	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3316621	15635501	183339424	0	55207644	257499190	0	--	--	--	--	--	--	--
+2	71	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3061887	14434613	169258000	0	50967412	237721912	0	--	--	--	--	--	--	--
+2	72	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	42589136	97047376	38267344	0	0	58043672	119860184	--	--	--	--	--	--	--
+2	73	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	40816364	93007776	36674464	0	0	55627604	114871000	--	--	--	--	--	--	--
+2	74	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35996040	82023760	32343292	0	0	49058100	101304992	--	--	--	--	--	--	--
+2	75	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	42776224	97473688	38435444	0	0	58298644	120386712	--	--	--	--	--	--	--
+2	76	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	41324336	94165288	37130888	0	0	56319904	116300608	--	--	--	--	--	--	--
+2	77	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	43007476	98000648	38643232	0	0	58613820	121037536	--	--	--	--	--	--	--
+2	78	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	79	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	1236791424	2818262272	1111286272	0	0	1685592192	3480747776	--	--	--	--	--	--	--
+2	80	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	170137584	387690560	152872624	0	0	231876256	478824512	--	--	--	--	--	--	--
+3	82	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	4780927	--	--	--	--
+3	83	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4948809	19795236	177462096	0	47038372	249244513	0	--	--	--	--	--	--	--
+3	84	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5271256	21085024	189024896	0	50103228	265484404	0	--	--	--	--	--	--	--
+3	85	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4692470	18769880	168269888	0	44601872	236334110	0	--	--	--	--	--	--	--
+3	86	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4590448	18361792	164611424	0	43632152	231195816	0	--	--	--	--	--	--	--
+3	87	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	5384045	21536182	193069472	0	51175288	271164987	0	--	--	--	--	--	--	--
+3	88	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4712826	18851306	168999856	0	44795360	237359348	0	--	--	--	--	--	--	--
+3	89	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5159376	20637502	185012912	0	49039804	259849594	0	--	--	--	--	--	--	--
+3	90	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4466949	17867796	160182816	0	42458300	224975861	0	--	--	--	--	--	--	--
+3	91	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	39411012	101342600	38573484	0	0	58508024	120819072	--	--	--	--	--	--	--
+3	92	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	260765056	670538688	255223504	0	0	387121424	799405824	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	36860212	94783400	36076892	0	0	54721208	112999296	--	--	--	--	--	--	--
+3	94	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	36118952	92877304	35351384	0	0	53620760	110726880	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35014860	90038208	34270756	0	0	51981672	107342152	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35067616	90173864	34322388	0	0	52059988	107503880	--	--	--	--	--	--	--
+3	97	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	98	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	5076452	20305806	213791488	0	61095200	300268946	0	--	--	--	--	--	--	--
+3	99	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4080934	16323736	171865904	0	49114124	241384698	0	--	--	--	--	--	--	--
+3	100	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4235462	16941848	178373744	0	50973872	250524926	0	--	--	--	--	--	--	--
+3	101	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4212205	16848820	177394304	0	50693972	249149301	0	--	--	--	--	--	--	--
+3	102	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4813180	19252720	202703984	0	57926720	284696604	0	--	--	--	--	--	--	--
+3	103	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4661225	18644900	196304480	0	56097936	275708541	0	--	--	--	--	--	--	--
+3	104	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4213331	16853324	177441712	0	50707524	249215891	0	--	--	--	--	--	--	--
+3	105	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4235307	16941228	178367232	0	50972008	250515775	0	--	--	--	--	--	--	--
+3	106	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	4370206	17480824	184048416	0	52595516	258494962	0	--	--	--	--	--	--	--
+3	107	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	108	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7457642	29830568	360719456	0	108620776	506628442	0	--	--	--	--	--	--	--
+3	109	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7402451	29609804	358049920	0	107816928	502879103	0	--	--	--	--	--	--	--
+3	110	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6993383	27973530	338263648	0	101858832	475089393	0	--	--	--	--	--	--	--
+3	111	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7190151	28760606	347781184	0	104724776	488456717	0	--	--	--	--	--	--	--
+3	112	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	8027383	32109534	388277344	0	116919080	545333341	0	--	--	--	--	--	--	--
+3	113	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6919545	27678180	334692160	0	100783376	470073261	0	--	--	--	--	--	--	--
+3	114	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8064584	32258338	390076704	0	117460912	547860538	0	--	--	--	--	--	--	--
+3	115	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	8995725	35982900	435115136	0	131023000	611116761	0	--	--	--	--	--	--	--
+3	116	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	8563354	34253416	414201728	0	124725504	581744002	0	--	--	--	--	--	--	--
+3	117	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	118	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6466503	25866012	353223936	0	110544584	496101035	0	--	--	--	--	--	--	--
+3	119	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7042005	28168022	384659968	0	120382768	540252763	0	--	--	--	--	--	--	--
+3	120	Shield Depleted	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	121	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35235148	0	384934400	0	120468656	540638204	0	--	--	--	--	--	--	--
+3	122	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	29876864	0	326396608	0	102148728	458422200	0	--	--	--	--	--	--	--
+3	123	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	31567466	0	344865984	0	107928888	484362338	0	--	--	--	--	--	--	--
+3	124	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	33625540	0	367349856	0	114965416	515940812	0	--	--	--	--	--	--	--
+3	125	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	34717344	0	379277536	0	118698288	532693168	0	--	--	--	--	--	--	--
+3	126	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	31466522	0	343763200	0	107583752	482813474	0	--	--	--	--	--	--	--
+4	128	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	28698890	--	--	--	--
+4	129	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	130	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	25998276	0	218980128	0	62577956	307556360	0	--	--	--	--	--	--	--
+4	131	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20465308	0	172376656	0	49260080	242102044	0	--	--	--	--	--	--	--
+4	132	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18939808	0	159527568	0	45588200	224055576	0	--	--	--	--	--	--	--
+4	133	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20185190	0	170017264	0	48585836	238788290	0	--	--	--	--	--	--	--
+4	134	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	21283564	0	179268736	0	51229628	251781928	0	--	--	--	--	--	--	--
+4	135	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22912588	0	192989776	0	55150692	271053056	0	--	--	--	--	--	--	--
+4	136	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22808772	0	192115344	0	54900808	269824924	0	--	--	--	--	--	--	--
+4	137	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18951362	0	159624880	0	45616008	224192250	0	--	--	--	--	--	--	--
+4	138	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	139	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20523668	0	198542288	0	59785572	278851528	0	--	--	--	--	--	--	--
+4	140	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	21956776	0	212405904	0	63960220	298322900	0	--	--	--	--	--	--	--
+4	141	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18315470	0	177180560	0	53353076	248849106	0	--	--	--	--	--	--	--
+4	142	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19462374	0	188275520	0	56694012	264431906	0	--	--	--	--	--	--	--
+4	143	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20585536	0	199140784	0	59965792	279692112	0	--	--	--	--	--	--	--
+4	144	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19824364	0	191777344	0	57748496	269350204	0	--	--	--	--	--	--	--
+4	145	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19525206	0	188883344	0	56877044	265285594	0	--	--	--	--	--	--	--
+4	146	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	17953798	0	173681824	0	52299524	243935146	0	--	--	--	--	--	--	--
+4	147	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18175846	0	175829872	0	52946348	246952066	0	--	--	--	--	--	--	--
+4	148	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	274479840	705805312	280298176	0	0	425154592	835428736	--	--	--	--	--	--	--
+4	149	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	36127040	92898112	36892852	0	0	55958852	109959152	--	--	--	--	--	--	--
+4	150	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	32057268	82432976	32736808	0	0	49654996	97572056	--	--	--	--	--	--	--
+4	151	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	37111424	95429376	37898104	0	0	57483608	112955296	--	--	--	--	--	--	--
+4	152	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	34267680	88116896	34994080	0	0	53078808	104299848	--	--	--	--	--	--	--
+4	153	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35527484	91356392	36280588	0	0	55030176	108134288	--	--	--	--	--	--	--
+4	154	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	156	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	27829430	--	--	--	--
+5	157	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	25235116	0	180984000	0	47971896	254191012	0	--	--	--	--	--	--	--
+5	158	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	25906874	0	185801792	0	49248904	260957570	0	--	--	--	--	--	--	--
+5	159	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	27025380	0	193823616	0	51375184	272224180	0	--	--	--	--	--	--	--
+5	160	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23646978	0	169594016	0	44952848	238193842	0	--	--	--	--	--	--	--
+5	161	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	28985950	0	207884656	0	55102224	291972830	0	--	--	--	--	--	--	--
+5	162	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	27139568	0	194642560	0	51592256	273374384	0	--	--	--	--	--	--	--
+5	163	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22314362	0	160036608	0	42419548	224770518	0	--	--	--	--	--	--	--
+5	164	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22933348	0	164475920	0	43596240	231005508	0	--	--	--	--	--	--	--
+5	165	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35056792	90146032	35799916	0	0	54301092	106701648	--	--	--	--	--	--	--
+5	166	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	241814240	621808064	246940160	0	0	374557344	736005120	--	--	--	--	--	--	--
+5	167	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	33226316	85439096	33930640	0	0	51465780	101130272	--	--	--	--	--	--	--
+5	168	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	31926314	82096240	32603080	0	0	49452154	97173480	--	--	--	--	--	--	--
+5	169	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35106240	90273192	35850416	0	0	54377688	106852160	--	--	--	--	--	--	--
+5	170	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	37334112	96002000	38125512	0	0	57828544	113633080	--	--	--	--	--	--	--
+5	171	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	172	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	21940532	0	184802272	0	52810952	259553756	0	--	--	--	--	--	--	--
+5	173	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22573276	0	190131808	0	54333972	267039056	0	--	--	--	--	--	--	--
+5	174	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24014474	0	202270832	0	57802940	284088246	0	--	--	--	--	--	--	--
+5	175	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23947996	0	201710896	0	57642924	283301816	0	--	--	--	--	--	--	--
+5	176	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23118860	0	194727184	0	55647192	273493236	0	--	--	--	--	--	--	--
+5	177	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19895116	0	167574016	0	47887628	235356760	0	--	--	--	--	--	--	--
+5	178	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19882542	0	167468096	0	47857360	235207998	0	--	--	--	--	--	--	--
+5	179	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	26147440	0	220236528	0	62936996	309320964	0	--	--	--	--	--	--	--
+5	180	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	25632744	0	215901296	0	61698120	303232160	0	--	--	--	--	--	--	--
+5	181	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	182	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35563488	0	344034816	0	103596664	483194968	0	--	--	--	--	--	--	--
+5	183	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	40750136	0	394209504	0	118705392	553665032	0	--	--	--	--	--	--	--
+5	184	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	34846008	0	337094016	0	101506624	473446648	0	--	--	--	--	--	--	--
+5	185	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37384528	0	361651232	0	108901360	507937120	0	--	--	--	--	--	--	--
+5	186	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	40414084	0	390958592	0	117726464	549099140	0	--	--	--	--	--	--	--
+5	187	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	38655112	0	373942624	0	112602576	525200312	0	--	--	--	--	--	--	--
+5	188	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	42049544	0	406779712	0	122490568	571319824	0	--	--	--	--	--	--	--
+5	189	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35104576	0	339595360	0	102259840	476959776	0	--	--	--	--	--	--	--
+5	190	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	40706120	0	393783680	0	118577168	553066968	0	--	--	--	--	--	--	--
+5	191	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	142693840	366927040	145718624	0	0	221025136	434314368	--	--	--	--	--	--	--
+5	192	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	145347952	373751904	148429008	0	0	225136224	442392640	--	--	--	--	--	--	--
+5	193	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	194	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	34994476	0	382305120	0	119645800	536945396	0	--	--	--	--	--	--	--
+5	195	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	29527378	0	322578560	0	100953840	453059778	0	--	--	--	--	--	--	--
+5	196	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	30388656	0	331987808	0	103898544	466275008	0	--	--	--	--	--	--	--
+5	197	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	31207152	0	340929632	0	106696968	478833752	0	--	--	--	--	--	--	--
+5	198	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	32981732	0	360316448	0	112764248	506062428	0	--	--	--	--	--	--	--
+5	199	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	30074514	0	328555872	0	102824496	461454882	0	--	--	--	--	--	--	--
+5	200	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	32242214	0	352237408	0	110235840	494715462	0	--	--	--	--	--	--	--
+5	201	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	29278618	0	319860928	0	100103328	449242874	0	--	--	--	--	--	--	--
+6	203	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	80520710	--	--	--	--
+6	204	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	205	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22151818	0	186581920	0	53319516	262053254	0	--	--	--	--	--	--	--
+6	206	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18990602	0	159955392	0	45710460	224656454	0	--	--	--	--	--	--	--
+6	207	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20268652	0	170720240	0	48786728	239775620	0	--	--	--	--	--	--	--
+6	208	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19111740	0	160975712	0	46002032	226089484	0	--	--	--	--	--	--	--
+6	209	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19540276	0	164585216	0	47033524	231159016	0	--	--	--	--	--	--	--
+6	210	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22870466	0	192634992	0	55049308	270554766	0	--	--	--	--	--	--	--
+6	211	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19805350	0	166817904	0	47671560	234294814	0	--	--	--	--	--	--	--
+6	212	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20339276	0	171315120	0	48956724	240611120	0	--	--	--	--	--	--	--
+6	213	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	214	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	17931940	0	173470368	0	52235852	243638160	0	--	--	--	--	--	--	--
+6	215	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18874142	0	182585072	0	54980492	256439706	0	--	--	--	--	--	--	--
+6	216	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	20096096	0	194406016	0	58540044	273042156	0	--	--	--	--	--	--	--
+6	217	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18094060	0	175038672	0	52708104	245840836	0	--	--	--	--	--	--	--
+6	218	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	18768448	0	181562592	0	54672604	255003644	0	--	--	--	--	--	--	--
+6	219	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19233544	0	186061856	0	56027428	261322828	0	--	--	--	--	--	--	--
+6	220	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19367972	0	187362288	0	56419020	263149280	0	--	--	--	--	--	--	--
+6	221	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	17895932	0	173122048	0	52130964	243148944	0	--	--	--	--	--	--	--
+6	222	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19020860	0	184004368	0	55407876	258433104	0	--	--	--	--	--	--	--
+6	223	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35154224	90396576	35899416	0	0	54452008	106998208	--	--	--	--	--	--	--
+6	224	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	37351348	96046320	38143112	0	0	57855236	113685544	--	--	--	--	--	--	--
+6	225	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	33915124	87210320	34634048	0	0	52532708	103226784	--	--	--	--	--	--	--
+6	226	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	33295860	85617920	34001656	0	0	51573500	101341936	--	--	--	--	--	--	--
+6	227	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	272919520	701793024	278704800	0	0	422737728	830679616	--	--	--	--	--	--	--
+6	228	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	279234848	718032448	285153984	0	0	432519840	849901440	--	--	--	--	--	--	--
+6	229	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	231	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	26588890	--	--	--	--
+7	232	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24243250	0	173870432	0	46086364	244200046	0	--	--	--	--	--	--	--
+7	233	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23800132	0	170692432	0	45243996	239736560	0	--	--	--	--	--	--	--
+7	234	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22364726	0	160397824	0	42515292	225277842	0	--	--	--	--	--	--	--
+7	235	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24093136	0	172793824	0	45800996	242687956	0	--	--	--	--	--	--	--
+7	236	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	27131978	0	194588128	0	51577824	273297930	0	--	--	--	--	--	--	--
+7	237	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24538172	0	175985584	0	46647004	247170760	0	--	--	--	--	--	--	--
+7	238	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22288828	0	159853488	0	42371008	224513324	0	--	--	--	--	--	--	--
+7	239	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24651784	0	176800400	0	46862984	248315168	0	--	--	--	--	--	--	--
+7	240	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	37733336	97028584	38533200	0	0	58446920	114848200	--	--	--	--	--	--	--
+7	241	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	32088146	82512376	32768342	0	0	49702824	97666040	--	--	--	--	--	--	--
+7	242	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	33261568	85529744	33966640	0	0	51520384	101237568	--	--	--	--	--	--	--
+7	243	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	35782180	92011320	36540684	0	0	55424680	108909504	--	--	--	--	--	--	--
+7	244	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	NO	37358176	96063888	38150088	0	0	57865816	113706336	--	--	--	--	--	--	--
+7	245	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Starfleet Patrol	NO	--	--	YES	247108160	635420992	252346304	0	0	382757312	752118144	--	--	--	--	--	--	--
+7	246	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	247	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	26405332	0	222408704	0	63557740	312371776	0	--	--	--	--	--	--	--
+7	248	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23828762	0	200706592	0	57355928	281891282	0	--	--	--	--	--	--	--
+7	249	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	24067956	0	202721296	0	57931668	284720920	0	--	--	--	--	--	--	--
+7	250	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22092456	0	186081920	0	53176636	261351012	0	--	--	--	--	--	--	--
+7	251	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	21032380	0	177153024	0	50625024	248810428	0	--	--	--	--	--	--	--
+7	252	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23072412	0	194335952	0	55535392	272943756	0	--	--	--	--	--	--	--
+7	253	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	19929060	0	167859904	0	47969328	235758292	0	--	--	--	--	--	--	--
+7	254	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	22501064	0	189523568	0	54160156	266184788	0	--	--	--	--	--	--	--
+7	255	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	23456088	0	197567600	0	56458900	277482588	0	--	--	--	--	--	--	--
+7	256	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	257	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	34834964	0	336987200	0	101474464	473296628	0	--	--	--	--	--	--	--
+7	258	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36884776	0	356816704	0	107445576	501147056	0	--	--	--	--	--	--	--
+7	259	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37444180	0	362228288	0	109075120	508747588	0	--	--	--	--	--	--	--
+7	260	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37813416	0	365800224	0	110150712	513764352	0	--	--	--	--	--	--	--
+7	261	Attack	--	--	Starfleet Patrol	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	38748232	0	374843456	0	112873840	526465528	0	--	--	--	--	--	--	--
+7	262	Combatant Destroyed	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

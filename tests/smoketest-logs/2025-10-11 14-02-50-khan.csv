@@ -1,0 +1,292 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	62	DEFEAT	USS ENTERPRISE-D	55	3015360768	0	Five of Eleven	Khan Noonien Singh	Gabriel Lorca	2639317916	0	2187775555	0	Feer	10/11/2025 2:02:50 PM
+Hijacked USS Enterprise	1	VICTORY	Hijacked USS Enterprise	1	74100654080	0	officer_name_{0}	--	--	115508327715	108089797580	28877081929	0	Feer	10/11/2025 2:02:50 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	424333504	177480608	2413546752	Galaxy Class	Weaponry is irrelevant	You will be assimilated	Savage Tenacity	Quick Thinking	6.5	362996992	3326821	3380307	39420144	0.22	3.6	6.5	2410727	30674669	2410727	6.5	2187775555	2639317916	207	1184	307.52	3997300	0	1	NO	NO
+Enemy Fleet 1	1765383168	142563328	72192704512	Augmented Force---Not So Wounded	--	--	--	--	0	1715968256	8909991	7898725	7898725	0.1	1.5	0	8668095	10299368	9545201	0	28877082624	115508330496	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	3	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	4	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6591781	31075536	86851280	15388522	376673	121985906	18297886	--	--	--	--	--	--	--
+1	5	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6707600	31621542	88377280	15658902	383291	124129231	18619384	--	--	--	--	--	--	--
+1	6	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6443567	30376814	84898456	15042516	368204	119243093	17886464	--	--	--	--	--	--	--
+1	7	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6183483	29150708	81471680	14435351	353342	114430056	17164508	--	--	--	--	--	--	--
+1	8	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6517215	30724016	85868832	15214449	372412	120606021	18090903	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	93937720	333051904	107207288	0	177912656	176264736	535844832	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	15921174	56447800	18170186	0	30153790	29874494	90818456	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	16734295	59330684	19098168	0	31693794	31400237	95456704	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	102790176	364437920	117310240	0	194678704	192875536	586341504	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	16902058	59925480	19289630	0	32011528	31715024	96413672	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	90127104	319541568	102858392	0	170695568	169114504	514108128	--	--	--	--	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	16	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8191819	38618576	107932896	19123814	468104	151595834	22739375	--	--	--	--	--	--	--
+1	17	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	18	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	19	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10478716	49399660	138064352	24462578	598784	193916601	29087489	--	--	--	--	--	--	--
+1	20	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9825004	46317876	129451240	22936486	561429	181819162	27272873	--	--	--	--	--	--	--
+1	21	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	22	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	23	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9901780	46679824	130462824	23115722	565816	183239971	27485995	--	--	--	--	--	--	--
+1	24	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10486307	49435444	138164368	24480300	599218	194057076	29108561	--	--	--	--	--	--	--
+2	26	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	27	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	28	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	29	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6708730	31626870	88392168	15661541	383356	124150143	18622522	--	--	--	--	--	--	--
+2	30	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6709738	31631622	88405448	15663894	383414	124168796	18625320	--	--	--	--	--	--	--
+2	31	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6488643	30589318	85492376	15147748	370780	120077274	18011591	--	--	--	--	--	--	--
+2	32	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6681326	31497680	88031104	15597566	381790	123643014	18546452	--	--	--	--	--	--	--
+2	33	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	6241697	29425142	82238680	14571251	356668	115507337	17326101	--	--	--	--	--	--	--
+2	34	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	35	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	36	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7926127	37366028	104432224	18503558	452922	146679007	22001852	--	--	--	--	--	--	--
+2	37	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	91902128	325834848	106660840	0	174057360	172884936	525570240	--	--	--	--	--	--	--
+2	38	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	14971617	53081188	17375934	0	28355384	28164387	85619736	--	--	--	--	--	--	--
+2	39	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	15021841	53259256	17434222	0	28450504	28258863	85906960	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	14758684	52326244	17128804	0	27952100	27763816	84402016	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	15592917	55283980	18097008	0	29532090	29333163	89172832	--	--	--	--	--	--	--
+2	42	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	15687342	55618756	18206598	0	29710924	29510796	89712824	--	--	--	--	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	44	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	45	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10401008	49033324	137040496	24281170	594343	192478557	28871784	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	448288032	1589384832	511612832	0	849031808	841167808	2557149696	--	--	--	--	--	--	--
+2	47	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	69151856	245174752	78920192	0	130969640	129756536	394459904	--	--	--	--	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	49	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10127653	47744652	133438856	23643022	578723	187419919	28112987	--	--	--	--	--	--	--
+2	50	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	10140343	47804476	133606056	23672648	579448	187654757	28148214	--	--	--	--	--	--	--
+3	52	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	53	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	54	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	55	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7639499	30557996	88073736	15605120	381975	123702892	18555434	--	--	--	--	--	--	--
+3	56	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7616381	30465526	87807216	15557898	380819	123328556	18499284	--	--	--	--	--	--	--
+3	57	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7364558	29458232	84904016	15043500	368228	119250900	17887634	--	--	--	--	--	--	--
+3	58	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7080355	28321420	81627512	14462962	354018	114648928	17197339	--	--	--	--	--	--	--
+3	59	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7177309	28709236	82745272	14661010	358865	116218862	17432830	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	82548008	330192032	103629536	0	171975312	170382392	517962496	--	--	--	--	--	--	--
+3	61	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77441128	309764512	97218440	0	161335952	159841600	485918432	--	--	--	--	--	--	--
+3	62	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77108512	308434048	96800880	0	160643008	159155088	483831360	--	--	--	--	--	--	--
+3	63	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	88992176	355968704	111719456	0	185400688	183683456	558397568	--	--	--	--	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	89721488	358885952	112635024	0	186920080	185188720	562973824	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	13867192	55468768	17408666	0	28890032	28622442	87012216	--	--	--	--	--	--	--
+3	66	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	67	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9452396	37809584	108974136	19308304	472620	153058296	22958744	--	--	--	--	--	--	--
+3	68	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	69	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	70	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11469121	45876480	132224416	23427846	573456	185714190	27857129	--	--	--	--	--	--	--
+3	71	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11649632	46598528	134305472	23796574	582482	188637119	28295569	--	--	--	--	--	--	--
+3	72	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	73	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	74	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11201752	44807008	129141984	22881692	560088	181384804	27207720	--	--	--	--	--	--	--
+3	75	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11663293	46653168	134462976	23824478	583165	188858331	28328749	--	--	--	--	--	--	--
+4	77	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	78	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	79	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	80	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7611901	30447604	87755560	15548745	380595	123256004	18488401	--	--	--	--	--	--	--
+4	81	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7529647	30118588	86807280	15380726	376482	121924107	18288616	--	--	--	--	--	--	--
+4	82	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7556738	30226952	87119608	15436065	377837	122362783	18354417	--	--	--	--	--	--	--
+4	83	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7668359	30673438	88406456	15664072	383418	124170211	18625532	--	--	--	--	--	--	--
+4	84	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+4	85	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	86	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	87	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	8900796	35603184	102614888	18181558	445040	144126491	21618975	--	--	--	--	--	--	--
+4	88	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	73648472	294593888	94023376	0	153434576	152401080	463299232	--	--	--	--	--	--	--
+4	89	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77516992	310067968	98962128	0	161494016	160406224	487634880	--	--	--	--	--	--	--
+4	90	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	72548664	290194656	92619304	0	151143296	150125248	456380672	--	--	--	--	--	--	--
+4	91	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	NO	13493303	53973216	17226236	0	28111096	27921747	84882104	--	--	--	--	--	--	--
+4	92	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	75211744	300846976	96019136	0	156691408	155635952	473133312	--	--	--	--	--	--	--
+4	93	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	76080568	304322272	97128320	0	158501456	157433800	478598816	--	--	--	--	--	--	--
+4	94	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	95	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11253103	45012412	129734008	22986590	562655	182216319	27332449	--	--	--	--	--	--	--
+4	96	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11145931	44583728	128498456	22767670	557297	180480942	27072140	--	--	--	--	--	--	--
+4	97	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	98	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	99	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11769279	47077120	135684864	24040976	588464	190574525	28586178	--	--	--	--	--	--	--
+4	100	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11705405	46821624	134948480	23910500	585270	189540244	28431035	--	--	--	--	--	--	--
+5	102	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	103	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	104	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	105	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7642920	30571680	88113176	15612107	382146	123758287	18563742	--	--	--	--	--	--	--
+5	106	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7538576	30154302	86910216	15398965	376929	122068685	18310303	--	--	--	--	--	--	--
+5	107	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7176164	28704656	82732072	14658670	358808	116200322	17430048	--	--	--	--	--	--	--
+5	108	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+5	109	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7476587	29906350	86195568	15272342	373829	121064935	18159741	--	--	--	--	--	--	--
+5	110	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	80319024	321276128	100831312	0	167331600	165781712	503976352	--	--	--	--	--	--	--
+5	111	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79466688	317866784	99761304	0	165555888	164022440	498628224	--	--	--	--	--	--	--
+5	112	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	75862392	303449568	95236520	0	158046928	156583024	476012384	--	--	--	--	--	--	--
+5	113	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	75148312	300593248	94340072	0	156559248	155109136	471531744	--	--	--	--	--	--	--
+5	114	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	88567384	354269536	111186176	0	184515696	182806632	555732160	--	--	--	--	--	--	--
+5	115	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	80729552	322918208	101346672	0	168186848	166629056	506552224	--	--	--	--	--	--	--
+5	116	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	117	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9128890	36515560	105244520	18647480	456444	147819909	22172985	--	--	--	--	--	--	--
+5	118	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	119	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	120	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11070187	44280744	127625208	22612948	553509	179254430	26888166	--	--	--	--	--	--	--
+5	121	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11413255	45653020	131580352	23313728	570663	184809581	27721437	--	--	--	--	--	--	--
+5	122	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	355312512	1421250048	446054048	0	740235712	733379296	2229473024	--	--	--	--	--	--	--
+5	123	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	387018816	1548075264	485857664	0	806290560	798822464	2428419840	--	--	--	--	--	--	--
+5	124	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	125	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11614076	46456304	133895568	23723944	580704	188061388	28209208	--	--	--	--	--	--	--
+5	126	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11689968	46759872	134770496	23878966	584499	189290262	28393539	--	--	--	--	--	--	--
+6	128	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	129	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	130	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7569135	30276540	87262520	15461387	378457	122563512	18384527	--	--	--	--	--	--	--
+6	131	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7341043	29364174	84632920	14995467	367052	118870136	17830520	--	--	--	--	--	--	--
+6	132	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7264526	29058104	83750776	14839168	363226	117631130	17644670	--	--	--	--	--	--	--
+6	133	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7639131	30556524	88069488	15604367	381956	123696927	18554539	--	--	--	--	--	--	--
+6	134	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7432386	29729546	85685992	15182053	371619	120349214	18052382	--	--	--	--	--	--	--
+6	135	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	136	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	137	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	9175144	36700576	105777776	18741964	458757	148568885	22285332	--	--	--	--	--	--	--
+6	138	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79780760	319123040	101852168	0	166210192	165090640	501875520	--	--	--	--	--	--	--
+6	139	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	84625848	338503392	108037656	0	176304160	175116592	532354464	--	--	--	--	--	--	--
+6	140	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79783000	319132000	101855024	0	166214864	165095288	501889600	--	--	--	--	--	--	--
+6	141	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	74954816	299819264	95691128	0	156156128	155104280	471517056	--	--	--	--	--	--	--
+6	142	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	84739768	338959072	108183088	0	176541488	175352344	533071072	--	--	--	--	--	--	--
+6	143	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	81368384	325473536	103879008	0	169517760	168375904	511862784	--	--	--	--	--	--	--
+6	144	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	145	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11962912	47851648	137917200	24436506	598146	193709924	29056488	--	--	--	--	--	--	--
+6	146	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11542748	46170992	133073240	23578242	577137	186906399	28035960	--	--	--	--	--	--	--
+6	147	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	148	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	149	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11428068	45712272	131751128	23343986	571403	185049442	27757415	--	--	--	--	--	--	--
+6	150	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	11139939	44559752	128429360	22755428	556997	180383892	27057584	--	--	--	--	--	--	--
+7	152	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+7	153	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	154	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	155	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7366078	29464312	84921544	15046606	368304	119275517	17891327	--	--	--	--	--	--	--
+7	156	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	7608500	30434000	87716352	15541798	380425	123200935	18480140	--	--	--	--	--	--	--
+7	157	Shield Depleted	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+7	158	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36765040	0	84770864	15019908	367650	119063880	17859582	--	--	--	--	--	--	--
+7	159	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	38144780	0	87952192	15583584	381448	123532178	18529826	--	--	--	--	--	--	--
+7	160	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37749364	0	87040456	15422041	377494	122251613	18337742	--	--	--	--	--	--	--
+7	161	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	84561688	338246752	106157480	0	176170480	174538736	530597664	--	--	--	--	--	--	--
+7	162	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	75331584	301326336	94570152	0	156941072	155487416	472681728	--	--	--	--	--	--	--
+7	163	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79275232	317100928	99520944	0	165157008	163627264	497426848	--	--	--	--	--	--	--
+7	164	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	83929984	335719936	105364448	0	174854432	173234880	526633920	--	--	--	--	--	--	--
+7	165	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	87402392	349609568	109723664	0	182088624	180402040	548422208	--	--	--	--	--	--	--
+7	166	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	76763776	307055104	96368104	0	159924800	158443496	481668288	--	--	--	--	--	--	--
+7	167	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	168	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	44156352	0	101813352	18039538	441563	143000700	21450105	--	--	--	--	--	--	--
+7	169	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	170	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	171	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	58639500	0	135207808	23956450	586395	189904481	28485672	--	--	--	--	--	--	--
+7	172	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+7	173	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	174	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	175	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	55281024	0	127464016	22584386	552810	179028031	26854205	--	--	--	--	--	--	--
+7	176	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57484044	0	132543624	23484404	574841	186162533	27924380	--	--	--	--	--	--	--
+8	178	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+8	179	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	180	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	181	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+8	182	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37837992	0	87244808	15458249	378380	122538634	18380795	--	--	--	--	--	--	--
+8	183	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37157384	0	85675504	15180195	371574	120334484	18050173	--	--	--	--	--	--	--
+8	184	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36646676	0	84497936	14971551	366467	118680548	17802082	--	--	--	--	--	--	--
+8	185	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35848072	0	82656560	14645291	358481	116094265	17414139	--	--	--	--	--	--	--
+8	186	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	187	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	188	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	44425316	0	102433504	18149418	444253	143871732	21580759	--	--	--	--	--	--	--
+8	189	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77225984	308903936	98590608	0	160887728	159804032	485804224	--	--	--	--	--	--	--
+8	190	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	82077472	328309888	104784264	0	170995024	169843224	516323424	--	--	--	--	--	--	--
+8	191	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	75132016	300528064	95917344	0	156525296	155470976	472631744	--	--	--	--	--	--	--
+8	192	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	73036872	292147488	93242576	0	152160400	151135496	459451840	--	--	--	--	--	--	--
+8	193	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	71204576	284818304	90903376	0	148343120	147343936	447925440	--	--	--	--	--	--	--
+8	194	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	71753848	287015392	91604608	0	149487440	148480520	451380768	--	--	--	--	--	--	--
+8	195	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	196	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	56743840	0	130836896	23182002	567438	183765370	27564806	--	--	--	--	--	--	--
+8	197	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	56705752	0	130749080	23166442	567058	183642028	27546304	--	--	--	--	--	--	--
+8	198	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	371952160	1487808640	466943200	0	774901632	767724032	2333881600	--	--	--	--	--	--	--
+8	199	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	377816608	1511266432	474305376	0	787119296	779828672	2370679040	--	--	--	--	--	--	--
+8	200	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	201	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57472104	0	132516096	23479526	574721	186123867	27918580	--	--	--	--	--	--	--
+8	202	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	56918556	0	131239752	23253380	569186	184331195	27649679	--	--	--	--	--	--	--
+9	204	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+9	205	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	206	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+9	207	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35754096	0	82439872	14606898	357541	115789919	17368488	--	--	--	--	--	--	--
+9	208	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35826472	0	82606752	14636466	358265	116024309	17403646	--	--	--	--	--	--	--
+9	209	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+9	210	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37041452	0	85408192	15132832	370414	119959035	17993855	--	--	--	--	--	--	--
+9	211	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37333460	0	86081488	15252129	373334	120904705	18135706	--	--	--	--	--	--	--
+9	212	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	85280688	341122720	107060104	0	177668400	176022760	535109152	--	--	--	--	--	--	--
+9	213	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	88630696	354522784	111265656	0	184647600	182937328	556129408	--	--	--	--	--	--	--
+9	214	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79785080	319140320	100161008	0	166219200	164679592	500626016	--	--	--	--	--	--	--
+9	215	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77569032	310276128	97379008	0	161602416	160105592	486720992	--	--	--	--	--	--	--
+9	216	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	77715496	310861984	97562880	0	161907568	160407896	487640032	--	--	--	--	--	--	--
+9	217	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	81230968	324923872	101976144	0	169231472	167663992	509698464	--	--	--	--	--	--	--
+9	218	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	219	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	47470616	0	109455192	19393540	474706	153733959	23060095	--	--	--	--	--	--	--
+9	220	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	221	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	222	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+9	223	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	55585336	0	128165688	22708710	555853	180013554	27002033	--	--	--	--	--	--	--
+9	224	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+9	225	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	226	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	56974320	0	131368328	23276162	569743	184511785	27676768	--	--	--	--	--	--	--
+9	227	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+10	229	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	230	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+10	231	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36153456	0	83360696	14770052	361534	117083251	17562487	--	--	--	--	--	--	--
+10	232	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36523344	0	84213568	14921167	365233	118281140	17742172	--	--	--	--	--	--	--
+10	233	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36891712	0	85062928	15071658	368917	119474100	17921115	--	--	--	--	--	--	--
+10	234	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	38347084	0	88418648	15666232	383471	124187335	18628100	--	--	--	--	--	--	--
+10	235	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	38088488	0	87822392	15560586	380885	123349871	18502480	--	--	--	--	--	--	--
+10	236	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	237	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	238	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	46558684	0	107352512	19020980	465587	150780664	22617099	--	--	--	--	--	--	--
+10	239	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	72167152	288668608	92132248	0	150348480	149335784	453980704	--	--	--	--	--	--	--
+10	240	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	80108176	320432704	102270160	0	166892304	165768176	503935168	--	--	--	--	--	--	--
+10	241	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	80165672	320662688	102343568	0	167012096	165887128	504296896	--	--	--	--	--	--	--
+10	242	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	72110568	288442272	92060016	0	150230608	149218664	453624800	--	--	--	--	--	--	--
+10	243	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	76025584	304102304	97058112	0	158386896	157320032	478252864	--	--	--	--	--	--	--
+10	244	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	76797912	307191648	98044120	0	159995936	158918224	483111392	--	--	--	--	--	--	--
+10	245	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	246	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57904116	0	133512200	23656018	579041	187522935	28128440	--	--	--	--	--	--	--
+10	247	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57267692	0	132044768	23396016	572677	185461871	27819282	--	--	--	--	--	--	--
+10	248	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	249	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	250	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57590404	0	132788864	23527856	575904	186506981	27976047	--	--	--	--	--	--	--
+10	251	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57744352	0	133143824	23590748	577444	187005538	28050830	--	--	--	--	--	--	--
+11	253	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+11	254	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	255	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+11	256	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36358732	0	83834016	14853915	363587	117748044	17662206	--	--	--	--	--	--	--
+11	257	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37778892	0	87108544	15434104	377789	122347243	18352086	--	--	--	--	--	--	--
+11	258	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+11	259	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37869224	0	87316832	15471010	378692	122639789	18395969	--	--	--	--	--	--	--
+11	260	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37211124	0	85799416	15202150	372111	120508523	18076278	--	--	--	--	--	--	--
+11	261	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	87889696	351558784	110335424	0	183103856	181407824	551479936	--	--	--	--	--	--	--
+11	262	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	82450872	329803488	103507600	0	171772944	170181912	517352992	--	--	--	--	--	--	--
+11	263	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	76260816	305043264	95736696	0	158876976	157405368	478512384	--	--	--	--	--	--	--
+11	264	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	79262912	317051648	99505480	0	165131344	163601816	497349568	--	--	--	--	--	--	--
+11	265	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	89863552	359454208	112813368	0	187216064	185481976	563865216	--	--	--	--	--	--	--
+11	266	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	87119472	348477920	109368496	0	181499216	179818128	546646976	--	--	--	--	--	--	--
+11	267	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	268	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	47492204	0	109504976	19402360	474922	153803879	23070583	--	--	--	--	--	--	--
+11	269	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	270	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	271	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	56269032	0	129742120	22988026	562690	182227711	27334157	--	--	--	--	--	--	--
+11	272	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57021608	0	131477360	23295480	570216	184664926	27699738	--	--	--	--	--	--	--
+11	273	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	370665248	1482660992	465327648	0	772220544	765067840	2325806592	--	--	--	--	--	--	--
+11	274	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	YES	362323904	1449295616	454856064	0	754842752	747850944	2273467392	--	--	--	--	--	--	--
+11	275	Shield Depleted	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+11	276	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	277	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57832868	0	133347920	23626912	578329	187292198	28093831	--	--	--	--	--	--	--
+11	278	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	57457836	0	132483192	23473696	574578	186077654	27911648	--	--	--	--	--	--	--
+12	280	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+12	281	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	282	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+12	283	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	35877512	0	82724448	14657320	358775	116189613	17428442	--	--	--	--	--	--	--
+12	284	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36442048	0	84026112	14887952	364420	118017854	17702678	--	--	--	--	--	--	--
+12	285	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	37834416	0	87236568	15456788	378344	122527058	18379058	--	--	--	--	--	--	--
+12	286	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+12	287	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	36404236	0	83938936	14872506	364042	117895409	17684311	--	--	--	--	--	--	--
+12	288	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	289	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	290	Attack	Hijacked USS Enterprise	--	Hijacked USS Enterprise	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	44351872	0	102264168	18119416	443519	143633891	21545084	--	--	--	--	--	--	--
+12	291	Combatant Destroyed	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked USS Enterprise	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

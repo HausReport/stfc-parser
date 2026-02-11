@@ -1,0 +1,102 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	63	DEFEAT	USS ENTERPRISE-D	60	3110680320	0	Five of Eleven	Khan Noonien Singh	Gabriel Lorca	2716096063	0	2739638415	0	Inoss	10/19/2025 11:36:52 AM
+--	1	VICTORY	Romulan Velite	1	45470478336	0	Romulan Captain	--	--	19502586593	7243240294	28758320788	0	Inoss	10/19/2025 11:36:52 AM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	430453760	180662592	2499564032	Galaxy Class	Weaponry is irrelevant	You will be assimilated	Savage Tenacity	Quick Thinking	6.5	367256992	3437356	3491787	40634324	0.22	3.4	6.5	2458526	31215469	2458526	6.5	2283032013	2716096063	207	1184	316.48	4169120	0	1	NO	NO
+Enemy Fleet 1	18793132032	2546893312	24130453504	Revolutionary Spirit	--	--	--	--	0	15961060352	372905664	415321440	627808384	0.1	1.79	0	213603056	267453104	28322520	0	28758321152	19502585856	40	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1500	Not Playing Nice	The Godsend	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.35	Black Market Armaments	The Godsend	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1700	--	Agony Booth	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	--	Agony Booth	--	--	--
+1	10	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	34995140	164977088	234750688	0	76589288	511312204	0	--	--	--	--	--	--	--
+1	11	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	33405434	157482752	224086784	0	73110104	488085074	0	--	--	--	--	--	--	--
+1	12	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	31536786	148673424	211551728	0	69020440	460782378	0	--	--	--	--	--	--	--
+1	13	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	29503140	139086240	197909840	0	64569664	431068884	0	--	--	--	--	--	--	--
+1	14	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	30881096	145582304	207153296	0	67585416	451202112	0	--	--	--	--	--	--	--
+1	15	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	32840032	154817296	220294016	0	71872680	479824024	0	--	--	--	--	--	--	--
+1	16	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	29238846	137840272	196136928	0	63991240	427207286	0	--	--	--	--	--	--	--
+1	17	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	30897870	145661392	207265808	0	67622128	451447198	0	--	--	--	--	--	--	--
+1	18	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	32507420	153249264	218062832	0	71144744	474964260	0	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	NO	56364080	148596208	39920576	0	0	60539136	184341728	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	NO	55973272	147565904	39643784	0	0	60119392	183063568	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	NO	48745096	128509800	34524336	0	0	52355808	159423424	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	627700544	1654846848	444576896	0	0	674196416	2052927872	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	727964032	1919177856	515589760	0	0	781886848	2380844800	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	624419008	1646195584	442252704	0	0	670671712	2042195584	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	26	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	13918736	65616900	93368192	0	30462118	203365946	0	--	--	--	--	--	--	--
+1	27	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15870849	74819720	106463144	0	34734452	231888165	0	--	--	--	--	--	--	--
+1	28	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15433344	72757192	103528320	0	33776944	225495800	0	--	--	--	--	--	--	--
+1	29	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	13905984	65556780	93282648	0	30434208	203179620	0	--	--	--	--	--	--	--
+1	30	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15094755	71160992	101257032	0	33035916	220548695	0	--	--	--	--	--	--	--
+1	31	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	17106424	80644568	114751496	0	37438592	249941080	0	--	--	--	--	--	--	--
+1	32	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	14701986	69309360	98622296	0	32176314	214809956	0	--	--	--	--	--	--	--
+1	33	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	14309612	67459600	95990216	0	31317576	209077004	0	--	--	--	--	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	35	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15905223	74981768	106693728	0	34809680	232390399	0	--	--	--	--	--	--	--
+1	36	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15746025	74231264	105625816	0	34461268	230064373	0	--	--	--	--	--	--	--
+1	37	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	14277225	67306920	95772968	0	31246696	208603809	0	--	--	--	--	--	--	--
+1	38	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	15323866	72241080	102793928	0	33537342	223896216	0	--	--	--	--	--	--	--
+1	39	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15711775	74069792	105396064	0	34386308	229563939	0	--	--	--	--	--	--	--
+1	40	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	17810032	83961584	119471368	0	38978488	260221472	0	--	--	--	--	--	--	--
+1	41	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15759893	74296640	105718848	0	34491616	230266997	0	--	--	--	--	--	--	--
+1	42	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	16072873	75772112	107818344	0	35176596	234839925	0	--	--	--	--	--	--	--
+1	43	Shield Depleted	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	44	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	45	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	129873656	0	61763304	0	49741560	241378520	0	--	--	--	--	--	--	--
+1	46	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	120250416	0	57186832	0	46055864	223493112	0	--	--	--	--	--	--	--
+1	47	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	119922480	0	57030880	0	45930264	222883624	0	--	--	--	--	--	--	--
+1	48	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	128084696	0	60912540	0	49056388	238053624	0	--	--	--	--	--	--	--
+1	49	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	114888576	0	54636932	0	44002280	213527788	0	--	--	--	--	--	--	--
+1	50	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	113383440	0	53921144	0	43425816	210730400	0	--	--	--	--	--	--	--
+1	51	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	126625544	0	60218620	0	48497536	235341700	0	--	--	--	--	--	--	--
+1	52	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	125216888	0	59548712	0	47958020	232723620	0	--	--	--	--	--	--	--
+2	54	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	302200000	--	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	57	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	58	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	59	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	60	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	13520439	63739212	90696376	0	29590416	197546443	0	--	--	--	--	--	--	--
+2	61	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	18526608	87339728	124278232	0	40546768	270691336	0	--	--	--	--	--	--	--
+2	62	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15210714	71707648	102034896	0	33289700	222242958	0	--	--	--	--	--	--	--
+2	63	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	15049275	70946584	100951952	0	32936380	219884191	0	--	--	--	--	--	--	--
+2	64	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	89294456	0	104824232	0	34199744	228318432	0	--	--	--	--	--	--	--
+2	65	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	77903720	0	91452456	0	29837096	199193272	0	--	--	--	--	--	--	--
+2	66	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	84489472	0	99183584	0	32359436	216032492	0	--	--	--	--	--	--	--
+2	67	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	86467752	0	101505920	0	33117116	221090788	0	--	--	--	--	--	--	--
+2	68	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	719659904	1897285120	509708256	0	0	772967520	2353685760	--	--	--	--	--	--	--
+2	69	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	651635584	1717948416	461529184	0	0	699904352	2131208832	--	--	--	--	--	--	--
+2	70	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	633795840	1670916352	448893952	0	0	680743168	2072862976	--	--	--	--	--	--	--
+2	71	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	661406208	1743707264	468449344	0	0	710398912	2163163904	--	--	--	--	--	--	--
+2	72	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	699943296	1845304960	495743712	0	0	751790304	2289201664	--	--	--	--	--	--	--
+2	73	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	750089024	1977507328	531260064	0	0	805650400	2453206016	--	--	--	--	--	--	--
+2	74	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	75	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	79865032	0	93754872	0	30588276	204208180	0	--	--	--	--	--	--	--
+2	76	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	95971528	0	112662560	0	36757060	245391148	0	--	--	--	--	--	--	--
+2	77	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	86012848	0	100971896	0	32942888	219927632	0	--	--	--	--	--	--	--
+2	78	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	82533760	0	96887736	0	31610398	211031894	0	--	--	--	--	--	--	--
+2	79	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	84122448	0	98752728	0	32218866	215094042	0	--	--	--	--	--	--	--
+2	80	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	85204288	0	100022712	0	32633208	217860208	0	--	--	--	--	--	--	--
+2	81	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	90650160	0	106415712	0	34718976	231784848	0	--	--	--	--	--	--	--
+2	82	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	92252672	0	108296928	0	35332736	235882336	0	--	--	--	--	--	--	--
+2	83	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	3149365760	8302873600	2230578432	0	0	3382649600	10300168192	--	--	--	--	--	--	--
+2	84	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	Romulan Velite	NO	--	--	YES	2852284672	7519660032	2020166912	0	0	3063562752	9328548864	--	--	--	--	--	--	--
+2	85	Shield Depleted	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	Romulan Velite	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	86	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	87	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	116458392	0	55383484	0	44603520	216445396	0	--	--	--	--	--	--	--
+2	88	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	127333328	0	60555216	0	48768616	236657160	0	--	--	--	--	--	--	--
+2	89	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	124052704	0	58995068	0	47512140	230559912	0	--	--	--	--	--	--	--
+2	90	Attack	--	--	Romulan Velite	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	117967872	0	56101336	0	45181648	219250856	0	--	--	--	--	--	--	--
+2	91	Combatant Destroyed	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

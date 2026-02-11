@@ -1,0 +1,250 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Rare Xindi Supreme Weapon	60	DEFEAT	Xindi Supreme Weapon	60	231270875136	0	Xindi-Insectoid Pilot	--	--	273136313691	0	182090875794	0	Torgoth	12/31/2025 6:21:39 PM
+
+Reward Name	Count
+Superior Kemocite	969173
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	477516032	169314096	2552780288	Bird of Prey	Defensive Measures	Persistence Is Key	Luck Of The Irish	Know Your Enemy	6.5	442853216	37096171	3137982	3083550	0.22	4.2	6.5	2306128	2223124	29333568	6.5	2109385086	2996175335	217	1126	313.8	3761750	0	1	NO	NO
+Player Fleet 2	610974336	193277408	2956303104	Galaxy Class	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	6.5	544327872	3667329	3721761	42934123	0.22	3.45	6.5	2657272	33328361	2669850	6.5	2761893341	3150712946	237	1184	401.6	4187470	0	1	NO	NO
+Player Fleet 3	561241152	157049152	2809735680	Galaxy Class	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	6.5	500902080	3246845	3301277	38729165	0.22	4.2	6.5	2078018	27253796	2078018	6.5	2550400217	3069070932	207	1184	514.56	4642550	0	1	NO	NO
+Player Fleet 4	566944704	161249744	2704250368	Bird of Prey	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	6.5	543241984	31285436	2801867	2747435	0.22	4.15	6.5	2128361	2142195	27979391	6.5	2243750471	3164750603	232	1208	467.1	3508520	0	1	NO	NO
+Player Fleet 5	120116128	29879900	515026208	Learning The Hard Way---Polarized Hull	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	5	108817016	474764	642871	5411157	0.22	4.45	5	375325	5037687	562968	5	909440	1029142980	266	1607	485.2	54201000	0	1	NO	NO
+Player Fleet 6	15189059	17371680	93843072	Learning The Hard Way---Polarized Hull	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	5	12840675	99949	133621	1129926	0.22	3.4	5	85450	3279313	109573	5	510080	187176058	205	1481	291.81	12807700	0	1	NO	NO
+Enemy Fleet 1	3527253760	130021424	227613605888	Kemocite Weaponry---No Mercy---ship_ability_name_{0}	--	--	--	--	0	815313984	361591968	361591968	361591968	0.08	1.5	0	8668095	8668095	8668095	0	182090874880	273136320512	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	4	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.65	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	5	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	6	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	7	Officer Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	8	Officer Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	9	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	10	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	11	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	15	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	16	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	17	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+1	18	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	19	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	20	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+1	21	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	22	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	23	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7	The Looking Glass	Toli	--	--	--
+1	24	Officer Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	25	Officer Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	26	Forbidden Tech Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	27	Forbidden Tech Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	28	Forbidden Tech Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Temporal Conduit	--	--	--
+1	29	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	5250142	24750670	43218260	0	0	73219072	0	--	--	--	--	--	--	--
+1	30	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	5457138	25726504	44922208	0	0	76105850	0	--	--	--	--	--	--	--
+1	31	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	86180560	245283136	2003980	0	0	62063612	271404064	--	--	--	--	--	--	--
+1	32	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	69810336	198690960	1623319	0	0	50274439	219850176	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	91276560	259787136	2239521	0	0	69988753	283314464	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1303702400	3710537728	31987072	0	0	999648768	4046578432	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	88092480	250724736	2161398	0	0	67547254	273431360	--	--	--	--	--	--	--
+1	36	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1314210816	3740445952	32244900	0	0	1007706276	4079195392	--	--	--	--	--	--	--
+1	37	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	80923808	230321600	1985511	0	0	62050503	251180416	--	--	--	--	--	--	--
+1	38	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	85548552	243484336	2098982	0	0	65596638	265535232	--	--	--	--	--	--	--
+1	39	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1302922368	3708317440	31967934	0	0	999050558	4044157184	--	--	--	--	--	--	--
+1	40	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	83186928	236762784	2041038	0	0	63785806	258204944	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	89009104	253333616	2183888	0	0	68250128	276276480	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1269513728	3613231360	31148234	0	0	973433802	3940459520	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	86644488	246603552	2125871	0	0	66436983	268936928	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	85570256	243546128	2099514	0	0	65613290	265602608	--	--	--	--	--	--	--
+1	45	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2272854528	6468893696	45580356	0	0	1369169476	7418159104	--	--	--	--	--	--	--
+1	46	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2274947840	6474851840	45622340	0	0	1370430276	7424991744	--	--	--	--	--	--	--
+1	47	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1928069248	5487581696	38665952	0	0	1161470304	6292846592	--	--	--	--	--	--	--
+1	48	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2208048128	6284444672	44280712	0	0	1330130312	7206643200	--	--	--	--	--	--	--
+1	49	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	106449296	302971072	2134759	0	0	64125143	347429984	--	--	--	--	--	--	--
+1	50	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	106196776	302252352	2129695	0	0	63973031	346605792	--	--	--	--	--	--	--
+1	51	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	109784688	312464128	2201647	0	0	66134399	358316064	--	--	--	--	--	--	--
+1	52	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	107823856	306883296	2162324	0	0	64953188	351916288	--	--	--	--	--	--	--
+1	53	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2060344960	5864058880	41318640	0	0	1241153392	6724569088	--	--	--	--	--	--	--
+1	54	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2144948864	6104854528	43015308	0	0	1292118796	7000699904	--	--	--	--	--	--	--
+1	55	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2177229312	6196729344	43662664	0	0	1311564616	7106056704	--	--	--	--	--	--	--
+1	56	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2083024384	5928607744	41773456	0	0	1254815632	6798589952	--	--	--	--	--	--	--
+1	57	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1759157248	5006832128	30050280	0	0	952226280	5843813376	--	--	--	--	--	--	--
+1	58	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	119699056	340681920	2044723	0	0	64792739	397632960	--	--	--	--	--	--	--
+1	59	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	127732080	363545152	2181945	0	0	69140969	424318208	--	--	--	--	--	--	--
+1	60	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	130862000	372453408	2235411	0	0	70835203	434715616	--	--	--	--	--	--	--
+1	61	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	545805312	1553445888	60314	0	0	293527962	1805783552	--	--	--	--	--	--	--
+1	62	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2053966	5845902	0	0	0	2179274	5720594	--	--	--	--	--	--	--
+1	63	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2268529	6456581	0	0	0	2406927	6318183	--	--	--	--	--	--	--
+1	64	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+1	65	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	12004877	51178688	12382263	0	0	75565828	0	--	--	--	--	--	--	--
+1	66	Shield Depleted	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	NO	Rare Xindi Supreme Weapon	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	67	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	63634332	0	12470602	0	0	76104934	0	--	--	--	--	--	--	--
+1	68	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	982519552	2796401920	22696680	0	0	707541224	3094076928	--	--	--	--	--	--	--
+1	69	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	864434624	2460313856	19968860	0	0	622504732	2722212608	--	--	--	--	--	--	--
+1	70	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	71	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	72	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2017714048	5742724608	34231456	0	0	1092149280	6702520832	--	--	--	--	--	--	--
+1	73	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1786950784	5085936640	30316450	0	0	967241762	5935962112	--	--	--	--	--	--	--
+1	74	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	125394128	356890976	2127369	0	0	67873401	416539072	--	--	--	--	--	--	--
+1	75	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2222295552	6324995072	37702280	0	0	1202885256	7382107648	--	--	--	--	--	--	--
+1	76	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	35283896	100423400	3647	0	0	18975239	116735704	--	--	--	--	--	--	--
+1	77	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1968326	5602157	0	0	0	2088409	5482074	--	--	--	--	--	--	--
+1	78	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2089214	5946226	0	0	0	2216673	5818767	--	--	--	--	--	--	--
+1	79	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+1	80	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	81	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+1	82	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7128630	33606396	8621386	0	0	49356412	0	--	--	--	--	--	--	--
+1	83	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7429319	35023928	8985041	0	0	51438288	0	--	--	--	--	--	--	--
+1	84	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7581264	35740244	9168804	0	0	52490312	0	--	--	--	--	--	--	--
+1	85	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7032218	33151886	8504786	0	0	48688890	0	--	--	--	--	--	--	--
+1	86	Charging Weapons	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	87	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	88	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	89	Charging Weapons	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	90	Charging Weapons	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	91	Charging Weapons	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	92	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+1	93	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	94	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7173436	33817624	8675575	0	0	49666635	0	--	--	--	--	--	--	--
+1	95	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7588086	35772404	9177054	0	0	52537544	0	--	--	--	--	--	--	--
+1	96	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7433517	35043724	8990118	0	0	51467359	0	--	--	--	--	--	--	--
+1	97	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	7511843	35412976	9084846	0	0	52009665	0	--	--	--	--	--	--	--
+1	98	Charging Weapons	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	99	Charging Weapons	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	100	Charging Weapons	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	101	Charging Weapons	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	102	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+1	103	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	104	Charging Weapons	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	14.28
+2	106	battle_action_type_{0}	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	11775660	--	--	--	--
+2	107	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	108	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	109	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	110	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+2	111	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+2	112	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	113	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+2	114	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	115	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	116	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+2	117	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	118	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	119	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	Adapt and Assimilate	Dezoc	--	--	--
+2	120	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+2	121	Officer Ability	Alannon007	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	122	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	123	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7	The Looking Glass	Toli	--	--	--
+2	124	Officer Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	125	Forbidden Tech Ability	Spekk	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Temporal Conduit	--	--	--
+2	126	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	11952272	50954420	12328004	0	0	75234696	0	--	--	--	--	--	--	--
+2	127	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	63569640	0	12457924	0	0	76027564	0	--	--	--	--	--	--	--
+2	128	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	922068608	2624349184	10329973	0	0	661966837	2894780928	--	--	--	--	--	--	--
+2	129	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	884469760	2517337088	9908751	0	0	634974223	2776741376	--	--	--	--	--	--	--
+2	130	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	807635264	2298654208	9047971	0	0	579813347	2535524096	--	--	--	--	--	--	--
+2	131	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	987478016	2810514432	11062758	0	0	708925158	3100130048	--	--	--	--	--	--	--
+2	132	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	133	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	134	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2255799040	6420350976	17976708	0	0	1218176644	7475950080	--	--	--	--	--	--	--
+2	135	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2283490816	6499166208	18197388	0	0	1233130380	7567724032	--	--	--	--	--	--	--
+2	136	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	123638104	351893056	985285	0	0	66767037	409749408	--	--	--	--	--	--	--
+2	137	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1942763904	5529404928	15482097	0	0	1049131121	6438519808	--	--	--	--	--	--	--
+2	138	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2117362688	6026340352	16873494	0	0	1143418390	7017158144	--	--	--	--	--	--	--
+2	139	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	110777168	315288864	882795	0	0	59821915	367126912	--	--	--	--	--	--	--
+2	140	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	634536000	1805986944	37	0	0	341236453	2099286528	--	--	--	--	--	--	--
+2	141	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2000657	5694178	0	0	0	2122713	5572122	--	--	--	--	--	--	--
+2	142	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2346010	6677104	0	0	0	2489135	6533979	--	--	--	--	--	--	--
+2	143	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+2	144	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	145	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+2	146	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	11301376	53277916	13667919	0	0	78247211	0	--	--	--	--	--	--	--
+2	147	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	11134552	52491464	13466162	0	0	77092178	0	--	--	--	--	--	--	--
+2	148	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	70104784	199528992	780246	0	0	50328310	220085712	--	--	--	--	--	--	--
+2	149	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1003583104	2856352000	11169598	0	0	720473534	3150631168	--	--	--	--	--	--	--
+2	150	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	977510528	2782145280	10879417	0	0	701755961	3068779264	--	--	--	--	--	--	--
+2	151	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	904418880	2574115328	10065928	0	0	649283400	2839316736	--	--	--	--	--	--	--
+2	152	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	87868040	250085968	1019515	0	0	67150067	271823456	--	--	--	--	--	--	--
+2	153	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	95578632	272031488	1108979	0	0	73042619	295676480	--	--	--	--	--	--	--
+2	154	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	81880736	233045168	950045	0	0	62574477	253301472	--	--	--	--	--	--	--
+2	155	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1355244928	3857235456	15724634	0	0	1035698394	4192506624	--	--	--	--	--	--	--
+2	156	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1356752512	3861526272	15742126	0	0	1036850478	4197170432	--	--	--	--	--	--	--
+2	157	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1416628224	4031941632	16436852	0	0	1082608244	4382398464	--	--	--	--	--	--	--
+2	158	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	82259344	234122752	954438	0	0	62863814	254472720	--	--	--	--	--	--	--
+2	159	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1442920192	4106772992	16741913	0	0	1102701337	4463733760	--	--	--	--	--	--	--
+2	160	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	90336992	257112976	1048162	0	0	69036882	279461248	--	--	--	--	--	--	--
+2	161	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	80481080	229061536	933805	0	0	61504837	248971584	--	--	--	--	--	--	--
+2	162	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1286000128	3660154112	14921201	0	0	982780401	3978295040	--	--	--	--	--	--	--
+2	163	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	95248976	271093248	1105154	0	0	72790674	294656704	--	--	--	--	--	--	--
+2	164	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	94853032	269966336	1100560	0	0	72488120	293431808	--	--	--	--	--	--	--
+2	165	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	84207280	239666880	977040	0	0	64352464	260498736	--	--	--	--	--	--	--
+2	166	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	89172528	253798736	1034650	0	0	68146970	275858944	--	--	--	--	--	--	--
+2	167	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1260704000	3588157440	14627695	0	0	963448687	3900040448	--	--	--	--	--	--	--
+2	168	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	1408442624	4008644352	16341876	0	0	1076352884	4357075968	--	--	--	--	--	--	--
+2	169	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	89132440	253684624	1034185	0	0	68116337	275734912	--	--	--	--	--	--	--
+2	170	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2146449536	6109125632	21630554	0	0	1289686234	6987519488	--	--	--	--	--	--	--
+2	171	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2208432640	6285539328	22255180	0	0	1326928460	7189298688	--	--	--	--	--	--	--
+2	172	Shield Depleted	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	YES	ArchieAngel	ThunderDome	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	173	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	404395936	0	1059563	0	0	63174763	342280736	--	--	--	--	--	--	--
+2	174	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	7839950336	0	20541570	0	0	1224756866	6635735040	--	--	--	--	--	--	--
+2	175	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	7798344192	0	20432556	0	0	1218257580	6600519168	--	--	--	--	--	--	--
+2	176	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	8823110656	0	23117562	0	0	1378346746	7467881472	--	--	--	--	--	--	--
+2	177	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	422296672	0	1106465	0	0	65971201	357431936	--	--	--	--	--	--	--
+2	178	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	446398112	0	1169614	0	0	69736334	377831392	--	--	--	--	--	--	--
+2	179	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	8993089536	0	23562926	0	0	1404900526	7611751936	--	--	--	--	--	--	--
+2	180	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	431464832	0	1130487	0	0	67403447	365191872	--	--	--	--	--	--	--
+2	181	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	457428512	0	1198515	0	0	71459475	387167552	--	--	--	--	--	--	--
+2	182	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	386994560	0	1013970	0	0	60456306	327552224	--	--	--	--	--	--	--
+2	183	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	7682425856	0	15808897	0	0	1078636929	6619597824	--	--	--	--	--	--	--
+2	184	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	427210464	0	879113	0	0	59981705	368107872	--	--	--	--	--	--	--
+2	185	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	8660365312	0	17821300	0	0	1215943284	7462243328	--	--	--	--	--	--	--
+2	186	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	8737357824	0	17979736	0	0	1226753368	7528584192	--	--	--	--	--	--	--
+2	187	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	524247328	0	1078796	0	0	73605996	451720128	--	--	--	--	--	--	--
+2	188	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	456185312	0	938738	0	0	64049874	393074176	--	--	--	--	--	--	--
+2	189	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	2286456832	0	32	0	0	319694752	1966762112	--	--	--	--	--	--	--
+2	190	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	9026910	0	0	0	0	2490182	6536728	--	--	--	--	--	--	--
+2	191	Attack	Spekk	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	75560928	0	0	0	0	20844392	54716536	--	--	--	--	--	--	--
+2	192	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+2	193	Officer Ability	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	194	Officer Ability	MiggyAlpha	ThunderDome	ROTARRAN	YES	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+2	195	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	3634225	17132776	29916312	0	0	50683313	0	--	--	--	--	--	--	--
+2	196	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	3654567	17228674	30083762	0	0	50967003	0	--	--	--	--	--	--	--
+2	197	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	198	Attack	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	--	--	NO	3686797	17380616	30349076	0	0	51416489	0	--	--	--	--	--	--	--
+2	199	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5404742656	0	15537452	0	0	1008799532	4411480576	--	--	--	--	--	--	--
+2	200	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5481730048	0	15758774	0	0	1023169462	4474319360	--	--	--	--	--	--	--
+2	201	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5622962688	0	16164787	0	0	1049530291	4589597184	--	--	--	--	--	--	--
+2	202	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	480774880	0	1382122	0	0	89737034	392419968	--	--	--	--	--	--	--
+2	203	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5807681536	0	16695813	0	0	1084008453	4740368896	--	--	--	--	--	--	--
+2	204	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5642617856	0	16221291	0	0	1053199467	4605639680	--	--	--	--	--	--	--
+2	205	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	5664818176	0	16285113	0	0	1057342905	4623760384	--	--	--	--	--	--	--
+2	206	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	497557184	0	1430368	0	0	92869440	406118112	--	--	--	--	--	--	--
+2	207	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	512400576	0	1473039	0	0	95639983	418233632	--	--	--	--	--	--	--
+2	208	Attack	MiggyAlpha	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	507758656	0	1459695	0	0	94773551	414444800	--	--	--	--	--	--	--
+2	209	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1507502464	0	4517440	0	0	299528512	1212491392	--	--	--	--	--	--	--
+2	210	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1516237440	0	4543616	0	0	301264000	1219517056	--	--	--	--	--	--	--
+2	211	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1566697344	0	4694826	0	0	311290026	1260102144	--	--	--	--	--	--	--
+2	212	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1489067008	0	4462196	0	0	295865588	1197663616	--	--	--	--	--	--	--
+2	213	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	23345219584	0	69957200	0	0	4638504528	18776672256	--	--	--	--	--	--	--
+2	214	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	23950886912	0	71772160	0	0	4758847488	19263811584	--	--	--	--	--	--	--
+2	215	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	2014886656	0	5246892	0	0	314760620	1705372928	--	--	--	--	--	--	--
+2	216	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1842210944	0	4797234	0	0	287785650	1559222528	--	--	--	--	--	--	--
+2	217	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	37804662784	0	98445736	0	0	5905750440	31997358080	--	--	--	--	--	--	--
+2	218	Attack	ArchieAngel	ThunderDome	U.S.S. ENTERPRISE-D	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	1790982400	0	4663831	0	0	279782807	1515863424	--	--	--	--	--	--	--
+2	219	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	13041787904	0	26653816	0	0	1831084152	11237357568	--	--	--	--	--	--	--
+2	220	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	13309219840	0	27200374	0	0	1868630902	11467789312	--	--	--	--	--	--	--
+2	221	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	12265639936	0	25067582	0	0	1722111038	10568596480	--	--	--	--	--	--	--
+2	222	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	803120512	0	1641356	0	0	112759116	692002752	--	--	--	--	--	--	--
+2	223	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	785743104	0	1605842	0	0	110319314	677029632	--	--	--	--	--	--	--
+2	224	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	12970545152	0	26508216	0	0	1821080504	11175972864	--	--	--	--	--	--	--
+2	225	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	12559832064	0	25668832	0	0	1763416288	10822084608	--	--	--	--	--	--	--
+2	226	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	819529792	0	1674892	0	0	115062988	706141696	--	--	--	--	--	--	--
+2	227	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	12615064576	0	25781712	0	0	1771170256	10869676032	--	--	--	--	--	--	--
+2	228	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	784458816	0	1603217	0	0	110138961	675923072	--	--	--	--	--	--	--
+2	229	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	775570816	0	1585052	0	0	108891100	668264768	--	--	--	--	--	--	--
+2	230	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	NO	801357632	0	1637753	0	0	112511609	690483776	--	--	--	--	--	--	--
+2	231	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	13179359232	0	26934974	0	0	1850398398	11355895808	--	--	--	--	--	--	--
+2	232	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	13240837120	0	27060618	0	0	1859029386	11408868352	--	--	--	--	--	--	--
+2	233	Attack	Alannon007	ThunderDome	ROTARRAN	YES	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	NO	--	--	YES	13202585600	0	26982442	0	0	1853659178	11375908864	--	--	--	--	--	--	--
+2	234	Combatant Destroyed	Rare Xindi Supreme Weapon	--	Xindi Supreme Weapon	YES	Alannon007	ThunderDome	Xindi Supreme Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

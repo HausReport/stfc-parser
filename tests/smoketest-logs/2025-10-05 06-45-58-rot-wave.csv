@@ -1,0 +1,80 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	60	DEFEAT	ROTARRAN	45	2126069376	22283	Jean-Luc Picard	Jason Nesmith	Beverly Crusher	1493226776	0	1505284023	0	Astilbe - Elite Solo	10/5/2025 6:45:58 AM
+Syndicate Reaver	55	VICTORY	Syndicate Reaver	55	385633184	0	AB Hostile Captain	--	--	332780106	117805258	13863391	0	Astilbe - Elite Solo	10/5/2025 6:45:58 AM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	301546496	146118864	1678403968	Bird of Prey	Make It So	Engage	Never Surrender	Unshakeable Moral Code	6.5	270431008	33768392	2865705	2817031	0.22	3.4	6.5	1890907	1890907	25441960	6.5	1505284023	1851523906	296.39	1173	252.3	3519180	0	1	NO	NO
+Enemy Fleet 1	5856238	3455215	376321728	Not Playing Nice---Black Market Armaments---ship_ability_name_{0}---ship_ability_name_{0}---ship_ability_name_{0}---ship_ability_name_{0}	--	--	--	--	0	3501567	228877	315692	240321	0.06	1.66	0	627163	36411	27469	0	13863391	738780096	100	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Make It So	Jean-Luc Picard	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Engage	Jean-Luc Picard	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	2500	Never Surrender	Jason Nesmith	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1500	Chaos Tamed	Rachel Garrett	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	9	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	39213676	184864464	87502800	1779472768	234161248	122897196	2202317760	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	NO	846914	3002695	6734553	119322576	35131404	41259536	123778606	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	3207343	11371487	25504384	451885792	133045928	156253738	468761196	--	--	--	--	--	--	--
+1	12	Shield Depleted	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	Syndicate Reaver	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Treacherous Ideals	Seska	--	--	--
+1	15	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	32965678	155409632	73560792	1495945600	196851840	103315718	1851417824	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	14683068	0	25686738	455116736	133997192	157370938	472112796	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	14044414	0	24569468	435320992	128168856	150525937	451577793	--	--	--	--	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Treacherous Ideals	Seska	--	--	--
+1	20	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	37460132	176597760	83589880	1699898752	223690096	117401516	2103835104	--	--	--	--	--	--	--
+1	21	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	22	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	33911296	159867536	75670880	1538856704	202498528	106279312	1904525632	--	--	--	--	--	--	--
+1	24	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	25	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	26	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	26121416	123143824	58288264	1185360640	155981904	81865552	1467030496	--	--	--	--	--	--	--
+1	27	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	28883762	136166304	64452260	1310712832	172477024	90522838	1622169344	--	--	--	--	--	--	--
+1	28	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	28467836	134205512	63524148	1291838464	169993344	89219320	1598809984	--	--	--	--	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	30	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	28582272	134745008	63779504	1297031552	170676704	89577984	1605237056	--	--	--	--	--	--	--
+1	31	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	29435622	138767936	65683700	1335755520	175772400	92252394	1653162784	--	--	--	--	--	--	--
+1	32	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	30053896	141682656	67063340	1363812224	179464384	94190100	1687886400	--	--	--	--	--	--	--
+2	34	battle_action_type_{0}	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	--	--	53566250	--	--	--	--
+2	35	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	36	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	37	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	38	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	39452488	185990304	88035696	1790309760	235587296	123645624	2215729920	--	--	--	--	--	--	--
+2	39	Shield Depleted	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	15457301	0	27041192	479114912	141062816	165669051	497007170	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	13771759	0	24092482	426869792	125680616	147603661	442810988	--	--	--	--	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Treacherous Ideals	Seska	--	--	--
+2	44	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	227216512	0	88728336	1804395392	237440832	124618448	2233162624	--	--	--	--	--	--	--
+2	45	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	14070537	0	24615168	436130720	128407256	150805922	452417759	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	15552249	0	27207294	482057920	141929312	166686691	500060084	--	--	--	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Treacherous Ideals	Seska	--	--	--
+2	49	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	225564912	0	88083384	1791279616	235714912	123712616	2216930208	--	--	--	--	--	--	--
+2	50	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	24246350	0	42416860	751540480	221271392	259868774	779606308	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	23862072	0	41744600	739629440	217764496	255750152	767250456	--	--	--	--	--	--	--
+2	52	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	24359502	0	42614808	755047744	222304000	261081506	783244548	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	23712884	0	41483612	735005184	216403008	254151176	762453512	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	YES	23832652	0	41693132	738717504	217495984	255434808	766304464	--	--	--	--	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Treacherous Ideals	Seska	--	--	--
+2	57	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	208615360	0	81464568	1656678016	218002672	114416520	2050344096	--	--	--	--	--	--	--
+2	58	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	Syndicate Reaver	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	59	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	60	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	181318880	0	70805256	1439908352	189477904	99445592	1782064800	--	--	--	--	--	--	--
+2	61	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	156274464	0	61025376	1241022976	163306528	85709792	1535919552	--	--	--	--	--	--	--
+2	62	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	176632544	0	68975232	1402692736	184580688	96875344	1736005856	--	--	--	--	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	64	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	165099952	0	64471740	1311108992	172529152	90550188	1622659648	--	--	--	--	--	--	--
+2	65	Combatant Destroyed	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	66	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	154170528	0	60203784	1224315008	161107904	84555880	1515241344	--	--	--	--	--	--	--
+2	67	Combatant Destroyed	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	68	Attack	Syndicate Reaver	--	Syndicate Reaver	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	175370048	0	68482224	1392666880	183261376	96182896	1723597632	--	--	--	--	--	--	--
+2	69	Combatant Destroyed	XanOfHanoi	ThunderDome	ROTARRAN	NO	Syndicate Reaver	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

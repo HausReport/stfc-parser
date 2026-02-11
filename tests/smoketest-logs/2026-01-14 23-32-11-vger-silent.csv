@@ -1,0 +1,560 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	DEFEAT	BORG CUBE	75	15095822336	0	Kathryn Janeway	The Doctor	Annorax	15647341792	0	10741262255	0	Fiavoli	1/14/2026 11:32:11 PM
+V'ger Silent Enemy ▶	67	VICTORY	V'ger Silent Enemy	67	1218569175040	0	Replicated Silent	--	--	922702461912	304686157287	1504406187900	0	Fiavoli	1/14/2026 11:32:11 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1419528576	481992800	13194301440	Phase Discriminating Amplifier	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	40.5	1355379456	6391193	75769425	6391193	0.22	3.45	40.5	90502272	2967633	2928657	45	10741262255	15647341792	212	1641	488.4	2443470	0	1	NO	NO
+Enemy Fleet 1	702357120	4312630784	1213554229248	Replicated Ruthless Pursuit---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	380614784	15244649	130381872	15244649	0.1	1.5	0	722114944	70205624	70205624	0	1504406142976	922702446592	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	4	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	AGIMUS	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	AGIMUS	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.15	--	AGIMUS	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+1	8	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8963945	42258600	11616564	537400256	5337079	19534724	586041720	--	--	--	--	--	--	--
+1	9	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	64484952	304000480	83567392	3865957376	38393952	140529144	4215875008	--	--	--	--	--	--	--
+1	10	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	63974900	301595968	82906408	3835379200	38090272	139417628	4182529120	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	162033568	558115648	62140860	0	0	93844764	688445312	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	151546144	521992288	58118864	0	0	87770768	643886528	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	177463216	611262144	68058216	0	0	102781144	754002432	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	19	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	2051944	43546820	13451287	519726144	6883947	18892262	566767880	--	--	--	--	--	--	--
+1	20	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	14525524	308263904	95220416	3679093248	48730824	133736572	4012097344	--	--	--	--	--	--	--
+1	21	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	14615627	310176096	95811072	3701915136	49033108	134566175	4036984864	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5585362432	19238469632	2142020352	0	0	3234867456	23730984960	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5781755392	19914936320	2217338112	0	0	3348611840	24565417984	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	303881248	1046702080	116540304	0	0	175998512	1291125120	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	30	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	369555840	113446552	4383307264	73076896	159335032	4780051520	--	--	--	--	--	--	--
+1	31	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	349840896	107394432	4149467392	69178408	150834888	4525046240	--	--	--	--	--	--	--
+1	32	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	49762100	15276009	590228928	9840082	21455071	643652048	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2898794752	9984737280	1111705344	0	0	1678891008	12316346368	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2891112704	9958277120	1108759168	0	0	1674442624	12283706368	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2655030016	9145103360	1018220096	0	0	1537710400	11280643072	--	--	--	--	--	--	--
+1	36	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	37	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	38	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	39	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	327401248	104430816	4034960384	80054960	146672496	4400174912	--	--	--	--	--	--	--
+1	40	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	276130176	88076944	3403085312	67518344	123703576	3711107200	--	--	--	--	--	--	--
+1	41	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	348349568	111112680	4293131776	85177160	156057136	4681714048	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	331440736	1141629312	127109536	0	0	191960192	1408219392	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6196395008	21343137792	2376355072	0	0	3588757760	26327130112	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6067478528	20899092480	2326914816	0	0	3514093312	25779392512	--	--	--	--	--	--	--
+2	46	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	50585070	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	52	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+2	53	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	51386844	242252272	97303336	3759571200	86007888	136661988	4099859552	--	--	--	--	--	--	--
+2	54	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	53341656	251467808	101004864	3902589696	89279728	141860744	4255823008	--	--	--	--	--	--	--
+2	55	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	51384044	242239072	97298032	3759366400	86003200	136654556	4099636192	--	--	--	--	--	--	--
+2	56	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3332297984	11477915648	1277956480	0	0	1929963136	14158206976	--	--	--	--	--	--	--
+2	57	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2912192512	10030885888	1116843520	0	0	1686651392	12373270528	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3025833728	10422316032	1160425600	0	0	1752468352	12856107008	--	--	--	--	--	--	--
+2	59	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	60	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	61	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	64	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	12795351	271545792	97631032	3772232704	96584440	137122247	4113667072	--	--	--	--	--	--	--
+2	65	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	12979701	275458080	99037656	3826581504	97975984	139097821	4172935104	--	--	--	--	--	--	--
+2	66	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	12966105	275169568	98933920	3822573056	97873360	138952137	4168563872	--	--	--	--	--	--	--
+2	67	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	68	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	69	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	70	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	71	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	72	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	262560752	93300096	3604895488	101466872	131039464	3931183744	--	--	--	--	--	--	--
+2	73	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	276990112	98427528	3803007488	107043120	138240888	4147227360	--	--	--	--	--	--	--
+2	74	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	45560568	16189797	625535552	17606928	22738481	682154364	--	--	--	--	--	--	--
+2	75	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	167470192	576841792	64225836	0	0	96993500	711544320	--	--	--	--	--	--	--
+2	76	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3461662976	11923505152	1327568640	0	0	2004886528	14707850240	--	--	--	--	--	--	--
+2	77	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3287273472	11322830848	1260689280	0	0	1903886208	13966907392	--	--	--	--	--	--	--
+2	78	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	79	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	80	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	81	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	283268256	104054328	4020413696	122718984	146143712	4384311552	--	--	--	--	--	--	--
+2	82	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	41917360	15397711	594931200	18159662	21625997	648779936	--	--	--	--	--	--	--
+2	83	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	40138888	14744415	569689408	17389182	20708449	621253444	--	--	--	--	--	--	--
+2	84	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	86	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	58456110	--	--	--	--
+3	87	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	89	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	90	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	91	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+3	92	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7856897	31427590	13504903	521797600	13407397	18967559	569026828	--	--	--	--	--	--	--
+3	93	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	56232904	224931616	96656464	3734577664	95958600	135753472	4072603776	--	--	--	--	--	--	--
+3	94	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	57443448	229773776	98737216	3814973184	98024328	138675856	4160276096	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2958241280	11832965120	1276316416	0	0	1927485696	14140037120	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2738563584	10954254336	1181537792	0	0	1784351744	13090003968	--	--	--	--	--	--	--
+3	97	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3021756672	12087026688	1303719680	0	0	1968870400	14443632640	--	--	--	--	--	--	--
+3	98	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	99	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	100	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	101	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	102	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	103	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	19661612	261218560	99925944	3860902656	108999416	140345436	4210362752	--	--	--	--	--	--	--
+3	104	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	19124896	254087920	97198200	3755509248	106023992	136514336	4095429920	--	--	--	--	--	--	--
+3	105	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	18956192	251846528	96340792	3722380800	105088728	135310096	4059302944	--	--	--	--	--	--	--
+3	106	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5766799360	23067197440	2488052992	0	0	3757442304	27564607488	--	--	--	--	--	--	--
+3	107	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6345000448	25380001792	2737514496	0	0	4134178304	30328338432	--	--	--	--	--	--	--
+3	108	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5483996160	21935984640	2366039040	0	0	3573178368	26212841472	--	--	--	--	--	--	--
+3	109	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	110	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	111	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	112	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	113	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	114	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	34732764	12772928	493515808	15103183	17939507	538185176	--	--	--	--	--	--	--
+3	115	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	281074080	103364616	3993764864	122222144	145175016	4355250688	--	--	--	--	--	--	--
+3	116	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	38780240	14261381	551026112	16863184	20030029	600900888	--	--	--	--	--	--	--
+3	117	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3015255808	12061023232	1300914944	0	0	1964634624	14412559360	--	--	--	--	--	--	--
+3	118	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2756982528	11027930112	1189484416	0	0	1796352640	13178044416	--	--	--	--	--	--	--
+3	119	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3005868544	12023474176	1296864896	0	0	1958517888	14367689728	--	--	--	--	--	--	--
+3	120	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	121	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	122	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	123	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	267552528	101599520	3925565696	128856824	142695944	4280878624	--	--	--	--	--	--	--
+3	124	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	41297568	15682202	605923264	19889452	22025566	660766920	--	--	--	--	--	--	--
+3	125	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	269320832	102271008	3951510528	129708464	143639056	4309171776	--	--	--	--	--	--	--
+3	126	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5818938880	23275755520	2510547968	0	0	3791415808	27813826560	--	--	--	--	--	--	--
+3	127	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5777798144	23111192576	2492798208	0	0	3764609280	27617179648	--	--	--	--	--	--	--
+3	128	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6381779456	25527117824	2753382400	0	0	4158142976	30504136704	--	--	--	--	--	--	--
+4	130	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	53782780	--	--	--	--
+4	131	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	132	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	133	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	134	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	135	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	136	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+4	137	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8093293	32373172	13927972	538144000	13876103	19561760	586852780	--	--	--	--	--	--	--
+4	138	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	56373256	225493008	97014296	3748403712	96653000	136256024	4087681248	--	--	--	--	--	--	--
+4	139	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	57770844	231083376	99419448	3841332992	99049200	139634068	4189021792	--	--	--	--	--	--	--
+4	140	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3384001536	13536006144	1498075904	0	0	2262386432	16155697152	--	--	--	--	--	--	--
+4	141	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3278122752	13112491008	1451203968	0	0	2191600768	15650216960	--	--	--	--	--	--	--
+4	142	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2934968832	11739875328	1299291904	0	0	1962183936	14011952128	--	--	--	--	--	--	--
+4	143	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	144	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	145	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	146	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	147	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	148	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	19907180	264481104	101291672	3913671168	110819944	142263580	4267907488	--	--	--	--	--	--	--
+4	149	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	2689595	35733196	13685194	528763616	14972529	19220778	576623352	--	--	--	--	--	--	--
+4	150	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	2733667	36318720	13909440	537427904	15217869	19535728	586071872	--	--	--	--	--	--	--
+4	151	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	152	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	153	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	154	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	155	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	156	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	275717568	101508672	3922055424	120337320	142568360	4277050624	--	--	--	--	--	--	--
+4	157	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	37279152	13724759	530292320	16270538	19276345	578290424	--	--	--	--	--	--	--
+4	158	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	35201252	12959756	500734368	15363636	18201904	546057108	--	--	--	--	--	--	--
+4	159	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3476673024	13906692096	1539100928	0	0	2324341504	16598124544	--	--	--	--	--	--	--
+4	160	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3106138624	12424554496	1375067776	0	0	2076618880	14829142016	--	--	--	--	--	--	--
+4	161	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3017644544	12070578176	1335891968	0	0	2017456640	14406658048	--	--	--	--	--	--	--
+4	162	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	163	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	164	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	165	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	249377328	94800824	3662880000	120505656	133147232	3994416576	--	--	--	--	--	--	--
+4	166	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	38132496	14496074	560094080	18426622	20359656	610789616	--	--	--	--	--	--	--
+4	167	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	34394672	13075140	505192544	16620407	18363959	550918804	--	--	--	--	--	--	--
+4	168	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	170	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	44270350	--	--	--	--
+5	171	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	172	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	173	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	174	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	175	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+5	176	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8201351	32805404	14130879	545983808	14127488	19846738	595402192	--	--	--	--	--	--	--
+5	177	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	58388624	233554496	100603248	3887072000	100579112	141296712	4238900768	--	--	--	--	--	--	--
+5	178	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	57778128	231112512	99551368	3846429952	99527480	139819344	4194580096	--	--	--	--	--	--	--
+5	179	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3139709440	12558837760	1389929344	0	0	2099063168	14989413376	--	--	--	--	--	--	--
+5	180	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3014429184	12057716736	1334468608	0	0	2015307264	14391307264	--	--	--	--	--	--	--
+5	181	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3184302592	12737210368	1409670400	0	0	2128876288	15202307072	--	--	--	--	--	--	--
+5	182	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	183	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	184	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	185	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	186	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	187	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	18861132	250583600	96080520	3712324608	105431240	134944556	4048336544	--	--	--	--	--	--	--
+5	188	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	19122390	254054608	97411400	3763746816	106891648	136813774	4104413088	--	--	--	--	--	--	--
+5	189	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	19584752	260197408	99766720	3854750720	109476184	140121800	4203653984	--	--	--	--	--	--	--
+5	190	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6580032512	26320130048	2912938240	0	0	4399105280	31413995520	--	--	--	--	--	--	--
+5	191	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5591527936	22366111744	2475333632	0	0	3738235392	26694737920	--	--	--	--	--	--	--
+5	192	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5719729664	22878918656	2532087808	0	0	3823945216	27306790912	--	--	--	--	--	--	--
+5	193	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	194	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	195	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	196	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	197	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	198	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	280313472	103316608	3991910144	122795440	145107600	4353228064	--	--	--	--	--	--	--
+5	199	Shield Depleted	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	200	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	266021792	0	98049056	3788384000	116534760	137709352	4131280256	--	--	--	--	--	--	--
+5	201	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	290593280	0	107105496	4138303488	127298664	150429056	4512871872	--	--	--	--	--	--	--
+5	202	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3030180096	12120720384	1341441408	0	0	2025837184	14466504704	--	--	--	--	--	--	--
+5	203	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3285234688	13140938752	1454352512	0	0	2196355200	15684170752	--	--	--	--	--	--	--
+5	204	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3455392000	13821568000	1529679872	0	0	2310114560	16496525312	--	--	--	--	--	--	--
+5	205	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	206	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	207	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	208	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	209	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	210	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	271898944	0	103474768	3998020864	131827032	145329704	4359891904	--	--	--	--	--	--	--
+5	211	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	283768448	0	107991856	4172550656	137581808	151673952	4550218816	--	--	--	--	--	--	--
+5	212	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	284286944	0	108189176	4180174592	137833200	151951080	4558532832	--	--	--	--	--	--	--
+5	213	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6233997824	24935991296	2759751168	0	0	4167759872	29761980416	--	--	--	--	--	--	--
+5	214	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6787385344	27149539328	3004732160	0	0	4537729792	32403927040	--	--	--	--	--	--	--
+5	215	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6348760064	25395040256	2810555392	0	0	4244486144	30309869568	--	--	--	--	--	--	--
+6	217	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	473551700	--	--	--	--
+6	218	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+6	219	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	220	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	221	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	222	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	223	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	224	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	225	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+6	226	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	275907872	0	95077528	3673571328	95054712	133535856	4006075584	--	--	--	--	--	--	--
+6	227	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	41605928	0	14337354	553961536	14333914	20136732	604102000	--	--	--	--	--	--	--
+6	228	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	288410720	0	99385992	3840040192	99362144	139587080	4187611968	--	--	--	--	--	--	--
+6	229	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3166594560	12666378240	1401831168	0	0	2117037312	15117766656	--	--	--	--	--	--	--
+6	230	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2847145984	11388583936	1260413440	0	0	1903469056	13592674304	--	--	--	--	--	--	--
+6	231	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3121645824	12486583296	1381932672	0	0	2086986624	14903175168	--	--	--	--	--	--	--
+6	232	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	233	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	234	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	235	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	236	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	237	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	270810944	0	96567704	3731148288	105965840	135628776	4068864000	--	--	--	--	--	--	--
+6	238	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	270953568	0	96618552	3733112832	106021632	135700216	4071006368	--	--	--	--	--	--	--
+6	239	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	269620928	0	96143352	3714752256	105500184	135032784	4050983936	--	--	--	--	--	--	--
+6	240	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	241	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	242	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	243	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	244	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	245	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	309586496	0	114105928	4408783872	135618928	160261144	4807834080	--	--	--	--	--	--	--
+6	246	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	33983752	0	12525570	483958464	14887082	17592096	527762772	--	--	--	--	--	--	--
+6	247	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	269144640	0	99200056	3832856064	117902768	139325928	4179777600	--	--	--	--	--	--	--
+6	248	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3115714560	12462858240	1379307008	0	0	2083021312	14874858496	--	--	--	--	--	--	--
+6	249	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2998945280	11995781120	1327613952	0	0	2004955648	14317384704	--	--	--	--	--	--	--
+6	250	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3144999424	12579997696	1392271104	0	0	2102600960	15014667264	--	--	--	--	--	--	--
+6	251	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	252	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	253	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	254	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	255	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	256	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	281790272	0	107239048	4143463680	136622736	150616632	4518499104	--	--	--	--	--	--	--
+6	257	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	35531964	0	13522162	522464416	17227258	18991800	569754000	--	--	--	--	--	--	--
+6	258	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	301858816	0	114876392	4438553088	146352720	161343224	4840297792	--	--	--	--	--	--	--
+6	259	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	261	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	794761800	--	--	--	--
+7	262	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+7	263	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	264	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	265	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	266	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	267	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	268	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+7	269	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	41260704	0	14218390	549365056	14214979	19969649	599089480	--	--	--	--	--	--	--
+7	270	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	294048768	0	101328856	3915107840	101304544	142315800	4269474208	--	--	--	--	--	--	--
+7	271	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	281694784	0	97071688	3750621184	97048400	136336632	4090099424	--	--	--	--	--	--	--
+7	272	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3115676160	12462704640	1379289984	0	0	2082995584	14874675200	--	--	--	--	--	--	--
+7	273	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3230114816	12920459264	1429951104	0	0	2159505024	15421020160	--	--	--	--	--	--	--
+7	274	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3101763328	12407053312	1373130880	0	0	2073695104	14808252416	--	--	--	--	--	--	--
+7	275	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	276	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	277	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	278	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	279	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	280	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	282428192	0	100710256	3891206656	110511552	141446992	4243409664	--	--	--	--	--	--	--
+7	281	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	37824360	0	13487680	521132128	14800324	18943372	568301120	--	--	--	--	--	--	--
+7	282	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39493256	0	14082788	544125696	15453348	19779192	593375896	--	--	--	--	--	--	--
+7	283	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5834205184	23336820736	2582765312	0	0	3900479232	27853312000	--	--	--	--	--	--	--
+7	284	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6051755008	24207020032	2679073280	0	0	4045921792	28891926528	--	--	--	--	--	--	--
+7	285	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6734198272	26936793088	2981186560	0	0	4502170112	32150007808	--	--	--	--	--	--	--
+7	286	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	287	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	288	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	289	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	290	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	291	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	44200488	0	16291206	629453760	19362674	22880908	686427220	--	--	--	--	--	--	--
+7	292	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	40763528	0	15024427	580508416	17857062	21101725	633051708	--	--	--	--	--	--	--
+7	293	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	274307712	0	101103032	3906382592	120164520	141998656	4259959200	--	--	--	--	--	--	--
+7	294	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3372673792	13490695168	1493061120	0	0	2254812416	16101617664	--	--	--	--	--	--	--
+7	295	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2923452928	11693811712	1294193920	0	0	1954483968	13956974592	--	--	--	--	--	--	--
+7	296	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3064708864	12258835456	1356727040	0	0	2048921088	14631350272	--	--	--	--	--	--	--
+7	297	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	298	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	299	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	300	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	301	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	302	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	246799904	0	93922992	3628962816	119658048	131914320	3957429440	--	--	--	--	--	--	--
+7	303	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	304379552	0	115835688	4475617792	147574864	162690584	4880717312	--	--	--	--	--	--	--
+7	304	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	302343040	0	115060672	4445672960	146587488	161602080	4848062080	--	--	--	--	--	--	--
+7	305	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6308704256	25234817024	2792823040	0	0	4217704704	30118639616	--	--	--	--	--	--	--
+7	306	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6659171840	26636687360	2947972864	0	0	4452011264	31791820800	--	--	--	--	--	--	--
+7	307	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6265225216	25060900864	2773575168	0	0	4188636672	29911064576	--	--	--	--	--	--	--
+8	309	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	656863300	--	--	--	--
+8	310	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+8	311	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	312	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	313	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	314	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	315	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	316	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	317	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+8	318	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	38901996	0	13405582	517960032	13402365	18828063	564841912	--	--	--	--	--	--	--
+8	319	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	295730912	0	101908520	3937504768	101884072	143129936	4293898336	--	--	--	--	--	--	--
+8	320	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277364800	0	95579576	3692969216	95556648	134240992	4027229248	--	--	--	--	--	--	--
+8	321	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3376589056	13506356224	1494794368	0	0	2257430912	16120308736	--	--	--	--	--	--	--
+8	322	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2818391808	11273567232	1247684096	0	0	1884246272	13455396864	--	--	--	--	--	--	--
+8	323	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2941573632	11766294528	1302215936	0	0	1966598912	14043485184	--	--	--	--	--	--	--
+8	324	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	325	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	326	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	327	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	328	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	329	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39261328	0	14000084	540930176	15362596	19663040	589891144	--	--	--	--	--	--	--
+8	330	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	285523040	0	101813840	3933846528	111722536	142996984	4289908960	--	--	--	--	--	--	--
+8	331	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	280938656	0	100179104	3870684160	109928704	140700992	4221029632	--	--	--	--	--	--	--
+8	332	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	333	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	334	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	335	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	336	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	337	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	245484144	0	90479384	3495909888	107537944	127077792	3812333568	--	--	--	--	--	--	--
+8	338	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	260934896	0	96174144	3715942144	114306368	135076048	4052281504	--	--	--	--	--	--	--
+8	339	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39994780	0	14741086	569560768	17520302	20703772	621113164	--	--	--	--	--	--	--
+8	340	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3043266304	12173065216	1347234560	0	0	2034586112	14528979968	--	--	--	--	--	--	--
+8	341	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2983647232	11934588928	1320841600	0	0	1994727808	14244349952	--	--	--	--	--	--	--
+8	342	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3262126848	13048507392	1444122752	0	0	2180905856	15573851136	--	--	--	--	--	--	--
+8	343	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	344	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	345	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	346	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	347	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	348	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	40862216	0	15550660	600840832	19811568	21840816	655224460	--	--	--	--	--	--	--
+8	349	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	280727360	0	106834528	4127834112	136107376	150048496	4501454880	--	--	--	--	--	--	--
+8	350	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	254651632	0	96911064	3744414976	123464864	136111048	4083331488	--	--	--	--	--	--	--
+8	351	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	353	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	702112700	--	--	--	--
+9	354	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+9	355	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	356	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	357	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	358	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	359	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	360	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+9	361	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	291809568	0	100557224	3885294080	100533096	141232048	4236961920	--	--	--	--	--	--	--
+9	362	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	287001696	0	98900440	3821279744	98876712	138905120	4167153472	--	--	--	--	--	--	--
+9	363	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	281885024	0	97137240	3753153792	97113936	136428712	4092861280	--	--	--	--	--	--	--
+9	364	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2728112128	10912448512	1207717760	0	0	1823888256	13024390144	--	--	--	--	--	--	--
+9	365	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2940420864	11761683456	1301705472	0	0	1965828608	14037981184	--	--	--	--	--	--	--
+9	366	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3005184768	12020739072	1330376064	0	0	2009127040	14347172864	--	--	--	--	--	--	--
+9	367	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	368	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	369	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	370	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	371	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	372	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277955392	0	99115320	3829582080	108761392	139206888	4176207296	--	--	--	--	--	--	--
+9	373	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39465840	0	14073011	543747968	15442621	19765464	592963976	--	--	--	--	--	--	--
+9	374	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	274530272	0	97893960	3782391552	107421168	137491544	4124745408	--	--	--	--	--	--	--
+9	375	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6783156224	27132624896	3002859776	0	0	4534903040	32383737856	--	--	--	--	--	--	--
+9	376	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5784089600	23136358400	2560579584	0	0	3866973184	27614054400	--	--	--	--	--	--	--
+9	377	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5932532224	23730128896	2626294016	0	0	3966214912	28322740224	--	--	--	--	--	--	--
+9	378	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	379	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	380	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	381	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	382	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	383	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	304547744	0	112248760	4337027584	133411616	157652760	4729582944	--	--	--	--	--	--	--
+9	384	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	42435320	0	15640609	604316224	18589416	21967149	659014420	--	--	--	--	--	--	--
+9	385	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	260489104	0	96009840	3709593600	114111088	134845296	4045358336	--	--	--	--	--	--	--
+9	386	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3309187328	13236749312	1464956160	0	0	2212368896	15798523904	--	--	--	--	--	--	--
+9	387	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3138844160	12555376640	1389546240	0	0	2098485504	14985281536	--	--	--	--	--	--	--
+9	388	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3255224576	13020898304	1441067136	0	0	2176291200	15540898816	--	--	--	--	--	--	--
+9	389	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	390	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	391	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	392	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	393	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	394	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	231366464	0	88049584	3402028288	112175328	123665136	3709954528	--	--	--	--	--	--	--
+9	395	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	252732336	0	96180656	3716193536	122534320	135085200	4052555648	--	--	--	--	--	--	--
+9	396	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	240295904	0	91447808	3533327360	116504664	128437944	3853137792	--	--	--	--	--	--	--
+9	397	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6699295232	26797180928	2965735168	0	0	4478836992	31983374336	--	--	--	--	--	--	--
+9	398	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	7138304000	28553216000	3160081664	0	0	4772336896	34079264768	--	--	--	--	--	--	--
+9	399	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6638574592	26554298368	2938854400	0	0	4438243328	31693484032	--	--	--	--	--	--	--
+10	401	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	835354400	--	--	--	--
+10	402	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+10	403	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	404	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	405	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	406	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	407	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	408	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	409	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+10	410	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	276035424	0	95121480	3675269632	95098656	133597576	4007927616	--	--	--	--	--	--	--
+10	411	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	276210656	0	95181856	3677602304	95159024	133682384	4010471456	--	--	--	--	--	--	--
+10	412	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277556480	0	95645632	3695521536	95622680	134333752	4030012576	--	--	--	--	--	--	--
+10	413	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2838882048	11355528192	1256754944	0	0	1897944576	13553220608	--	--	--	--	--	--	--
+10	414	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3361139712	13444558848	1487955072	0	0	2247101568	16046552064	--	--	--	--	--	--	--
+10	415	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2939364608	11757458432	1301238016	0	0	1965122048	14032939008	--	--	--	--	--	--	--
+10	416	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	417	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	418	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	419	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	420	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	421	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277591392	0	98985520	3824567040	108618960	139024608	4170738304	--	--	--	--	--	--	--
+10	422	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	278021152	0	99138768	3830488064	108787120	139239840	4177195264	--	--	--	--	--	--	--
+10	423	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277595712	0	98987056	3824626432	108620648	139026776	4170803072	--	--	--	--	--	--	--
+10	424	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	425	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	426	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	427	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	428	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	429	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	248478784	0	91583128	3538556160	108849784	128627984	3858839872	--	--	--	--	--	--	--
+10	430	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	253803024	0	93545512	3614377984	111182144	131384152	3941524512	--	--	--	--	--	--	--
+10	431	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	274498464	0	101173344	3909099264	120248088	142097400	4262921760	--	--	--	--	--	--	--
+10	432	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3100827136	12403308544	1372716416	0	0	2073068416	14803783680	--	--	--	--	--	--	--
+10	433	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3396710144	13586840576	1503701888	0	0	2270881408	16216371200	--	--	--	--	--	--	--
+10	434	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3066774528	12267098112	1357641472	0	0	2050302720	14641211392	--	--	--	--	--	--	--
+10	435	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	436	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	437	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	438	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	439	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	440	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	306796192	0	116755376	4511152128	148746560	163982256	4919468000	--	--	--	--	--	--	--
+10	441	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	297458016	0	113201608	4373842944	144219040	158991016	4769730592	--	--	--	--	--	--	--
+10	442	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	296056960	0	112668416	4353241600	143539760	158242160	4747264576	--	--	--	--	--	--	--
+10	443	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	445	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1002031000	--	--	--	--
+11	446	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+11	447	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	448	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	449	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	450	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	451	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	452	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+11	453	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39435404	0	13589393	525062080	13586132	19086225	572586784	--	--	--	--	--	--	--
+11	454	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	294550848	0	101501864	3921792768	101477512	142558800	4276764192	--	--	--	--	--	--	--
+11	455	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	39361712	0	13563999	524080896	13560744	19050559	571516792	--	--	--	--	--	--	--
+11	456	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3216132864	12864531456	1423761536	0	0	2150157184	15354268672	--	--	--	--	--	--	--
+11	457	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3217625088	12870500352	1424422016	0	0	2151154816	15361392640	--	--	--	--	--	--	--
+11	458	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2940028416	11760113664	1301531776	0	0	1965566592	14036107264	--	--	--	--	--	--	--
+11	459	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	460	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	461	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	462	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	463	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	464	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	37597232	0	13406689	518002848	14711451	18829620	564888600	--	--	--	--	--	--	--
+11	465	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	268764960	0	95838120	3702958848	105165248	134604104	4038123072	--	--	--	--	--	--	--
+11	466	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	283405248	0	101058664	3904668160	110893864	141936336	4258089600	--	--	--	--	--	--	--
+11	467	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6731420672	26925682688	2979956992	0	0	4500313344	32136747008	--	--	--	--	--	--	--
+11	468	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	5898695680	23594782720	2611314944	0	0	3943593216	28161200128	--	--	--	--	--	--	--
+11	469	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6125360128	24501440512	2711657728	0	0	4095131904	29243326464	--	--	--	--	--	--	--
+11	470	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	471	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	472	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	473	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	474	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	475	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	286123776	0	105458152	4074653952	125340736	148115368	4443461248	--	--	--	--	--	--	--
+11	476	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	264224768	0	97386712	3762792960	115747552	136779096	4103372896	--	--	--	--	--	--	--
+11	477	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	306751680	0	113061088	4368413696	134377088	158793632	4763809920	--	--	--	--	--	--	--
+11	478	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3259411968	13037647872	1442920832	0	0	2179091328	15560889344	--	--	--	--	--	--	--
+11	479	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3398616576	13594466304	1504545920	0	0	2272157312	16225471488	--	--	--	--	--	--	--
+11	480	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3037802496	12151209984	1344815744	0	0	2030933632	14502894592	--	--	--	--	--	--	--
+11	481	Shield Depleted	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+11	482	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	483	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	484	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	485	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	486	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	487	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	263298208	0	100201640	3871554816	127657056	140732648	4221979072	--	--	--	--	--	--	--
+11	488	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	247749520	0	94284376	3642925824	120118456	132421888	3972656288	--	--	--	--	--	--	--
+11	489	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	251561408	0	95735040	3698976000	121966608	134459344	4033779712	--	--	--	--	--	--	--
+11	490	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	32395261952	0	2868235264	0	0	4331592704	30931904512	--	--	--	--	--	--	--
+11	491	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	30493020160	0	2699813120	0	0	4077242624	29115590656	--	--	--	--	--	--	--
+11	492	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	32355952640	0	2864754688	0	0	4326336512	30894370816	--	--	--	--	--	--	--
+12	494	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	774847400	--	--	--	--
+12	495	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+12	496	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	497	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	498	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	499	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	500	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	501	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	502	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+12	503	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	40646780	0	14006831	541190912	14003471	19672518	590175476	--	--	--	--	--	--	--
+12	504	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	41641540	0	14349625	554435648	14346182	20153971	604619024	--	--	--	--	--	--	--
+12	505	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	41302564	0	14232814	549922368	14229400	19989906	599697240	--	--	--	--	--	--	--
+12	506	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	15984435200	0	1415241472	0	0	2137290496	15262386176	--	--	--	--	--	--	--
+12	507	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	16867956736	0	1493467392	0	0	2255425792	16105998336	--	--	--	--	--	--	--
+12	508	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14303349760	0	1266400384	0	0	1912510592	13657239552	--	--	--	--	--	--	--
+12	509	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	510	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	511	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	512	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	513	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	514	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	269579296	0	96128504	3714178560	105483896	135011952	4050358304	--	--	--	--	--	--	--
+12	515	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	285091360	0	101659912	3927899136	111553632	142780776	4283423264	--	--	--	--	--	--	--
+12	516	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	269924160	0	96251480	3718930176	105618840	135184656	4055540000	--	--	--	--	--	--	--
+12	517	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	518	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	519	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	520	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	521	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	522	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	38362288	0	14139390	546312704	16805164	19858694	595760852	--	--	--	--	--	--	--
+12	523	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	35810876	0	13199003	509978336	15687482	18537925	556137772	--	--	--	--	--	--	--
+12	524	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	241820144	0	89128920	3443731200	105932872	125181072	3755432064	--	--	--	--	--	--	--
+12	525	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	15858743296	0	1404112896	0	0	2120482816	15142373376	--	--	--	--	--	--	--
+12	526	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	15135296512	0	1340059776	0	0	2023750784	14451605504	--	--	--	--	--	--	--
+12	527	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	15782637568	0	1397374592	0	0	2110307968	15069704192	--	--	--	--	--	--	--
+12	528	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	529	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	530	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	531	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	532	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	533	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	235342192	0	89562600	3460487680	114102912	125790168	3773705216	--	--	--	--	--	--	--
+12	534	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	33472960	0	12738581	492188704	16228974	17891267	536737952	--	--	--	--	--	--	--
+12	535	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	291782752	0	111041808	4290393600	141467456	155957584	4678728032	--	--	--	--	--	--	--
+12	536	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	538	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	547433100	--	--	--	--
+13	539	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+13	540	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	541	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	542	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	543	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	544	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	545	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+13	546	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	288743264	0	99500584	3844467968	99476712	139748016	4192440512	--	--	--	--	--	--	--
+13	547	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277337312	0	95570104	3692603136	95547168	134227672	4026830048	--	--	--	--	--	--	--
+13	548	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	279920544	0	96460280	3726997760	96437136	135477928	4064337792	--	--	--	--	--	--	--
+13	549	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14804478976	0	1310769664	0	0	1979517440	14135731200	--	--	--	--	--	--	--
+13	550	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13719324672	0	1214691456	0	0	1834420352	13099595776	--	--	--	--	--	--	--
+13	551	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14923603968	0	1321316864	0	0	1995444736	14249476096	--	--	--	--	--	--	--
+13	552	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	553	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	554	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	555	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	556	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	557	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	277973088	0	99121624	3829825536	108768304	139215784	4176472768	--	--	--	--	--	--	--
+13	558	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	273949024	0	97686696	3774383360	107193736	137200432	4116012384	--	--	--	--	--	--	--
+13	559	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	268695456	0	95813344	3702001408	105138064	134569296	4037078976	--	--	--	--	--	--	--
+13	560	Combatant Destroyed	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

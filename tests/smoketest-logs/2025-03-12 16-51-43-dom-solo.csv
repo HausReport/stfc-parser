@@ -1,0 +1,443 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Jem'Hadar Flagship	53	DEFEAT	Jem'Hadar Flagship	53	234916848	0	Third Jem'Hadar	--	--	224276154	0	165987821	0	Yerra	3/12/2025 4:51:43 PM
+
+Reward Name	Count
+Dominion Solo Armada Credit Epic	3580691
+Dominion Solo Armada Edict	1865
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	8122393	7156910	47453392	Deep Vengeance	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	4.5	7049240	1329778	135570	104290	0.12	2.4	4.5	125026	50151	1256205	4.5	39484526	55422255	126	230	79.89	607550	0	1	NO	NO
+Player Fleet 2	4846171	33765192	33986856	Omega-13	Defensive Measures	Persistence Is Key	Luck Of The Irish	Know Your Enemy	4.5	4235369	77889	801253	54218	0.12	2.4	5	1130758	4491522	1130758	4.5	38477643	29496070	163	220	132.6	4927440	0	9	NO	NO
+Player Fleet 3	1311679	5046185	26416132	Unfettered Revenge	Fight the Collective	Cybernetic Enhancements	Strengthen the Unimatrix	Defenses are irrelevant	5	1201382	7687	99257	7687	0.12	2.4	4.5	606638	218698	183901	5	32342949	20489314	138	185	83.75	2300310	0	1	NO	NO
+Enemy Fleet 1	20195156	19589690	195132000	ship_ability_name_{0}	--	--	--	--	0	13443142	739956	863262	647453	0.1	1.5	0	1266275	1543691	1107972	0	165987824	224276160	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	4	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	5	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+1	6	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+1	7	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	96867	387468	1197383	0	0	1681718	0	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1187387	4749549	3023169	0	0	5397653	3562452	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	369241	1476962	940112	0	0	1678503	1107812	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	340892	1363568	1052666	0	0	1696693	1060433	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	114237	456949	352761	0	0	568583	355364	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	120717	482870	372772	0	0	600836	375523	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	295384	1181537	912138	0	0	1470190	918869	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	24326	97305	82553	0	0	125652	78532	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	25580	102319	86807	0	0	132127	82579	--	--	--	--	--	--	--
+1	16	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+1	17	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+1	18	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+1	19	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	98340	393359	1215588	0	0	1707287	0	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	375454	1501818	955611	0	0	1706556	1126327	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	391045	1564179	995292	0	0	1777419	1173097	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	201634	806535	557369	0	0	963408	602130	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	190769	763075	527335	0	0	911495	569684	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	233609	934436	645756	0	0	1116185	697616	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	214846	859385	593891	0	0	1026536	641586	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	18808	75230	63823	0	0	97145	60716	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	19487	77946	66127	0	0	100652	62908	--	--	--	--	--	--	--
+1	28	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+1	29	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+1	30	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+1	31	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	149070	596282	1842677	0	0	2588029	0	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	358850	1435398	913041	0	0	1630897	1076392	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	385580	1542321	981053	0	0	1752382	1156572	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	364665	1458659	927837	0	0	1657326	1093835	--	--	--	--	--	--	--
+1	35	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	36	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	90957	363828	299308	0	0	464057	290036	--	--	--	--	--	--	--
+1	37	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	82466	329864	271367	0	0	420736	262961	--	--	--	--	--	--	--
+1	38	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+1	39	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+1	40	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	593284	2373135	1395836	0	0	4362255	0	--	--	--	--	--	--	--
+1	41	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	42	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	84185	336741	258937	0	0	418377	261486	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	99172	396688	305034	0	0	492858	308036	--	--	--	--	--	--	--
+1	44	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+1	45	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	355571	1422283	4395249	0	0	6173103	0	--	--	--	--	--	--	--
+1	46	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+1	47	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	648029	2592114	1524635	0	0	4764778	0	--	--	--	--	--	--	--
+2	49	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+2	50	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	51	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+2	52	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	232086	928346	546036	0	0	1706468	0	--	--	--	--	--	--	--
+2	53	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	54	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	117577	470306	359324	0	0	582896	364311	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	324496	1297984	991689	0	0	1608719	1005450	--	--	--	--	--	--	--
+2	56	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	111319	445275	340200	0	0	551873	344921	--	--	--	--	--	--	--
+2	57	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	110953	443813	339083	0	0	550061	343788	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	27533	110130	77861	0	0	132630	82894	--	--	--	--	--	--	--
+2	59	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	26080	104318	73752	0	0	125631	78519	--	--	--	--	--	--	--
+2	60	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+2	61	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+2	62	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	231033	924130	543557	0	0	1698720	0	--	--	--	--	--	--	--
+2	63	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	64	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	196264	785057	538524	0	0	935289	584556	--	--	--	--	--	--	--
+2	65	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	626878	2507513	1720075	0	0	2987364	1867102	--	--	--	--	--	--	--
+2	66	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	194130	776519	532667	0	0	925117	578199	--	--	--	--	--	--	--
+2	67	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	206413	825650	566370	0	0	983651	614782	--	--	--	--	--	--	--
+2	68	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	59601	238405	147631	0	0	274238	171399	--	--	--	--	--	--	--
+2	69	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	23174	92698	57402	0	0	106630	66644	--	--	--	--	--	--	--
+2	70	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+2	71	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+2	72	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	229007	916028	538791	0	0	1683826	0	--	--	--	--	--	--	--
+2	73	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	382550	1530199	968035	0	0	1735412	1145372	--	--	--	--	--	--	--
+2	74	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	385605	1542418	975765	0	0	1749270	1154518	--	--	--	--	--	--	--
+2	75	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	374003	1496014	946408	0	0	1696641	1119784	--	--	--	--	--	--	--
+2	76	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	385961	1543846	976668	0	0	1750888	1155587	--	--	--	--	--	--	--
+2	77	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	387460	1549839	980460	0	0	1757686	1160073	--	--	--	--	--	--	--
+2	78	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	383873	1535494	971384	0	0	1741416	1149335	--	--	--	--	--	--	--
+2	79	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	213872	855490	566619	0	0	1006757	629224	--	--	--	--	--	--	--
+2	80	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	239475	957902	634450	0	0	1127278	704549	--	--	--	--	--	--	--
+2	81	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	226394	905576	599793	0	0	1065700	666063	--	--	--	--	--	--	--
+2	82	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	580928	2323711	1539072	0	0	2734591	1709120	--	--	--	--	--	--	--
+2	83	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	84	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+2	85	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	86	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	118999	475996	362935	0	0	589495	368435	--	--	--	--	--	--	--
+2	87	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	112050	448199	341741	0	0	555071	346919	--	--	--	--	--	--	--
+2	88	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	117137	468547	357256	0	0	580271	362669	--	--	--	--	--	--	--
+2	89	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	109117	436466	332794	0	0	540539	337838	--	--	--	--	--	--	--
+2	90	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	91	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+2	92	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	93	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	95	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	96	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+3	97	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+3	98	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	100226	400903	1238902	0	0	1740031	0	--	--	--	--	--	--	--
+3	99	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	353943	1415770	890487	0	0	1602530	1057670	--	--	--	--	--	--	--
+3	100	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	380045	1520182	956159	0	0	1720714	1135672	--	--	--	--	--	--	--
+3	101	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	404890	1619559	1018666	0	0	1833202	1209913	--	--	--	--	--	--	--
+3	102	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	407402	1629606	1024985	0	0	1844574	1217419	--	--	--	--	--	--	--
+3	103	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	125464	501857	378663	0	0	619067	386917	--	--	--	--	--	--	--
+3	104	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	111220	444882	335674	0	0	548785	342991	--	--	--	--	--	--	--
+3	105	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	303904	1215616	917213	0	0	1499528	937205	--	--	--	--	--	--	--
+3	106	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	129244	516977	390072	0	0	637719	398574	--	--	--	--	--	--	--
+3	107	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	120786	483142	364543	0	0	595982	372489	--	--	--	--	--	--	--
+3	108	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	130125	520498	392729	0	0	642063	401289	--	--	--	--	--	--	--
+3	109	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	36141	144566	72596	0	0	155879	97424	--	--	--	--	--	--	--
+3	110	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	30901	123603	62069	0	0	133275	83298	--	--	--	--	--	--	--
+3	111	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	112	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+3	113	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+3	114	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	97038	388151	1199494	0	0	1684683	0	--	--	--	--	--	--	--
+3	115	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	361776	1447103	909850	0	0	1637788	1080941	--	--	--	--	--	--	--
+3	116	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	357770	1431082	899777	0	0	1619656	1068973	--	--	--	--	--	--	--
+3	117	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	354801	1419204	892309	0	0	1606213	1060101	--	--	--	--	--	--	--
+3	118	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	411371	1645482	1034579	0	0	1862308	1229124	--	--	--	--	--	--	--
+3	119	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	237611	950444	646505	0	0	1128960	705600	--	--	--	--	--	--	--
+3	120	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	234473	937892	637967	0	0	1114050	696282	--	--	--	--	--	--	--
+3	121	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	533261	2133046	1450927	0	0	2533682	1583552	--	--	--	--	--	--	--
+3	122	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	234864	939458	639032	0	0	1115910	697444	--	--	--	--	--	--	--
+3	123	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	531906	2127624	1447240	0	0	2527243	1579527	--	--	--	--	--	--	--
+3	124	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	588004	2352017	1599874	0	0	2793781	1746114	--	--	--	--	--	--	--
+3	125	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	24892	99568	44117	0	0	103739	64838	--	--	--	--	--	--	--
+3	126	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	64557	258230	114419	0	0	269050	168156	--	--	--	--	--	--	--
+3	127	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	128	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+3	129	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+3	130	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	236160	944638	555619	0	0	1736417	0	--	--	--	--	--	--	--
+3	131	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	363102	1452410	912839	0	0	1643585	1084766	--	--	--	--	--	--	--
+3	132	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	365677	1462709	919312	0	0	1655240	1092458	--	--	--	--	--	--	--
+3	133	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	388811	1555246	977471	0	0	1759956	1161572	--	--	--	--	--	--	--
+3	134	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	375980	1503922	945214	0	0	1701877	1123239	--	--	--	--	--	--	--
+3	135	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	384221	1536883	965931	0	0	1739178	1147857	--	--	--	--	--	--	--
+3	136	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1090254	4361014	2740896	0	0	4935038	3257126	--	--	--	--	--	--	--
+3	137	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	138	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	123239	492956	184578	0	0	492783	307990	--	--	--	--	--	--	--
+3	139	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	112784	451135	168919	0	0	450977	281861	--	--	--	--	--	--	--
+3	140	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+3	141	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	YES	903982	3615930	2126825	0	0	6646737	0	--	--	--	--	--	--	--
+3	142	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	143	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	112278	449114	153872	0	0	440162	275102	--	--	--	--	--	--	--
+3	144	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	368894	1475576	505554	0	0	1446169	903855	--	--	--	--	--	--	--
+3	145	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+3	146	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	593597	2374387	1396572	0	0	4364556	0	--	--	--	--	--	--	--
+3	147	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	254151	1016602	3141583	0	0	4412336	0	--	--	--	--	--	--	--
+4	149	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	150	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+4	151	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	152	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	97289	389158	1202605	0	0	1689052	0	--	--	--	--	--	--	--
+4	153	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	154	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	311972	1247886	930508	0	0	1532533	957833	--	--	--	--	--	--	--
+4	155	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	130129	520517	388132	0	0	639248	399530	--	--	--	--	--	--	--
+4	156	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	354395	1417582	1057043	0	0	1740935	1088085	--	--	--	--	--	--	--
+4	157	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	124880	499522	372476	0	0	613463	383415	--	--	--	--	--	--	--
+4	158	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	40101	160404	50119	0	0	154230	96394	--	--	--	--	--	--	--
+4	159	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	40662	162647	50820	0	0	156387	97742	--	--	--	--	--	--	--
+4	160	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	161	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+4	162	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+4	163	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	98562	394249	1218339	0	0	1711150	0	--	--	--	--	--	--	--
+4	164	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	165	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	582995	2331980	1574125	0	0	2762523	1726577	--	--	--	--	--	--	--
+4	166	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	223045	892178	602234	0	0	1056896	660561	--	--	--	--	--	--	--
+4	167	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	592312	2369250	1599283	0	0	2806674	1754171	--	--	--	--	--	--	--
+4	168	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	537259	2149036	1450634	0	0	2545802	1591127	--	--	--	--	--	--	--
+4	169	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	27319	109277	31921	0	0	103703	64814	--	--	--	--	--	--	--
+4	170	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	32027	128110	37422	0	0	121575	75984	--	--	--	--	--	--	--
+4	171	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	172	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+4	173	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+4	174	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	97903	391613	1210192	0	0	1699708	0	--	--	--	--	--	--	--
+4	175	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	380518	1522072	950366	0	0	1718648	1134308	--	--	--	--	--	--	--
+4	176	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1120383	4481530	2798222	0	0	5060322	3339813	--	--	--	--	--	--	--
+4	177	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	361732	1446927	903446	0	0	1633798	1078307	--	--	--	--	--	--	--
+4	178	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	607284	2429137	1592110	0	0	2848327	1780204	--	--	--	--	--	--	--
+4	179	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	613587	2454346	1608632	0	0	2877886	1798679	--	--	--	--	--	--	--
+4	180	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	203385	813541	533212	0	0	953931	596207	--	--	--	--	--	--	--
+4	181	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	601855	2407422	1577876	0	0	2822863	1764290	--	--	--	--	--	--	--
+4	182	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	183	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	184	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+4	185	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	186	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	314553	1258214	936067	0	0	1543898	964936	--	--	--	--	--	--	--
+4	187	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	127733	510934	380116	0	0	626943	391840	--	--	--	--	--	--	--
+4	188	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	351479	1405917	1045953	0	0	1725138	1078211	--	--	--	--	--	--	--
+4	189	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	304597	1218389	906438	0	0	1495030	934394	--	--	--	--	--	--	--
+4	190	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	191	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+4	192	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	193	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	195	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+5	196	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	197	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+5	198	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+5	199	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	226815	907260	533634	0	0	1667709	0	--	--	--	--	--	--	--
+5	200	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	391995	1567979	971202	0	0	1765768	1165408	--	--	--	--	--	--	--
+5	201	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	417680	1670721	1034841	0	0	1881471	1241771	--	--	--	--	--	--	--
+5	202	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	417661	1670646	1034794	0	0	1881386	1241715	--	--	--	--	--	--	--
+5	203	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	353001	1412005	874592	0	0	1590119	1049479	--	--	--	--	--	--	--
+5	204	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	314605	1258420	925331	0	0	1537450	960906	--	--	--	--	--	--	--
+5	205	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	302366	1209465	889334	0	0	1477640	923525	--	--	--	--	--	--	--
+5	206	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	332177	1328706	977013	0	0	1623320	1014576	--	--	--	--	--	--	--
+5	207	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	344904	1379618	1014449	0	0	1685520	1053451	--	--	--	--	--	--	--
+5	208	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	310629	1242517	913637	0	0	1518020	948763	--	--	--	--	--	--	--
+5	209	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	298728	1194912	878633	0	0	1459860	912413	--	--	--	--	--	--	--
+5	210	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	42936	171745	44521	0	0	159509	99693	--	--	--	--	--	--	--
+5	211	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	40314	161257	41802	0	0	149768	93605	--	--	--	--	--	--	--
+5	212	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+5	213	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+5	214	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	225898	903590	531475	0	0	1660963	0	--	--	--	--	--	--	--
+5	215	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	349154	1396615	864560	0	0	1572487	1037842	--	--	--	--	--	--	--
+5	216	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	402326	1609305	996224	0	0	1811961	1195894	--	--	--	--	--	--	--
+5	217	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1227584	4910334	3039693	0	0	5528681	3648930	--	--	--	--	--	--	--
+5	218	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	355905	1423621	881278	0	0	1602894	1057910	--	--	--	--	--	--	--
+5	219	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	550512	2202046	1472964	0	0	2600321	1625201	--	--	--	--	--	--	--
+5	220	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	600570	2402281	1606902	0	0	2836771	1772982	--	--	--	--	--	--	--
+5	221	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	192615	770461	515366	0	0	909810	568632	--	--	--	--	--	--	--
+5	222	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	525572	2102286	1406233	0	0	2482517	1551574	--	--	--	--	--	--	--
+5	223	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	559475	2237901	1496947	0	0	2642660	1651663	--	--	--	--	--	--	--
+5	224	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	568319	2273274	1520608	0	0	2684431	1677770	--	--	--	--	--	--	--
+5	225	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	32663	130652	32280	0	0	120366	75229	--	--	--	--	--	--	--
+5	226	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	33188	132751	32798	0	0	122299	76438	--	--	--	--	--	--	--
+5	227	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+5	228	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+5	229	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	234363	937453	551393	0	0	1723209	0	--	--	--	--	--	--	--
+5	230	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	381085	1524342	943072	0	0	1715963	1132536	--	--	--	--	--	--	--
+5	231	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	390952	1563809	967489	0	0	1760391	1161859	--	--	--	--	--	--	--
+5	232	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1121988	4487954	2776586	0	0	5052125	3334403	--	--	--	--	--	--	--
+5	233	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	381791	1527164	944818	0	0	1719140	1134633	--	--	--	--	--	--	--
+5	234	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	388210	1552841	960704	0	0	1748045	1153710	--	--	--	--	--	--	--
+5	235	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	381672	1526686	944523	0	0	1718603	1134278	--	--	--	--	--	--	--
+5	236	Shield Depleted	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	XanOfHanoi	F around Find out	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+5	237	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	238	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	668028	0	123514	0	0	487103	304439	--	--	--	--	--	--	--
+5	239	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	780500	0	144309	0	0	569113	355696	--	--	--	--	--	--	--
+5	240	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+5	241	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	256387	1025549	3169231	0	0	4451167	0	--	--	--	--	--	--	--
+5	242	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	243	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	655433	0	117105	0	0	475408	297130	--	--	--	--	--	--	--
+5	244	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	712973	0	127386	0	0	517144	323215	--	--	--	--	--	--	--
+5	245	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	246	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+5	247	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	417372	1669487	5159179	0	0	7246038	0	--	--	--	--	--	--	--
+5	248	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	249	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	274435	1097742	3392326	0	0	4764503	0	--	--	--	--	--	--	--
+6	251	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	252	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+6	253	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+6	254	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	255	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	233727	934910	549897	0	0	1718534	0	--	--	--	--	--	--	--
+6	256	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	257	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1625665	0	943975	0	0	1581317	988323	--	--	--	--	--	--	--
+6	258	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1662329	0	965265	0	0	1616981	1010613	--	--	--	--	--	--	--
+6	259	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1565410	0	908987	0	0	1522706	951691	--	--	--	--	--	--	--
+6	260	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1539202	0	893768	0	0	1497212	935758	--	--	--	--	--	--	--
+6	261	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1714088	0	995320	0	0	1667328	1042080	--	--	--	--	--	--	--
+6	262	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	626939	0	364044	0	0	609835	381148	--	--	--	--	--	--	--
+6	263	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	239257	0	40517	0	0	172168	107606	--	--	--	--	--	--	--
+6	264	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	216967	0	36742	0	0	156128	97581	--	--	--	--	--	--	--
+6	265	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+6	266	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+6	267	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	97442	389770	1204496	0	0	1691708	0	--	--	--	--	--	--	--
+6	268	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	269	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2840318	0	1506401	0	0	2674904	1671815	--	--	--	--	--	--	--
+6	270	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1002415	0	531644	0	0	944036	590023	--	--	--	--	--	--	--
+6	271	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2876682	0	1525687	0	0	2709150	1693219	--	--	--	--	--	--	--
+6	272	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2998712	0	1590407	0	0	2824073	1765046	--	--	--	--	--	--	--
+6	273	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	992201	0	526227	0	0	934417	584011	--	--	--	--	--	--	--
+6	274	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3197349	0	1695757	0	0	3011142	1881964	--	--	--	--	--	--	--
+6	275	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	401819	0	66170	0	0	287993	179996	--	--	--	--	--	--	--
+6	276	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	161559	0	26604	0	0	115792	72371	--	--	--	--	--	--	--
+6	277	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	278	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+6	279	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+6	280	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	98097	392390	1190320	0	0	1680807	0	--	--	--	--	--	--	--
+6	281	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1906923	0	933118	0	0	1710868	1129173	--	--	--	--	--	--	--
+6	282	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1941146	0	949864	0	0	1741572	1149438	--	--	--	--	--	--	--
+6	283	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1856756	0	908569	0	0	1665858	1099467	--	--	--	--	--	--	--
+6	284	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1941700	0	950135	0	0	1742069	1149766	--	--	--	--	--	--	--
+6	285	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1839289	0	900022	0	0	1650187	1089124	--	--	--	--	--	--	--
+6	286	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1925535	0	942225	0	0	1727566	1140194	--	--	--	--	--	--	--
+6	287	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1029419	0	533811	0	0	961988	601242	--	--	--	--	--	--	--
+6	288	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3013800	0	1562823	0	0	2816383	1760240	--	--	--	--	--	--	--
+6	289	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1199288	0	621897	0	0	1120729	700456	--	--	--	--	--	--	--
+6	290	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3201307	0	1660056	0	0	2991608	1869755	--	--	--	--	--	--	--
+6	291	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3203130	0	1661001	0	0	2993311	1870820	--	--	--	--	--	--	--
+6	292	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1040148	0	539374	0	0	972013	607509	--	--	--	--	--	--	--
+6	293	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	294	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+6	295	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	296	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1711886	0	991573	0	0	1663667	1039792	--	--	--	--	--	--	--
+6	297	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1719492	0	995979	0	0	1671059	1044412	--	--	--	--	--	--	--
+6	298	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1728633	0	1001273	0	0	1679942	1049964	--	--	--	--	--	--	--
+6	299	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	625557	0	362340	0	0	607936	379961	--	--	--	--	--	--	--
+6	300	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1500566	0	869170	0	0	1458299	911437	--	--	--	--	--	--	--
+6	301	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1723076	0	998055	0	0	1674542	1046589	--	--	--	--	--	--	--
+6	302	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	303	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+6	304	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	305	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	307	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	308	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+7	309	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	225278	901113	530018	0	0	1656409	0	--	--	--	--	--	--	--
+7	310	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1935992	0	931132	0	0	1727183	1139941	--	--	--	--	--	--	--
+7	311	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1970421	0	947691	0	0	1757899	1160213	--	--	--	--	--	--	--
+7	312	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1640576	0	938313	0	0	1587009	991880	--	--	--	--	--	--	--
+7	313	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1731170	0	990127	0	0	1674644	1046653	--	--	--	--	--	--	--
+7	314	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1645552	0	941159	0	0	1591822	994889	--	--	--	--	--	--	--
+7	315	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1764285	0	1009067	0	0	1706678	1066674	--	--	--	--	--	--	--
+7	316	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1621392	0	927341	0	0	1568451	980282	--	--	--	--	--	--	--
+7	317	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1583067	0	905421	0	0	1531377	957111	--	--	--	--	--	--	--
+7	318	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	210110	0	32303	0	0	149177	93236	--	--	--	--	--	--	--
+7	319	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	199579	0	30684	0	0	141700	88563	--	--	--	--	--	--	--
+7	320	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+7	321	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+7	322	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	97669	390677	1185123	0	0	1673469	0	--	--	--	--	--	--	--
+7	323	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	2017568	0	969038	0	0	1799160	1187446	--	--	--	--	--	--	--
+7	324	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	5570659	0	2675588	0	0	4967618	3278629	--	--	--	--	--	--	--
+7	325	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1004567	0	526396	0	0	942131	588832	--	--	--	--	--	--	--
+7	326	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3146807	0	1648937	0	0	2951227	1844517	--	--	--	--	--	--	--
+7	327	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3113022	0	1631234	0	0	2919542	1824714	--	--	--	--	--	--	--
+7	328	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	977107	0	512007	0	0	916378	572736	--	--	--	--	--	--	--
+7	329	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1085951	0	569041	0	0	1018456	636536	--	--	--	--	--	--	--
+7	330	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2932090	0	1536425	0	0	2749855	1718660	--	--	--	--	--	--	--
+7	331	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	166883	0	25126	0	0	118159	73850	--	--	--	--	--	--	--
+7	332	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	145149	0	21854	0	0	102771	64232	--	--	--	--	--	--	--
+7	333	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+7	334	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+7	335	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	98938	395754	1222988	0	0	1717680	0	--	--	--	--	--	--	--
+7	336	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	5586563	0	2679439	0	0	4979519	3286483	--	--	--	--	--	--	--
+7	337	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1943172	0	931988	0	0	1732024	1143136	--	--	--	--	--	--	--
+7	338	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1947920	0	934265	0	0	1736256	1145929	--	--	--	--	--	--	--
+7	339	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	340	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	684873	0	100030	0	0	483017	301886	--	--	--	--	--	--	--
+7	341	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	704279	0	102864	0	0	496703	310440	--	--	--	--	--	--	--
+7	342	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	343	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+7	344	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	547939	2191758	1289153	0	0	4028850	0	--	--	--	--	--	--	--
+7	345	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	346	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	667654	0	96037	0	0	469963	293728	--	--	--	--	--	--	--
+7	347	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	693424	0	99744	0	0	488103	305065	--	--	--	--	--	--	--
+7	348	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+7	349	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	268228	1072912	3315596	0	0	4656736	0	--	--	--	--	--	--	--
+7	350	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	351	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	239621	958486	2961987	0	0	4160094	0	--	--	--	--	--	--	--
+8	353	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+8	354	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+8	355	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+8	356	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	96939	387757	1176267	0	0	1660963	0	--	--	--	--	--	--	--
+8	357	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	358	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	605183	0	341274	0	0	582435	364022	--	--	--	--	--	--	--
+8	359	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1541334	0	869188	0	0	1483398	927124	--	--	--	--	--	--	--
+8	360	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1616596	0	911630	0	0	1555831	972395	--	--	--	--	--	--	--
+8	361	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1617587	0	912189	0	0	1556785	972991	--	--	--	--	--	--	--
+8	362	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	192700	0	26731	0	0	135034	84397	--	--	--	--	--	--	--
+8	363	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	231373	0	32096	0	0	162135	101334	--	--	--	--	--	--	--
+8	364	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+8	365	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+8	366	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	98798	395191	1221249	0	0	1715238	0	--	--	--	--	--	--	--
+8	367	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	368	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3022196	0	1561240	0	0	2820576	1762860	--	--	--	--	--	--	--
+8	369	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2660991	0	1374644	0	0	2483467	1552168	--	--	--	--	--	--	--
+8	370	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3085122	0	1593747	0	0	2879304	1799565	--	--	--	--	--	--	--
+8	371	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1076939	0	556337	0	0	1005093	628183	--	--	--	--	--	--	--
+8	372	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	152619	0	20886	0	0	106772	66733	--	--	--	--	--	--	--
+8	373	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	140697	0	19255	0	0	98432	61520	--	--	--	--	--	--	--
+8	374	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+8	375	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+8	376	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+8	377	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	99117	396466	1225191	0	0	1720774	0	--	--	--	--	--	--	--
+8	378	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1853768	0	863110	0	0	1636673	1080205	--	--	--	--	--	--	--
+8	379	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1945040	0	905606	0	0	1717256	1133390	--	--	--	--	--	--	--
+8	380	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1971501	0	917926	0	0	1740618	1148809	--	--	--	--	--	--	--
+8	381	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2914909	0	1485515	0	0	2707953	1692471	--	--	--	--	--	--	--
+8	382	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2668547	0	1359963	0	0	2479083	1549427	--	--	--	--	--	--	--
+8	383	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2750207	0	1401579	0	0	2554945	1596841	--	--	--	--	--	--	--
+8	384	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2688898	0	1370334	0	0	2497989	1561243	--	--	--	--	--	--	--
+8	385	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	386	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+8	387	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+8	388	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	389	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1622136	0	912219	0	0	1559603	974752	--	--	--	--	--	--	--
+8	390	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1641258	0	922972	0	0	1577988	986242	--	--	--	--	--	--	--
+8	391	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1798804	0	1011569	0	0	1729460	1080913	--	--	--	--	--	--	--
+8	392	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1659653	0	933316	0	0	1595673	997296	--	--	--	--	--	--	--
+8	393	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	394	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+8	395	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	396	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	398	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+9	399	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+9	400	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+9	401	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+9	402	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	233434	933735	549206	0	0	1716375	0	--	--	--	--	--	--	--
+9	403	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	5828150	0	2584544	0	0	5067888	3344806	--	--	--	--	--	--	--
+9	404	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	2015016	0	893576	0	0	1752164	1156428	--	--	--	--	--	--	--
+9	405	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1945663	0	862821	0	0	1691858	1116626	--	--	--	--	--	--	--
+9	406	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	2056582	0	912009	0	0	1788308	1180283	--	--	--	--	--	--	--
+9	407	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1635030	0	905556	0	0	1563437	977149	--	--	--	--	--	--	--
+9	408	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1745360	0	966663	0	0	1668937	1043086	--	--	--	--	--	--	--
+9	409	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	586794	0	324994	0	0	561100	350688	--	--	--	--	--	--	--
+9	410	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1795446	0	994403	0	0	1716830	1073019	--	--	--	--	--	--	--
+9	411	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	233253	0	30493	0	0	162305	101441	--	--	--	--	--	--	--
+9	412	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	233597	0	30538	0	0	162544	101591	--	--	--	--	--	--	--
+9	413	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+9	414	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+9	415	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	100280	401118	1216798	0	0	1718196	0	--	--	--	--	--	--	--
+9	416	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1872699	0	827239	0	0	1626468	1073470	--	--	--	--	--	--	--
+9	417	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	2073640	0	916003	0	0	1800990	1188653	--	--	--	--	--	--	--
+9	418	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1965142	0	868075	0	0	1706757	1126460	--	--	--	--	--	--	--
+9	419	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1910526	0	843949	0	0	1659322	1095153	--	--	--	--	--	--	--
+9	420	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3222172	0	1625006	0	0	2982879	1864299	--	--	--	--	--	--	--
+9	421	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2716440	0	1369954	0	0	2514704	1571690	--	--	--	--	--	--	--
+9	422	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1218322	0	614424	0	0	1127844	704902	--	--	--	--	--	--	--
+9	423	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3063311	0	1544889	0	0	2835815	1772385	--	--	--	--	--	--	--
+9	424	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	171917	0	22242	0	0	119482	74677	--	--	--	--	--	--	--
+9	425	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	172771	0	22353	0	0	120076	75048	--	--	--	--	--	--	--
+9	426	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.13	Know Your Enemy	Changeling Kira	--	--	--
+9	427	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Defenses are irrelevant	Six of Eleven	--	--	--
+9	428	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	98527	394110	1217907	0	0	1710544	0	--	--	--	--	--	--	--
+9	429	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1922021	0	845634	0	0	1667262	1100393	--	--	--	--	--	--	--
+9	430	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1946503	0	856405	0	0	1688499	1114409	--	--	--	--	--	--	--
+9	431	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1890546	0	831786	0	0	1639959	1082373	--	--	--	--	--	--	--
+9	432	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1958458	0	861665	0	0	1698869	1121254	--	--	--	--	--	--	--
+9	433	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1905198	0	838232	0	0	1652668	1090762	--	--	--	--	--	--	--
+9	434	Attack	XanOfHanoi	F around Find out	PILUM	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	1957150	0	861090	0	0	1697735	1120505	--	--	--	--	--	--	--
+9	435	Combatant Destroyed	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	XanOfHanoi	F around Find out	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

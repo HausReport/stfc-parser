@@ -1,0 +1,257 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Federation Supply Dock	41	DEFEAT	FEDERATION SUPPLY DOCK	41	104286816	0	Federation Commander	--	--	100090085	0	72523600	0	Dashai	2/20/2025 1:26:30 PM
+
+Reward Name	Count
+Rare Armada Credit	19927
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	880893	4332410	19148900	Unfettered Revenge	Defensive Measures	Persistence Is Key	Luck Of The Irish	Know Your Enemy	4	804973	5315	68586	5315	0.12	2.4	4	521510	211178	133794	3.5	22536670	15761130	193	130	47.06	1468000	0	1	NO	NO
+Player Fleet 2	6426440	5299255	30615208	Deep Vengeance	Take the Shot	Anticollective	Luck Of The Irish	I Have One Job!	4.5	5578807	813231	75044	57725	0.12	2.4	4.5	88251	43154	928446	4.5	24412374	36818041	103	215	63.8	353780	0	1	NO	NO
+Player Fleet 3	791754	637360	1735289	Frontline Defender	You'll pay for that	Systems Critical	Fight or Flight	Mistakes Were Made	2.69	619915	8952	124409	11936	0.12	1.68	3	122436	2923	2113	3	1336801	2133776	85	65	15.78	79293	0	1	NO	NO
+Enemy Fleet 1	9359523	8620445	86306848	ship_ability_name_{0}	--	--	--	--	0	6209280	345233	402770	302078	0.1	1.5	0	565111	664507	494471	0	72523600	100090088	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	3	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+1	4	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+1	5	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	43071	172282	532397	0	0	747750	0	--	--	--	--	--	--	--
+1	6	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9500	37998	34558	0	0	52600	29456	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	8966	35865	32618	0	0	49647	27802	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9014	36054	32790	0	0	49909	27949	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9779	39115	35574	0	0	54146	30322	--	--	--	--	--	--	--
+1	10	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	393165	1572661	487192	0	0	885246	1567772	--	--	--	--	--	--	--
+1	11	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	439109	1756435	544123	0	0	988692	1750975	--	--	--	--	--	--	--
+1	12	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	13332	53328	117059	0	0	178368	5351	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+1	14	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	15	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	70161	280644	446519	0	0	797324	0	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	8967	35867	32620	0	0	49650	27804	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9863	39451	35879	0	0	54611	30582	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9490	37960	34523	0	0	52547	29426	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9232	36927	33584	0	0	51117	28626	--	--	--	--	--	--	--
+1	20	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	395931	1583725	490480	0	0	891424	1578712	--	--	--	--	--	--	--
+1	21	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	442372	1769489	548011	0	0	995984	1763888	--	--	--	--	--	--	--
+1	22	Charging Weapons	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	23	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	24	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	25	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Tsksksksk	F around Find out	USS INTREPID	YES	NO	137184	548736	182333	0	0	868253	0	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	45620	182478	165175	0	0	252098	141175	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	44761	179046	162068	0	0	247356	138519	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	46224	184894	167361	0	0	255435	143044	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	43240	172960	156559	0	0	238948	133811	--	--	--	--	--	--	--
+1	30	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	459839	1839356	564758	0	0	1033545	1830408	--	--	--	--	--	--	--
+1	31	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	441760	1767041	542554	0	0	992910	1758445	--	--	--	--	--	--	--
+1	32	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1197391	4789564	1470594	0	0	2691284	4766265	--	--	--	--	--	--	--
+1	33	Charging Weapons	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	34	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	35	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Tsksksksk	F around Find out	USS INTREPID	YES	NO	334113	1336451	444074	0	0	2114638	0	--	--	--	--	--	--	--
+1	36	Shield Depleted	Tsksksksk	F around Find out	USS INTREPID	NO	Federation Supply Dock	--	USS INTREPID	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	37	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	46179	184718	167186	0	0	255181	142902	--	--	--	--	--	--	--
+1	38	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	121736	486945	440730	0	0	672699	376712	--	--	--	--	--	--	--
+1	39	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	47138	188552	170657	0	0	260479	145868	--	--	--	--	--	--	--
+1	40	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	44829	179316	162297	0	0	247719	138723	--	--	--	--	--	--	--
+1	41	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	42	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	185394	741574	1179884	0	0	2106852	0	--	--	--	--	--	--	--
+1	43	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	44	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	166364	665455	1058774	0	0	1890593	0	--	--	--	--	--	--	--
+2	46	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	47	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+2	48	Officer Ability	Tsksksksk	F around Find out	USS INTREPID	YES	--	--	USS INTREPID	NO	--	--	--	--	--	--	--	--	Officer	0.25	Mistakes Were Made	Pan	--	--	--
+2	49	Officer Ability	Tsksksksk	F around Find out	USS INTREPID	YES	--	--	USS INTREPID	NO	--	--	--	--	--	--	--	--	Officer	0.6	You'll pay for that	Rima	--	--	--
+2	50	Officer Ability	Tsksksksk	F around Find out	USS INTREPID	YES	--	--	USS INTREPID	NO	--	--	--	--	--	--	--	--	Officer	0.05	Systems Critical	Rima	--	--	--
+2	51	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	51471	205882	636229	0	0	893582	0	--	--	--	--	--	--	--
+2	52	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9127	36509	33203	0	0	50538	28301	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10597	42387	38549	0	0	58675	32858	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9728	38913	35389	0	0	53865	30165	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10217	40869	37169	0	0	56574	31681	--	--	--	--	--	--	--
+2	56	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	57	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	16110	64438	141407	0	0	215490	6465	--	--	--	--	--	--	--
+2	58	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+2	59	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+2	60	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	78323	313292	498463	0	0	890078	0	--	--	--	--	--	--	--
+2	61	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	28099	112397	102220	0	0	155587	87129	--	--	--	--	--	--	--
+2	62	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9430	37718	34303	0	0	52212	29239	--	--	--	--	--	--	--
+2	63	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10032	40126	36493	0	0	55545	31106	--	--	--	--	--	--	--
+2	64	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10974	43898	39923	0	0	60766	34029	--	--	--	--	--	--	--
+2	65	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	66	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	19315	77259	169530	0	0	258353	7751	--	--	--	--	--	--	--
+2	67	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	68	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+2	69	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	78592	314368	500176	0	0	893136	0	--	--	--	--	--	--	--
+2	70	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	71	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	422213	1688852	517776	0	0	948697	1680144	--	--	--	--	--	--	--
+2	72	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1219855	4879419	1495955	0	0	2740970	4854259	--	--	--	--	--	--	--
+2	73	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1222025	4888102	1498617	0	0	2745847	4862897	--	--	--	--	--	--	--
+2	74	Charging Weapons	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	75	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	76	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	77	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	78	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	79	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	81	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+3	82	Officer Ability	Tsksksksk	F around Find out	USS INTREPID	YES	--	--	USS INTREPID	NO	--	--	--	--	--	--	--	--	Officer	0.6	You'll pay for that	Rima	--	--	--
+3	83	Officer Ability	Tsksksksk	F around Find out	USS INTREPID	YES	--	--	USS INTREPID	NO	--	--	--	--	--	--	--	--	Officer	0.05	Systems Critical	Rima	--	--	--
+3	84	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Tsksksksk	F around Find out	USS INTREPID	YES	NO	646401	0	171828	0	0	818229	0	--	--	--	--	--	--	--
+3	85	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10921	43683	39728	0	0	60469	33863	--	--	--	--	--	--	--
+3	86	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9084	36334	33045	0	0	50297	28166	--	--	--	--	--	--	--
+3	87	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10515	42061	38253	0	0	58224	32605	--	--	--	--	--	--	--
+3	88	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	9375	37500	34105	0	0	51910	29070	--	--	--	--	--	--	--
+3	89	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	417494	1669975	516431	0	0	939697	1664203	--	--	--	--	--	--	--
+3	90	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	391420	1565682	484178	0	0	881010	1560270	--	--	--	--	--	--	--
+3	91	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	15155	60622	133012	0	0	202708	6081	--	--	--	--	--	--	--
+3	92	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	93	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	46568	186272	575628	0	0	808468	0	--	--	--	--	--	--	--
+3	94	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10117	40469	36804	0	0	56019	31371	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10449	41796	38012	0	0	57857	32400	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	27656	110626	100610	0	0	153136	85756	--	--	--	--	--	--	--
+3	97	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	11079	44314	40302	0	0	61343	34352	--	--	--	--	--	--	--
+3	98	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1164734	4658937	1440312	0	0	2621430	4642553	--	--	--	--	--	--	--
+3	99	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	393386	1573546	486462	0	0	885382	1568012	--	--	--	--	--	--	--
+3	100	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	18572	74286	162982	0	0	248388	7452	--	--	--	--	--	--	--
+3	101	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	102	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	103	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	65452	261806	416547	0	0	743805	0	--	--	--	--	--	--	--
+3	104	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	43116	172465	156021	0	0	238206	133396	--	--	--	--	--	--	--
+3	105	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	114560	458238	414549	0	0	632915	354432	--	--	--	--	--	--	--
+3	106	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	40647	162586	147085	0	0	224563	125755	--	--	--	--	--	--	--
+3	107	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	45396	181585	164271	0	0	250802	140450	--	--	--	--	--	--	--
+3	108	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1273658	5094631	1560723	0	0	2861426	5067586	--	--	--	--	--	--	--
+3	109	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	435289	1741157	533397	0	0	977929	1731914	--	--	--	--	--	--	--
+3	110	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1264051	5056205	1548951	0	0	2839843	5029364	--	--	--	--	--	--	--
+3	111	Attack	Tsksksksk	F around Find out	USS INTREPID	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	28083	112333	246435	0	0	375583	11268	--	--	--	--	--	--	--
+3	112	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+3	113	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	114	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	107795	431179	1332455	0	0	1871429	0	--	--	--	--	--	--	--
+3	115	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	131748	526991	476698	0	0	727844	407593	--	--	--	--	--	--	--
+3	116	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	45611	182443	165031	0	0	251977	141108	--	--	--	--	--	--	--
+3	117	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	41170	164678	148962	0	0	227442	127368	--	--	--	--	--	--	--
+3	118	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	44170	176679	159817	0	0	244016	136650	--	--	--	--	--	--	--
+3	119	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	120	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	121	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Tsksksksk	F around Find out	USS INTREPID	YES	NO	1528297	0	406256	0	0	1934553	0	--	--	--	--	--	--	--
+3	122	Combatant Destroyed	Tsksksksk	F around Find out	USS INTREPID	NO	Federation Supply Dock	--	USS INTREPID	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	123	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	176109	704434	1120792	0	0	2001335	0	--	--	--	--	--	--	--
+4	125	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+4	126	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+4	127	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	YES	97666	390666	621570	0	0	1109902	0	--	--	--	--	--	--	--
+4	128	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	30159	120635	109713	0	0	166991	93516	--	--	--	--	--	--	--
+4	129	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	29920	119681	108846	0	0	165671	92776	--	--	--	--	--	--	--
+4	130	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	131	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+4	132	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+4	133	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	48576	194306	600454	0	0	843336	0	--	--	--	--	--	--	--
+4	134	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10259	41034	37319	0	0	56802	31810	--	--	--	--	--	--	--
+4	135	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	27871	111483	101390	0	0	154323	86421	--	--	--	--	--	--	--
+4	136	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	137	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	138	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+4	139	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	66977	267906	426253	0	0	761136	0	--	--	--	--	--	--	--
+4	140	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	141	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1253756	5015025	1533840	0	0	2815814	4986807	--	--	--	--	--	--	--
+4	142	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	424666	1698665	519534	0	0	953758	1689107	--	--	--	--	--	--	--
+4	143	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1190530	4762122	1456490	0	0	2673815	4735327	--	--	--	--	--	--	--
+4	144	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+4	145	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	146	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	147	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	148	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	150	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+5	151	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+5	152	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+5	153	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	45805	183219	566193	0	0	795217	0	--	--	--	--	--	--	--
+5	154	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10167	40669	36987	0	0	56297	31526	--	--	--	--	--	--	--
+5	155	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	30681	122722	111612	0	0	169881	95134	--	--	--	--	--	--	--
+5	156	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	10095	40379	36723	0	0	55895	31302	--	--	--	--	--	--	--
+5	157	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	29518	118074	107384	0	0	163446	91530	--	--	--	--	--	--	--
+5	158	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	373779	1495115	461484	0	0	840988	1489390	--	--	--	--	--	--	--
+5	159	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	1091231	4364922	1347282	0	0	2455227	4348208	--	--	--	--	--	--	--
+5	160	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	411891	1647566	508539	0	0	926739	1641257	--	--	--	--	--	--	--
+5	161	Shield Depleted	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	YES	TheEsteemedMadOne	F around Find out	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+5	162	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2066142	0	510190	0	0	929748	1646584	--	--	--	--	--	--	--
+5	163	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	164	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	165	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	47334	189336	585097	0	0	821767	0	--	--	--	--	--	--	--
+5	166	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	146142	0	106329	0	0	161840	90631	--	--	--	--	--	--	--
+5	167	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	53677	0	39053	0	0	59442	33288	--	--	--	--	--	--	--
+5	168	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	48915	0	35589	0	0	54169	30335	--	--	--	--	--	--	--
+5	169	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	142339	0	103562	0	0	157629	88272	--	--	--	--	--	--	--
+5	170	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2225255	0	549299	0	0	1001282	1773272	--	--	--	--	--	--	--
+5	171	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2177156	0	537426	0	0	979640	1734942	--	--	--	--	--	--	--
+5	172	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	1875860	0	463052	0	0	844068	1494844	--	--	--	--	--	--	--
+5	173	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	1950827	0	481557	0	0	877800	1554584	--	--	--	--	--	--	--
+5	174	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	175	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	176	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	75334	301335	479440	0	0	856109	0	--	--	--	--	--	--	--
+5	177	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	605206	0	437722	0	0	668543	374385	--	--	--	--	--	--	--
+5	178	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	568180	0	410942	0	0	627642	351480	--	--	--	--	--	--	--
+5	179	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	699074	0	505613	0	0	772235	432452	--	--	--	--	--	--	--
+5	180	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	254299	0	183924	0	0	280912	157311	--	--	--	--	--	--	--
+5	181	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2265252	0	553788	0	0	1017336	1801704	--	--	--	--	--	--	--
+5	182	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2129912	0	520701	0	0	956554	1694059	--	--	--	--	--	--	--
+5	183	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5933616	0	1450597	0	0	2664819	4719394	--	--	--	--	--	--	--
+5	184	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2166340	0	529607	0	0	972915	1723032	--	--	--	--	--	--	--
+5	185	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2179978	0	532941	0	0	979039	1733880	--	--	--	--	--	--	--
+5	186	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	6453907	0	1577793	0	0	2898484	5133216	--	--	--	--	--	--	--
+5	187	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+5	188	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	189	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	172752	691009	1099431	0	0	1963192	0	--	--	--	--	--	--	--
+5	190	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	218637	0	158114	0	0	241507	135244	--	--	--	--	--	--	--
+5	191	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	636979	0	460650	0	0	703608	394021	--	--	--	--	--	--	--
+5	192	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	662997	0	479465	0	0	732347	410115	--	--	--	--	--	--	--
+5	193	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	652943	0	472195	0	0	721242	403896	--	--	--	--	--	--	--
+5	194	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+5	195	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	196	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	117905	471618	1457423	0	0	2046946	0	--	--	--	--	--	--	--
+5	197	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	198	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	123190	492762	1522760	0	0	2138712	0	--	--	--	--	--	--	--
+6	200	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	201	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+6	202	Officer Ability	TheEsteemedMadOne	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+6	203	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	51014	204055	630584	0	0	885653	0	--	--	--	--	--	--	--
+6	204	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	139225	0	101296	0	0	154180	86341	--	--	--	--	--	--	--
+6	205	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	53633	0	39021	0	0	59393	33261	--	--	--	--	--	--	--
+6	206	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	135837	0	98831	0	0	150428	84240	--	--	--	--	--	--	--
+6	207	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	138740	0	100943	0	0	153643	86040	--	--	--	--	--	--	--
+6	208	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	209	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	210	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+6	211	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	45847	183387	566714	0	0	795948	0	--	--	--	--	--	--	--
+6	212	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	147842	0	107565	0	0	163722	91685	--	--	--	--	--	--	--
+6	213	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	48673	0	35413	0	0	53901	30185	--	--	--	--	--	--	--
+6	214	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	56337	0	40989	0	0	62388	34938	--	--	--	--	--	--	--
+6	215	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	136619	0	99400	0	0	151294	84725	--	--	--	--	--	--	--
+6	216	Charging Weapons	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	217	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	218	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+6	219	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	XanOfHanoi	F around Find out	THE VINDICATOR	YES	NO	49104	196417	606979	0	0	852500	0	--	--	--	--	--	--	--
+6	220	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	221	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2180745	0	532178	0	0	979041	1733882	--	--	--	--	--	--	--
+6	222	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2197134	0	536177	0	0	986398	1746913	--	--	--	--	--	--	--
+6	223	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5933855	0	1448068	0	0	2663992	4717931	--	--	--	--	--	--	--
+6	224	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2289196	0	558643	0	0	1027729	1820110	--	--	--	--	--	--	--
+6	225	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	6169544	0	1505584	0	0	2769804	4905324	--	--	--	--	--	--	--
+6	226	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5961005	0	1454693	0	0	2676181	4739517	--	--	--	--	--	--	--
+6	227	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2159662	0	527033	0	0	969576	1717119	--	--	--	--	--	--	--
+6	228	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2181308	0	532315	0	0	979293	1734330	--	--	--	--	--	--	--
+6	229	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	6026198	0	1470603	0	0	2705450	4791351	--	--	--	--	--	--	--
+6	230	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	231	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	232	Charging Weapons	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	233	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	234	Charging Weapons	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	236	Officer Ability	XanOfHanoi	F around Find out	THE VINDICATOR	YES	--	--	THE VINDICATOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+7	237	Attack	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	TheEsteemedMadOne	F around Find out	PILUM	YES	NO	66164	264657	421083	0	0	751904	0	--	--	--	--	--	--	--
+7	238	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	57042	0	41502	0	0	63169	35375	--	--	--	--	--	--	--
+7	239	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	148587	0	108108	0	0	164548	92147	--	--	--	--	--	--	--
+7	240	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	140164	0	101979	0	0	155220	86923	--	--	--	--	--	--	--
+7	241	Attack	XanOfHanoi	F around Find out	THE VINDICATOR	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	140813	0	102451	0	0	155938	87326	--	--	--	--	--	--	--
+7	242	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5300863	0	1306266	0	0	2384384	4222745	--	--	--	--	--	--	--
+7	243	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	2105550	0	518860	0	0	947098	1677312	--	--	--	--	--	--	--
+7	244	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	NO	1901718	0	468631	0	0	855413	1514936	--	--	--	--	--	--	--
+7	245	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5392874	0	1328939	0	0	2425771	4296042	--	--	--	--	--	--	--
+7	246	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5678531	0	1399333	0	0	2554263	4523601	--	--	--	--	--	--	--
+7	247	Attack	TheEsteemedMadOne	F around Find out	PILUM	YES	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	NO	YES	5254240	0	1294777	0	0	2363413	4185604	--	--	--	--	--	--	--
+7	248	Combatant Destroyed	Federation Supply Dock	--	FEDERATION SUPPLY DOCK	YES	TheEsteemedMadOne	F around Find out	FEDERATION SUPPLY DOCK	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

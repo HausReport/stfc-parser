@@ -1,0 +1,52 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Polygon 1.2	70	DEFEAT	Borg Polygon 1.2	70	6.8017560968233E+15	0	Borg Drone	--	--	1.08827867367609E+16	0	2.72069668419023E+15	0	Manmoor	1/24/2026 3:48:18 PM
+
+Reward Name	Count
+Borg Polygon Group Armada Credits	452510
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	28955214	24122460	152873072	Learning The Hard Way---Polarized Hull	Defensive Measures	Persistence Is Key	Know Your Enemy	Luck Of The Irish	5	24827216	172031	233230	1983605	0.22	4.2	5	131087	4527788	165617	5	699840	305046295	189	1585	326.1	16192000	0	1	NO	NO
+Player Fleet 2	193445152	1128655616	6319986688	Laid to Rest---Phantom's Tithe---Collective's Bane	Red Alert! Raise Shields!	Bend the Rules	Maquis Strike	I Have One Job!	5	187181808	6156004	711538	1051697	0.22	4.2	5	21593197	14395437	189742485	5	4936809983	7703162649	247	1892	1243.55	76920100	0	1	NO	NO
+Player Fleet 3	142141520	957601152	4832092672	Laid to Rest---Phantom's Tithe---Collective's Bane	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	135878192	6156004	711538	1051697	0.22	4.2	5	19548347	13205645	158766244	5	3838392317	5825793271	247	1856	902	61715660	0	1	NO	NO
+Player Fleet 4	127212560	853711104	4688806912	Laid to Rest---Phantom's Tithe---Collective's Bane	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	122897304	4680905	561685	826919	0.22	4.15	5	17383824	11727945	141630451	5	3484228079	5893386434	232	1892	931.15	54233160	0	1	NO	NO
+Player Fleet 5	22051374	20453790	112920416	Learning The Hard Way---Polarized Hull	Quick Victory	Creating Opportunities	Savage Tenacity	Fight or Flight	5	18674534	131786	179073	1638830	0.22	2.95	5	103285	3832515	154958	5	578000	225262834	151	1655	408.3	20088200	0	1	NO	NO
+Enemy Fleet 1	12404197376	2124189184	6.80174160130867E+15	Defense Protocol γ---Q Juniors Twist---Defense Protocol β---Defense Protocol α	--	--	--	--	0	5606792192	1132900864	1132900864	1132900864	0.1	1.5	0	141612608	141612608	141612608	0	2.72069669421056E+15	1.08827867768422E+16	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Bend the Rules	Kathryn Janeway	--	--	--
+1	3	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.5	I Have One Job!	Gwen DeMarco	--	--	--
+1	4	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	8	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	5	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	8	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.3	I Have One Job!	Gwen DeMarco	--	--	--
+1	9	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	10	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	11	Officer Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Quick Victory	Gorkon	--	--	--
+1	12	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	13	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+1	14	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+1	15	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	16	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	17	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	23	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	24	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+1	25	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	26	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1.2	--	Transphasic Torpedoes	--	--	--
+1	27	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Transphasic Torpedoes	--	--	--
+1	28	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.16	--	Transphasic Torpedoes	--	--	--
+1	29	Forbidden Tech Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	30	Forbidden Tech Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.7	--	Temporal Conduit	--	--	--
+1	31	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	139097408	574222656	161157760	0	0	874477824	0	--	--	--	--	--	--	--
+1	32	Shield Depleted	Wucifer	ThunderDome	ENTERPRISE NX-01	NO	Borg Polygon 1.2	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	33	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	706680896	0	159657792	0	0	866338688	0	--	--	--	--	--	--	--
+1	34	Combatant Destroyed	Wucifer	ThunderDome	ENTERPRISE NX-01	NO	Borg Polygon 1.2	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	36	battle_action_type_{0}	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	--	--	52755470	--	--	--	--
+3	38	battle_action_type_{0}	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	--	--	71131250	--	--	--	--
+

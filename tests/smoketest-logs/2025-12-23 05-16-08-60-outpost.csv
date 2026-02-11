@@ -1,0 +1,191 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	KOS'KARII	40	11626121216	0	James T. Kirk	Gabriel Lorca	Spock	909788563	329811153	21633399942	19258152543	Xandrel	12/23/2025 5:16:08 AM
+Assimilated Galor-Class	61	DEFEAT	Assimilated Galor-Class	61	62428827648	0	Assimilated Gul	--	--	98780473035	0	24695118259	0	Xandrel	12/23/2025 5:16:08 AM
+
+Reward Name	Count
+<color=#00ed4b>Uncommon</color> Solo Outpost Components	66
+Solo Outpost Credits	32
+Outpost Retaliation Medal	26
+<color=#fac710>Retaliation Plunder</color>	10
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1031918080	484533920	10109669376	True Aim	Leader	Inspirational	Quick Thinking	Illogical	40.5	928028352	4772333	4843165	67311957	0.22	3.45	45	3423679	90272902	3210199	40.5	9203722052	11015616303	242	1624	456.11	583270	0	1	NO	NO
+Enemy Fleet 1	632475456	58555716	61737795584	Isolytic Burst---Diverted Power	--	--	--	--	0	609594624	3635273	9800990	1817640	0.1	1.5	0	10499721	776516	434906	0	24695117824	98780471296	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	6	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5732697	27025572	54778648	77225528	425851	82594148	82594148	--	--	--	--	--	--	--
+1	7	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	8491695	40032280	81142200	114392176	630803	122344581	122344573	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	871666688	3002407424	510927424	0	0	1034198336	3350803200	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	946522048	3260242688	554803904	0	0	1123011456	3638557184	--	--	--	--	--	--	--
+1	10	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14443111	68088952	138010816	194564080	1072902	208089935	208089926	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	114039400	392802368	66844192	0	0	135303304	438382656	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	126942224	437245440	74407184	0	0	150612000	487982848	--	--	--	--	--	--	--
+1	13	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5525732	26049878	52801000	74437488	410477	79612288	79612287	--	--	--	--	--	--	--
+1	14	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5681017	26781936	54284824	76529344	422012	81849567	81849566	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	558773696	1924664960	327525216	0	0	662963104	2148000768	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4376743424	15075449856	2565428224	0	0	5192835584	16824785920	--	--	--	--	--	--	--
+2	18	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+2	19	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	20	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	21	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+2	22	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5643845	26606696	53929628	76028600	419251	81314009	81314011	--	--	--	--	--	--	--
+2	23	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5679932	26776824	54274456	76514736	421932	81833938	81833942	--	--	--	--	--	--	--
+2	24	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	25	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14955507	70504536	142906992	201466608	1110965	215472300	215472308	--	--	--	--	--	--	--
+2	26	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	27	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5673671	26747308	54214632	76430392	421467	81743735	81743735	--	--	--	--	--	--	--
+2	28	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	5645643	26615172	53946808	76052816	419385	81339914	81339910	--	--	--	--	--	--	--
+2	29	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	31	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+3	32	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+3	33	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+3	34	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6251728	25006912	52270960	73690256	406356	78813104	78813108	--	--	--	--	--	--	--
+3	35	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6242583	24970330	52194496	73582456	405762	78697813	78697814	--	--	--	--	--	--	--
+3	36	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	104237112	416948448	68735904	0	0	139132408	450789056	--	--	--	--	--	--	--
+3	37	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	106850328	427401312	70459112	0	0	142620448	462090304	--	--	--	--	--	--	--
+3	38	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	39	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	16387852	65551408	137019520	193166592	1065196	206595283	206595285	--	--	--	--	--	--	--
+3	40	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	531595616	0	70108824	0	0	141911416	459793024	--	--	--	--	--	--	--
+3	41	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4169452032	0	549882944	0	0	1113050688	3606284288	--	--	--	--	--	--	--
+3	42	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6521697	26086790	54528184	76872432	423904	82216502	82216505	--	--	--	--	--	--	--
+3	43	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6284833	25139332	52547752	74080464	408508	79230446	79230443	--	--	--	--	--	--	--
+3	44	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	46	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+4	47	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	48	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	49	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+4	50	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6097106	24388422	50978156	71867688	396306	76863840	76863838	--	--	--	--	--	--	--
+4	51	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6309727	25238908	52755888	74373896	410126	79544271	79544274	--	--	--	--	--	--	--
+4	52	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	53	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	25313108	101252432	211643952	298370176	1645330	319112510	319112488	--	--	--	--	--	--	--
+4	54	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	55	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6402531	25610124	53531832	75467800	416158	80714221	80714224	--	--	--	--	--	--	--
+4	56	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	9081861	36327444	75933824	107049552	590313	114491495	114491499	--	--	--	--	--	--	--
+4	57	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2458403840	0	324223488	0	0	656280064	2126347264	--	--	--	--	--	--	--
+4	58	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2563263232	0	338052768	0	0	684272800	2217043200	--	--	--	--	--	--	--
+5	60	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+5	61	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	62	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	63	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+5	64	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6520747	26082986	54520236	76861224	423842	82204517	82204518	--	--	--	--	--	--	--
+5	65	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6096504	24386016	50973124	71860600	396267	76856254	76856257	--	--	--	--	--	--	--
+5	66	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	546283264	0	72045888	0	0	145832320	472496832	--	--	--	--	--	--	--
+5	67	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	481831392	0	63545732	0	0	128626660	416750464	--	--	--	--	--	--	--
+5	68	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	16669977	66679912	139378384	196492048	1083534	210151932	210151923	--	--	--	--	--	--	--
+5	69	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3521664000	0	464450272	0	0	940121312	3045992960	--	--	--	--	--	--	--
+5	70	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	511933056	0	67515648	0	0	136662432	442786272	--	--	--	--	--	--	--
+5	71	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6513858	26055434	54462644	76780032	423395	82117682	82117681	--	--	--	--	--	--	--
+5	72	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6162971	24651884	51528860	72644064	400587	77694180	77694186	--	--	--	--	--	--	--
+5	73	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	75	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+6	76	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+6	77	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+6	78	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+6	79	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6511882	26047528	54446116	76756736	423266	82092762	82092766	--	--	--	--	--	--	--
+6	80	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6179364	24717456	51665920	72837288	401653	77900838	77900843	--	--	--	--	--	--	--
+6	81	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	82	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	17087160	68348640	142866464	201409472	1110650	215411187	215411199	--	--	--	--	--	--	--
+6	83	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	84	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6077048	24308194	50810456	71631272	395002	76610986	76610986	--	--	--	--	--	--	--
+6	85	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6459998	25839990	54012312	76145168	419894	81438680	81438682	--	--	--	--	--	--	--
+6	86	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	88	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+7	89	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+7	90	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+7	91	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+7	92	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	9238935	36955740	77247128	108901008	600522	116471667	116471666	--	--	--	--	--	--	--
+7	93	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6531801	26127204	54612660	76991520	424561	82343874	82343872	--	--	--	--	--	--	--
+7	94	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	513841664	0	67767360	0	0	137171936	444437088	--	--	--	--	--	--	--
+7	95	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	545929984	0	71999296	0	0	145738016	472191264	--	--	--	--	--	--	--
+7	96	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	26211464	104845856	219155152	308959296	1703722	330437740	330437750	--	--	--	--	--	--	--
+7	97	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3972020224	0	523844896	0	0	1060345632	3435519488	--	--	--	--	--	--	--
+7	98	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	535163776	0	70579408	0	0	142863952	462879232	--	--	--	--	--	--	--
+7	99	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	9159256	36637024	76580920	107961808	595343	115467176	115467175	--	--	--	--	--	--	--
+7	100	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6105712	24422848	51050112	71969136	396865	76972335	76972338	--	--	--	--	--	--	--
+7	101	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	17184401408	0	2266343424	0	0	4587439104	14863305728	--	--	--	--	--	--	--
+7	102	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2477490176	0	326740672	0	0	661375168	2142855680	--	--	--	--	--	--	--
+8	104	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+8	105	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+8	106	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+8	107	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6100668	24402672	51007940	71909680	396538	76908749	76908749	--	--	--	--	--	--	--
+8	108	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6080901	24323604	50842672	71676688	395253	76659559	76659559	--	--	--	--	--	--	--
+8	109	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	110	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	17310982	69243928	144737840	204047696	1125198	218232814	218232830	--	--	--	--	--	--	--
+8	111	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	112	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6479943	25919770	54179072	76380256	421190	81690117	81690114	--	--	--	--	--	--	--
+8	113	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6374554	25498216	53297912	75138024	414340	80361523	80361523	--	--	--	--	--	--	--
+8	114	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+9	116	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+9	117	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+9	118	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+9	119	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+9	120	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6345755	25383020	53057124	74798568	412468	79998467	79998468	--	--	--	--	--	--	--
+9	121	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6555373	26221492	54809752	77269376	426093	82641042	82641044	--	--	--	--	--	--	--
+9	122	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	498263392	0	65712840	0	0	133013256	430962976	--	--	--	--	--	--	--
+9	123	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4052145152	0	534412096	0	0	1081735232	3504822016	--	--	--	--	--	--	--
+9	124	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	17477124	69908496	146126976	206006048	1135998	220327318	220327324	--	--	--	--	--	--	--
+9	125	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	499914400	0	65930584	0	0	133454008	432390976	--	--	--	--	--	--	--
+9	126	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	506810496	0	66840068	0	0	135294948	438355616	--	--	--	--	--	--	--
+9	127	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6202640	24810558	51860532	73111640	403166	78194269	78194267	--	--	--	--	--	--	--
+9	128	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6249440	24997760	52251832	73663288	406208	78784263	78784265	--	--	--	--	--	--	--
+9	129	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	131	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+10	132	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+10	133	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+10	134	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+10	135	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6107485	24429940	51064936	71990032	396981	76994687	76994687	--	--	--	--	--	--	--
+10	136	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6204775	24819100	51878384	73136816	403305	78221187	78221193	--	--	--	--	--	--	--
+10	137	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	138	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	17181172	68724688	143652496	202517584	1116761	216596354	216596347	--	--	--	--	--	--	--
+10	139	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	140	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6119136	24476546	51162356	72127376	397738	77141574	77141578	--	--	--	--	--	--	--
+10	141	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6093831	24375326	50950780	71829096	396093	76822563	76822563	--	--	--	--	--	--	--
+10	142	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2150274048	0	283586208	0	0	574023712	1859836544	--	--	--	--	--	--	--
+10	143	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	16024101888	0	2113318656	0	0	4277693184	13859727360	--	--	--	--	--	--	--
+11	145	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+11	146	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+11	147	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+11	148	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6489133	25956530	54255912	76488584	421788	81805975	81805972	--	--	--	--	--	--	--
+11	149	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6226113	24904452	52056792	73388320	404691	78490186	78490182	--	--	--	--	--	--	--
+11	150	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4096690944	0	540286912	0	0	1093626816	3543351040	--	--	--	--	--	--	--
+11	151	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	565689088	0	74605200	0	0	151012784	489281504	--	--	--	--	--	--	--
+11	152	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	26003538	104014152	217416672	306508416	1690207	327816497	327816488	--	--	--	--	--	--	--
+11	153	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	503696928	0	66429440	0	0	134463776	435662592	--	--	--	--	--	--	--
+11	154	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	476087840	0	62788248	0	0	127093400	411782688	--	--	--	--	--	--	--
+11	155	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6521897	26087590	54529856	76874784	423917	82219023	82219021	--	--	--	--	--	--	--
+11	156	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6325132	25300528	52884696	74555480	411128	79738483	79738481	--	--	--	--	--	--	--
+11	157	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+12	159	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+12	160	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+12	161	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+12	162	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+12	163	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6472138	25888552	54113816	76288264	420683	81591727	81591726	--	--	--	--	--	--	--
+12	164	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6254490	25017962	52294056	73722816	406536	78847929	78847931	--	--	--	--	--	--	--
+12	165	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	166	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	17503712	70014848	146349264	206319424	1137726	220662488	220662486	--	--	--	--	--	--	--
+12	167	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	168	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6560438	26241750	54852092	77329072	426422	82704884	82704890	--	--	--	--	--	--	--
+12	169	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6079892	24319568	50834232	71664792	395187	76646835	76646836	--	--	--	--	--	--	--
+12	170	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	172	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+13	173	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+13	174	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+13	175	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+13	176	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6541639	26166554	54694916	77107480	425200	82467896	82467893	--	--	--	--	--	--	--
+13	177	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6154890	24619560	51461296	72548808	400062	77592308	77592308	--	--	--	--	--	--	--
+13	178	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	568968960	0	75037752	0	0	151888408	492118304	--	--	--	--	--	--	--
+13	179	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	533971616	0	70422176	0	0	142545696	461848096	--	--	--	--	--	--	--
+13	180	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	16779772	67119080	140296368	197786208	1090670	211536047	211536051	--	--	--	--	--	--	--
+13	181	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3933355520	0	518745632	0	0	1050023968	3402077184	--	--	--	--	--	--	--
+13	182	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	546779008	0	72111264	0	0	145964672	472925600	--	--	--	--	--	--	--
+13	183	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	9075654	36302616	75881928	106976384	589909	114413246	114413245	--	--	--	--	--	--	--
+13	184	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6212641	24850566	51944156	73229536	403816	78320356	78320359	--	--	--	--	--	--	--
+13	185	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	17871572992	0	2356969984	0	0	4770883072	15457659904	--	--	--	--	--	--	--
+13	186	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2197164544	0	289770272	0	0	586541344	1900393472	--	--	--	--	--	--	--
+13	187	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

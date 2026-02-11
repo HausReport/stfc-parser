@@ -1,0 +1,445 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Rare Xindi Final Weapon	58	DEFEAT	Xindi Final Weapon	58	51579830272	0	Xindi-Insectoid Pilot	--	--	61289644832	0	40859763221	0	Eviorea	9/3/2025 11:04:43 PM
+
+Reward Name	Count
+Superior Kemocite	312731
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	200308464	49215776	788925760	Intimidating Presence	Defensive Measures	Persistence Is Key	I Have One Job!	Luck Of The Irish	6	180709200	1377542	1084329	12543785	0.22	4.15	6	338211	8591948	912996	6	684138648	893712898	192	632	233.69	2355720	0	1	NO	NO
+Player Fleet 2	227949456	125327288	1528212992	Galaxy Class	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	6.5	183539664	2333082	2377113	28395678	0.22	2.9	6.5	1611825	21974843	1478788	6.5	1390354409	1666071431	204	1089	198.36	2663650	0	1	NO	NO
+Player Fleet 3	250096832	124355480	1460597376	Galaxy Class	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	6.5	207429680	2252441	2293980	27302454	0.22	3.4	6.5	1504706	21859764	1506626	6.5	1335843996	1585350753	204	1138	218.7	3272940	0	1	NO	NO
+Player Fleet 4	109643264	36158524	606645184	Drain of the Empire	Defensive Measures	Persistence Is Key	Luck Of The Irish	I Have One Job!	6	101336584	12377238	1320877	994884	0.22	3.45	6	609412	268812	6353481	6	400381164	812909181	183	563	165.44	1950960	0	1	NO	NO
+Player Fleet 5	66967348	27909996	323884288	Spirit of Vengeance	Safe Cracker	No Locked Doors	Honor Among Thieves	The Looking Glass	5.5	54883820	512713	575408	7688578	0.22	3.4	5.5	448750	4908825	224424	5.5	296125116	351643425	156	409	121.77	1268800	0	1	NO	NO
+Player Fleet 6	1907324	21460416	52241476	Laid to Rest---Phantom's Tithe---Collective's Bane	Defensive Measures	Persistence Is Key	Know Your Enemy	Luck Of The Irish	5	1687590	193389	21739	31399	0.12	2.45	5	402992	268662	3620429	5	38515200	65967751	209	224	136.8	4060160	0	1	NO	NO
+Player Fleet 7	3911826	13011220	35052396	Learning The Hard Way---Polarized Hull	Captain's Prerogative	We Used to Be Explorers	You will be assimilated	Bright Future	5	3140894	31737	44027	368796	0.12	2.4	5	36048	2518357	47839	5	285320	69819469	132	630	103.29	3989500	0	1	NO	NO
+Enemy Fleet 1	420562272	84565112	51074703360	Kemocite Weaponry---No Mercy---ship_ability_name_{0}	--	--	--	--	0	388850272	4228266	4228266	4228266	0.08	1.5	0	5637674	5637674	5637674	0	40859762688	61289644032	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	9	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.9	I Have One Job!	Gwen DeMarco	--	--	--
+1	3	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	4	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	3	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	7	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	9	Defensive Measures	Benjamin Sisko	--	--	--
+1	8	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	9	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	3	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	10	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	11	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	3	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	12	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	13	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	14	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	15	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+1	16	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+1	19	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	20	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+1	21	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+1	22	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.15	Now We're Cooking	Neelix	--	--	--
+1	23	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+1	24	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+1	25	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.4	Luck Of The Irish	Miles O'Brien	--	--	--
+1	26	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	27	Forbidden Tech Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	28	Forbidden Tech Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.02	--	Interphasic Mirror	--	--	--
+1	29	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1855061	8450832	25379958	0	0	35685851	0	--	--	--	--	--	--	--
+1	30	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1893353	8625274	25903852	0	0	36422479	0	--	--	--	--	--	--	--
+1	31	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	100243336	300730016	26293024	0	0	62713384	364552992	--	--	--	--	--	--	--
+1	32	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	712901312	2138703872	186988304	0	0	445999312	2592594176	--	--	--	--	--	--	--
+1	33	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	22340948	67022848	6887493	0	0	21900185	74351104	--	--	--	--	--	--	--
+1	34	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	22225798	66677392	6851993	0	0	21787295	73967888	--	--	--	--	--	--	--
+1	35	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	23940974	71822920	7380765	0	0	23468635	79676024	--	--	--	--	--	--	--
+1	36	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	109230872	327692608	33674792	0	0	107075840	363522432	--	--	--	--	--	--	--
+1	37	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	100042920	300128768	30842240	0	0	98069160	332944768	--	--	--	--	--	--	--
+1	38	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	109056944	327170816	33621172	0	0	106905316	362943616	--	--	--	--	--	--	--
+1	39	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	25180910	75542728	10296204	0	0	31530770	79489072	--	--	--	--	--	--	--
+1	40	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	23849718	71549152	9751894	0	0	29863892	75286872	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	219854144	659562432	89896000	0	0	275294656	694017920	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	205581184	616743552	84059936	0	0	257422496	648962176	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	218755008	656265024	89446576	0	0	273918384	690548224	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	202520336	607561024	82808392	0	0	253589848	639299904	--	--	--	--	--	--	--
+1	45	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36025664	108076992	14338578	0	0	28107362	130333872	--	--	--	--	--	--	--
+1	46	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	197059136	591177408	78431520	0	0	153746336	712921728	--	--	--	--	--	--	--
+1	47	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36570312	109710928	14555352	0	0	28532304	132304288	--	--	--	--	--	--	--
+1	48	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34324800	102974400	13661616	0	0	26780344	124180472	--	--	--	--	--	--	--
+1	49	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3204362	9613084	4343953	0	0	7854187	9307212	--	--	--	--	--	--	--
+1	50	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3341148	10023444	4529386	0	0	8189463	9704515	--	--	--	--	--	--	--
+1	51	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	108852	326557	238784	0	0	363446	310747	--	--	--	--	--	--	--
+1	52	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	109488	328462	240177	0	0	365567	312560	--	--	--	--	--	--	--
+1	53	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	29101	87304	63838	0	0	97166	83077	--	--	--	--	--	--	--
+1	54	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	100913	302738	221367	0	0	336937	288081	--	--	--	--	--	--	--
+1	55	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	32183	96548	70597	0	0	107454	91874	--	--	--	--	--	--	--
+1	56	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	100042	300124	219456	0	0	334028	285594	--	--	--	--	--	--	--
+1	57	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	32981	98944	72349	0	0	110121	94153	--	--	--	--	--	--	--
+1	58	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34408	103226	75480	0	0	114886	98228	--	--	--	--	--	--	--
+1	59	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	247554	742664	505103	0	0	768802	726519	--	--	--	--	--	--	--
+1	60	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+1	61	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	NO	2008696	8292310	25466376	0	0	35767382	0	--	--	--	--	--	--	--
+1	62	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	NO	2110199	8711332	26753230	0	0	37574761	0	--	--	--	--	--	--	--
+1	63	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	93986200	281958592	25797710	0	0	58967046	342775456	--	--	--	--	--	--	--
+1	64	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	673207808	2019623424	184784784	0	0	422371472	2455244544	--	--	--	--	--	--	--
+1	65	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	66	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	67	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36516200	109548592	14520323	0	0	28487691	132097424	--	--	--	--	--	--	--
+1	68	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	203501568	610504704	80920488	0	0	158759400	736167360	--	--	--	--	--	--	--
+1	69	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36537240	109611712	14528690	0	0	28504106	132173536	--	--	--	--	--	--	--
+1	70	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	32631564	97894688	12975635	0	0	25457135	118044752	--	--	--	--	--	--	--
+1	71	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	2963554	8890662	4016748	0	0	7263599	8607365	--	--	--	--	--	--	--
+1	72	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	12917327	38751980	17507914	0	0	31660053	37517168	--	--	--	--	--	--	--
+1	73	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	78691	236073	172620	0	0	262740	224644	--	--	--	--	--	--	--
+1	74	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	80080	240239	175667	0	0	267378	228608	--	--	--	--	--	--	--
+1	75	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	78138	234413	171407	0	0	260894	223064	--	--	--	--	--	--	--
+1	76	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	78058	234173	171231	0	0	260626	222836	--	--	--	--	--	--	--
+1	77	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	227570	682709	464327	0	0	706738	667868	--	--	--	--	--	--	--
+1	78	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	79	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+1	80	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	1491459	5965834	17664198	0	0	25121491	0	--	--	--	--	--	--	--
+1	81	Shield Depleted	Wucifer	ThunderDome	ENTERPRISE NX-01	NO	Rare Xindi Final Weapon	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	82	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	7094336	0	16804458	0	0	23898794	0	--	--	--	--	--	--	--
+1	83	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	7338314	0	17382372	0	0	24720686	0	--	--	--	--	--	--	--
+1	84	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	6985532	0	16546732	0	0	23532264	0	--	--	--	--	--	--	--
+1	85	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	86	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	87	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	88	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36824752	110474256	14629284	0	0	28725972	133202320	--	--	--	--	--	--	--
+1	89	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	220304960	660914880	87520040	0	0	171853800	796886080	--	--	--	--	--	--	--
+1	90	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	36088788	108266368	14336910	0	0	28151866	130540200	--	--	--	--	--	--	--
+1	91	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34385484	103156448	13660242	0	0	26823166	124379008	--	--	--	--	--	--	--
+1	92	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34691904	104075720	13781973	0	0	27062197	125487400	--	--	--	--	--	--	--
+1	93	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	206805264	620415744	82157048	0	0	161323016	748055040	--	--	--	--	--	--	--
+1	94	Charging Weapons	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	95	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	177405	532215	389165	0	0	592337	506448	--	--	--	--	--	--	--
+1	96	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	572996	1718990	1256957	0	0	1913177	1635766	--	--	--	--	--	--	--
+1	97	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	145862	437588	319972	0	0	487020	416402	--	--	--	--	--	--	--
+1	98	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	560378	1681136	1229277	0	0	1871046	1599745	--	--	--	--	--	--	--
+1	99	Charging Weapons	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	100	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+1	101	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	NO	1381531	5703243	17515136	0	0	24599910	0	--	--	--	--	--	--	--
+1	102	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	NO	1299775	5365737	16478627	0	0	23144139	0	--	--	--	--	--	--	--
+1	103	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	YES	1951139	8054704	24736666	0	0	34742509	0	--	--	--	--	--	--	--
+1	104	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Alanon007	ThunderDome	QUV'SOMPEK	YES	NO	1307339	5396965	16574531	0	0	23278835	0	--	--	--	--	--	--	--
+1	105	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	86601	259804	189973	0	0	289152	247226	--	--	--	--	--	--	--
+1	106	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	87006	261017	190860	0	0	290503	248380	--	--	--	--	--	--	--
+1	107	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	327850	983551	719190	0	0	1094658	935933	--	--	--	--	--	--	--
+1	108	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	91002	273005	199626	0	0	303845	259788	--	--	--	--	--	--	--
+1	109	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	93958	281874	206111	0	0	313716	268227	--	--	--	--	--	--	--
+1	110	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	93692	281076	205528	0	0	312828	267468	--	--	--	--	--	--	--
+1	111	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	298454	895362	654705	0	0	996507	852014	--	--	--	--	--	--	--
+1	112	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	85690	257072	187975	0	0	286111	244626	--	--	--	--	--	--	--
+1	113	Charging Weapons	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	114	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	115	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+1	116	Charging Weapons	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	14.28
+2	118	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	119	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+2	120	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	121	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	122	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+2	123	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	124	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+2	125	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+2	126	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.15	Now We're Cooking	Neelix	--	--	--
+2	127	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+2	128	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+2	129	Forbidden Tech Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.85	--	Temporal Conduit	--	--	--
+2	130	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	1881755	8289894	25146576	0	0	35318225	0	--	--	--	--	--	--	--
+2	131	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	2003025	8824136	26767148	0	0	37594309	0	--	--	--	--	--	--	--
+2	132	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	133	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	134	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	135	Charging Weapons	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	136	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3624890	10874668	4526488	0	0	8254250	10771796	--	--	--	--	--	--	--
+2	137	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3396745	10190235	4241598	0	0	7734741	10093837	--	--	--	--	--	--	--
+2	138	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34806	104417	69823	0	0	106276	102770	--	--	--	--	--	--	--
+2	139	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	172521	517562	346094	0	0	526780	509397	--	--	--	--	--	--	--
+2	140	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	35239	105718	70693	0	0	107600	104050	--	--	--	--	--	--	--
+2	141	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	164996	494986	330998	0	0	503802	487178	--	--	--	--	--	--	--
+2	142	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34288	102865	68785	0	0	104696	101242	--	--	--	--	--	--	--
+2	143	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	160536	481606	322051	0	0	490184	474009	--	--	--	--	--	--	--
+2	144	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	170419	511258	341879	0	0	520364	503192	--	--	--	--	--	--	--
+2	145	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	34534	103603	69279	0	0	105448	101968	--	--	--	--	--	--	--
+2	146	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	254644	763933	500152	0	0	761267	757462	--	--	--	--	--	--	--
+2	147	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+2	148	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	NO	2135925	8543702	26402410	0	0	37082037	0	--	--	--	--	--	--	--
+2	149	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	NO	2064434	8257734	25518694	0	0	35840862	0	--	--	--	--	--	--	--
+2	150	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	151	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	22504404	67513208	6107800	0	0	20596828	75528584	--	--	--	--	--	--	--
+2	152	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	158588384	475765120	43041628	0	0	145145724	532249408	--	--	--	--	--	--	--
+2	153	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	159319408	477958208	43240032	0	0	145814800	534702848	--	--	--	--	--	--	--
+2	154	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	23438412	70315240	6361295	0	0	21451675	78663272	--	--	--	--	--	--	--
+2	155	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	161551104	484653344	43845728	0	0	147857344	542192832	--	--	--	--	--	--	--
+2	156	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	170210416	510631264	46195908	0	0	155782612	571254976	--	--	--	--	--	--	--
+2	157	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	27296200	81888600	9442029	0	0	32226797	86400032	--	--	--	--	--	--	--
+2	158	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	24007548	72022648	8304451	0	0	28344103	75990544	--	--	--	--	--	--	--
+2	159	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	24021632	72064896	8309322	0	0	28360730	76035120	--	--	--	--	--	--	--
+2	160	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	313588736	940766208	108473480	0	0	370233224	992595200	--	--	--	--	--	--	--
+2	161	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	25987168	77961504	8989221	0	0	30681309	82256584	--	--	--	--	--	--	--
+2	162	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	24000198	72000592	8301908	0	0	28335426	75967272	--	--	--	--	--	--	--
+2	163	Charging Weapons	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	164	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3337494	10012482	4166498	0	0	7599338	9917136	--	--	--	--	--	--	--
+2	165	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	3179958	9539874	3969831	0	0	7240634	9449029	--	--	--	--	--	--	--
+2	166	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	82305	246914	165111	0	0	251311	243019	--	--	--	--	--	--	--
+2	167	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	92007	276020	184575	0	0	280936	271666	--	--	--	--	--	--	--
+2	168	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	448884	1346653	900510	0	0	1370639	1325408	--	--	--	--	--	--	--
+2	169	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95934	287804	192455	0	0	292930	283263	--	--	--	--	--	--	--
+2	170	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	213696	641088	419725	0	0	638851	635658	--	--	--	--	--	--	--
+2	171	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+2	172	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	ArchangelAvacyn	ThunderDome	SANCTUS	YES	NO	1351349	5578647	17132490	0	0	24062486	0	--	--	--	--	--	--	--
+2	173	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	ArchangelAvacyn	ThunderDome	SANCTUS	YES	NO	1401578	5785999	17769288	0	0	24956865	0	--	--	--	--	--	--	--
+2	174	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	ArchangelAvacyn	ThunderDome	SANCTUS	YES	NO	1320214	5450114	16737757	0	0	23508085	0	--	--	--	--	--	--	--
+2	175	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	ArchangelAvacyn	ThunderDome	SANCTUS	YES	NO	1374824	5675553	17430098	0	0	24480475	0	--	--	--	--	--	--	--
+2	176	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1131952128	3395856384	252637680	0	0	671693808	4108752384	--	--	--	--	--	--	--
+2	177	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1099787008	3299361024	245458816	0	0	652607616	3991999232	--	--	--	--	--	--	--
+2	178	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	111189136	333567392	28640480	0	0	101434960	371962048	--	--	--	--	--	--	--
+2	179	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	118587400	355762208	30546150	0	0	108184238	396711520	--	--	--	--	--	--	--
+2	180	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	118200576	354601728	40790400	0	0	139525344	374067360	--	--	--	--	--	--	--
+2	181	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	113650872	340952608	39220324	0	0	134154780	359669024	--	--	--	--	--	--	--
+2	182	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	336251936	1008755776	116154048	0	0	241994272	1219167488	--	--	--	--	--	--	--
+2	183	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	340000448	1020001344	117448928	0	0	244692064	1232758656	--	--	--	--	--	--	--
+2	184	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	40206216	120618656	13888739	0	0	28935675	145777936	--	--	--	--	--	--	--
+2	185	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	335136416	1005409280	115768712	0	0	241191592	1215122816	--	--	--	--	--	--	--
+2	186	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	340527648	1021582912	117631048	0	0	245071528	1234670080	--	--	--	--	--	--	--
+2	187	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	350756352	1052268992	121164416	0	0	252432832	1271756928	--	--	--	--	--	--	--
+2	188	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	354622464	1063867456	122499928	0	0	255215256	1285774592	--	--	--	--	--	--	--
+2	189	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	40287456	120862368	13916801	0	0	28994145	146072480	--	--	--	--	--	--	--
+2	190	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	39132440	117397320	13517816	0	0	28162904	141884672	--	--	--	--	--	--	--
+2	191	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	6353660	19060980	7899969	0	0	14453193	18861416	--	--	--	--	--	--	--
+2	192	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	6335192	19005576	7877006	0	0	14411182	18806592	--	--	--	--	--	--	--
+2	193	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	6989480	20968438	8690529	0	0	15899543	20748904	--	--	--	--	--	--	--
+2	194	Charging Weapons	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	195	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	862047	2586140	1693004	0	0	2577038	2564153	--	--	--	--	--	--	--
+2	196	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	884059	2652176	1736234	0	0	2642842	2629627	--	--	--	--	--	--	--
+2	197	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	183798	551395	360967	0	0	549453	546707	--	--	--	--	--	--	--
+2	198	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	173570	520710	340880	0	0	518877	516283	--	--	--	--	--	--	--
+2	199	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1256770	5725287	17225328	0	0	24207385	0	--	--	--	--	--	--	--
+2	200	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1202885	5479811	16486780	0	0	23169476	0	--	--	--	--	--	--	--
+2	201	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1254534	5715098	17194674	0	0	24164306	0	--	--	--	--	--	--	--
+2	202	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	1300288	5923533	17821780	0	0	25045601	0	--	--	--	--	--	--	--
+2	203	Charging Weapons	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	204	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	157139	471416	308610	0	0	469757	467408	--	--	--	--	--	--	--
+2	205	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	176682	530044	346991	0	0	528179	525538	--	--	--	--	--	--	--
+2	206	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	160729	482188	315661	0	0	480490	478088	--	--	--	--	--	--	--
+2	207	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	154864	464591	304142	0	0	462956	460641	--	--	--	--	--	--	--
+2	208	Charging Weapons	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	28.57
+3	210	battle_action_type_{0}	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	--	--	490316.8	--	--	--	--
+3	211	battle_action_type_{0}	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	378032.3	--	--	--	--
+3	212	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	213	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+3	214	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+3	215	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.5	Adapt and Assimilate	Dezoc	--	--	--
+3	216	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+3	217	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	218	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.5	Adapt and Assimilate	Dezoc	--	--	--
+3	219	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	220	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+3	221	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+3	222	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	223	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.5	Adapt and Assimilate	Dezoc	--	--	--
+3	224	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+3	225	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	226	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+3	227	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+3	228	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.4	Luck Of The Irish	Miles O'Brien	--	--	--
+3	229	Forbidden Tech Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.85	--	Temporal Conduit	--	--	--
+3	230	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	NO	2044791	8179164	25275890	0	0	35499845	0	--	--	--	--	--	--	--
+3	231	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	232	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	906351296	3625405184	221909312	0	0	667931136	4085734656	--	--	--	--	--	--	--
+3	233	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	949765440	3799061760	232538752	0	0	699924928	4281441024	--	--	--	--	--	--	--
+3	234	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	922640448	3690561792	225897520	0	0	679935344	4159164416	--	--	--	--	--	--	--
+3	235	Shield Depleted	Rare Xindi Final Weapon	--	Xindi Final Weapon	YES	Alanon007	ThunderDome	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	236	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	416436256	0	20391892	0	0	61378132	375450016	--	--	--	--	--	--	--
+3	237	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	105005904	0	6048198	0	0	23795606	87258496	--	--	--	--	--	--	--
+3	238	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95684592	0	5511303	0	0	21683279	79512616	--	--	--	--	--	--	--
+3	239	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	110764040	0	6379859	0	0	25100475	92043424	--	--	--	--	--	--	--
+3	240	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	102561672	0	5907414	0	0	23241710	85227376	--	--	--	--	--	--	--
+3	241	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	106736624	0	6147885	0	0	24187813	88696696	--	--	--	--	--	--	--
+3	242	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95407192	0	5495325	0	0	21620429	79282088	--	--	--	--	--	--	--
+3	243	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	107760856	0	6206880	0	0	24419912	89547824	--	--	--	--	--	--	--
+3	244	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	94224280	0	5427191	0	0	21352359	78299112	--	--	--	--	--	--	--
+3	245	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	106356872	0	6126012	0	0	24101756	88381128	--	--	--	--	--	--	--
+3	246	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	103552000	0	5964455	0	0	23466135	86050320	--	--	--	--	--	--	--
+3	247	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	648561792	0	37356284	0	0	146971964	538946112	--	--	--	--	--	--	--
+3	248	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	96754272	0	5572915	0	0	21925691	80401496	--	--	--	--	--	--	--
+3	249	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1262751104	0	96798328	0	0	369342456	990206976	--	--	--	--	--	--	--
+3	250	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1349922816	0	103480632	0	0	394839224	1058564224	--	--	--	--	--	--	--
+3	251	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	100464464	0	7701274	0	0	29384874	78780864	--	--	--	--	--	--	--
+3	252	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	111271504	0	8529707	0	0	32545827	87255384	--	--	--	--	--	--	--
+3	253	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1160634112	0	88970376	0	0	339474184	910130304	--	--	--	--	--	--	--
+3	254	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	96355616	0	7386304	0	0	28183080	75558840	--	--	--	--	--	--	--
+3	255	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1313191040	0	100664896	0	0	384095616	1029760320	--	--	--	--	--	--	--
+3	256	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	112969280	0	8659852	0	0	33042420	88586712	--	--	--	--	--	--	--
+3	257	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	108056192	0	8283231	0	0	31605383	84734040	--	--	--	--	--	--	--
+3	258	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	105364152	0	8076868	0	0	30817988	82623032	--	--	--	--	--	--	--
+3	259	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	113240496	0	8680643	0	0	33121739	88799400	--	--	--	--	--	--	--
+3	260	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	101581784	0	7786924	0	0	29711684	79657024	--	--	--	--	--	--	--
+3	261	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	152265296	0	11913325	0	0	27190893	136987728	--	--	--	--	--	--	--
+3	262	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1373322624	0	107449552	0	0	245242192	1235529984	--	--	--	--	--	--	--
+3	263	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1261294848	0	98684440	0	0	225236760	1134742528	--	--	--	--	--	--	--
+3	264	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1359268992	0	106350000	0	0	242732464	1222886528	--	--	--	--	--	--	--
+3	265	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	164690624	0	12885490	0	0	29409746	148166368	--	--	--	--	--	--	--
+3	266	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	152352624	0	11920157	0	0	27206493	137066288	--	--	--	--	--	--	--
+3	267	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	13379527	0	4096243	0	0	7581679	9894091	--	--	--	--	--	--	--
+3	268	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	76358912	0	23377858	0	0	43269750	56467020	--	--	--	--	--	--	--
+3	269	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	13629046	0	4172635	0	0	7723072	10078609	--	--	--	--	--	--	--
+3	270	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	74762592	0	22889134	0	0	42365174	55286552	--	--	--	--	--	--	--
+3	271	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	150406	0	75432	0	0	114813	111025	--	--	--	--	--	--	--
+3	272	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	703585	0	352866	0	0	537087	519364	--	--	--	--	--	--	--
+3	273	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	131019	0	65709	0	0	100014	96714	--	--	--	--	--	--	--
+3	274	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	130733	0	65565	0	0	99795	96503	--	--	--	--	--	--	--
+3	275	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	143656	0	72047	0	0	109661	106042	--	--	--	--	--	--	--
+3	276	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	138883	0	69653	0	0	106017	102519	--	--	--	--	--	--	--
+3	277	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	618874	0	310381	0	0	472422	456833	--	--	--	--	--	--	--
+3	278	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	675566	0	338813	0	0	515698	498681	--	--	--	--	--	--	--
+3	279	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	137882	0	69151	0	0	105253	101780	--	--	--	--	--	--	--
+3	280	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	151918	0	76190	0	0	115967	112141	--	--	--	--	--	--	--
+3	281	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	691085	0	346597	0	0	527545	510137	--	--	--	--	--	--	--
+3	282	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	629857	0	315889	0	0	480806	464940	--	--	--	--	--	--	--
+3	283	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	996653	0	489378	0	0	744877	741154	--	--	--	--	--	--	--
+3	284	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+3	285	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	NO	2121556	8486222	26224786	0	0	36832564	0	--	--	--	--	--	--	--
+3	286	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NaturalProgression	ThunderDome	SS REVENANT	YES	NO	2145275	8581100	26517982	0	0	37244357	0	--	--	--	--	--	--	--
+3	287	Shield Depleted	NaturalProgression	ThunderDome	SS REVENANT	NO	Rare Xindi Final Weapon	--	SS REVENANT	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	288	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	4192589056	0	215900960	0	0	619430944	3789059072	--	--	--	--	--	--	--
+3	289	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	4397147648	0	226434880	0	0	649653312	3973929216	--	--	--	--	--	--	--
+3	290	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	4323232768	0	222628576	0	0	638732768	3907128576	--	--	--	--	--	--	--
+3	291	Attack	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	4149327616	0	213673168	0	0	613039312	3749961472	--	--	--	--	--	--	--
+3	292	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	293	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	294	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	170440880	0	13300891	0	0	30430907	153310864	--	--	--	--	--	--	--
+3	295	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	147330784	0	11497422	0	0	26304774	132523432	--	--	--	--	--	--	--
+3	296	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	154217168	0	12034823	0	0	27534279	138717712	--	--	--	--	--	--	--
+3	297	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	147663024	0	11523349	0	0	26364093	132822280	--	--	--	--	--	--	--
+3	298	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1400815488	0	109317056	0	0	250104768	1260027776	--	--	--	--	--	--	--
+3	299	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1273464832	0	99378848	0	0	227367200	1145476480	--	--	--	--	--	--	--
+3	300	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	13797051	0	4221579	0	0	7817193	10201437	--	--	--	--	--	--	--
+3	301	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	78441656	0	24001336	0	0	44443816	57999176	--	--	--	--	--	--	--
+3	302	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	14475010	0	4429019	0	0	8201314	10702715	--	--	--	--	--	--	--
+3	303	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	13519553	0	4136671	0	0	7659967	9996257	--	--	--	--	--	--	--
+3	304	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	353646	0	177363	0	0	269959	261050	--	--	--	--	--	--	--
+3	305	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	380873	0	191017	0	0	290742	281148	--	--	--	--	--	--	--
+3	306	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	358909	0	180002	0	0	273976	264935	--	--	--	--	--	--	--
+3	307	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	366520	0	183819	0	0	279786	270553	--	--	--	--	--	--	--
+3	308	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1862421	0	934053	0	0	1421695	1374779	--	--	--	--	--	--	--
+3	309	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1600072	0	802478	0	0	1221428	1181122	--	--	--	--	--	--	--
+3	310	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	1000125	0	491090	0	0	747476	743739	--	--	--	--	--	--	--
+3	311	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+3	312	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	313	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	1381245	5524978	17073718	0	0	23979941	0	--	--	--	--	--	--	--
+3	314	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	1405311	5621246	17371210	0	0	24397767	0	--	--	--	--	--	--	--
+3	315	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	1443656	5774623	17845190	0	0	25063469	0	--	--	--	--	--	--	--
+3	316	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	317	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	318	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	319	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1375740416	0	107079856	0	0	245581360	1237238912	--	--	--	--	--	--	--
+3	320	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	156102512	0	12150137	0	0	27865625	140387024	--	--	--	--	--	--	--
+3	321	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1358007296	0	105699600	0	0	242415888	1221291008	--	--	--	--	--	--	--
+3	322	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	149794496	0	11659156	0	0	26739604	134714048	--	--	--	--	--	--	--
+3	323	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	153733008	0	11965708	0	0	27442652	138256064	--	--	--	--	--	--	--
+3	324	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	152700096	0	11885312	0	0	27258272	137327136	--	--	--	--	--	--	--
+3	325	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	152404224	0	11862283	0	0	27205451	137061056	--	--	--	--	--	--	--
+3	326	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1333409536	0	103785064	0	0	238024936	1199169664	--	--	--	--	--	--	--
+3	327	Attack	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1366269056	0	106342656	0	0	243890688	1228721024	--	--	--	--	--	--	--
+3	328	Charging Weapons	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	329	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	754342	0	378322	0	0	575833	556831	--	--	--	--	--	--	--
+3	330	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	729792	0	366009	0	0	557092	538709	--	--	--	--	--	--	--
+3	331	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	3500993	0	1755840	0	0	2672513	2584320	--	--	--	--	--	--	--
+3	332	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	3308222	0	1659161	0	0	2525360	2442023	--	--	--	--	--	--	--
+3	333	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	3390551	0	1700451	0	0	2588206	2502796	--	--	--	--	--	--	--
+3	334	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	3508553	0	1759632	0	0	2678284	2589901	--	--	--	--	--	--	--
+3	335	Charging Weapons	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	336	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+3	337	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	7149926	0	17130196	0	0	24280122	0	--	--	--	--	--	--	--
+3	338	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	7063424	0	16922950	0	0	23986374	0	--	--	--	--	--	--	--
+3	339	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	6829386	0	16362230	0	0	23191616	0	--	--	--	--	--	--	--
+3	340	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	NO	7063760	0	16923756	0	0	23987516	0	--	--	--	--	--	--	--
+3	341	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	421910	0	211597	0	0	322067	311440	--	--	--	--	--	--	--
+3	342	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	2151773	0	1079163	0	0	1642570	1588366	--	--	--	--	--	--	--
+3	343	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	400231	0	200725	0	0	305519	295437	--	--	--	--	--	--	--
+3	344	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	2054017	0	1030137	0	0	1567948	1516206	--	--	--	--	--	--	--
+3	345	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	394069	0	197634	0	0	300815	290888	--	--	--	--	--	--	--
+3	346	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	446639	0	223999	0	0	340944	329694	--	--	--	--	--	--	--
+3	347	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	445105	0	223230	0	0	339774	328561	--	--	--	--	--	--	--
+3	348	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1966148	0	986068	0	0	1500872	1451344	--	--	--	--	--	--	--
+3	349	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1838536	0	922068	0	0	1403459	1357145	--	--	--	--	--	--	--
+3	350	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	436784	0	219057	0	0	333422	322419	--	--	--	--	--	--	--
+3	351	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	2113041	0	1059738	0	0	1613004	1559775	--	--	--	--	--	--	--
+3	352	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1888928	0	947340	0	0	1441925	1394343	--	--	--	--	--	--	--
+3	353	Charging Weapons	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	354	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+3	355	Charging Weapons	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	42.85
+4	357	battle_action_type_{0}	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	568046	--	--	--	--
+4	358	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	359	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+4	360	Officer Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+4	361	Officer Ability	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	362	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	363	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+4	364	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+4	365	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	366	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+4	367	Officer Ability	ArchangelAvacyn	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+4	368	Officer Ability	ChaosLord0341	ThunderDome	CORVUS	YES	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+4	369	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+4	370	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.4	Luck Of The Irish	Miles O'Brien	--	--	--
+4	371	Officer Ability	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	Officer	0.15	Knock it Down	B'Elanna Torres	--	--	--
+4	372	Forbidden Tech Ability	Alanon007	ThunderDome	QUV'SOMPEK	YES	--	--	QUV'SOMPEK	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.85	--	Temporal Conduit	--	--	--
+4	373	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	2035731	8142926	25163902	0	0	35342559	0	--	--	--	--	--	--	--
+4	374	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	NO	2065609	8262436	25533224	0	0	35861269	0	--	--	--	--	--	--	--
+4	375	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	376	Charging Weapons	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	377	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	378	Charging Weapons	ArchangelAvacyn	ThunderDome	SANCTUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	379	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	12880366	0	3727725	0	0	7205245	9402846	--	--	--	--	--	--	--
+4	380	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	81233768	0	23509986	0	0	45441978	59301776	--	--	--	--	--	--	--
+4	381	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	13875803	0	4015816	0	0	7762090	10129529	--	--	--	--	--	--	--
+4	382	Attack	ChaosLord0341	ThunderDome	CORVUS	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	84904128	0	24572230	0	0	47495166	61981192	--	--	--	--	--	--	--
+4	383	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	152132	0	76298	0	0	116131	112299	--	--	--	--	--	--	--
+4	384	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	684404	0	343246	0	0	522445	505205	--	--	--	--	--	--	--
+4	385	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	141047	0	70738	0	0	107669	104116	--	--	--	--	--	--	--
+4	386	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	717645	0	359917	0	0	547820	529742	--	--	--	--	--	--	--
+4	387	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	130090	0	65243	0	0	99305	96028	--	--	--	--	--	--	--
+4	388	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	646318	0	324144	0	0	493371	477091	--	--	--	--	--	--	--
+4	389	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	127789	0	64089	0	0	97548	94330	--	--	--	--	--	--	--
+4	390	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	673441	0	337747	0	0	514076	497112	--	--	--	--	--	--	--
+4	391	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	645371	0	323670	0	0	492649	476392	--	--	--	--	--	--	--
+4	392	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	711759	0	356965	0	0	543327	525397	--	--	--	--	--	--	--
+4	393	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	148541	0	74497	0	0	113390	109648	--	--	--	--	--	--	--
+4	394	Attack	NaturalProgression	ThunderDome	SS REVENANT	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	133997	0	67203	0	0	102288	98912	--	--	--	--	--	--	--
+4	395	Attack	Wucifer	ThunderDome	ENTERPRISE NX-01	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	1083343	0	531780	0	0	809585	805538	--	--	--	--	--	--	--
+4	396	Officer Ability	NaturalProgression	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	Officer	0.25	Know Your Enemy	Changeling Kira	--	--	--
+4	397	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	2131449	8525797	26292334	0	0	36949580	0	--	--	--	--	--	--	--
+4	398	Attack	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	NO	2142574	8570294	26429556	0	0	37142424	0	--	--	--	--	--	--	--
+4	399	Charging Weapons	Alanon007	ThunderDome	QUV'SOMPEK	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	400	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	93439976	0	4884971	0	0	21068123	77256824	--	--	--	--	--	--	--
+4	401	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	99197008	0	5185944	0	0	22366176	82016776	--	--	--	--	--	--	--
+4	402	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	89500048	0	4678994	0	0	20179778	73999264	--	--	--	--	--	--	--
+4	403	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	97651016	0	5105120	0	0	22017600	80738536	--	--	--	--	--	--	--
+4	404	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	96625352	0	5051499	0	0	21786339	79890512	--	--	--	--	--	--	--
+4	405	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	100363000	0	5246901	0	0	22629077	82980824	--	--	--	--	--	--	--
+4	406	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	603683776	0	31560128	0	0	136113952	499129952	--	--	--	--	--	--	--
+4	407	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95218160	0	4977932	0	0	21469060	78727032	--	--	--	--	--	--	--
+4	408	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	567232064	0	29654460	0	0	127895100	468991424	--	--	--	--	--	--	--
+4	409	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	88276352	0	4615020	0	0	19903876	72987496	--	--	--	--	--	--	--
+4	410	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	94694728	0	4950568	0	0	21351040	78294256	--	--	--	--	--	--	--
+4	411	Attack	Dreadnought76	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	97630792	0	5104063	0	0	22013039	80721816	--	--	--	--	--	--	--
+4	412	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	103956656	0	6924991	0	0	30122695	80758952	--	--	--	--	--	--	--
+4	413	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1385415808	0	92288384	0	0	401441024	1076263168	--	--	--	--	--	--	--
+4	414	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	105877456	0	7052943	0	0	30679271	82251128	--	--	--	--	--	--	--
+4	415	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95693360	0	6374538	0	0	27728306	74339592	--	--	--	--	--	--	--
+4	416	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	113575744	0	7565759	0	0	32909943	88231560	--	--	--	--	--	--	--
+4	417	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1309196800	0	87211112	0	0	379355560	1017052352	--	--	--	--	--	--	--
+4	418	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	112287000	0	7479910	0	0	32536518	87230392	--	--	--	--	--	--	--
+4	419	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	114438744	0	7623246	0	0	33160006	88901984	--	--	--	--	--	--	--
+4	420	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	97391688	0	6487670	0	0	28220414	75658944	--	--	--	--	--	--	--
+4	421	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	113245232	0	7543741	0	0	32814173	87974800	--	--	--	--	--	--	--
+4	422	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1376814464	0	91715408	0	0	398948624	1069581248	--	--	--	--	--	--	--
+4	423	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	106865760	0	7118778	0	0	30965642	83018896	--	--	--	--	--	--	--
+4	424	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	98962288	0	6592295	0	0	28675519	76879064	--	--	--	--	--	--	--
+4	425	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1313136384	0	87473544	0	0	380497096	1020112832	--	--	--	--	--	--	--
+4	426	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	95764712	0	6379291	0	0	27748979	74395024	--	--	--	--	--	--	--
+4	427	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	102442920	0	6824154	0	0	29684074	79583000	--	--	--	--	--	--	--
+4	428	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	NO	101640864	0	6770726	0	0	29451670	78959920	--	--	--	--	--	--	--
+4	429	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	YES	Rare Xindi Final Weapon	--	Xindi Final Weapon	NO	YES	1395648128	0	92970000	0	0	404405904	1084212224	--	--	--	--	--	--	--
+4	430	Combatant Destroyed	Rare Xindi Final Weapon	--	Xindi Final Weapon	YES	XanOfHanoi	ThunderDome	Xindi Final Weapon	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,126 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Krenim Warships	46	DEFEAT	Static Krenim Warships	46	1646102784	0	Krenim Captain	--	--	848232000	0	848232000	0	Orenthis Constellation	4/21/2025 4:38:01 PM
+
+Reward Name	Count
+Encrypted Intelligence	19194228
+Static Temporal Wreckage	411
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	36646392	14791490	167107744	Just Reprisal	Safe Cracker	No Locked Doors	I Have One Job!	The Looking Glass	5.5	33039908	5507987	409439	447924	0.22	2.9	5.5	184883	326971	2446444	5.5	184842760	149372755	176	370	102.87	1021020	0	1	NO	NO
+Player Fleet 2	13638318	9628550	48934568	Anti-Tachyon Weaponry	Make It So	Engage	Unshakeable Moral Code	Bend the Rules	5	7313375	467307	459156	2961421	0.22	2.9	5	226477	1487792	211441	5	53404841	44464298	181	252	108.61	5374620	0	1	NO	NO
+Enemy Fleet 1	12470822	785400000	848232000	ship_ability_name_{0}	--	--	--	--	0	3752989	1452972	1452972	1452972	0.1	1.5	0	52360000	52360000	52360000	0	848232000	848232000	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	1.2	Make It So	Jean-Luc Picard	--	--	--
+1	4	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.05	Engage	Jean-Luc Picard	--	--	--
+1	5	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	2	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	6	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Bend the Rules	Kathryn Janeway	--	--	--
+1	7	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	8	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	9	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+1	10	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	73392	293568	560486	536872	110087	787202	787203	--	--	--	--	--	--	--
+1	11	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	53037	212146	405035	387971	79554	568871	568872	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2791275	11165100	9038880	15168473	5931470	13758252	30336946	--	--	--	--	--	--	--
+1	13	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3121157	12484629	10107124	16961134	6632471	15384249	33922266	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2915895	11663580	9442432	15845689	6196288	14372506	31691378	--	--	--	--	--	--	--
+1	15	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2793498	11173993	9046079	15180554	5936194	13769210	30361108	--	--	--	--	--	--	--
+1	16	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10396223	41584896	50093720	47920704	22092016	76246151	95841408	--	--	--	--	--	--	--
+1	17	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2575887	10303548	12411792	11873380	5473770	18891616	23746761	--	--	--	--	--	--	--
+1	18	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	50279	201118	368037	342241	75418	518546	518547	--	--	--	--	--	--	--
+1	19	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	50632	202526	370614	344637	75947	522178	522178	--	--	--	--	--	--	--
+1	20	Charging Weapons	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	21	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2358813	9435252	11365831	10872793	5012486	17299590	21745585	--	--	--	--	--	--	--
+1	22	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2450403	9801613	11807153	11294971	5207116	17971314	22589942	--	--	--	--	--	--	--
+1	23	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2499512	9998048	12043782	11521334	5311472	18331479	23042669	--	--	--	--	--	--	--
+1	24	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	52687	210750	385663	358631	79031	543381	543381	--	--	--	--	--	--	--
+1	25	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	55828	223312	408651	380009	83741	575770	575771	--	--	--	--	--	--	--
+1	26	Charging Weapons	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	27	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10017669	40070676	48269672	46175780	21287586	73469823	92351560	--	--	--	--	--	--	--
+1	28	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2646086	10584344	12750042	12196957	5622943	19406457	24393915	--	--	--	--	--	--	--
+1	29	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	52320	209280	399561	382727	78479	561183	561184	--	--	--	--	--	--	--
+1	30	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	47865	191461	365541	350141	71797	513402	513403	--	--	--	--	--	--	--
+1	31	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2655329	10621317	12794580	12239563	5642585	19474247	24479127	--	--	--	--	--	--	--
+1	32	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2547784	10191134	12276377	11743840	5414050	18685505	23487680	--	--	--	--	--	--	--
+1	33	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2513176	10052703	12109621	11584318	5340508	18431690	23168636	--	--	--	--	--	--	--
+2	35	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+2	36	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+2	37	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	72343	289372	552476	529200	108514	775952	775953	--	--	--	--	--	--	--
+2	38	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	50625	202502	386620	370331	75937	543007	543008	--	--	--	--	--	--	--
+2	39	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9777745	39110980	31662830	53134628	20777746	48194673	106269256	--	--	--	--	--	--	--
+2	40	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2749623	10998491	8903979	14942114	5842959	13552938	29884228	--	--	--	--	--	--	--
+2	41	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2734465	10937858	8854893	14859741	5810748	13478223	29719482	--	--	--	--	--	--	--
+2	42	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2796847	11187389	9056904	15198743	5943311	13785708	30397486	--	--	--	--	--	--	--
+2	43	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2956916	11827664	9575248	16068595	6283458	14574690	32137191	--	--	--	--	--	--	--
+2	44	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2819337	11277346	9129731	15320957	5991101	13896559	30641913	--	--	--	--	--	--	--
+2	45	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9108386	36433544	43888332	41984500	19355356	66801114	83969004	--	--	--	--	--	--	--
+2	46	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	2396530	9586121	11547569	11046646	5092636	17576209	22093293	--	--	--	--	--	--	--
+2	47	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	49058	196233	359099	333930	73587	505953	505954	--	--	--	--	--	--	--
+2	48	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	48856	195423	357615	332550	73283	503863	503864	--	--	--	--	--	--	--
+2	49	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	15693493	62773976	50819532	85282232	33348734	77353503	170564464	--	--	--	--	--	--	--
+2	50	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4139564	16558254	13404962	22495388	8796589	20403981	44990776	--	--	--	--	--	--	--
+2	51	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4168752	16675010	13499482	22654006	8858615	20547851	45308014	--	--	--	--	--	--	--
+2	52	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4600167	18400670	14896515	24998422	9775374	22674306	49996842	--	--	--	--	--	--	--
+2	53	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4608820	18435282	14924535	25045442	9793761	22716954	50090886	--	--	--	--	--	--	--
+2	54	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4836311	19345246	15661209	26281684	10277181	23838263	52563368	--	--	--	--	--	--	--
+2	55	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	16459441	65837764	53299864	89444576	34976376	81128869	178889152	--	--	--	--	--	--	--
+2	56	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	16595321	66381284	53739876	90182984	35265120	81798617	180365968	--	--	--	--	--	--	--
+2	57	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4162617	16650468	13479615	22620666	8845577	20517611	45241332	--	--	--	--	--	--	--
+2	58	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	59	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	60	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4537684	18150736	14694177	24658872	9642596	22366321	49317744	--	--	--	--	--	--	--
+2	61	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4230448	16921790	13699267	22989274	8989718	20851949	45978548	--	--	--	--	--	--	--
+2	62	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4827340	19309360	15632158	26232932	10258117	23794043	52465864	--	--	--	--	--	--	--
+2	63	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4670711	18682846	15124954	25381774	9925280	23022017	50763548	--	--	--	--	--	--	--
+2	64	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4667296	18669184	15113895	25363216	9918023	23005182	50726432	--	--	--	--	--	--	--
+2	65	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	15976223	63904892	51735080	86818656	33949536	78747075	173637312	--	--	--	--	--	--	--
+2	66	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	15278158	61112632	49474572	83025200	32466146	75306308	166050400	--	--	--	--	--	--	--
+2	67	Shield Depleted	Static Krenim Warships	--	Static Krenim Warships	YES	SubspaceEddie	ThunderDome	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	68	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	22603464	0	14639154	24566534	9606489	22282571	49133070	--	--	--	--	--	--	--
+2	69	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	75016552	0	48584540	81531608	31882092	73951576	163063216	--	--	--	--	--	--	--
+2	70	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	12292064	0	11845748	11331892	5224137	18030058	22663783	--	--	--	--	--	--	--
+2	71	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	53157648	0	51227528	49005328	22592042	77971890	98010656	--	--	--	--	--	--	--
+2	72	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	73	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	75	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+3	76	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+3	77	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	47603	190411	363537	348221	71404	510588	510588	--	--	--	--	--	--	--
+3	78	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	46620	186480	356031	341031	69929	500045	500046	--	--	--	--	--	--	--
+3	79	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	53298880	0	34518992	57927756	22652066	52542182	115855512	--	--	--	--	--	--	--
+3	80	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	14444447	0	9354938	15698911	6138901	14239375	31397822	--	--	--	--	--	--	--
+3	81	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	13292966	0	8609182	14447427	5649521	13104242	28894854	--	--	--	--	--	--	--
+3	82	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	13409377	0	8684576	14573947	5698995	13219000	29147895	--	--	--	--	--	--	--
+3	83	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	15519382	0	10051119	16867202	6595749	15299048	33734404	--	--	--	--	--	--	--
+3	84	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	15712229	0	10176017	17076796	6677709	15489159	34153592	--	--	--	--	--	--	--
+3	85	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	13108578	0	12632615	12084624	5571156	19227724	24169249	--	--	--	--	--	--	--
+3	86	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	49617908	0	47816316	45742092	21087650	72779782	91484184	--	--	--	--	--	--	--
+3	87	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	47665	190660	364012	348677	71497	511255	511256	--	--	--	--	--	--	--
+3	88	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	46127	184508	352267	337426	69190	494759	494759	--	--	--	--	--	--	--
+3	89	Charging Weapons	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	90	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	45441676	0	43791720	41892080	19312748	66654064	83784160	--	--	--	--	--	--	--
+3	91	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	12482281	0	12029058	11507250	5304979	18309068	23014500	--	--	--	--	--	--	--
+3	92	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	46172460	0	44495972	42565780	19623332	67725984	85131560	--	--	--	--	--	--	--
+3	93	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	53108	212433	388743	361496	79662	547721	547721	--	--	--	--	--	--	--
+3	94	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	NO	56164	224655	411109	382294	84245	579233	579234	--	--	--	--	--	--	--
+3	95	Charging Weapons	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	96	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	46507820	0	44819152	42874944	19765860	68217888	85749888	--	--	--	--	--	--	--
+3	97	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	12244744	0	11800146	11288268	5204025	17960648	22576535	--	--	--	--	--	--	--
+3	98	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	54309	217237	414753	397279	81463	582520	582521	--	--	--	--	--	--	--
+3	99	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	54432	217730	415693	398180	81648	583841	583842	--	--	--	--	--	--	--
+3	100	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	13308090	0	12824882	12268552	5655948	19520368	24537104	--	--	--	--	--	--	--
+3	101	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	12512348	0	12058033	11534968	5317757	18353170	23069936	--	--	--	--	--	--	--
+3	102	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	11521480	0	11103144	10621501	4896638	16899762	21243001	--	--	--	--	--	--	--
+4	104	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+4	105	Officer Ability	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+4	106	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	53774	215094	410663	393362	80660	576776	576777	--	--	--	--	--	--	--
+4	107	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	52071	208283	397659	380906	78106	558512	558513	--	--	--	--	--	--	--
+4	108	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	14780265	0	9572408	16063882	6281624	14570414	32127765	--	--	--	--	--	--	--
+4	109	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	14197153	0	9194757	15430129	6033801	13995582	30860258	--	--	--	--	--	--	--
+4	110	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	55661776	0	36049236	60495820	23656300	54871492	120991640	--	--	--	--	--	--	--
+4	111	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	15724640	0	10184030	17090272	6682984	15501382	34180544	--	--	--	--	--	--	--
+4	112	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	15532221	0	10059410	16881142	6601206	15311693	33762286	--	--	--	--	--	--	--
+4	113	Attack	SubspaceEddie	ThunderDome	USS NORTHCUTT	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	15744390	0	10196821	17111738	6691378	15520851	34223476	--	--	--	--	--	--	--
+4	114	Combatant Destroyed	Static Krenim Warships	--	Static Krenim Warships	YES	SubspaceEddie	ThunderDome	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

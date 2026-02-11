@@ -1,0 +1,654 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Exchange High Security Vault	33	DEFEAT	Exchange High Security Vault	33	25091656	0	officer_name_{0}	--	--	27623327	0	18749299	0	Exchange Delta	12/19/2024 6:07:29 PM
+
+Reward Name	Count
+Uncommon Exchange Vault Loot	2966
+Epic Exchange Vault Loot	1976
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	216196	137345	505158	Master Thief	Leader	Inspirational	Illogical	Critical Avoidance	3	198961	2093	11347	2093	0.07	1.51	3	21381	3039	3049	3	203336	806980	110	33	12.06	99375	0	1	NO	NO
+Player Fleet 2	1619313	938750	5060369	Collective Severance	Leader	Inspirational	Illogical	See the Flaws	3	1368676	282998	19890	14450	0.18	2.25	4.5	23409	30753	133588	4	5564257	4556481	151	95	34.51	3785840	0	1	NO	NO
+Player Fleet 3	266025	180105	660731	Master Thief	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	3	240002	3091	21307	3091	0.07	1.84	3	27279	4371	4371	3	315996	1005466	149	33	18.81	112750	0	1	NO	NO
+Player Fleet 4	182504	133315	319983	Master Thief	Defensive Measures	Persistence Is Key	Me Against The Galaxy	Critical Avoidance	3	166268	1859	10693	1859	0.07	1.28	3	20615	3152	2896	3	208809	431156	105	33	13.2	107250	0	1	NO	NO
+Player Fleet 5	202563	127670	259147	Master Thief	Ruthless Mastermind	Savage Tenacity	Guardian Angel	Brute Force	3	184941	1840	11542	1840	0.07	1.55	3	19672	2931	2931	2.69	159902	358392	110	33	9.03	82500	0	1	NO	NO
+Enemy Fleet 1	592826	1312515	23186314	ship_ability_name_{0}	--	--	--	--	0	474048	15837	15837	15837	0.2	2	0	87501	87501	87501	0	18749300	27623328	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.4	Critical Avoidance	Gaila	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	4	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Defensive Measures	Benjamin Sisko	--	--	--
+1	5	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Critical Avoidance	Gaila	--	--	--
+1	6	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	7	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+1	8	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	9	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+1	10	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+1	11	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	12	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+1	13	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	14	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+1	15	Forbidden Tech Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Transphasic Torpedoes	--	--	--
+1	16	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2368	9473	29272	0	0	41113	0	--	--	--	--	--	--	--
+1	17	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2335	9341	28865	0	0	40541	0	--	--	--	--	--	--	--
+1	18	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9457	37830	62303	0	0	98730	10860	--	--	--	--	--	--	--
+1	19	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10343	41372	68138	0	0	107976	11877	--	--	--	--	--	--	--
+1	20	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8080	32318	53226	0	0	84346	9278	--	--	--	--	--	--	--
+1	21	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8776	35102	57812	0	0	91613	10077	--	--	--	--	--	--	--
+1	22	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10314	41256	67946	0	0	107672	11844	--	--	--	--	--	--	--
+1	23	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9070	36280	59751	0	0	94686	10415	--	--	--	--	--	--	--
+1	24	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8882	35528	58512	0	0	92722	10200	--	--	--	--	--	--	--
+1	25	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8380	33518	55202	0	0	87477	9623	--	--	--	--	--	--	--
+1	26	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	72172	288686	241889	0	0	524128	78619	--	--	--	--	--	--	--
+1	27	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13542	54170	88911	0	0	147758	8865	--	--	--	--	--	--	--
+1	28	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	27908	111632	183226	0	0	304496	18270	--	--	--	--	--	--	--
+1	29	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	23706	94826	155642	0	0	258655	15519	--	--	--	--	--	--	--
+1	30	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13147	52586	86313	0	0	143440	8606	--	--	--	--	--	--	--
+1	31	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12449	49795	81730	0	0	135824	8150	--	--	--	--	--	--	--
+1	32	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10479	41917	68800	0	0	114336	6860	--	--	--	--	--	--	--
+1	33	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11383	45534	74736	0	0	124201	7452	--	--	--	--	--	--	--
+1	34	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10681	42722	70122	0	0	116533	6992	--	--	--	--	--	--	--
+1	35	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7070	28281	57656	0	0	88158	4849	--	--	--	--	--	--	--
+1	36	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7269	29077	59278	0	0	90639	4985	--	--	--	--	--	--	--
+1	37	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5650	22601	46076	0	0	70452	3875	--	--	--	--	--	--	--
+1	38	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6407	25628	52248	0	0	79889	4394	--	--	--	--	--	--	--
+1	39	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7495	29981	61122	0	0	93458	5140	--	--	--	--	--	--	--
+1	40	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6758	27030	55108	0	0	84262	4634	--	--	--	--	--	--	--
+1	41	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5533	22134	45123	0	0	68995	3795	--	--	--	--	--	--	--
+1	42	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6572	26289	53595	0	0	81949	4507	--	--	--	--	--	--	--
+1	43	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5621	22483	44578	0	0	69887	2795	--	--	--	--	--	--	--
+1	44	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5733	22933	45470	0	0	71285	2851	--	--	--	--	--	--	--
+1	45	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5747	22988	45580	0	0	71457	2858	--	--	--	--	--	--	--
+1	46	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6203	24812	49195	0	0	77125	3085	--	--	--	--	--	--	--
+1	47	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5829	23316	46229	0	0	72475	2899	--	--	--	--	--	--	--
+1	48	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	7896	31584	62622	0	0	98175	3927	--	--	--	--	--	--	--
+1	49	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5535	22140	43897	0	0	68819	2753	--	--	--	--	--	--	--
+1	50	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5666	22665	44938	0	0	70451	2818	--	--	--	--	--	--	--
+1	51	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	52	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2521	10082	25644	0	0	38247	0	--	--	--	--	--	--	--
+1	53	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2687	10750	27342	0	0	40779	0	--	--	--	--	--	--	--
+1	54	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9742	38969	64179	0	0	101703	11187	--	--	--	--	--	--	--
+1	55	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8261	33043	54420	0	0	86238	9486	--	--	--	--	--	--	--
+1	56	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7461	29845	49153	0	0	77891	8568	--	--	--	--	--	--	--
+1	57	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	11559	46234	76146	0	0	120666	13273	--	--	--	--	--	--	--
+1	58	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	59	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10044	40177	65944	0	0	109590	6575	--	--	--	--	--	--	--
+1	60	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9078	36313	59601	0	0	99049	5943	--	--	--	--	--	--	--
+1	61	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9859	39438	64731	0	0	107574	6454	--	--	--	--	--	--	--
+1	62	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10601	42406	69602	0	0	115669	6940	--	--	--	--	--	--	--
+1	63	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11898	47594	15685	0	0	71258	3919	--	--	--	--	--	--	--
+1	64	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13325	53299	17566	0	0	79801	4389	--	--	--	--	--	--	--
+1	65	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11671	46682	15385	0	0	69894	3844	--	--	--	--	--	--	--
+1	66	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14120	56481	18614	0	0	84564	4651	--	--	--	--	--	--	--
+1	67	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5999	23998	47580	0	0	74593	2984	--	--	--	--	--	--	--
+1	68	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	4173	16690	33092	0	0	51880	2075	--	--	--	--	--	--	--
+1	69	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	4249	16995	33696	0	0	52827	2113	--	--	--	--	--	--	--
+1	70	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	4784	19134	37938	0	0	59477	2379	--	--	--	--	--	--	--
+1	71	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2351	9405	29063	0	0	40819	0	--	--	--	--	--	--	--
+1	72	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2299	9194	28413	0	0	39906	0	--	--	--	--	--	--	--
+1	73	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9507	38026	62627	0	0	99243	10917	--	--	--	--	--	--	--
+1	74	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7906	31626	52086	0	0	82539	9079	--	--	--	--	--	--	--
+1	75	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8992	35970	59240	0	0	93876	10326	--	--	--	--	--	--	--
+1	76	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8004	32014	52725	0	0	83552	9191	--	--	--	--	--	--	--
+1	77	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	78	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9838	39354	65285	0	0	107997	6480	--	--	--	--	--	--	--
+1	79	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10733	42931	71219	0	0	117814	7069	--	--	--	--	--	--	--
+1	80	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11029	44116	73185	0	0	121066	7264	--	--	--	--	--	--	--
+1	81	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10688	42752	70923	0	0	117324	7039	--	--	--	--	--	--	--
+1	82	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13987	55948	18439	0	0	83767	4607	--	--	--	--	--	--	--
+1	83	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13525	54102	17830	0	0	81002	4455	--	--	--	--	--	--	--
+1	84	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14277	57106	18821	0	0	85501	4703	--	--	--	--	--	--	--
+1	85	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14460	57838	19062	0	0	86597	4763	--	--	--	--	--	--	--
+1	86	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5926	23706	47002	0	0	73687	2947	--	--	--	--	--	--	--
+1	87	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	4613	18451	36583	0	0	57353	2294	--	--	--	--	--	--	--
+1	88	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	6826	27306	54140	0	0	84877	3395	--	--	--	--	--	--	--
+1	89	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5551	22202	44020	0	0	69012	2761	--	--	--	--	--	--	--
+1	90	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	91	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	YES	3713	14854	37256	0	0	55823	0	--	--	--	--	--	--	--
+1	92	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	3283	13134	32941	0	0	49358	0	--	--	--	--	--	--	--
+1	93	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	3487	13949	34986	0	0	52422	0	--	--	--	--	--	--	--
+1	94	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	3552	14210	35640	0	0	53402	0	--	--	--	--	--	--	--
+2	96	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	97	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+2	98	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+2	99	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	100	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+2	101	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	102	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+2	103	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2443	9773	30201	0	0	42417	0	--	--	--	--	--	--	--
+2	104	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2064	8258	25518	0	0	35840	0	--	--	--	--	--	--	--
+2	105	Charging Weapons	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	106	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	39049	156195	97498	0	0	254558	38184	--	--	--	--	--	--	--
+2	107	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	108	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	109	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	110	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4939	19756	14009	0	0	38704	0	--	--	--	--	--	--	--
+2	111	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	YES	5779	23117	16392	0	0	45288	0	--	--	--	--	--	--	--
+2	112	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10044	40176	60305	0	0	99572	10953	--	--	--	--	--	--	--
+2	113	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9349	37394	56129	0	0	92677	10195	--	--	--	--	--	--	--
+2	114	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8745	34982	52507	0	0	86697	9537	--	--	--	--	--	--	--
+2	115	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	11673	46692	70086	0	0	115722	12729	--	--	--	--	--	--	--
+2	116	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	126826	507303	317559	0	0	827555	124133	--	--	--	--	--	--	--
+2	117	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12249	48996	73767	0	0	127370	7642	--	--	--	--	--	--	--
+2	118	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10038	40151	60450	0	0	104376	6263	--	--	--	--	--	--	--
+2	119	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9567	38270	57618	0	0	99486	5969	--	--	--	--	--	--	--
+2	120	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9101	36402	54806	0	0	94631	5678	--	--	--	--	--	--	--
+2	121	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6539	26158	51048	0	0	79379	4366	--	--	--	--	--	--	--
+2	122	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5862	23449	45761	0	0	71158	3914	--	--	--	--	--	--	--
+2	123	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5459	21835	42613	0	0	66263	3644	--	--	--	--	--	--	--
+2	124	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5830	23320	45510	0	0	70768	3892	--	--	--	--	--	--	--
+2	125	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6481	25926	46663	0	0	76029	3041	--	--	--	--	--	--	--
+2	126	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6214	24855	44735	0	0	72888	2916	--	--	--	--	--	--	--
+2	127	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5868	23473	42248	0	0	68836	2753	--	--	--	--	--	--	--
+2	128	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6204	24817	44667	0	0	72777	2911	--	--	--	--	--	--	--
+2	129	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	130	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	YES	2832	11326	28409	0	0	42567	0	--	--	--	--	--	--	--
+2	131	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	YES	2767	11067	27759	0	0	41593	0	--	--	--	--	--	--	--
+2	132	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8731	34924	52422	0	0	86556	9521	--	--	--	--	--	--	--
+2	133	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7818	31274	46942	0	0	77508	8526	--	--	--	--	--	--	--
+2	134	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9329	37318	56014	0	0	92487	10174	--	--	--	--	--	--	--
+2	135	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9984	39937	59945	0	0	98978	10888	--	--	--	--	--	--	--
+2	136	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	137	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	26217	104867	159356	0	0	274000	16440	--	--	--	--	--	--	--
+2	138	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9808	39231	59615	0	0	102504	6150	--	--	--	--	--	--	--
+2	139	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10633	42531	64629	0	0	111125	6668	--	--	--	--	--	--	--
+2	140	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9253	37014	56245	0	0	96709	5803	--	--	--	--	--	--	--
+2	141	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6979	27917	54481	0	0	84718	4659	--	--	--	--	--	--	--
+2	142	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6750	27002	52694	0	0	81939	4507	--	--	--	--	--	--	--
+2	143	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5910	23640	46134	0	0	71738	3946	--	--	--	--	--	--	--
+2	144	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	8665	34662	67645	0	0	105187	5785	--	--	--	--	--	--	--
+2	145	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5322	21288	38315	0	0	62428	2497	--	--	--	--	--	--	--
+2	146	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5665	22661	40786	0	0	66454	2658	--	--	--	--	--	--	--
+2	147	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5373	21492	38682	0	0	63026	2521	--	--	--	--	--	--	--
+2	148	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6309	25237	45423	0	0	74009	2960	--	--	--	--	--	--	--
+2	149	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	150	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	152	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+3	153	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+3	154	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+3	155	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	156	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+3	157	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2438	9754	23772	0	0	35964	0	--	--	--	--	--	--	--
+3	158	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2654	10617	25875	0	0	39146	0	--	--	--	--	--	--	--
+3	159	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9811	39243	57814	0	0	100819	6049	--	--	--	--	--	--	--
+3	160	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10663	42651	62835	0	0	109575	6574	--	--	--	--	--	--	--
+3	161	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8398	33593	49490	0	0	86303	5178	--	--	--	--	--	--	--
+3	162	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10536	42142	62085	0	0	108267	6496	--	--	--	--	--	--	--
+3	163	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9761	39043	57519	0	0	100305	6018	--	--	--	--	--	--	--
+3	164	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8460	33838	49851	0	0	86933	5216	--	--	--	--	--	--	--
+3	165	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9238	36950	54435	0	0	94927	5696	--	--	--	--	--	--	--
+3	166	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10020	40080	59046	0	0	102968	6178	--	--	--	--	--	--	--
+3	167	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	44995	179978	71746	0	0	258016	38703	--	--	--	--	--	--	--
+3	168	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14141	56565	73370	0	0	135921	8155	--	--	--	--	--	--	--
+3	169	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	34054	136215	176684	0	0	327314	19639	--	--	--	--	--	--	--
+3	170	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13739	54955	71282	0	0	132053	7923	--	--	--	--	--	--	--
+3	171	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13876	55502	71992	0	0	133368	8002	--	--	--	--	--	--	--
+3	172	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13458	53833	69827	0	0	129357	7761	--	--	--	--	--	--	--
+3	173	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13524	54094	70165	0	0	129984	7799	--	--	--	--	--	--	--
+3	174	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13993	55971	72599	0	0	134493	8070	--	--	--	--	--	--	--
+3	175	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15235	60938	79043	0	0	146430	8786	--	--	--	--	--	--	--
+3	176	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7276	29104	49169	0	0	81089	4460	--	--	--	--	--	--	--
+3	177	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8475	33902	57276	0	0	94458	5195	--	--	--	--	--	--	--
+3	178	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7382	29526	49883	0	0	82266	4525	--	--	--	--	--	--	--
+3	179	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7247	28989	48976	0	0	80770	4442	--	--	--	--	--	--	--
+3	180	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7847	31388	53028	0	0	87453	4810	--	--	--	--	--	--	--
+3	181	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7262	29046	49073	0	0	80930	4451	--	--	--	--	--	--	--
+3	182	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	9837	39349	66479	0	0	109635	6030	--	--	--	--	--	--	--
+3	183	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6593	26370	44552	0	0	73474	4041	--	--	--	--	--	--	--
+3	184	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7527	30110	46927	0	0	81312	3252	--	--	--	--	--	--	--
+3	185	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6315	25261	39369	0	0	68216	2729	--	--	--	--	--	--	--
+3	186	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6934	27736	43228	0	0	74902	2996	--	--	--	--	--	--	--
+3	187	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7728	30914	48180	0	0	83483	3339	--	--	--	--	--	--	--
+3	188	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5467	21867	34081	0	0	59053	2362	--	--	--	--	--	--	--
+3	189	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7004	28017	43666	0	0	75661	3026	--	--	--	--	--	--	--
+3	190	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6515	26058	40613	0	0	70371	2815	--	--	--	--	--	--	--
+3	191	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6326	25306	39439	0	0	68337	2734	--	--	--	--	--	--	--
+3	192	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2711	10844	26430	0	0	39985	0	--	--	--	--	--	--	--
+3	193	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2439	9756	23777	0	0	35972	0	--	--	--	--	--	--	--
+3	194	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	14724	58895	86766	0	0	151307	9078	--	--	--	--	--	--	--
+3	195	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8577	34307	50542	0	0	88138	5288	--	--	--	--	--	--	--
+3	196	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8981	35923	52923	0	0	92290	5537	--	--	--	--	--	--	--
+3	197	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7643	30573	45040	0	0	78543	4713	--	--	--	--	--	--	--
+3	198	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	79591	318366	130925	0	0	459897	68985	--	--	--	--	--	--	--
+3	199	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10041	40166	52098	0	0	96514	5791	--	--	--	--	--	--	--
+3	200	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10804	43215	56054	0	0	103842	6231	--	--	--	--	--	--	--
+3	201	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11716	46865	60787	0	0	112611	6757	--	--	--	--	--	--	--
+3	202	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13284	53137	68923	0	0	127683	7661	--	--	--	--	--	--	--
+3	203	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5769	23074	38983	0	0	64290	3536	--	--	--	--	--	--	--
+3	204	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6331	25325	42784	0	0	70559	3881	--	--	--	--	--	--	--
+3	205	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	10371	41484	70086	0	0	115584	6357	--	--	--	--	--	--	--
+3	206	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5956	23823	40247	0	0	66375	3651	--	--	--	--	--	--	--
+3	207	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6750	27001	42082	0	0	72916	2917	--	--	--	--	--	--	--
+3	208	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6982	27926	43524	0	0	75415	3017	--	--	--	--	--	--	--
+3	209	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	6788	27151	42316	0	0	73322	2933	--	--	--	--	--	--	--
+3	210	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5902	23609	36796	0	0	63757	2550	--	--	--	--	--	--	--
+3	211	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2261	9046	27954	0	0	39261	0	--	--	--	--	--	--	--
+3	212	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2203	8810	27227	0	0	38240	0	--	--	--	--	--	--	--
+3	213	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	8051	32206	47446	0	0	82739	4964	--	--	--	--	--	--	--
+3	214	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7583	30333	44686	0	0	77926	4676	--	--	--	--	--	--	--
+3	215	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7842	31367	46211	0	0	80585	4835	--	--	--	--	--	--	--
+3	216	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7379	29515	43482	0	0	75826	4550	--	--	--	--	--	--	--
+3	217	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	133061	532244	194261	0	0	747449	112117	--	--	--	--	--	--	--
+3	218	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	115167	460669	168137	0	0	646933	97040	--	--	--	--	--	--	--
+3	219	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12564	50258	67108	0	0	122575	7355	--	--	--	--	--	--	--
+3	220	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9788	39152	52280	0	0	95491	5729	--	--	--	--	--	--	--
+3	221	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9762	39049	52142	0	0	95239	5714	--	--	--	--	--	--	--
+3	222	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9687	38746	51737	0	0	94500	5670	--	--	--	--	--	--	--
+3	223	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	10302	41210	69622	0	0	114819	6315	--	--	--	--	--	--	--
+3	224	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7215	28858	48755	0	0	80406	4422	--	--	--	--	--	--	--
+3	225	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7800	31201	52713	0	0	86933	4781	--	--	--	--	--	--	--
+3	226	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7039	28157	47569	0	0	78450	4315	--	--	--	--	--	--	--
+3	227	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5629	22517	35094	0	0	60808	2432	--	--	--	--	--	--	--
+3	228	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	5116	20466	31896	0	0	55267	2211	--	--	--	--	--	--	--
+3	229	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	4718	18870	29411	0	0	50961	2038	--	--	--	--	--	--	--
+3	230	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	9220	36879	57478	0	0	99593	3984	--	--	--	--	--	--	--
+3	231	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	6346	25383	17999	0	0	49728	0	--	--	--	--	--	--	--
+3	232	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	6630	26521	18806	0	0	51957	0	--	--	--	--	--	--	--
+3	233	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	234	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	YES	3180	12720	39308	0	0	55208	0	--	--	--	--	--	--	--
+3	235	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	3075	12299	38007	0	0	53381	0	--	--	--	--	--	--	--
+4	237	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	238	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+4	239	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+4	240	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	241	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+4	242	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+4	243	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	244	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+4	245	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.1	Knock it Down	B'Elanna Torres	--	--	--
+4	246	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+4	247	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	248	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4887	19546	13860	0	0	38293	0	--	--	--	--	--	--	--
+4	249	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4803	19212	13623	0	0	37638	0	--	--	--	--	--	--	--
+4	250	Charging Weapons	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	251	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	50170	200681	46342	0	0	258429	38764	--	--	--	--	--	--	--
+4	252	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	253	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	254	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	255	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	256	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+4	257	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2381	9522	29426	0	0	41329	0	--	--	--	--	--	--	--
+4	258	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2330	9319	28798	0	0	40447	0	--	--	--	--	--	--	--
+4	259	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12523	50094	27021	0	0	80755	8883	--	--	--	--	--	--	--
+4	260	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12576	50303	27134	0	0	81093	8920	--	--	--	--	--	--	--
+4	261	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13960	55841	30121	0	0	90020	9902	--	--	--	--	--	--	--
+4	262	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13812	55250	29802	0	0	89067	9797	--	--	--	--	--	--	--
+4	263	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	81091	324364	75428	0	0	418159	62724	--	--	--	--	--	--	--
+4	264	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16407	65627	27420	0	0	98607	10847	--	--	--	--	--	--	--
+4	265	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	17485	69940	29222	0	0	105087	11560	--	--	--	--	--	--	--
+4	266	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21249	84995	35513	0	0	127709	14048	--	--	--	--	--	--	--
+4	267	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	57492	229967	96086	0	0	345536	38009	--	--	--	--	--	--	--
+4	268	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18456	73826	30846	0	0	110926	12202	--	--	--	--	--	--	--
+4	269	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12595	50381	11143	0	0	70255	3864	--	--	--	--	--	--	--
+4	270	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14194	56776	12557	0	0	79172	4355	--	--	--	--	--	--	--
+4	271	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12202	48807	10795	0	0	68061	3743	--	--	--	--	--	--	--
+4	272	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15084	60337	13345	0	0	84138	4628	--	--	--	--	--	--	--
+4	273	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10739	42955	27684	0	0	73980	7398	--	--	--	--	--	--	--
+4	274	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9000	35998	23200	0	0	61998	6200	--	--	--	--	--	--	--
+4	275	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10846	43384	27960	0	0	74718	7472	--	--	--	--	--	--	--
+4	276	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	23014	92058	59330	0	0	158547	15855	--	--	--	--	--	--	--
+4	277	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2436	9746	30116	0	0	42298	0	--	--	--	--	--	--	--
+4	278	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	YES	2563	10253	31684	0	0	44500	0	--	--	--	--	--	--	--
+4	279	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11793	47171	25444	0	0	76043	8365	--	--	--	--	--	--	--
+4	280	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11810	47240	25482	0	0	76155	8377	--	--	--	--	--	--	--
+4	281	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13444	53774	29006	0	0	86688	9536	--	--	--	--	--	--	--
+4	282	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12044	48175	25986	0	0	77662	8543	--	--	--	--	--	--	--
+4	283	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	284	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16864	67456	30116	0	0	103095	11341	--	--	--	--	--	--	--
+4	285	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20468	81871	36552	0	0	125127	13764	--	--	--	--	--	--	--
+4	286	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	19632	78530	35060	0	0	120020	13202	--	--	--	--	--	--	--
+4	287	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16521	66082	29503	0	0	100996	11110	--	--	--	--	--	--	--
+4	288	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	17165	68658	30653	0	0	104933	11543	--	--	--	--	--	--	--
+4	289	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11781	47124	10423	0	0	65714	3614	--	--	--	--	--	--	--
+4	290	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14201	56804	12564	0	0	79212	4357	--	--	--	--	--	--	--
+4	291	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14589	58358	12907	0	0	81378	4476	--	--	--	--	--	--	--
+4	292	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14959	59837	13234	0	0	83441	4589	--	--	--	--	--	--	--
+4	293	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	7760	31042	20006	0	0	53462	5346	--	--	--	--	--	--	--
+4	294	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	10856	43426	27987	0	0	74790	7479	--	--	--	--	--	--	--
+4	295	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9509	38036	24513	0	0	65507	6551	--	--	--	--	--	--	--
+4	296	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	9043	36174	23313	0	0	62300	6230	--	--	--	--	--	--	--
+4	297	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	298	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	300	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+5	301	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	302	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+5	303	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+5	304	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	305	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+5	306	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	307	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+5	308	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	YES	2468	9872	30507	0	0	42847	0	--	--	--	--	--	--	--
+5	309	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2238	8953	27666	0	0	38857	0	--	--	--	--	--	--	--
+5	310	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20150	80599	3585	0	0	93995	10339	--	--	--	--	--	--	--
+5	311	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	25960	103842	4619	0	0	121100	13321	--	--	--	--	--	--	--
+5	312	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	25906	103623	4609	0	0	120845	13293	--	--	--	--	--	--	--
+5	313	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21792	87168	3877	0	0	101655	11182	--	--	--	--	--	--	--
+5	314	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	32745	130982	5826	0	0	152750	16803	--	--	--	--	--	--	--
+5	315	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20305	81221	3613	0	0	94720	10419	--	--	--	--	--	--	--
+5	316	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	35669	142677	6347	0	0	166390	18303	--	--	--	--	--	--	--
+5	317	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20774	83095	3696	0	0	96905	10660	--	--	--	--	--	--	--
+5	318	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	54517	218068	28181	0	0	250638	50128	--	--	--	--	--	--	--
+5	319	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	26228	104910	6230	0	0	120287	17081	--	--	--	--	--	--	--
+5	320	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	27226	108902	6467	0	0	124864	17731	--	--	--	--	--	--	--
+5	321	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	31360	125439	7449	0	0	143825	20423	--	--	--	--	--	--	--
+5	322	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	24097	96389	5724	0	0	110517	15693	--	--	--	--	--	--	--
+5	323	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	60230	240920	14307	0	0	276232	39225	--	--	--	--	--	--	--
+5	324	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	69450	277798	16497	0	0	318516	45229	--	--	--	--	--	--	--
+5	325	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	26748	106992	6353	0	0	122673	17420	--	--	--	--	--	--	--
+5	326	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	26605	106421	6319	0	0	122018	17327	--	--	--	--	--	--	--
+5	327	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	57827	231306	13736	0	0	265209	37660	--	--	--	--	--	--	--
+5	328	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	29943	119773	7112	0	0	137327	19501	--	--	--	--	--	--	--
+5	329	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	22462	89849	2327	0	0	108662	5976	--	--	--	--	--	--	--
+5	330	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18868	75474	1955	0	0	91277	5020	--	--	--	--	--	--	--
+5	331	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	17121	68483	1774	0	0	82823	4555	--	--	--	--	--	--	--
+5	332	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	23360	93439	2420	0	0	113004	6215	--	--	--	--	--	--	--
+5	333	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16496	65986	1709	0	0	79802	4389	--	--	--	--	--	--	--
+5	334	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15849	63394	1642	0	0	76668	4217	--	--	--	--	--	--	--
+5	335	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15700	62802	1626	0	0	75951	4177	--	--	--	--	--	--	--
+5	336	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16685	66742	1729	0	0	80717	4439	--	--	--	--	--	--	--
+5	337	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12908	51631	2025	0	0	61068	5496	--	--	--	--	--	--	--
+5	338	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	17273	69090	2710	0	0	81718	7355	--	--	--	--	--	--	--
+5	339	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14609	58435	2292	0	0	69116	6220	--	--	--	--	--	--	--
+5	340	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	16432	65726	2578	0	0	77739	6997	--	--	--	--	--	--	--
+5	341	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14109	56438	2214	0	0	66753	6008	--	--	--	--	--	--	--
+5	342	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13228	52911	2075	0	0	62582	5632	--	--	--	--	--	--	--
+5	343	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12627	50508	1981	0	0	59739	5377	--	--	--	--	--	--	--
+5	344	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	20777	83110	3260	0	0	98300	8847	--	--	--	--	--	--	--
+5	345	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	346	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2638	10552	26838	0	0	40028	0	--	--	--	--	--	--	--
+5	347	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2771	11084	28191	0	0	42046	0	--	--	--	--	--	--	--
+5	348	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20330	81320	3617	0	0	94835	10432	--	--	--	--	--	--	--
+5	349	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	23933	95733	4258	0	0	111643	12281	--	--	--	--	--	--	--
+5	350	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21536	86146	3832	0	0	100463	11051	--	--	--	--	--	--	--
+5	351	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18127	72506	3225	0	0	84557	9301	--	--	--	--	--	--	--
+5	352	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	230975	923902	119879	0	0	1062297	212459	--	--	--	--	--	--	--
+5	353	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21461	85842	5097	0	0	98424	13976	--	--	--	--	--	--	--
+5	354	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	24533	98130	5827	0	0	112513	15977	--	--	--	--	--	--	--
+5	355	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21417	85670	5087	0	0	98226	13948	--	--	--	--	--	--	--
+5	356	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	25434	101734	6041	0	0	116645	16564	--	--	--	--	--	--	--
+5	357	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	24200	96798	5748	0	0	110986	15760	--	--	--	--	--	--	--
+5	358	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12701	50805	9794	0	0	69479	3821	--	--	--	--	--	--	--
+5	359	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15687	62750	12097	0	0	85814	4720	--	--	--	--	--	--	--
+5	360	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15510	62038	11960	0	0	84842	4666	--	--	--	--	--	--	--
+5	361	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	20856	83426	16083	0	0	114090	6275	--	--	--	--	--	--	--
+5	362	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15863	63454	2489	0	0	75051	6755	--	--	--	--	--	--	--
+5	363	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14071	56283	2208	0	0	66571	5991	--	--	--	--	--	--	--
+5	364	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14151	56604	2220	0	0	66949	6026	--	--	--	--	--	--	--
+5	365	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15227	60909	2389	0	0	72041	6484	--	--	--	--	--	--	--
+5	366	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	YES	3016	12063	31042	0	0	46121	0	--	--	--	--	--	--	--
+5	367	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2553	10210	26273	0	0	39036	0	--	--	--	--	--	--	--
+5	368	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	22873	91492	4070	0	0	106698	11737	--	--	--	--	--	--	--
+5	369	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	19145	76580	3406	0	0	89307	9824	--	--	--	--	--	--	--
+5	370	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21734	86934	3867	0	0	101383	11152	--	--	--	--	--	--	--
+5	371	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18111	72442	3222	0	0	84482	9293	--	--	--	--	--	--	--
+5	372	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	373	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20950	83798	4661	0	0	95805	13604	--	--	--	--	--	--	--
+5	374	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21362	85450	4753	0	0	97693	13872	--	--	--	--	--	--	--
+5	375	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	26142	104568	5816	0	0	119550	16976	--	--	--	--	--	--	--
+5	376	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	24579	98314	5468	0	0	112400	15961	--	--	--	--	--	--	--
+5	377	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	20628	82513	4589	0	0	94334	13396	--	--	--	--	--	--	--
+5	378	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	13399	53597	10333	0	0	73298	4031	--	--	--	--	--	--	--
+5	379	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	20217	80870	15591	0	0	110595	6083	--	--	--	--	--	--	--
+5	380	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15104	60417	11648	0	0	82625	4544	--	--	--	--	--	--	--
+5	381	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15463	61854	11925	0	0	84590	4652	--	--	--	--	--	--	--
+5	382	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	11388	45554	1787	0	0	53880	4849	--	--	--	--	--	--	--
+5	383	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	12208	48834	1915	0	0	57759	5198	--	--	--	--	--	--	--
+5	384	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	14716	58863	2309	0	0	69622	6266	--	--	--	--	--	--	--
+5	385	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	15363	61453	2410	0	0	72684	6542	--	--	--	--	--	--	--
+5	386	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2948	11792	36441	0	0	51181	0	--	--	--	--	--	--	--
+5	387	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	3083	12332	38108	0	0	53523	0	--	--	--	--	--	--	--
+5	388	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	6365	25462	18055	0	0	49882	0	--	--	--	--	--	--	--
+5	389	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	6314	25257	17910	0	0	49481	0	--	--	--	--	--	--	--
+5	390	Shield Depleted	Biggk81	Continuum	STELLA	NO	Exchange High Security Vault	--	STELLA	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	392	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	393	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+6	394	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+6	395	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+6	396	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+6	397	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+6	398	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	399	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+6	400	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2628	10512	26736	0	0	39876	0	--	--	--	--	--	--	--
+6	401	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	YES	2848	11394	28980	0	0	43222	0	--	--	--	--	--	--	--
+6	402	Charging Weapons	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	403	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	63732	254930	22467	0	0	296634	44495	--	--	--	--	--	--	--
+6	404	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	405	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	406	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	407	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2800	11198	28087	0	0	42085	0	--	--	--	--	--	--	--
+6	408	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2564	10258	25728	0	0	38550	0	--	--	--	--	--	--	--
+6	409	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	22764	91057	1424	0	0	103824	11421	--	--	--	--	--	--	--
+6	410	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	21881	87526	1369	0	0	99798	10978	--	--	--	--	--	--	--
+6	411	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18545	74181	1160	0	0	84582	9304	--	--	--	--	--	--	--
+6	412	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	18373	73491	1149	0	0	83795	9218	--	--	--	--	--	--	--
+6	413	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	81911	327643	30245	0	0	382434	57365	--	--	--	--	--	--	--
+6	414	Shield Depleted	Exchange High Security Vault	--	Exchange High Security Vault	YES	Traveler5	Continuum	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+6	415	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	262559	0	5717	0	0	253091	15185	--	--	--	--	--	--	--
+6	416	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	101827	0	2217	0	0	98155	5889	--	--	--	--	--	--	--
+6	417	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	111474	0	2427	0	0	107454	6447	--	--	--	--	--	--	--
+6	418	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	109078	0	2375	0	0	105144	6309	--	--	--	--	--	--	--
+6	419	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74793	0	315	0	0	71192	3916	--	--	--	--	--	--	--
+6	420	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	128181	0	540	0	0	122010	6711	--	--	--	--	--	--	--
+6	421	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	131529	0	554	0	0	125197	6886	--	--	--	--	--	--	--
+6	422	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	90787	0	382	0	0	86416	4753	--	--	--	--	--	--	--
+6	423	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	54605	0	611	0	0	53092	2124	--	--	--	--	--	--	--
+6	424	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74691	0	836	0	0	72622	2905	--	--	--	--	--	--	--
+6	425	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	77496	0	867	0	0	75349	3014	--	--	--	--	--	--	--
+6	426	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	70961	0	794	0	0	68995	2760	--	--	--	--	--	--	--
+6	427	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+6	428	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2058	8233	25441	0	0	35732	0	--	--	--	--	--	--	--
+6	429	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	YES	2628	10512	32485	0	0	45625	0	--	--	--	--	--	--	--
+6	430	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	110192	0	1378	0	0	100513	11057	--	--	--	--	--	--	--
+6	431	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	108448	0	1357	0	0	98923	10882	--	--	--	--	--	--	--
+6	432	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	102534	0	1283	0	0	93529	10288	--	--	--	--	--	--	--
+6	433	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	88830	0	1111	0	0	81028	8913	--	--	--	--	--	--	--
+6	434	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	1831830	0	144105	0	0	1718204	257731	--	--	--	--	--	--	--
+6	435	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	780328	0	61386	0	0	731925	109789	--	--	--	--	--	--	--
+6	436	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	106538	0	2213	0	0	102595	6156	--	--	--	--	--	--	--
+6	437	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	95524	0	1984	0	0	91989	5519	--	--	--	--	--	--	--
+6	438	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	105263	0	2186	0	0	101367	6082	--	--	--	--	--	--	--
+6	439	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	274243	0	5697	0	0	264094	15846	--	--	--	--	--	--	--
+6	440	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	71164	0	300	0	0	67738	3726	--	--	--	--	--	--	--
+6	441	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	115720	0	488	0	0	110150	6058	--	--	--	--	--	--	--
+6	442	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	126518	0	533	0	0	120427	6624	--	--	--	--	--	--	--
+6	443	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	107197	0	452	0	0	102037	5612	--	--	--	--	--	--	--
+6	444	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74316	0	832	0	0	72258	2890	--	--	--	--	--	--	--
+6	445	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	68379	0	765	0	0	66485	2659	--	--	--	--	--	--	--
+6	446	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	102063	0	1142	0	0	99236	3969	--	--	--	--	--	--	--
+6	447	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	55449	0	620	0	0	53912	2157	--	--	--	--	--	--	--
+6	448	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+6	449	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	450	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	452	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+7	453	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+7	454	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+7	455	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+7	456	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+7	457	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	458	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+7	459	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2167	8666	26781	0	0	37614	0	--	--	--	--	--	--	--
+7	460	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2321	9285	28692	0	0	40298	0	--	--	--	--	--	--	--
+7	461	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	118478	0	601	0	0	107278	11801	--	--	--	--	--	--	--
+7	462	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	128843	0	654	0	0	116664	12833	--	--	--	--	--	--	--
+7	463	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	111154	0	564	0	0	100647	11071	--	--	--	--	--	--	--
+7	464	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	119894	0	608	0	0	108560	11942	--	--	--	--	--	--	--
+7	465	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	108882	0	553	0	0	98590	10845	--	--	--	--	--	--	--
+7	466	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	123458	0	627	0	0	111788	12297	--	--	--	--	--	--	--
+7	467	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	116755	0	593	0	0	105719	11629	--	--	--	--	--	--	--
+7	468	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	126139	0	640	0	0	114215	12564	--	--	--	--	--	--	--
+7	469	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	613467	0	30668	0	0	536779	107356	--	--	--	--	--	--	--
+7	470	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	164768	0	1817	0	0	145871	20714	--	--	--	--	--	--	--
+7	471	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	127637	0	1408	0	0	112999	16046	--	--	--	--	--	--	--
+7	472	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	137078	0	1512	0	0	121357	17233	--	--	--	--	--	--	--
+7	473	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	135457	0	1494	0	0	119922	17029	--	--	--	--	--	--	--
+7	474	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	127837	0	1410	0	0	113176	16071	--	--	--	--	--	--	--
+7	475	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	145394	0	1604	0	0	128720	18278	--	--	--	--	--	--	--
+7	476	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	137002	0	1511	0	0	121290	17223	--	--	--	--	--	--	--
+7	477	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	158248	0	1746	0	0	140100	19894	--	--	--	--	--	--	--
+7	478	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	85937	0	72	0	0	81525	4484	--	--	--	--	--	--	--
+7	479	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	129816	0	109	0	0	123152	6773	--	--	--	--	--	--	--
+7	480	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	84921	0	71	0	0	80561	4431	--	--	--	--	--	--	--
+7	481	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	110696	0	93	0	0	105013	5776	--	--	--	--	--	--	--
+7	482	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	125432	0	106	0	0	118993	6545	--	--	--	--	--	--	--
+7	483	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	96100	0	81	0	0	91167	5014	--	--	--	--	--	--	--
+7	484	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	77771	0	65	0	0	73778	4058	--	--	--	--	--	--	--
+7	485	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74580	0	63	0	0	70752	3891	--	--	--	--	--	--	--
+7	486	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	65230	0	254	0	0	60077	5407	--	--	--	--	--	--	--
+7	487	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	63492	0	247	0	0	58476	5263	--	--	--	--	--	--	--
+7	488	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	79745	0	310	0	0	73445	6610	--	--	--	--	--	--	--
+7	489	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	71501	0	278	0	0	65852	5927	--	--	--	--	--	--	--
+7	490	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	67443	0	263	0	0	62116	5590	--	--	--	--	--	--	--
+7	491	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	67373	0	262	0	0	62050	5585	--	--	--	--	--	--	--
+7	492	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	78180	0	304	0	0	72004	6480	--	--	--	--	--	--	--
+7	493	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	88404	0	344	0	0	81420	7328	--	--	--	--	--	--	--
+7	494	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+7	495	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	YES	26528	0	15049	0	0	41577	0	--	--	--	--	--	--	--
+7	496	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	23264	0	13197	0	0	36461	0	--	--	--	--	--	--	--
+7	497	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	116718	0	592	0	0	105685	11625	--	--	--	--	--	--	--
+7	498	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	116882	0	593	0	0	105833	11642	--	--	--	--	--	--	--
+7	499	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	91225	0	463	0	0	82602	9086	--	--	--	--	--	--	--
+7	500	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	98309	0	499	0	0	89016	9792	--	--	--	--	--	--	--
+7	501	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	566474	0	31070	0	0	497953	99591	--	--	--	--	--	--	--
+7	502	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	134167	0	1480	0	0	118780	16867	--	--	--	--	--	--	--
+7	503	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	138966	0	1533	0	0	123029	17470	--	--	--	--	--	--	--
+7	504	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	138375	0	1526	0	0	122505	17396	--	--	--	--	--	--	--
+7	505	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	131173	0	1447	0	0	116130	16490	--	--	--	--	--	--	--
+7	506	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	99555	0	11608	0	0	105368	5795	--	--	--	--	--	--	--
+7	507	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	67675	0	7890	0	0	71626	3939	--	--	--	--	--	--	--
+7	508	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	65480	0	7634	0	0	69302	3812	--	--	--	--	--	--	--
+7	509	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	63882	0	7448	0	0	67611	3719	--	--	--	--	--	--	--
+7	510	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	57402	0	223	0	0	52867	4758	--	--	--	--	--	--	--
+7	511	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	58934	0	229	0	0	54278	4885	--	--	--	--	--	--	--
+7	512	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	61354	0	239	0	0	56507	5086	--	--	--	--	--	--	--
+7	513	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	77646	0	302	0	0	71512	6436	--	--	--	--	--	--	--
+7	514	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	515	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	25519	0	14476	0	0	39995	0	--	--	--	--	--	--	--
+7	516	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	25737	0	14600	0	0	40337	0	--	--	--	--	--	--	--
+7	517	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	104445	0	530	0	0	94572	10403	--	--	--	--	--	--	--
+7	518	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	97755	0	496	0	0	88514	9737	--	--	--	--	--	--	--
+7	519	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	102499	0	520	0	0	92810	10209	--	--	--	--	--	--	--
+7	520	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	114847	0	583	0	0	103991	11439	--	--	--	--	--	--	--
+7	521	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+7	522	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	129726	0	1343	0	0	114771	16298	--	--	--	--	--	--	--
+7	523	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	104343	0	1080	0	0	92314	13109	--	--	--	--	--	--	--
+7	524	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	126090	0	1306	0	0	111555	15841	--	--	--	--	--	--	--
+7	525	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	125085	0	1295	0	0	110665	15715	--	--	--	--	--	--	--
+7	526	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	71208	0	8302	0	0	75365	4145	--	--	--	--	--	--	--
+7	527	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	73900	0	8616	0	0	78214	4302	--	--	--	--	--	--	--
+7	528	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	70497	0	8219	0	0	74612	4104	--	--	--	--	--	--	--
+7	529	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	98425	0	11476	0	0	104172	5729	--	--	--	--	--	--	--
+7	530	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	104405	0	407	0	0	96158	8654	--	--	--	--	--	--	--
+7	531	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	63067	0	245	0	0	58084	5228	--	--	--	--	--	--	--
+7	532	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	68919	0	268	0	0	63474	5713	--	--	--	--	--	--	--
+7	533	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74262	0	289	0	0	68395	6156	--	--	--	--	--	--	--
+7	534	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	535	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	3346	13385	34044	0	0	50775	0	--	--	--	--	--	--	--
+7	536	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	3509	14036	35700	0	0	53245	0	--	--	--	--	--	--	--
+7	537	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	34282	0	19448	0	0	53730	0	--	--	--	--	--	--	--
+7	538	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Biggk81	Continuum	STELLA	YES	NO	32178	0	18254	0	0	50432	0	--	--	--	--	--	--	--
+8	540	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	541	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+8	542	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+8	543	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+8	544	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+8	545	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+8	546	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+8	547	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+8	548	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+8	549	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+8	550	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2724	10898	27718	0	0	41340	0	--	--	--	--	--	--	--
+8	551	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2439	9757	24816	0	0	37012	0	--	--	--	--	--	--	--
+8	552	Charging Weapons	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	553	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	710306	0	30553	0	0	644225	96634	--	--	--	--	--	--	--
+8	554	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	555	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	556	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	557	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2421	9682	29920	0	0	42023	0	--	--	--	--	--	--	--
+8	558	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2444	9778	30215	0	0	42437	0	--	--	--	--	--	--	--
+8	559	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	94006	0	192	0	0	84863	9335	--	--	--	--	--	--	--
+8	560	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	102287	0	209	0	0	92339	10157	--	--	--	--	--	--	--
+8	561	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	96345	0	197	0	0	86975	9567	--	--	--	--	--	--	--
+8	562	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	100578	0	205	0	0	90795	9988	--	--	--	--	--	--	--
+8	563	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	488867	0	23758	0	0	445761	66864	--	--	--	--	--	--	--
+8	564	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	131598	0	863	0	0	124963	7498	--	--	--	--	--	--	--
+8	565	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	128698	0	844	0	0	122209	7333	--	--	--	--	--	--	--
+8	566	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	133513	0	875	0	0	126781	7607	--	--	--	--	--	--	--
+8	567	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	131112	0	859	0	0	124501	7470	--	--	--	--	--	--	--
+8	568	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	105185	0	689	0	0	99881	5993	--	--	--	--	--	--	--
+8	569	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	78561	0	13	0	0	74478	4096	--	--	--	--	--	--	--
+8	570	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	83579	0	14	0	0	79235	4358	--	--	--	--	--	--	--
+8	571	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	85823	0	14	0	0	81362	4475	--	--	--	--	--	--	--
+8	572	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	85253	0	14	0	0	80822	4445	--	--	--	--	--	--	--
+8	573	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	60159	0	88	0	0	57930	2317	--	--	--	--	--	--	--
+8	574	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	55746	0	82	0	0	53681	2147	--	--	--	--	--	--	--
+8	575	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	60186	0	88	0	0	57956	2318	--	--	--	--	--	--	--
+8	576	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	56678	0	83	0	0	54578	2183	--	--	--	--	--	--	--
+8	577	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	NO	2718	10870	27265	0	0	40853	0	--	--	--	--	--	--	--
+8	578	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Acemisto	Continuum	STELLA	YES	YES	2985	11939	29945	0	0	44869	0	--	--	--	--	--	--	--
+8	579	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	111197	0	227	0	0	100382	11042	--	--	--	--	--	--	--
+8	580	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	115178	0	235	0	0	103976	11437	--	--	--	--	--	--	--
+8	581	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	152553	0	312	0	0	137716	15149	--	--	--	--	--	--	--
+8	582	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	103775	0	212	0	0	93682	10305	--	--	--	--	--	--	--
+8	583	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	584	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	112948	0	679	0	0	107195	6432	--	--	--	--	--	--	--
+8	585	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	128148	0	770	0	0	121621	7297	--	--	--	--	--	--	--
+8	586	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	123912	0	745	0	0	117601	7056	--	--	--	--	--	--	--
+8	587	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	129804	0	780	0	0	123192	7392	--	--	--	--	--	--	--
+8	588	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	108899	0	654	0	0	103352	6201	--	--	--	--	--	--	--
+8	589	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	71523	0	12	0	0	67806	3729	--	--	--	--	--	--	--
+8	590	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	85453	0	14	0	0	81011	4456	--	--	--	--	--	--	--
+8	591	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74128	0	12	0	0	70275	3865	--	--	--	--	--	--	--
+8	592	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	82069	0	13	0	0	77803	4279	--	--	--	--	--	--	--
+8	593	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	78026	0	115	0	0	75136	3005	--	--	--	--	--	--	--
+8	594	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	78224	0	115	0	0	75326	3013	--	--	--	--	--	--	--
+8	595	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	69871	0	103	0	0	67283	2691	--	--	--	--	--	--	--
+8	596	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	54571	0	80	0	0	52549	2102	--	--	--	--	--	--	--
+8	597	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	598	Charging Weapons	Exchange High Security Vault	--	Exchange High Security Vault	NO	Exchange High Security Vault	--	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	600	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+9	601	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+9	602	Officer Ability	Acemisto	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+9	603	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+9	604	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+9	605	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+9	606	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+9	607	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+9	608	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2612	10449	26575	0	0	39636	0	--	--	--	--	--	--	--
+9	609	Attack	Exchange High Security Vault	--	Exchange High Security Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2512	10050	25561	0	0	38123	0	--	--	--	--	--	--	--
+9	610	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	115165	0	94	0	0	103837	11422	--	--	--	--	--	--	--
+9	611	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	190855	0	156	0	0	172082	18929	--	--	--	--	--	--	--
+9	612	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	125521	0	103	0	0	113175	12449	--	--	--	--	--	--	--
+9	613	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	117754	0	96	0	0	106171	11679	--	--	--	--	--	--	--
+9	614	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	110141	0	90	0	0	99307	10924	--	--	--	--	--	--	--
+9	615	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	107773	0	88	0	0	97172	10689	--	--	--	--	--	--	--
+9	616	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	94122	0	77	0	0	84864	9335	--	--	--	--	--	--	--
+9	617	Attack	Acemisto	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	118132	0	97	0	0	106513	11716	--	--	--	--	--	--	--
+9	618	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	244255	0	9208	0	0	220403	33060	--	--	--	--	--	--	--
+9	619	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	155509	0	559	0	0	147234	8834	--	--	--	--	--	--	--
+9	620	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	117504	0	422	0	0	111251	6675	--	--	--	--	--	--	--
+9	621	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	YES	313116	0	1126	0	0	296455	17787	--	--	--	--	--	--	--
+9	622	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	118608	0	426	0	0	112296	6738	--	--	--	--	--	--	--
+9	623	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	126336	0	454	0	0	119613	7177	--	--	--	--	--	--	--
+9	624	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	139170	0	500	0	0	131764	7906	--	--	--	--	--	--	--
+9	625	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	141990	0	510	0	0	134434	8066	--	--	--	--	--	--	--
+9	626	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	150292	0	540	0	0	142294	8538	--	--	--	--	--	--	--
+9	627	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	130037	0	467	0	0	123117	7387	--	--	--	--	--	--	--
+9	628	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	146759	0	528	0	0	138950	8337	--	--	--	--	--	--	--
+9	629	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	92140	0	3	0	0	87339	4804	--	--	--	--	--	--	--
+9	630	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	98758	0	3	0	0	93612	5149	--	--	--	--	--	--	--
+9	631	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	81488	0	2	0	0	77242	4248	--	--	--	--	--	--	--
+9	632	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74233	0	2	0	0	70365	3870	--	--	--	--	--	--	--
+9	633	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	91322	0	3	0	0	86564	4761	--	--	--	--	--	--	--
+9	634	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	86069	0	2	0	0	81584	4487	--	--	--	--	--	--	--
+9	635	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	82660	0	2	0	0	78353	4309	--	--	--	--	--	--	--
+9	636	Attack	Smasher21212	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	96316	0	3	0	0	91298	5021	--	--	--	--	--	--	--
+9	637	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	74980	0	39	0	0	72134	2885	--	--	--	--	--	--	--
+9	638	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	79789	0	42	0	0	76761	3070	--	--	--	--	--	--	--
+9	639	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	75501	0	40	0	0	72636	2905	--	--	--	--	--	--	--
+9	640	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	85181	0	45	0	0	81948	3278	--	--	--	--	--	--	--
+9	641	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	69832	0	37	0	0	67182	2687	--	--	--	--	--	--	--
+9	642	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	86433	0	45	0	0	83152	3326	--	--	--	--	--	--	--
+9	643	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	77341	0	41	0	0	74406	2976	--	--	--	--	--	--	--
+9	644	Attack	Biggk81	Continuum	STELLA	YES	Exchange High Security Vault	--	Exchange High Security Vault	NO	NO	78391	0	41	0	0	75415	3017	--	--	--	--	--	--	--
+9	645	Combatant Destroyed	Exchange High Security Vault	--	Exchange High Security Vault	YES	Biggk81	Continuum	Exchange High Security Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

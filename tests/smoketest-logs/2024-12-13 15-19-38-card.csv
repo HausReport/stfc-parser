@@ -1,0 +1,140 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Central Command Station	33	DEFEAT	Central Command Station	33	11414019	0	Cardassian Gul	--	--	10871949	0	4348780	0	Valo	12/13/2024 3:19:38 PM
+
+Reward Name	Count
+Uncommon Armada Credit	25992
+Cardassian Loot	17040
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	265026	166430	528188	Master Thief	Manipulation	Quick Thinking	Bombardment	Sadistic	3	241107	2314	17999	2314	0.07	1.84	3	25364	3961	3961	3	262483	793892	113	33	25.26	89687	0	1	NO	NO
+Player Fleet 2	1477938	1235865	6399269	Optimized Crew Interface	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	3	1074761	15653	17889	253960	0.12	2.2	3	8686	230887	7600	3	6304800	6493737	133	75	27.93	237800	0	1	NO	NO
+Player Fleet 3	705697	448640	1075110	Revenge	Defensive Measures	Persistence Is Key	Unshakeable Moral Code	Me Against The Galaxy	3	623055	6726	61151	5766	0.12	1.91	3	86251	1352	2125	3	688710	1461509	85	60	19.67	102960	0	1	NO	NO
+Enemy Fleet 1	2011994	1791660	7610365	ship_ability_name_{0}	--	--	--	--	0	1361654	86712	86712	86712	0.2	3	0	119444	119444	119444	0	4348780	10871949	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	4	Defensive Measures	Benjamin Sisko	--	--	--
+1	4	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	1.5	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	5	Officer Ability	Battletoads	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Quick Thinking	Gabriel Lorca	--	--	--
+1	6	Officer Ability	Battletoads	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Sadistic	Captain Tilly	--	--	--
+1	7	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	8	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+1	9	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	17657	70630	194770	0	0	283057	0	--	--	--	--	--	--	--
+1	10	Attack	Battletoads	Continuum	STELLA	YES	Central Command Station	--	Central Command Station	NO	NO	10373	41490	72830	0	0	111333	13360	--	--	--	--	--	--	--
+1	11	Attack	Battletoads	Continuum	STELLA	YES	Central Command Station	--	Central Command Station	NO	NO	10425	41699	73196	0	0	111893	13427	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	47917	191670	225018	0	0	418563	46042	--	--	--	--	--	--	--
+1	13	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	21934	87736	132782	0	0	228728	13724	--	--	--	--	--	--	--
+1	14	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	15	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	16641	66565	183560	0	0	266766	0	--	--	--	--	--	--	--
+1	16	Attack	Battletoads	Continuum	STELLA	YES	Central Command Station	--	Central Command Station	NO	NO	10258	41034	71851	0	0	109949	13194	--	--	--	--	--	--	--
+1	17	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	187290	749161	879508	0	0	1635999	179960	--	--	--	--	--	--	--
+1	18	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	78198	312794	107522	0	0	470296	28218	--	--	--	--	--	--	--
+1	19	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	20	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	14765	59058	182468	0	0	256291	0	--	--	--	--	--	--	--
+1	21	Attack	Battletoads	Continuum	STELLA	YES	Central Command Station	--	Central Command Station	NO	NO	9365	37460	65593	0	0	100373	12045	--	--	--	--	--	--	--
+1	22	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	23	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	97009	388037	106146	0	0	557728	33464	--	--	--	--	--	--	--
+1	24	Attack	Central Command Station	--	Central Command Station	NO	Battletoads	Continuum	STELLA	YES	NO	65657	262626	127695	0	0	455978	0	--	--	--	--	--	--	--
+1	25	Shield Depleted	Battletoads	Continuum	STELLA	NO	Central Command Station	--	STELLA	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	26	Attack	Central Command Station	--	Central Command Station	NO	Battletoads	Continuum	STELLA	YES	YES	581600	0	226230	0	0	807830	0	--	--	--	--	--	--	--
+2	28	Officer Ability	Battletoads	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Sadistic	Captain Tilly	--	--	--
+2	29	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	30	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+2	31	Attack	Central Command Station	--	Central Command Station	NO	Battletoads	Continuum	STELLA	YES	NO	93354	0	53442	0	0	146796	0	--	--	--	--	--	--	--
+2	32	Charging Weapons	Battletoads	Continuum	STELLA	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	33	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	43812	175250	190955	0	0	369385	40632	--	--	--	--	--	--	--
+2	34	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	21850	87398	126243	0	0	222161	13330	--	--	--	--	--	--	--
+2	35	Attack	Central Command Station	--	Central Command Station	NO	Battletoads	Continuum	STELLA	YES	YES	166870	0	95527	0	0	262397	0	--	--	--	--	--	--	--
+2	36	Combatant Destroyed	Battletoads	Continuum	STELLA	NO	Central Command Station	--	STELLA	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	37	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	45420	181680	197961	0	0	382938	42123	--	--	--	--	--	--	--
+2	38	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	39	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	NO	9711	38846	107121	0	0	155678	0	--	--	--	--	--	--	--
+2	40	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	261361	1045445	997975	0	0	2076379	228402	--	--	--	--	--	--	--
+2	41	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	64318	257270	245588	0	0	510969	56207	--	--	--	--	--	--	--
+2	42	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	43	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+2	44	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	45	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	47	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	48	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	49	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+3	50	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	7549	30197	93288	0	0	131034	0	--	--	--	--	--	--	--
+3	51	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	128615	514461	491721	0	0	1070563	64234	--	--	--	--	--	--	--
+3	52	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	43716	174862	167133	0	0	363878	21833	--	--	--	--	--	--	--
+3	53	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	20772	83088	114197	0	0	205714	12343	--	--	--	--	--	--	--
+3	54	Shield Depleted	Central Command Station	--	Central Command Station	YES	noBuenoman	Continuum	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	55	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	25746	102982	283987	0	0	412715	0	--	--	--	--	--	--	--
+3	56	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	249696	0	190927	0	0	415682	24941	--	--	--	--	--	--	--
+3	57	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	243917	0	186508	0	0	406061	24364	--	--	--	--	--	--	--
+3	58	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	246903	0	271479	0	0	489040	29342	--	--	--	--	--	--	--
+3	59	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+3	60	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	8423	33691	104083	0	0	146197	0	--	--	--	--	--	--	--
+3	61	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	62	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	491189	0	107684	0	0	564975	33898	--	--	--	--	--	--	--
+3	63	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	25816	103264	319017	0	0	448097	0	--	--	--	--	--	--	--
+3	64	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	73595	294381	811794	0	0	1179770	0	--	--	--	--	--	--	--
+4	66	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	67	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+4	68	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	69	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	7764	31056	95941	0	0	134761	0	--	--	--	--	--	--	--
+4	70	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	279113	0	128537	0	0	384575	23075	--	--	--	--	--	--	--
+4	71	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	285744	0	131591	0	0	393712	23623	--	--	--	--	--	--	--
+4	72	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	202647	0	39557	0	0	228494	13710	--	--	--	--	--	--	--
+4	73	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	8022	32086	99124	0	0	139232	0	--	--	--	--	--	--	--
+4	74	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	300457	0	138367	0	0	413985	24839	--	--	--	--	--	--	--
+4	75	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	YES	671729	0	309346	0	0	925542	55533	--	--	--	--	--	--	--
+4	76	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	77	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	NO	8018	32072	88443	0	0	128533	0	--	--	--	--	--	--	--
+4	78	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	415664	0	155563	0	0	538893	32334	--	--	--	--	--	--	--
+4	79	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	389807	0	145886	0	0	505371	30322	--	--	--	--	--	--	--
+4	80	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	420499	0	157373	0	0	545162	32710	--	--	--	--	--	--	--
+4	81	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	414510	0	155131	0	0	537397	32244	--	--	--	--	--	--	--
+4	82	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	83	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	84	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	85	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	87	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	88	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+5	89	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	28055	112220	309461	0	0	449736	0	--	--	--	--	--	--	--
+5	90	Shield Depleted	noBuenoman	Continuum	BORTAS	NO	Central Command Station	--	BORTAS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	91	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	370746	0	78257	0	0	423588	25415	--	--	--	--	--	--	--
+5	92	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	YES	370722	0	108434	0	0	452034	27122	--	--	--	--	--	--	--
+5	93	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	94	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	136329	0	300756	0	0	437085	0	--	--	--	--	--	--	--
+5	95	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	372986	0	78730	0	0	426147	25569	--	--	--	--	--	--	--
+5	96	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	YES	995347	0	172754	0	0	1101982	66119	--	--	--	--	--	--	--
+5	97	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	98	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	26361	105442	325747	0	0	457550	0	--	--	--	--	--	--	--
+5	99	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	100	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	428846	0	73281	0	0	473705	28422	--	--	--	--	--	--	--
+5	101	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	391101	0	862811	0	0	1253912	0	--	--	--	--	--	--	--
+5	102	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	103	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	24707	98828	305313	0	0	428848	0	--	--	--	--	--	--	--
+6	105	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	106	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+6	107	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	NO	42620	0	94024	0	0	136644	0	--	--	--	--	--	--	--
+6	108	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	392850	0	38977	0	0	407384	24443	--	--	--	--	--	--	--
+6	109	Attack	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	NO	233770	0	13366	0	0	233147	13989	--	--	--	--	--	--	--
+6	110	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+6	111	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	NO	45347	0	100040	0	0	145387	0	--	--	--	--	--	--	--
+6	112	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	344667	0	34197	0	0	357419	21445	--	--	--	--	--	--	--
+6	113	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	114	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+6	115	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	119599	0	263848	0	0	383447	0	--	--	--	--	--	--	--
+6	116	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	498433	0	54873	0	0	521987	31319	--	--	--	--	--	--	--
+6	117	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	475249	0	52320	0	0	497707	29862	--	--	--	--	--	--	--
+6	118	Charging Weapons	noBuenoman	Continuum	BORTAS	YES	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	119	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+6	120	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	121	Charging Weapons	Central Command Station	--	Central Command Station	NO	Central Command Station	--	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	123	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	124	Officer Ability	noBuenoman	Continuum	BORTAS	YES	--	--	BORTAS	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+7	125	Attack	Central Command Station	--	Central Command Station	NO	noBuenoman	Continuum	BORTAS	YES	YES	137147	0	302560	0	0	439707	0	--	--	--	--	--	--	--
+7	126	Combatant Destroyed	noBuenoman	Continuum	BORTAS	NO	Central Command Station	--	BORTAS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+7	127	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	417752	0	25404	0	0	418072	25084	--	--	--	--	--	--	--
+7	128	Attack	Central Command Station	--	Central Command Station	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	23539	94156	290880	0	0	408575	0	--	--	--	--	--	--	--
+7	129	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Central Command Station	--	Central Command Station	NO	NO	394396	0	23984	0	0	394698	23682	--	--	--	--	--	--	--
+7	130	Combatant Destroyed	Central Command Station	--	Central Command Station	YES	SubspaceEddie	Continuum	Central Command Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

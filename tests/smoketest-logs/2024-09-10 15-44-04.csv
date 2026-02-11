@@ -1,0 +1,58 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	34	VICTORY	USS ENTERPRISE	25	3606976	0	Christopher Pike	Marlena Moreau	T'Laan	2022965	2015991	2673712	2645825	Adelphi	9/10/2024 3:44:04 PM
+Swarm Cluster	32	DEFEAT	SWARM CLUSTER	32	1417378	0	Swarm Cluster	--	--	1878240	0	0	0	Adelphi	9/10/2024 3:44:04 PM
+
+Reward Name	Count
+Frequency Modulators	492
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	708562	592840	2305574	Optimized Crew Interface	Teaching Moments	Advanced Training	No Fear	Objective Defense	2.69	543454	7571	8654	97687	0.12	1.93	3	4654	109842	4072	2.69	2615249	1995899	118	56	13.15	69482	0	1	NO	NO
+Enemy Fleet 1	179193	299065	939120	ship_ability_name_{0}	--	--	--	--	0	99581	29700	5775	4331	0.1	1.5	0	11550	8663	39600	0	0	1878240	23	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Fear	Marlena Moreau	--	--	--
+1	3	Officer Ability	XanOfHanoi	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Objective Defense	T'Laan	--	--	--
+1	4	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	710	2840	7582	0	0	11132	0	--	--	--	--	--	--	--
+1	5	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	111843	0	47800	0	0	154244	5399	--	--	--	--	--	--	--
+1	6	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	YES	962	3847	10271	0	0	15080	0	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	109653	0	46864	0	0	151224	5293	--	--	--	--	--	--	--
+1	8	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	682	2727	7280	0	0	10689	0	--	--	--	--	--	--	--
+1	9	Charging Weapons	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	10	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	9.09
+2	12	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	13	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	115754	0	49472	0	0	159639	5587	--	--	--	--	--	--	--
+2	14	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	15	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	115918	0	49542	0	0	159865	5595	--	--	--	--	--	--	--
+2	16	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	17	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	157965	0	59270	0	0	209889	7346	--	--	--	--	--	--	--
+2	18	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	155603	0	58384	0	0	206751	7236	--	--	--	--	--	--	--
+2	19	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	18.18
+3	21	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	YES	1098	4390	11721	0	0	17209	0	--	--	--	--	--	--	--
+3	22	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	123869	0	52940	0	0	170830	5979	--	--	--	--	--	--	--
+3	23	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	722	2886	7705	0	0	11313	0	--	--	--	--	--	--	--
+3	24	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	118023	0	50441	0	0	162767	5697	--	--	--	--	--	--	--
+3	25	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	768	3070	8197	0	0	12035	0	--	--	--	--	--	--	--
+3	26	Charging Weapons	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	27	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	27.27
+4	29	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	30	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	110528	0	47238	0	0	152431	5335	--	--	--	--	--	--	--
+4	31	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	32	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	112926	0	48263	0	0	155738	5451	--	--	--	--	--	--	--
+4	33	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	34	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	147047	0	55174	0	0	195383	6838	--	--	--	--	--	--	--
+4	35	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	146476	0	54960	0	0	194624	6812	--	--	--	--	--	--	--
+4	36	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	36.36
+5	38	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	673	2692	7187	0	0	10552	0	--	--	--	--	--	--	--
+5	39	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	124961	0	53407	0	0	172336	6032	--	--	--	--	--	--	--
+5	40	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	706	2825	7542	0	0	11073	0	--	--	--	--	--	--	--
+5	41	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	104443	0	44638	0	0	144040	5041	--	--	--	--	--	--	--
+5	42	Attack	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	USS ENTERPRISE	NO	NO	653	2610	6969	0	0	10232	0	--	--	--	--	--	--	--
+5	43	Charging Weapons	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	44	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	45.45
+6	46	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	47	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	NO	115401	0	49321	0	0	159152	5570	--	--	--	--	--	--	--
+6	48	Charging Weapons	Swarm Cluster	--	SWARM CLUSTER	NO	Swarm Cluster	--	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	49	Attack	XanOfHanoi	Continuum	USS ENTERPRISE	NO	Swarm Cluster	--	SWARM CLUSTER	NO	YES	210109	0	89798	0	0	289765	10142	--	--	--	--	--	--	--
+6	50	Combatant Destroyed	Swarm Cluster	--	SWARM CLUSTER	NO	XanOfHanoi	Continuum	SWARM CLUSTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,430 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Krenim Weapons Ship	44	DEFEAT	Static Krenim Weapons Ship	44	751560512	0	Krenim Captain	--	--	212520000	0	212520000	0	Zephyra	2/15/2025 7:54:03 PM
+
+Reward Name	Count
+Encrypted Intelligence	2290249
+Static Temporal Wreckage	165
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	6304539	6234800	33365762	Deep Vengeance	Safe Cracker	No Locked Doors	The Looking Glass	See the Flaws	4.5	5467620	1035308	105488	81145	0.12	2.4	4.5	108058	47809	1091093	4.5	25763796	40967726	151	210	46.64	410670	0	1	NO	NO
+Player Fleet 2	3889905	25644780	21457446	Omega-13	Teaching Moments	Advanced Training	Never Surrender	Savage Tenacity	5	3415396	58703	602292	41404	0.12	2.4	5	1064486	3275986	788484	5	18054248	24860644	188	220	82.68	3425760	0	8	NO	NO
+Enemy Fleet 1	7740521	531300000	212520000	ship_ability_name_{0}	--	--	--	--	0	1450601	1048320	1048320	1048320	0.1	1.5	0	35420000	35420000	35420000	0	212520000	212520000	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.4	Teaching Moments	Christopher Pike	--	--	--
+1	3	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+1	4	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	5	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	31826	127305	130241	105136	0	197254	197254	--	--	--	--	--	--	--
+1	6	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33417	133669	136752	110393	0	207115	207116	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	407003	1628011	2970679	1288650	804539	4521581	2577301	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	430232	1720928	3140226	1362198	850457	4779644	2724397	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	387638	1550552	2829336	1227337	766260	4306448	2454675	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	430966	1723863	3145582	1364522	851907	4787796	2729044	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	128733	514931	962601	395589	254471	1465146	791179	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	152710	610842	1141895	469272	301869	1738044	938544	--	--	--	--	--	--	--
+1	13	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33715	134860	137971	111377	0	208961	208962	--	--	--	--	--	--	--
+1	14	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32858	131433	134465	108547	0	203651	203652	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	390440	1561759	2849788	1236209	771798	4337576	2472418	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	359330	1437318	2622717	1137708	710301	3991958	2275416	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	364007	1456030	2656859	1152518	719548	4043925	2305037	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	365077	1460309	2664668	1155906	721663	4055811	2311812	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	221590	886361	1656944	680935	438026	2521985	1361871	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	244958	979830	1831675	752743	484217	2787937	1505486	--	--	--	--	--	--	--
+1	21	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+1	22	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	31293	125171	128058	103374	0	193948	193948	--	--	--	--	--	--	--
+1	23	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	31853	127413	130352	105226	0	197422	197422	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	363535	1454138	2653408	1151022	718614	4038673	2302044	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	344689	1378758	2515859	1091355	681361	3829313	2182709	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	834440	3337759	6090505	2641999	1649471	9270175	5283999	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	346073	1384291	2525956	1095734	684096	3844682	2191468	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	364275	1457100	2658813	1153367	720077	4046899	2306733	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	354708	1418831	2588982	1123074	701165	3940611	2246149	--	--	--	--	--	--	--
+1	30	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	31	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+1	32	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32917	131668	134706	108741	0	204016	204016	--	--	--	--	--	--	--
+1	33	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33483	133931	137021	110610	0	207522	207523	--	--	--	--	--	--	--
+1	34	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	36	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	37	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	38	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	39	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	158275	633100	1128285	515199	312868	1717329	1030398	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	145725	582902	1038824	474348	288061	1581163	948697	--	--	--	--	--	--	--
+2	41	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	42	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	43	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	258774	1035097	1844709	842333	511529	2807776	1684666	--	--	--	--	--	--	--
+2	44	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	269380	1077522	1920317	876857	532495	2922857	1753714	--	--	--	--	--	--	--
+2	45	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32487	129947	119997	115920	0	199175	199176	--	--	--	--	--	--	--
+2	46	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34471	137885	127327	123001	0	211342	211342	--	--	--	--	--	--	--
+2	47	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	380221	1520882	2648670	1269910	751597	4031460	2539820	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	916377	3665507	6383608	3060634	1811440	9716298	6121268	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	385746	1542982	2687156	1288362	762519	4090040	2576725	--	--	--	--	--	--	--
+2	50	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	381909	1527638	2660433	1275550	754935	4049365	2551100	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	359147	1436590	2501870	1199526	709941	3808021	2399053	--	--	--	--	--	--	--
+2	52	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	361574	1446295	2518772	1207630	714737	3833747	2415261	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	221110	884439	1576214	719732	437076	2399107	1439464	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	230157	920629	1640709	749183	454961	2497274	1498365	--	--	--	--	--	--	--
+2	55	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	56	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+2	57	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32660	130639	120637	116539	0	200237	200238	--	--	--	--	--	--	--
+2	58	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	55665	222659	205611	198625	0	341280	341280	--	--	--	--	--	--	--
+2	59	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	154513	618052	1101468	502953	305432	1676511	1005907	--	--	--	--	--	--	--
+2	60	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	143573	574293	1023482	467343	283807	1557811	934687	--	--	--	--	--	--	--
+3	62	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	63	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	64	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	65	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34618	138472	141666	114359	0	214557	214558	--	--	--	--	--	--	--
+3	66	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	YES	52730	210918	215784	174190	0	326811	326811	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	416784	1667134	3042068	1319618	823873	4630240	2639237	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	395547	1582187	2887063	1252379	781893	4394311	2504758	--	--	--	--	--	--	--
+3	69	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	309292	1237166	2312733	950438	611389	3520142	1900876	--	--	--	--	--	--	--
+3	70	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	145837	583349	1090499	448150	288282	1659816	896301	--	--	--	--	--	--	--
+3	71	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+3	72	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32737	130947	119123	116075	0	199441	199441	--	--	--	--	--	--	--
+3	73	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33169	132676	120695	117607	0	202073	202074	--	--	--	--	--	--	--
+3	74	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	387896	1551583	2831218	1228153	766769	4309312	2456307	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	327739	1310956	2392140	1037686	647855	3641004	2075372	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	212814	851258	1591324	653968	420679	2422106	1307937	--	--	--	--	--	--	--
+3	77	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	510292	2041169	3815718	1568103	1008715	5807790	3136207	--	--	--	--	--	--	--
+3	78	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	79	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	80	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35726	142903	129999	126673	0	217650	217651	--	--	--	--	--	--	--
+3	81	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35842	143368	130422	127085	0	218358	218359	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	352839	1411354	2575339	1117156	697470	3919846	2234312	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	869288	3477150	6344857	2752335	1718356	9657316	5504670	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	355581	1422324	2595356	1125840	702891	3950313	2251679	--	--	--	--	--	--	--
+3	85	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	86	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	87	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+3	88	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+3	89	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	37003	148014	134648	131203	0	225434	225434	--	--	--	--	--	--	--
+3	90	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34243	136970	124602	121414	0	208614	208615	--	--	--	--	--	--	--
+3	91	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	93	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	94	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	95	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	96	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	97	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	98	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	323103	1292413	2303288	1051729	638691	3505765	2103459	--	--	--	--	--	--	--
+4	99	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	376020	1504081	2680514	1223979	743294	4079930	2447958	--	--	--	--	--	--	--
+4	100	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	101	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	102	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	607801	2431203	4332797	1978446	1201465	6594820	3956892	--	--	--	--	--	--	--
+4	103	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	243481	973926	1735692	792553	481299	2641844	1585107	--	--	--	--	--	--	--
+4	104	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32925	131699	121615	117484	0	201861	201862	--	--	--	--	--	--	--
+4	105	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36958	147832	136513	131875	0	226589	226589	--	--	--	--	--	--	--
+4	106	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	356417	1425667	2482849	1190407	704544	3779070	2380814	--	--	--	--	--	--	--
+4	107	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	361263	1445051	2516607	1206592	714123	3830452	2413184	--	--	--	--	--	--	--
+4	108	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	366749	1466996	2554824	1224915	724967	3888620	2449831	--	--	--	--	--	--	--
+4	109	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	524747	2098989	3740737	1708099	1037289	5693663	3416198	--	--	--	--	--	--	--
+4	110	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	233855	935422	1667071	761220	462271	2537399	1522440	--	--	--	--	--	--	--
+4	111	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	112	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+4	113	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+4	114	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35497	141988	131116	126661	0	217631	217631	--	--	--	--	--	--	--
+4	115	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31570	126278	116609	112647	0	193552	193552	--	--	--	--	--	--	--
+4	116	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	364156	1456622	2595936	1185359	719841	3951196	2370718	--	--	--	--	--	--	--
+4	117	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	323815	1295260	2308362	1054046	640098	3513488	2108093	--	--	--	--	--	--	--
+5	119	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	120	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	121	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	122	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35008	140034	129311	124918	0	214635	214636	--	--	--	--	--	--	--
+5	123	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31910	127639	117866	113862	0	195638	195639	--	--	--	--	--	--	--
+5	124	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1062523	4250091	7401680	3548751	2100332	11265875	7097502	--	--	--	--	--	--	--
+5	125	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	406906	1627625	2834565	1359038	804348	4314406	2718076	--	--	--	--	--	--	--
+5	126	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	369026	1476102	2630652	1201211	729468	4004037	2402422	--	--	--	--	--	--	--
+5	127	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	383260	1533038	2732121	1247544	757605	4158480	2495088	--	--	--	--	--	--	--
+5	128	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	129	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	130	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34439	137754	127207	122885	0	211142	211143	--	--	--	--	--	--	--
+5	131	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33484	133936	123681	119479	0	205290	205290	--	--	--	--	--	--	--
+5	132	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	961813	3847254	6700126	3212389	1901256	10198060	6424778	--	--	--	--	--	--	--
+5	133	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	362089	1448357	2522363	1209352	715756	3839213	2418704	--	--	--	--	--	--	--
+5	134	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	267654	1070618	1908012	871238	529083	2904128	1742477	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	564241	2256966	4022276	1836655	1115359	6122186	3673311	--	--	--	--	--	--	--
+5	136	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	137	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	138	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+5	139	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	37043	148170	136825	132177	0	227107	227108	--	--	--	--	--	--	--
+5	140	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32989	131957	121853	117713	0	202256	202256	--	--	--	--	--	--	--
+5	141	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	382069	1528275	2661545	1276083	755251	4051057	2552166	--	--	--	--	--	--	--
+5	142	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	356331	1425322	2482248	1190119	704373	3778155	2380238	--	--	--	--	--	--	--
+5	143	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	365789	1463157	2548138	1221710	723070	3878444	2443420	--	--	--	--	--	--	--
+5	144	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	145	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	146	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+5	147	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+5	148	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	31059	124237	128986	103287	0	193784	193785	--	--	--	--	--	--	--
+5	149	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34873	139492	144825	115971	0	217580	217581	--	--	--	--	--	--	--
+5	150	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	152	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	153	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	154	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	155	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	328536	1314144	2342016	1069413	649430	3564712	2138827	--	--	--	--	--	--	--
+6	156	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	356410	1425638	2540718	1160145	704529	3867150	2320290	--	--	--	--	--	--	--
+6	157	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	158	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	159	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	537674	2150698	3832890	1750178	1062843	5833927	3500356	--	--	--	--	--	--	--
+6	160	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	646671	2586684	4609888	2104971	1278301	7016572	4209943	--	--	--	--	--	--	--
+6	161	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34014	136055	125638	121370	0	208538	208539	--	--	--	--	--	--	--
+6	162	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32986	131944	121841	117701	0	202236	202236	--	--	--	--	--	--	--
+6	163	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	388241	1552965	2704542	1296698	767452	4116502	2593396	--	--	--	--	--	--	--
+6	164	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	391476	1565904	2727076	1307502	773846	4150800	2615004	--	--	--	--	--	--	--
+6	165	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	364715	1458861	2540655	1218122	720947	3867055	2436245	--	--	--	--	--	--	--
+6	166	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	629402	2517607	4486781	2048758	1244164	6829195	4097517	--	--	--	--	--	--	--
+6	167	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	234214	936855	1669628	762387	462980	2541290	1524774	--	--	--	--	--	--	--
+6	168	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	169	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+6	170	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+6	171	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33020	132080	121967	117824	0	202445	202446	--	--	--	--	--	--	--
+6	172	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35869	143478	132492	127991	0	219915	219915	--	--	--	--	--	--	--
+6	173	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	320690	1282760	2286085	1043874	633921	3479581	2087749	--	--	--	--	--	--	--
+6	174	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	333603	1334410	2378134	1085906	659446	3619687	2171812	--	--	--	--	--	--	--
+7	176	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	177	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	178	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	179	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36830	147322	136042	131420	0	225807	225807	--	--	--	--	--	--	--
+7	180	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31186	124744	115193	111279	0	191201	191201	--	--	--	--	--	--	--
+7	181	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	419438	1677751	2921861	1400892	829120	4447277	2801785	--	--	--	--	--	--	--
+7	182	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	457300	1829199	3185613	1527348	903963	4848726	3054697	--	--	--	--	--	--	--
+7	183	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	332623	1330494	2371154	1082718	657510	3609062	2165437	--	--	--	--	--	--	--
+7	184	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	373541	1494164	2662841	1215909	738393	4053030	2431818	--	--	--	--	--	--	--
+7	185	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	186	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	187	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33939	135755	125361	121102	0	208078	208079	--	--	--	--	--	--	--
+7	188	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	50694	202775	187249	180887	0	310802	310803	--	--	--	--	--	--	--
+7	189	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	368180	1472721	2564794	1229696	727797	3903796	2459392	--	--	--	--	--	--	--
+7	190	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	401283	1605130	2795390	1340255	793232	4254779	2680511	--	--	--	--	--	--	--
+7	191	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	636290	2545162	4535889	2071182	1257781	6903940	4142364	--	--	--	--	--	--	--
+7	192	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	650672	2602686	4638406	2117993	1286209	7059979	4235987	--	--	--	--	--	--	--
+7	193	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	194	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	195	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+7	196	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31717	126870	117155	113175	0	194458	194459	--	--	--	--	--	--	--
+7	197	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31508	126033	116383	112429	0	193176	193177	--	--	--	--	--	--	--
+7	198	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	359626	1438506	2505208	1201127	710888	3813101	2402254	--	--	--	--	--	--	--
+7	199	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	359441	1437766	2503918	1200508	710522	3811138	2401017	--	--	--	--	--	--	--
+7	200	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	376854	1507418	2625219	1258666	744943	3995767	2517333	--	--	--	--	--	--	--
+7	201	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	202	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	203	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+7	204	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+7	205	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	31333	125333	115736	111804	0	192103	192103	--	--	--	--	--	--	--
+7	206	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35434	141737	130884	126437	0	217246	217246	--	--	--	--	--	--	--
+7	207	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	209	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	210	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+8	211	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+8	212	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	213	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	214	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	362041	1448165	2580863	1178476	715662	3928254	2356953	--	--	--	--	--	--	--
+8	215	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	384256	1537023	2739223	1250786	759574	4169289	2501573	--	--	--	--	--	--	--
+8	216	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	217	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	218	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	647521	2590083	4615946	2107738	1279981	7025793	4215476	--	--	--	--	--	--	--
+8	219	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	572742	2290969	4082876	1864326	1132163	6214423	3728653	--	--	--	--	--	--	--
+8	220	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32606	130425	135411	108432	0	203437	203437	--	--	--	--	--	--	--
+8	221	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34592	138366	143656	115034	0	215824	215824	--	--	--	--	--	--	--
+8	222	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	386841	1547366	2694790	1292022	764685	4101659	2584045	--	--	--	--	--	--	--
+8	223	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	375095	1500382	2612967	1252793	741466	3977118	2505585	--	--	--	--	--	--	--
+8	224	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	856694	3426777	5967850	2861298	1693462	9083485	5722596	--	--	--	--	--	--	--
+8	225	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	592606	2370426	4224480	1928986	1171429	6429954	3857973	--	--	--	--	--	--	--
+8	226	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	588275	2353100	4193603	1914887	1162867	6382957	3829775	--	--	--	--	--	--	--
+8	227	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34716	138863	144172	115447	0	216599	216599	--	--	--	--	--	--	--
+8	228	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	35779	143116	148588	118984	0	223233	223234	--	--	--	--	--	--	--
+8	229	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	372145	1488579	2652888	1211364	735634	4037881	2422729	--	--	--	--	--	--	--
+8	230	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	361041	1444164	2573733	1175220	713684	3917401	2350441	--	--	--	--	--	--	--
+9	232	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+9	233	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35188	140753	128043	124766	0	214375	214375	--	--	--	--	--	--	--
+9	234	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36540	146159	132961	129558	0	222609	222609	--	--	--	--	--	--	--
+9	235	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	415707	1662828	3034211	1316210	821745	4618281	2632420	--	--	--	--	--	--	--
+9	236	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	405926	1623705	2962821	1285242	802411	4509621	2570484	--	--	--	--	--	--	--
+9	237	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	350844	1403376	2623443	1078128	693528	3993064	2156255	--	--	--	--	--	--	--
+9	238	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	335068	1340270	2505473	1029646	662341	3813505	2059293	--	--	--	--	--	--	--
+9	239	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	240	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+9	241	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+9	242	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	36377	145508	148864	120170	0	225459	225460	--	--	--	--	--	--	--
+9	243	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	36286	145142	148491	119869	0	224894	224894	--	--	--	--	--	--	--
+9	244	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	371800	1487202	2713740	1177193	734953	4130502	2354386	--	--	--	--	--	--	--
+9	245	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	798060	3192239	5824972	2526814	1577558	8866015	5053628	--	--	--	--	--	--	--
+9	246	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	560357	2241427	4190078	1721949	1107680	6377592	3443899	--	--	--	--	--	--	--
+9	247	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	608367	2433467	4549074	1869482	1202584	6924009	3738965	--	--	--	--	--	--	--
+9	248	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32891	131566	119685	116622	0	200382	200382	--	--	--	--	--	--	--
+9	249	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33130	132519	120552	117467	0	201834	201834	--	--	--	--	--	--	--
+9	250	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	366564	1466257	2675520	1160614	724602	4072329	2321228	--	--	--	--	--	--	--
+9	251	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	842906	3371622	6152296	2668804	1666206	9364225	5337609	--	--	--	--	--	--	--
+9	252	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	336857	1347426	2458688	1066554	665878	3742295	2133108	--	--	--	--	--	--	--
+9	253	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	254	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	255	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+9	256	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+9	257	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32633	130531	133542	107801	0	202253	202254	--	--	--	--	--	--	--
+9	258	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	35439	141754	145024	117070	0	219643	219644	--	--	--	--	--	--	--
+9	259	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	261	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+10	262	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	263	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	264	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	320844	1283375	2287181	1044375	634225	3481250	2088750	--	--	--	--	--	--	--
+10	265	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	373612	1494447	2663346	1216139	738534	4053799	2432279	--	--	--	--	--	--	--
+10	266	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	267	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	268	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	544211	2176846	3879491	1771457	1075765	5904856	3542914	--	--	--	--	--	--	--
+10	269	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	632204	2528817	4506759	2057880	1249704	6859603	4115761	--	--	--	--	--	--	--
+10	270	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34515	138060	127489	123158	0	211611	211611	--	--	--	--	--	--	--
+10	271	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	52490	209959	193883	187296	0	321814	321814	--	--	--	--	--	--	--
+10	272	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	370547	1482187	2581280	1237600	732475	3928889	2475200	--	--	--	--	--	--	--
+10	273	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	375214	1500854	2613789	1253186	741700	3978370	2506373	--	--	--	--	--	--	--
+10	274	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	356357	1425426	2482430	1190206	704425	3778432	2380412	--	--	--	--	--	--	--
+10	275	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	590067	2360266	4206375	1920719	1166409	6402397	3841439	--	--	--	--	--	--	--
+10	276	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	562399	2249598	4009146	1830661	1111718	6102201	3661321	--	--	--	--	--	--	--
+10	277	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	278	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+10	279	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+10	280	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33178	132711	137785	110333	0	207003	207004	--	--	--	--	--	--	--
+10	281	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	YES	50965	203859	211653	169483	0	317980	317980	--	--	--	--	--	--	--
+10	282	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	347417	1389667	2476612	1130873	686753	3769576	2261746	--	--	--	--	--	--	--
+10	283	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	320605	1282422	2285481	1043598	633753	3478662	2087197	--	--	--	--	--	--	--
+11	285	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+11	286	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	36517	146066	151651	121437	0	227835	227836	--	--	--	--	--	--	--
+11	287	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	35573	142293	147733	118299	0	221949	221949	--	--	--	--	--	--	--
+11	288	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	413023	1652093	2877177	1379469	816440	4379265	2758937	--	--	--	--	--	--	--
+11	289	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	445897	1783590	3106183	1489266	881424	4727828	2978532	--	--	--	--	--	--	--
+11	290	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	349722	1398888	2493043	1138376	691309	3794586	2276752	--	--	--	--	--	--	--
+11	291	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	386727	1546910	2756842	1258832	764460	4196107	2517664	--	--	--	--	--	--	--
+11	292	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33448	133794	138909	111233	0	208692	208692	--	--	--	--	--	--	--
+11	293	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34743	138972	144285	115538	0	216769	216769	--	--	--	--	--	--	--
+11	294	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	402162	1608650	2801519	1343194	794971	4264108	2686388	--	--	--	--	--	--	--
+11	295	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	392945	1571778	2737305	1312406	776749	4166370	2624813	--	--	--	--	--	--	--
+11	296	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	542222	2168888	3865309	1764981	1071832	5883270	3529962	--	--	--	--	--	--	--
+11	297	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	622410	2489640	4436940	2026000	1230343	6753333	4052000	--	--	--	--	--	--	--
+11	298	Shield Depleted	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	YES	XanOfHanoi	F around Find out	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+11	299	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+11	300	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	33879	135515	125139	120888	0	207710	207711	--	--	--	--	--	--	--
+11	301	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34869	139477	128797	124421	0	213782	213782	--	--	--	--	--	--	--
+11	302	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1899473	0	2646398	1268821	750953	4028003	2537642	--	--	--	--	--	--	--
+11	303	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1833001	0	2553788	1224419	724674	3887044	2448838	--	--	--	--	--	--	--
+11	304	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1927056	0	2684827	1287246	761858	4086495	2574492	--	--	--	--	--	--	--
+11	305	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	306	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	307	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+11	308	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33459	133836	138953	111268	0	208758	208758	--	--	--	--	--	--	--
+11	309	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	YES	51263	205054	212893	170476	0	319843	319843	--	--	--	--	--	--	--
+11	310	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	312	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+12	313	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	314	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	315	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1970018	0	2808711	1282516	778843	4275055	2565033	--	--	--	--	--	--	--
+12	316	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1955094	0	2787434	1272800	772942	4242669	2545601	--	--	--	--	--	--	--
+12	317	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	318	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	319	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3044219	0	4340232	1981841	1203526	6606136	3963682	--	--	--	--	--	--	--
+12	320	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3101690	0	4422170	2019255	1226248	6730852	4038511	--	--	--	--	--	--	--
+12	321	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34037	136147	125723	121451	0	208679	208679	--	--	--	--	--	--	--
+12	322	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35455	141818	130960	126511	0	217372	217372	--	--	--	--	--	--	--
+12	323	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1832684	0	2553347	1224208	724548	3886372	2448415	--	--	--	--	--	--	--
+12	324	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1824745	0	2542285	1218903	721409	3869535	2437807	--	--	--	--	--	--	--
+12	325	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1842784	0	2567417	1230953	728541	3907788	2461907	--	--	--	--	--	--	--
+12	326	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2991082	0	4264473	1947247	1182519	6490826	3894495	--	--	--	--	--	--	--
+12	327	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2718713	0	3876148	1769930	1074838	5899768	3539861	--	--	--	--	--	--	--
+12	328	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	329	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+12	330	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+12	331	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36132	144528	133462	128928	0	221525	221525	--	--	--	--	--	--	--
+12	332	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	32627	130506	120514	116419	0	200033	200033	--	--	--	--	--	--	--
+12	333	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1732894	0	2470637	1128144	685096	3760482	2256289	--	--	--	--	--	--	--
+12	334	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1849055	0	2636252	1203768	731020	4012559	2407536	--	--	--	--	--	--	--
+13	336	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	337	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+13	338	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+13	339	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+13	340	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36962	147847	136527	131888	0	226612	226612	--	--	--	--	--	--	--
+13	341	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36618	146470	135255	130660	0	224501	224502	--	--	--	--	--	--	--
+13	342	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	2131304	0	2969391	1423680	842607	4519621	2847361	--	--	--	--	--	--	--
+13	343	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1985675	0	2766497	1326402	785033	4210802	2652805	--	--	--	--	--	--	--
+13	344	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1954832	0	2723526	1305800	772839	4145397	2611600	--	--	--	--	--	--	--
+13	345	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	2011608	0	2802628	1343726	795285	4265795	2687452	--	--	--	--	--	--	--
+13	346	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1675443	0	2388727	1090743	662383	3635810	2181486	--	--	--	--	--	--	--
+13	347	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1848233	0	2635080	1203233	730695	4010775	2406466	--	--	--	--	--	--	--
+13	348	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	349	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+13	350	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+13	351	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34612	138449	143742	115103	0	215953	215953	--	--	--	--	--	--	--
+13	352	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34439	137758	143024	114528	0	214874	214875	--	--	--	--	--	--	--
+13	353	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1919249	0	2673951	1282031	758771	4069940	2564062	--	--	--	--	--	--	--
+13	354	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1849390	0	2576621	1235366	731153	3921798	2470732	--	--	--	--	--	--	--
+13	355	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1864207	0	2597265	1245264	737011	3953219	2490528	--	--	--	--	--	--	--
+13	356	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	4723122	0	6580384	3154978	1867278	10015805	6309957	--	--	--	--	--	--	--
+13	357	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2659045	0	3791078	1731085	1051249	5770286	3462171	--	--	--	--	--	--	--
+13	358	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3203874	0	4567855	2085778	1266645	6952595	4171557	--	--	--	--	--	--	--
+13	359	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+13	360	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	51051	204204	188569	182162	0	312993	312993	--	--	--	--	--	--	--
+13	361	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	34754	139018	128373	124012	0	213078	213079	--	--	--	--	--	--	--
+13	362	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1940981	0	2704227	1296547	767363	4116023	2593095	--	--	--	--	--	--	--
+13	363	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	4636351	0	6459492	3097016	1832973	9831799	6194033	--	--	--	--	--	--	--
+13	364	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1851503	0	2579565	1236777	731988	3926278	2473555	--	--	--	--	--	--	--
+13	365	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1949534	0	2716144	1302261	770744	4134161	2604522	--	--	--	--	--	--	--
+13	366	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1904617	0	2653564	1272256	752986	4038910	2544513	--	--	--	--	--	--	--
+13	367	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1892711	0	2636978	1264305	748280	4013665	2528609	--	--	--	--	--	--	--
+13	368	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	369	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	370	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+13	371	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+13	372	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	YES	54854	219414	227804	182416	0	342244	342244	--	--	--	--	--	--	--
+13	373	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34215	136859	142092	113782	0	213474	213474	--	--	--	--	--	--	--
+13	374	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	376	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+14	377	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	378	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	379	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1893833	0	2700093	1232919	748723	4109730	2465838	--	--	--	--	--	--	--
+14	380	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1716953	0	2447909	1117766	678794	3725889	2235533	--	--	--	--	--	--	--
+14	381	Charging Weapons	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	382	Charging Weapons	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	383	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3190533	0	4548836	2077094	1261371	6923646	4154188	--	--	--	--	--	--	--
+14	384	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3122191	0	4451399	2032603	1234353	6775341	4065205	--	--	--	--	--	--	--
+14	385	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36314	145258	134135	129578	0	222642	222643	--	--	--	--	--	--	--
+14	386	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	35630	142520	131607	127136	0	218446	218447	--	--	--	--	--	--	--
+14	387	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1905562	0	2654881	1272888	753360	4040914	2545777	--	--	--	--	--	--	--
+14	388	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1908329	0	2658736	1274736	754454	4046782	2549473	--	--	--	--	--	--	--
+14	389	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1820339	0	2536147	1215961	719668	3860193	2431922	--	--	--	--	--	--	--
+14	390	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1958633	0	2728822	1308339	774342	4153458	2616678	--	--	--	--	--	--	--
+14	391	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1805259	0	2515136	1205887	713705	3828213	2411774	--	--	--	--	--	--	--
+14	392	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1835756	0	2557626	1226259	725762	3892885	2452518	--	--	--	--	--	--	--
+14	393	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2696642	0	3844681	1755562	1066112	5851873	3511124	--	--	--	--	--	--	--
+14	394	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2665864	0	3800799	1735524	1053944	5785082	3471049	--	--	--	--	--	--	--
+14	395	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+14	396	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+14	397	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+14	398	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	NO	36146	144585	133514	128978	0	221611	221612	--	--	--	--	--	--	--
+14	399	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	YES	53487	213950	197568	190855	0	327930	327930	--	--	--	--	--	--	--
+14	400	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1928526	0	2749556	1255505	762439	4185016	2511010	--	--	--	--	--	--	--
+14	401	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1799794	0	2566019	1171699	711545	3905660	2343397	--	--	--	--	--	--	--
+15	403	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+15	404	Officer Ability	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+15	405	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+15	406	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32033	128132	133030	106525	0	199860	199860	--	--	--	--	--	--	--
+15	407	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	32479	129915	134882	108009	0	202642	202643	--	--	--	--	--	--	--
+15	408	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1992831	0	2776467	1331182	787862	4225977	2662365	--	--	--	--	--	--	--
+15	409	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	2187618	0	3047849	1461297	864870	4639039	2922595	--	--	--	--	--	--	--
+15	410	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1792292	0	2555322	1166814	708579	3889379	2333628	--	--	--	--	--	--	--
+15	411	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	1760465	0	2509945	1146093	695996	3820312	2292187	--	--	--	--	--	--	--
+15	412	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+15	413	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34057	136230	141438	113258	0	212491	212492	--	--	--	--	--	--	--
+15	414	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33734	134937	140096	112184	0	210475	210476	--	--	--	--	--	--	--
+15	415	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	2008339	0	2798073	1341541	793993	4258863	2683083	--	--	--	--	--	--	--
+15	416	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	4855897	0	6765371	3243670	1919770	10297367	6487341	--	--	--	--	--	--	--
+15	417	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	2796130	0	3986524	1820330	1105445	6067768	3640661	--	--	--	--	--	--	--
+15	418	Attack	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	YES	3031771	0	4322483	1973736	1198605	6579122	3947473	--	--	--	--	--	--	--
+15	419	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+15	420	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33952	135809	141001	112909	0	211835	211836	--	--	--	--	--	--	--
+15	421	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	33272	133087	138175	110645	0	207589	207590	--	--	--	--	--	--	--
+15	422	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1830726	0	2550618	1222899	723774	3882219	2445798	--	--	--	--	--	--	--
+15	423	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1958171	0	2728178	1308030	774159	4152477	2616061	--	--	--	--	--	--	--
+15	424	Attack	XanOfHanoi	F around Find out	PILUM	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	NO	1828095	0	2546952	1221141	722734	3876639	2442283	--	--	--	--	--	--	--
+15	425	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	426	Officer Ability	XanOfHanoi	F around Find out	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+15	427	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	NO	34869	139477	144809	115958	0	217556	217557	--	--	--	--	--	--	--
+15	428	Attack	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	XanOfHanoi	F around Find out	PILUM	YES	YES	51531	206125	214005	171367	0	321514	321514	--	--	--	--	--	--	--
+15	429	Charging Weapons	XanOfHanoi	F around Find out	NSEA PROTECTOR	YES	Static Krenim Weapons Ship	--	Static Krenim Weapons Ship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+

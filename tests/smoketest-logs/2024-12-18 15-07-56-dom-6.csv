@@ -1,0 +1,622 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Jem'Hadar Flagship	40	DEFEAT	Jem'Hadar Flagship	40	38227392	0	Third Jem'Hadar	--	--	36318665	0	26879612	0	Alafoss	12/18/2024 3:07:56 PM
+
+Reward Name	Count
+Dominion Solo Armada Credit Uncommon	259340
+Dominion Solo Armada Edict	67
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1504210	1277705	6640690	Optimized Crew Interface	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	3	1074761	17210	19668	271474	0.12	2.2	3	9090	238497	7954	3	6677760	6603619	139	75	29.37	237800	0	1	NO	NO
+Player Fleet 2	661482	1340455	3108922	Feels Like Home	Leader	Inspirational	Illogical	Defenses are irrelevant	3	534140	7283	8325	78322	0.12	2.2	3.5	16169	237779	14143	3.5	3257798	2960046	155	165	39.16	104622	0	7.4	NO	NO
+Player Fleet 3	731279	530790	1754003	Resourceful Approach	Teaching Moments	Advanced Training	No Fear	Critical Avoidance	1.5	584452	136389	12964	9588	0.08	2	2.5	4360	3309	98489	2.5	1550936	1957070	139	65	26.92	88150	0	1	NO	NO
+Enemy Fleet 1	3455949	3172305	31599138	ship_ability_name_{0}	--	--	--	--	0	2312850	125272	146149	109612	0.1	1.5	0	205057	249981	179423	0	26879612	36318664	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	SubspaceEddie	Continuum	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	4	Officer Ability	SubspaceEddie	Continuum	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.5	Critical Avoidance	Gaila	--	--	--
+1	5	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+1	6	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	7	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+1	8	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	9	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+1	10	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	50097	200387	103393	0	0	353877	0	--	--	--	--	--	--	--
+1	11	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	34706	138826	189585	0	0	342563	20554	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	34837	139347	190298	0	0	343851	20631	--	--	--	--	--	--	--
+1	13	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5847	23386	33950	0	0	55230	7953	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	16181	64726	93963	0	0	152858	22012	--	--	--	--	--	--	--
+1	15	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	23703	94811	142739	0	0	246465	14788	--	--	--	--	--	--	--
+1	16	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	15101	60403	90938	0	0	157021	9421	--	--	--	--	--	--	--
+1	17	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	17717	70867	106691	0	0	184222	11053	--	--	--	--	--	--	--
+1	18	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	17314	69254	104263	0	0	180029	10802	--	--	--	--	--	--	--
+1	19	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	20	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	37509	150035	149235	0	0	336779	0	--	--	--	--	--	--	--
+1	21	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	34665	138660	189360	0	0	342156	20529	--	--	--	--	--	--	--
+1	22	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	30988	123953	169274	0	0	305863	18352	--	--	--	--	--	--	--
+1	23	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5953	23811	34023	0	0	55758	8029	--	--	--	--	--	--	--
+1	24	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5202	20809	29732	0	0	48726	7017	--	--	--	--	--	--	--
+1	25	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5423	21694	30997	0	0	50799	7315	--	--	--	--	--	--	--
+1	26	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6622	26487	53845	0	0	82032	4922	--	--	--	--	--	--	--
+1	27	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	28	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	40579	162317	83750	0	0	286646	0	--	--	--	--	--	--	--
+1	29	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	30	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	31	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	33.33
+1	32	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	41319	165274	507931	0	0	714524	0	--	--	--	--	--	--	--
+1	33	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	37162	148650	456839	0	0	642651	0	--	--	--	--	--	--	--
+1	34	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	77928	311710	310048	0	0	699686	0	--	--	--	--	--	--	--
+2	36	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+2	37	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	38	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	39	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+2	40	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	YES	18732	74927	38659	0	0	132318	0	--	--	--	--	--	--	--
+2	41	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	36714	146854	198221	0	0	360178	21611	--	--	--	--	--	--	--
+2	42	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	93370	373481	504118	0	0	916008	54961	--	--	--	--	--	--	--
+2	43	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	32067	128270	173136	0	0	314597	18876	--	--	--	--	--	--	--
+2	44	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	15502	62006	83787	0	0	140992	20303	--	--	--	--	--	--	--
+2	45	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5871	23482	31730	0	0	53394	7689	--	--	--	--	--	--	--
+2	46	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	47	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	48	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	49805	199222	102791	0	0	351818	0	--	--	--	--	--	--	--
+2	49	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	31872	127487	172079	0	0	312677	18761	--	--	--	--	--	--	--
+2	50	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	33488	133952	180806	0	0	328534	19712	--	--	--	--	--	--	--
+2	51	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	33391	133565	180284	0	0	327585	19655	--	--	--	--	--	--	--
+2	52	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6385	25542	34088	0	0	57705	8310	--	--	--	--	--	--	--
+2	53	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6123	24490	32685	0	0	55330	7968	--	--	--	--	--	--	--
+2	54	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6353	25411	33915	0	0	57412	8267	--	--	--	--	--	--	--
+2	55	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6946	27785	56263	0	0	85843	5151	--	--	--	--	--	--	--
+2	56	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	57	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16139	64558	198402	0	0	279099	0	--	--	--	--	--	--	--
+2	58	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	47835	191342	257992	0	0	469027	28142	--	--	--	--	--	--	--
+2	59	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	120589	482355	650377	0	0	1182378	70943	--	--	--	--	--	--	--
+2	60	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	108297	433186	584081	0	0	1061853	63711	--	--	--	--	--	--	--
+2	61	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	41330	165318	222905	0	0	405239	24314	--	--	--	--	--	--	--
+2	62	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	109374	437494	589888	0	0	1072411	64345	--	--	--	--	--	--	--
+2	63	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	44795	179181	241596	0	0	439219	26353	--	--	--	--	--	--	--
+2	64	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	65	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	66.66
+2	66	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	67	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	68	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	70	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	71	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	72	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+3	73	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+3	74	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+3	75	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	48380	193522	99850	0	0	341752	0	--	--	--	--	--	--	--
+3	76	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	35392	141570	188913	0	0	345165	20710	--	--	--	--	--	--	--
+3	77	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	83308	333230	444668	0	0	812458	48748	--	--	--	--	--	--	--
+3	78	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	36037	144150	192356	0	0	351456	21087	--	--	--	--	--	--	--
+3	79	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	17448	69791	88505	0	0	153622	22122	--	--	--	--	--	--	--
+3	80	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5810	23239	29470	0	0	51153	7366	--	--	--	--	--	--	--
+3	81	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	18525	74102	105975	0	0	187360	11242	--	--	--	--	--	--	--
+3	82	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	14813	59251	84737	0	0	149812	8989	--	--	--	--	--	--	--
+3	83	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	21735	86942	124338	0	0	219825	13190	--	--	--	--	--	--	--
+3	84	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	21297	85187	121830	0	0	215391	12923	--	--	--	--	--	--	--
+3	85	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	86	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	41721	166884	86106	0	0	294711	0	--	--	--	--	--	--	--
+3	87	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	35159	140634	187665	0	0	342885	20573	--	--	--	--	--	--	--
+3	88	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	32809	131235	175123	0	0	319969	19198	--	--	--	--	--	--	--
+3	89	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	82935	331742	442682	0	0	808829	48530	--	--	--	--	--	--	--
+3	90	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5970	23878	29955	0	0	52275	7528	--	--	--	--	--	--	--
+3	91	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5624	22495	28220	0	0	49247	7092	--	--	--	--	--	--	--
+3	92	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	5623	22490	28214	0	0	49237	7090	--	--	--	--	--	--	--
+3	93	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7212	28847	57810	0	0	88556	5313	--	--	--	--	--	--	--
+3	94	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	95	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	50970	203882	105196	0	0	360048	0	--	--	--	--	--	--	--
+3	96	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	97	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	29320	117279	134722	0	0	245910	35411	--	--	--	--	--	--	--
+3	98	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	29971	119885	137715	0	0	251373	36198	--	--	--	--	--	--	--
+3	99	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	26978	107910	123960	0	0	226266	32582	--	--	--	--	--	--	--
+3	100	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	76979	307914	353712	0	0	645634	92971	--	--	--	--	--	--	--
+3	101	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	102	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	103	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	79697	318786	317086	0	0	715569	0	--	--	--	--	--	--	--
+3	104	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	106234	424938	219253	0	0	750425	0	--	--	--	--	--	--	--
+3	105	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	109280	437118	225538	0	0	771936	0	--	--	--	--	--	--	--
+3	106	Shield Depleted	SubspaceEddie	Continuum	USS DEFIANT	NO	Jem'Hadar Flagship	--	USS DEFIANT	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	108	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	109	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+4	110	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	111	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+4	112	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20373	81492	250445	0	0	352310	0	--	--	--	--	--	--	--
+4	113	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	95574	382296	503833	0	0	926135	55568	--	--	--	--	--	--	--
+4	114	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	31582	126327	166488	0	0	306035	18362	--	--	--	--	--	--	--
+4	115	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6455	25818	29617	0	0	54100	7790	--	--	--	--	--	--	--
+4	116	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6633	26534	30437	0	0	55598	8006	--	--	--	--	--	--	--
+4	117	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	118	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	119	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	196159	0	80969	0	0	277128	0	--	--	--	--	--	--	--
+4	120	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	36133	144531	190480	0	0	350136	21008	--	--	--	--	--	--	--
+4	121	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	84711	338844	446568	0	0	820871	49252	--	--	--	--	--	--	--
+4	122	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6921	27682	30796	0	0	57167	8232	--	--	--	--	--	--	--
+4	123	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6787	27147	30200	0	0	56061	8073	--	--	--	--	--	--	--
+4	124	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6705	26818	29834	0	0	55382	7975	--	--	--	--	--	--	--
+4	125	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7532	30128	58655	0	0	90863	5452	--	--	--	--	--	--	--
+4	126	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	127	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	199501	0	82348	0	0	281849	0	--	--	--	--	--	--	--
+4	128	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	41819	167275	217906	0	0	402830	24170	--	--	--	--	--	--	--
+4	129	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	45577	182310	237491	0	0	439036	26342	--	--	--	--	--	--	--
+4	130	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	44507	178027	231913	0	0	428724	25723	--	--	--	--	--	--	--
+4	131	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	48841	195363	254496	0	0	470472	28228	--	--	--	--	--	--	--
+4	132	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	133	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	71120	284481	382660	0	0	696473	41788	--	--	--	--	--	--	--
+4	134	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	135	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	136	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	138	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	139	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+5	140	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	141	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+5	142	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18567	74268	228243	0	0	321078	0	--	--	--	--	--	--	--
+5	143	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	82531	330125	426564	0	0	791717	47503	--	--	--	--	--	--	--
+5	144	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6404	25617	24077	0	0	49037	7061	--	--	--	--	--	--	--
+5	145	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	6682	26729	25121	0	0	51164	7368	--	--	--	--	--	--	--
+5	146	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	15780	63118	86021	0	0	155584	9335	--	--	--	--	--	--	--
+5	147	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	19060	76239	103902	0	0	187925	11276	--	--	--	--	--	--	--
+5	148	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	23592	94367	128608	0	0	232610	13957	--	--	--	--	--	--	--
+5	149	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	38645	154578	210666	0	0	381027	22862	--	--	--	--	--	--	--
+5	150	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	151	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	230547	0	95163	0	0	325710	0	--	--	--	--	--	--	--
+5	152	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	35020	140078	180999	0	0	335941	20156	--	--	--	--	--	--	--
+5	153	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7501	30004	26731	0	0	56150	8086	--	--	--	--	--	--	--
+5	154	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7217	28869	25720	0	0	54026	7780	--	--	--	--	--	--	--
+5	155	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7588	30354	27043	0	0	56805	8180	--	--	--	--	--	--	--
+5	156	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7398	29593	52949	0	0	84849	5091	--	--	--	--	--	--	--
+5	157	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	158	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	198044	0	81747	0	0	279791	0	--	--	--	--	--	--	--
+5	159	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	160	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	161	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	33.33
+5	162	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	81429	325715	323978	0	0	731122	0	--	--	--	--	--	--	--
+5	163	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	39263	157051	482658	0	0	678972	0	--	--	--	--	--	--	--
+5	164	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	86220	344878	343039	0	0	774137	0	--	--	--	--	--	--	--
+6	166	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	167	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+6	168	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+6	169	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+6	170	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	33826	135305	134583	0	0	303714	0	--	--	--	--	--	--	--
+6	171	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	34147	136586	166687	0	0	318321	19099	--	--	--	--	--	--	--
+6	172	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7251	29006	19517	0	0	48753	7021	--	--	--	--	--	--	--
+6	173	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	8059	32235	21691	0	0	54183	7802	--	--	--	--	--	--	--
+6	174	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	175	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	176	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	235429	0	97178	0	0	332607	0	--	--	--	--	--	--	--
+6	177	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	95557	382230	466464	0	0	890803	53448	--	--	--	--	--	--	--
+6	178	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7918	31671	20097	0	0	52173	7513	--	--	--	--	--	--	--
+6	179	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7977	31910	20248	0	0	52565	7570	--	--	--	--	--	--	--
+6	180	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	8343	33371	21176	0	0	54974	7916	--	--	--	--	--	--	--
+6	181	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	7539	30156	42565	0	0	75717	4543	--	--	--	--	--	--	--
+6	182	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	183	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	217702	0	89861	0	0	307563	0	--	--	--	--	--	--	--
+6	184	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	44596	178382	198636	0	0	397749	23865	--	--	--	--	--	--	--
+6	185	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	52495	209981	233822	0	0	468206	28092	--	--	--	--	--	--	--
+6	186	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	37709	150837	79855	0	0	234616	33785	--	--	--	--	--	--	--
+6	187	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	38796	155186	82157	0	0	241380	34759	--	--	--	--	--	--	--
+6	188	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	34661	138644	73400	0	0	215651	31054	--	--	--	--	--	--	--
+6	189	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	39530	158119	83711	0	0	245944	35416	--	--	--	--	--	--	--
+6	190	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	66.66
+6	191	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	192	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	193	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	194	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	196	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+7	197	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+7	198	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+7	199	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+7	200	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	211368	0	87247	0	0	298615	0	--	--	--	--	--	--	--
+7	201	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	42019	168077	168538	0	0	357202	21432	--	--	--	--	--	--	--
+7	202	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	24160	96641	41287	0	0	141685	20403	--	--	--	--	--	--	--
+7	203	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9170	36680	15670	0	0	53776	7744	--	--	--	--	--	--	--
+7	204	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	21659	86635	80268	0	0	177889	10673	--	--	--	--	--	--	--
+7	205	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	29485	117942	109274	0	0	242171	14530	--	--	--	--	--	--	--
+7	206	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	17867	71468	66215	0	0	146745	8805	--	--	--	--	--	--	--
+7	207	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	22421	89683	83092	0	0	184147	11049	--	--	--	--	--	--	--
+7	208	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+7	209	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	33218	132871	132162	0	0	298251	0	--	--	--	--	--	--	--
+7	210	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	108949	435798	436995	0	0	926172	55570	--	--	--	--	--	--	--
+7	211	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	8688	34751	14236	0	0	50415	7260	--	--	--	--	--	--	--
+7	212	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	8474	33894	13885	0	0	49172	7081	--	--	--	--	--	--	--
+7	213	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9138	36550	14973	0	0	53025	7636	--	--	--	--	--	--	--
+7	214	Attack	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	8931	35724	33156	0	0	73407	4404	--	--	--	--	--	--	--
+7	215	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+7	216	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18190	72760	223609	0	0	314559	0	--	--	--	--	--	--	--
+7	217	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	218	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+7	219	Charging Weapons	SubspaceEddie	Continuum	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	220	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	73939	295755	294178	0	0	663872	0	--	--	--	--	--	--	--
+7	221	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS DEFIANT	YES	NO	546665	0	225648	0	0	772313	0	--	--	--	--	--	--	--
+7	222	Combatant Destroyed	SubspaceEddie	Continuum	USS DEFIANT	NO	Jem'Hadar Flagship	--	USS DEFIANT	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+7	223	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	41690	166762	512501	0	0	720953	0	--	--	--	--	--	--	--
+8	225	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+8	226	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+8	227	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+8	228	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	37723	150891	150086	0	0	338700	0	--	--	--	--	--	--	--
+8	229	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	48107	192427	125606	0	0	345415	20725	--	--	--	--	--	--	--
+8	230	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10458	41831	12099	0	0	56283	8105	--	--	--	--	--	--	--
+8	231	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9103	36414	10532	0	0	48994	7055	--	--	--	--	--	--	--
+8	232	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+8	233	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19233	76930	236427	0	0	332590	0	--	--	--	--	--	--	--
+8	234	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	47338	189353	123599	0	0	339896	20394	--	--	--	--	--	--	--
+8	235	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9087	36349	10273	0	0	48697	7012	--	--	--	--	--	--	--
+8	236	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9154	36617	10348	0	0	49055	7064	--	--	--	--	--	--	--
+8	237	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9188	36750	10386	0	0	49234	7090	--	--	--	--	--	--	--
+8	238	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+8	239	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	39145	156578	155743	0	0	351466	0	--	--	--	--	--	--	--
+8	240	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	59438	237754	131229	0	0	404171	24250	--	--	--	--	--	--	--
+8	241	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	61466	245862	135705	0	0	417956	25077	--	--	--	--	--	--	--
+8	242	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	243	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	244	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	245	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	247	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+9	248	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+9	249	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+9	250	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+9	251	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	36412	145646	144869	0	0	326927	0	--	--	--	--	--	--	--
+9	252	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	57443	229773	82177	0	0	348484	20909	--	--	--	--	--	--	--
+9	253	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11115	44459	9058	0	0	56496	8136	--	--	--	--	--	--	--
+9	254	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10220	40878	8329	0	0	51947	7480	--	--	--	--	--	--	--
+9	255	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	256	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	34545	138179	137442	0	0	310166	0	--	--	--	--	--	--	--
+9	257	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	57542	230168	82318	0	0	349083	20945	--	--	--	--	--	--	--
+9	258	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11043	44170	8946	0	0	56083	8076	--	--	--	--	--	--	--
+9	259	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9954	39817	8064	0	0	50555	7280	--	--	--	--	--	--	--
+9	260	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10354	41414	8388	0	0	52584	7572	--	--	--	--	--	--	--
+9	261	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	262	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	33574	134295	133579	0	0	301448	0	--	--	--	--	--	--	--
+9	263	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	264	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	114929	459715	92607	0	0	583261	83990	--	--	--	--	--	--	--
+9	265	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	41464	165856	33411	0	0	210429	30302	--	--	--	--	--	--	--
+9	266	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	49179	196718	39628	0	0	249585	35940	--	--	--	--	--	--	--
+9	267	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	42698	170792	34405	0	0	216691	31204	--	--	--	--	--	--	--
+9	268	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	269	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	75692	302770	301155	0	0	679617	0	--	--	--	--	--	--	--
+9	270	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	83459	333836	332056	0	0	749351	0	--	--	--	--	--	--	--
+9	271	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	38265	153062	470397	0	0	661724	0	--	--	--	--	--	--	--
+10	273	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+10	274	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+10	275	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+10	276	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+10	277	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	36172	144690	143918	0	0	324780	0	--	--	--	--	--	--	--
+10	278	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	57197	228786	36639	0	0	304360	18262	--	--	--	--	--	--	--
+10	279	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10942	43768	6642	0	0	53629	7723	--	--	--	--	--	--	--
+10	280	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11666	46664	7082	0	0	57178	8234	--	--	--	--	--	--	--
+10	281	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+10	282	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	38248	152991	152175	0	0	343414	0	--	--	--	--	--	--	--
+10	283	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	66771	267082	42772	0	0	355307	21318	--	--	--	--	--	--	--
+10	284	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10954	43815	6696	0	0	53728	7737	--	--	--	--	--	--	--
+10	285	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11652	46609	7123	0	0	57154	8230	--	--	--	--	--	--	--
+10	286	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	9978	39914	6100	0	0	48944	7048	--	--	--	--	--	--	--
+10	287	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+10	288	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	YES	15953	63811	63470	0	0	143234	0	--	--	--	--	--	--	--
+10	289	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	74990	299960	47110	0	0	398170	23890	--	--	--	--	--	--	--
+10	290	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	81407	325630	51141	0	0	432243	25935	--	--	--	--	--	--	--
+10	291	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+10	292	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	293	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	294	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	296	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+11	297	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+11	298	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+11	299	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+11	300	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	34755	139020	138278	0	0	312053	0	--	--	--	--	--	--	--
+11	301	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	64802	259210	19927	0	0	324471	19468	--	--	--	--	--	--	--
+11	302	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11277	45109	5347	0	0	53962	7771	--	--	--	--	--	--	--
+11	303	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	28273	113092	13405	0	0	135288	19482	--	--	--	--	--	--	--
+11	304	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+11	305	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	36905	147619	146832	0	0	331356	0	--	--	--	--	--	--	--
+11	306	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	68570	274281	21085	0	0	343336	20600	--	--	--	--	--	--	--
+11	307	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	30146	120584	14520	0	0	144449	20801	--	--	--	--	--	--	--
+11	308	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11401	45604	5491	0	0	54629	7867	--	--	--	--	--	--	--
+11	309	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10942	43770	5270	0	0	52432	7550	--	--	--	--	--	--	--
+11	310	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+11	311	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19579	78314	240679	0	0	338572	0	--	--	--	--	--	--	--
+11	312	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	313	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	314	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	83751	335003	333217	0	0	751971	0	--	--	--	--	--	--	--
+11	315	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	41870	167480	514708	0	0	724058	0	--	--	--	--	--	--	--
+11	316	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	44039	176155	541370	0	0	761564	0	--	--	--	--	--	--	--
+12	318	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+12	319	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+12	320	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+12	321	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20076	80304	246794	0	0	347174	0	--	--	--	--	--	--	--
+12	322	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	63651	254602	12911	0	0	312419	18745	--	--	--	--	--	--	--
+12	323	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	31942	127769	12252	0	0	150317	21646	--	--	--	--	--	--	--
+12	324	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11153	44610	4277	0	0	52482	7558	--	--	--	--	--	--	--
+12	325	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	326	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19095	76381	234737	0	0	330213	0	--	--	--	--	--	--	--
+12	327	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	72251	289003	14655	0	0	354631	21278	--	--	--	--	--	--	--
+12	328	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10837	43350	4249	0	0	51080	7356	--	--	--	--	--	--	--
+12	329	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10769	43077	4222	0	0	50759	7309	--	--	--	--	--	--	--
+12	330	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11631	46526	4560	0	0	54822	7895	--	--	--	--	--	--	--
+12	331	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	332	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	30475	121900	121250	0	0	273625	0	--	--	--	--	--	--	--
+12	333	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	88850	355401	20029	0	0	438000	26280	--	--	--	--	--	--	--
+12	334	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	84661	338644	19085	0	0	417349	25041	--	--	--	--	--	--	--
+12	335	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	48263	193050	20820	0	0	229137	32996	--	--	--	--	--	--	--
+12	336	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	47837	191349	20636	0	0	227117	32705	--	--	--	--	--	--	--
+12	337	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	133697	534789	57676	0	0	634757	91405	--	--	--	--	--	--	--
+12	338	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	145565	582260	62796	0	0	691102	99519	--	--	--	--	--	--	--
+12	339	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	340	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	341	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	342	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	344	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+13	345	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+13	346	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+13	347	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+13	348	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	17851	71405	219445	0	0	308701	0	--	--	--	--	--	--	--
+13	349	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	62294	249178	10336	0	0	303592	18216	--	--	--	--	--	--	--
+13	350	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11319	45277	3711	0	0	52716	7591	--	--	--	--	--	--	--
+13	351	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	12206	48826	4002	0	0	56848	8186	--	--	--	--	--	--	--
+13	352	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+13	353	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18431	73725	226574	0	0	318730	0	--	--	--	--	--	--	--
+13	354	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	71657	286627	11889	0	0	349220	20953	--	--	--	--	--	--	--
+13	355	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	12301	49204	4134	0	0	57377	8262	--	--	--	--	--	--	--
+13	356	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10763	43052	3617	0	0	50203	7229	--	--	--	--	--	--	--
+13	357	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	12070	48281	4057	0	0	56301	8107	--	--	--	--	--	--	--
+13	358	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+13	359	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	30496	121984	121333	0	0	273813	0	--	--	--	--	--	--	--
+13	360	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	361	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+13	362	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	41496	165986	510117	0	0	717599	0	--	--	--	--	--	--	--
+13	363	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	YES	32943	131770	131067	0	0	295780	0	--	--	--	--	--	--	--
+13	364	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	85715	342859	341031	0	0	769605	0	--	--	--	--	--	--	--
+14	366	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+14	367	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+14	368	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+14	369	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+14	370	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	29886	119543	118905	0	0	268334	0	--	--	--	--	--	--	--
+14	371	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	67061	268242	9828	0	0	325595	19536	--	--	--	--	--	--	--
+14	372	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11833	47332	3318	0	0	54618	7865	--	--	--	--	--	--	--
+14	373	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11124	44495	3119	0	0	51344	7394	--	--	--	--	--	--	--
+14	374	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+14	375	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	39049	156196	155363	0	0	350608	0	--	--	--	--	--	--	--
+14	376	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	64678	258712	9479	0	0	314027	18842	--	--	--	--	--	--	--
+14	377	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	12203	48814	3518	0	0	56412	8123	--	--	--	--	--	--	--
+14	378	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11685	46739	3369	0	0	54015	7778	--	--	--	--	--	--	--
+14	379	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11567	46269	3335	0	0	53471	7700	--	--	--	--	--	--	--
+14	380	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+14	381	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	32906	131623	130921	0	0	295450	0	--	--	--	--	--	--	--
+14	382	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	91502	366007	13761	0	0	444594	26676	--	--	--	--	--	--	--
+14	383	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	239350	957399	35996	0	0	1162967	69778	--	--	--	--	--	--	--
+14	384	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	385	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	386	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	387	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	389	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+15	390	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+15	391	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+15	392	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+15	393	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16567	66270	203664	0	0	286501	0	--	--	--	--	--	--	--
+15	394	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	68079	272315	9001	0	0	329618	19777	--	--	--	--	--	--	--
+15	395	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	178677	714707	23625	0	0	865103	51906	--	--	--	--	--	--	--
+15	396	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11616	46464	2838	0	0	53250	7668	--	--	--	--	--	--	--
+15	397	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10661	42644	2604	0	0	48871	7038	--	--	--	--	--	--	--
+15	398	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+15	399	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20429	81715	251132	0	0	353276	0	--	--	--	--	--	--	--
+15	400	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	66520	266081	8795	0	0	322072	19324	--	--	--	--	--	--	--
+15	401	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	64969	259876	8590	0	0	314561	18874	--	--	--	--	--	--	--
+15	402	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	10928	43712	2750	0	0	50166	7224	--	--	--	--	--	--	--
+15	403	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	11200	44802	2819	0	0	51417	7404	--	--	--	--	--	--	--
+15	404	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	28996	115982	7297	0	0	133107	19168	--	--	--	--	--	--	--
+15	405	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+15	406	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	17356	69422	213352	0	0	300130	0	--	--	--	--	--	--	--
+15	407	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	408	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	51772	207090	14945	0	0	239342	34465	--	--	--	--	--	--	--
+15	409	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	50544	202178	14591	0	0	233665	33648	--	--	--	--	--	--	--
+15	410	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	47158	188633	13613	0	0	218010	31394	--	--	--	--	--	--	--
+15	411	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	53760	215039	15519	0	0	248530	35788	--	--	--	--	--	--	--
+15	412	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+15	413	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	84081	336325	334531	0	0	754937	0	--	--	--	--	--	--	--
+15	414	Shield Depleted	SubspaceEddie	Continuum	USS VOYAGER	NO	Jem'Hadar Flagship	--	USS VOYAGER	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+15	415	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	42095	168378	517470	0	0	727943	0	--	--	--	--	--	--	--
+15	416	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	16738	66951	205757	0	0	289446	0	--	--	--	--	--	--	--
+16	418	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.1	Knock it Down	B'Elanna Torres	--	--	--
+16	419	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+16	420	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	191199	0	145073	0	0	336272	0	--	--	--	--	--	--	--
+16	421	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	292452	1169806	33445	0	0	1347480	148223	--	--	--	--	--	--	--
+16	422	Shield Depleted	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	SubspaceEddie	Continuum	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+16	423	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	355026	0	8120	0	0	327159	35987	--	--	--	--	--	--	--
+16	424	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	50574	0	2057	0	0	47415	5216	--	--	--	--	--	--	--
+16	425	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	58130	0	2364	0	0	54499	5995	--	--	--	--	--	--	--
+16	426	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+16	427	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20339	81355	250366	0	0	352060	0	--	--	--	--	--	--	--
+16	428	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	380167	0	8695	0	0	350326	38536	--	--	--	--	--	--	--
+16	429	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1454730	0	33273	0	0	1340543	147460	--	--	--	--	--	--	--
+16	430	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	58788	0	2470	0	0	55187	6071	--	--	--	--	--	--	--
+16	431	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	56513	0	2374	0	0	53051	5836	--	--	--	--	--	--	--
+16	432	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	53907	0	2265	0	0	50605	5567	--	--	--	--	--	--	--
+16	433	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+16	434	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	195789	0	148556	0	0	344345	0	--	--	--	--	--	--	--
+16	435	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	431429	0	9907	0	0	397600	43736	--	--	--	--	--	--	--
+16	436	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	491421	0	11284	0	0	452887	49818	--	--	--	--	--	--	--
+16	437	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	490159	0	11255	0	0	451724	49690	--	--	--	--	--	--	--
+16	438	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	502904	0	11548	0	0	463470	50982	--	--	--	--	--	--	--
+16	439	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+16	440	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	441	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	442	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	444	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+17	445	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	187076	0	136627	0	0	323703	0	--	--	--	--	--	--	--
+17	446	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	357619	0	7781	0	0	344717	20683	--	--	--	--	--	--	--
+17	447	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	55236	0	2087	0	0	54078	3245	--	--	--	--	--	--	--
+17	448	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	53048	0	2005	0	0	51937	3116	--	--	--	--	--	--	--
+17	449	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+17	450	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	193779	0	141523	0	0	335302	0	--	--	--	--	--	--	--
+17	451	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	358701	0	7805	0	0	345760	20746	--	--	--	--	--	--	--
+17	452	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	55883	0	2184	0	0	54780	3287	--	--	--	--	--	--	--
+17	453	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	51450	0	2011	0	0	50435	3026	--	--	--	--	--	--	--
+17	454	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	47929	0	1873	0	0	46983	2819	--	--	--	--	--	--	--
+17	455	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+17	456	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	7903	31612	97150	0	0	136665	0	--	--	--	--	--	--	--
+17	457	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	458	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	459	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	378581	0	276489	0	0	655070	0	--	--	--	--	--	--	--
+17	460	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	15135	60541	186056	0	0	261732	0	--	--	--	--	--	--	--
+17	461	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	YES	169689	0	123929	0	0	293618	0	--	--	--	--	--	--	--
+18	463	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+18	464	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+18	465	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+18	466	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+18	467	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+18	468	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16811	67245	206660	0	0	290716	0	--	--	--	--	--	--	--
+18	469	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	376396	0	7431	0	0	362101	21726	--	--	--	--	--	--	--
+18	470	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	346404	0	6839	0	0	333248	19995	--	--	--	--	--	--	--
+18	471	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	55339	0	2005	0	0	50126	7218	--	--	--	--	--	--	--
+18	472	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	59551	0	2158	0	0	53941	7768	--	--	--	--	--	--	--
+18	473	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+18	474	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	31072	124288	123625	0	0	278985	0	--	--	--	--	--	--	--
+18	475	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	348706	0	6884	0	0	335462	20128	--	--	--	--	--	--	--
+18	476	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	854876	0	16877	0	0	822408	49345	--	--	--	--	--	--	--
+18	477	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	147600	0	5519	0	0	133845	19274	--	--	--	--	--	--	--
+18	478	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	57735	0	2159	0	0	52355	7539	--	--	--	--	--	--	--
+18	479	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	58107	0	2172	0	0	52691	7588	--	--	--	--	--	--	--
+18	480	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+18	481	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	36372	145488	144712	0	0	326572	0	--	--	--	--	--	--	--
+18	482	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	412766	0	8153	0	0	397093	23826	--	--	--	--	--	--	--
+18	483	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	451779	0	8924	0	0	434625	26078	--	--	--	--	--	--	--
+18	484	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	438943	0	8670	0	0	422276	25337	--	--	--	--	--	--	--
+18	485	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	437931	0	8650	0	0	421303	25278	--	--	--	--	--	--	--
+18	486	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	254954	0	11126	0	0	232587	33493	--	--	--	--	--	--	--
+18	487	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	243259	0	10616	0	0	221919	31956	--	--	--	--	--	--	--
+18	488	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	256018	0	11173	0	0	233559	33632	--	--	--	--	--	--	--
+18	489	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	239963	0	10472	0	0	218912	31523	--	--	--	--	--	--	--
+18	490	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+18	491	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	492	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	493	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+19	495	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+19	496	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+19	497	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+19	498	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	38366	153462	152644	0	0	344472	0	--	--	--	--	--	--	--
+19	499	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	352730	0	6316	0	0	338723	20323	--	--	--	--	--	--	--
+19	500	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	315775	0	5654	0	0	303235	18194	--	--	--	--	--	--	--
+19	501	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	58559	0	2003	0	0	52939	7623	--	--	--	--	--	--	--
+19	502	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	63855	0	2184	0	0	57726	8313	--	--	--	--	--	--	--
+19	503	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+19	504	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	167113	0	132977	0	0	300090	0	--	--	--	--	--	--	--
+19	505	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	369353	0	6613	0	0	354685	21281	--	--	--	--	--	--	--
+19	506	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	355282	0	6361	0	0	341173	20470	--	--	--	--	--	--	--
+19	507	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	62457	0	2202	0	0	56520	8139	--	--	--	--	--	--	--
+19	508	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	57989	0	2045	0	0	52477	7557	--	--	--	--	--	--	--
+19	509	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	61877	0	2182	0	0	55996	8063	--	--	--	--	--	--	--
+19	510	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+19	511	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16965	67858	208545	0	0	293368	0	--	--	--	--	--	--	--
+19	512	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+19	513	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+19	514	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	413665	0	329167	0	0	742832	0	--	--	--	--	--	--	--
+19	515	Combatant Destroyed	SubspaceEddie	Continuum	USS VOYAGER	NO	Jem'Hadar Flagship	--	USS VOYAGER	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+19	516	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	40377	161510	496359	0	0	698246	0	--	--	--	--	--	--	--
+19	517	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	43188	172754	530915	0	0	746857	0	--	--	--	--	--	--	--
+20	519	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+20	520	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	15520	62081	190791	0	0	268392	0	--	--	--	--	--	--	--
+20	521	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	340381	0	5525	0	0	326326	19580	--	--	--	--	--	--	--
+20	522	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19492	77969	239618	0	0	337079	0	--	--	--	--	--	--	--
+20	523	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	337027	0	5471	0	0	323111	19387	--	--	--	--	--	--	--
+20	524	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18889	75554	232197	0	0	326640	0	--	--	--	--	--	--	--
+20	525	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	436490	0	7086	0	0	418468	25108	--	--	--	--	--	--	--
+20	526	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	473858	0	7692	0	0	454292	27258	--	--	--	--	--	--	--
+20	527	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	528	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	529	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+21	531	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+21	532	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18732	74926	230268	0	0	323926	0	--	--	--	--	--	--	--
+21	533	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	376011	0	5531	0	0	359945	21597	--	--	--	--	--	--	--
+21	534	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20557	82228	252708	0	0	355493	0	--	--	--	--	--	--	--
+21	535	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	339481	0	4993	0	0	324975	19499	--	--	--	--	--	--	--
+21	536	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	6695	26781	82305	0	0	115781	0	--	--	--	--	--	--	--
+21	537	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+21	538	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	39692	158767	487932	0	0	686391	0	--	--	--	--	--	--	--
+21	539	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	44573	178294	547941	0	0	770808	0	--	--	--	--	--	--	--
+21	540	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	39807	159226	489343	0	0	688376	0	--	--	--	--	--	--	--
+22	542	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+22	543	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18136	72545	222949	0	0	313630	0	--	--	--	--	--	--	--
+22	544	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	343726	0	4580	0	0	328591	19715	--	--	--	--	--	--	--
+22	545	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	6759	27037	83090	0	0	116886	0	--	--	--	--	--	--	--
+22	546	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	317246	0	4227	0	0	303276	18197	--	--	--	--	--	--	--
+22	547	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	7296	29182	89685	0	0	126163	0	--	--	--	--	--	--	--
+22	548	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	436155	0	5812	0	0	416950	25017	--	--	--	--	--	--	--
+22	549	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	457649	0	6098	0	0	437497	26250	--	--	--	--	--	--	--
+22	550	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	551	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	552	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+23	554	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+23	555	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	15857	63426	194925	0	0	274208	0	--	--	--	--	--	--	--
+23	556	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	340971	0	4114	0	0	325552	19533	--	--	--	--	--	--	--
+23	557	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	17306	69223	212741	0	0	299270	0	--	--	--	--	--	--	--
+23	558	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	352083	0	4248	0	0	336161	20170	--	--	--	--	--	--	--
+23	559	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16813	67252	206683	0	0	290748	0	--	--	--	--	--	--	--
+23	560	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+23	561	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	37760	151038	464179	0	0	652977	0	--	--	--	--	--	--	--
+23	562	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	43320	173281	532535	0	0	749136	0	--	--	--	--	--	--	--
+23	563	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	44414	177658	545986	0	0	768058	0	--	--	--	--	--	--	--
+24	565	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+24	566	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	18983	75933	233360	0	0	328276	0	--	--	--	--	--	--	--
+24	567	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	344782	0	3766	0	0	328819	19729	--	--	--	--	--	--	--
+24	568	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20519	82077	252242	0	0	354838	0	--	--	--	--	--	--	--
+24	569	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	370643	0	4048	0	0	353482	21209	--	--	--	--	--	--	--
+24	570	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19519	78076	239948	0	0	337543	0	--	--	--	--	--	--	--
+24	571	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	428981	0	4686	0	0	409120	24547	--	--	--	--	--	--	--
+24	572	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	462157	0	5048	0	0	440759	26446	--	--	--	--	--	--	--
+24	573	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	574	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	575	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+25	577	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+25	578	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+25	579	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	15959	63838	196190	0	0	275987	0	--	--	--	--	--	--	--
+25	580	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	340378	0	3365	0	0	324286	19457	--	--	--	--	--	--	--
+25	581	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	355185	0	3511	0	0	338392	20304	--	--	--	--	--	--	--
+25	582	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	8132	32530	99971	0	0	140633	0	--	--	--	--	--	--	--
+25	583	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	341518	0	3376	0	0	325372	19522	--	--	--	--	--	--	--
+25	584	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	338936	0	3350	0	0	322911	19375	--	--	--	--	--	--	--
+25	585	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	17301	69204	212682	0	0	299187	0	--	--	--	--	--	--	--
+25	586	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+25	587	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	44898	179593	551935	0	0	776426	0	--	--	--	--	--	--	--
+25	588	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	37373	149494	459431	0	0	646298	0	--	--	--	--	--	--	--
+25	589	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	16022	64089	196962	0	0	277073	0	--	--	--	--	--	--	--
+26	591	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+26	592	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	17877	71508	219762	0	0	309147	0	--	--	--	--	--	--	--
+26	593	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	379859	0	3397	0	0	361562	21694	--	--	--	--	--	--	--
+26	594	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	374801	0	3352	0	0	356748	21405	--	--	--	--	--	--	--
+26	595	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	15557	62228	191242	0	0	269027	0	--	--	--	--	--	--	--
+26	596	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	357881	0	3201	0	0	340643	20439	--	--	--	--	--	--	--
+26	597	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	320866	0	2870	0	0	305411	18325	--	--	--	--	--	--	--
+26	598	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	20515	82060	252191	0	0	354766	0	--	--	--	--	--	--	--
+26	599	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1163671	0	10409	0	0	1107623	66457	--	--	--	--	--	--	--
+26	600	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	455187	0	4071	0	0	433262	25996	--	--	--	--	--	--	--
+26	601	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	465464	0	4163	0	0	443044	26583	--	--	--	--	--	--	--
+26	602	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	487239	0	4358	0	0	463771	27826	--	--	--	--	--	--	--
+26	603	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	604	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	605	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+27	607	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+27	608	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+27	609	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16552	66210	203479	0	0	286241	0	--	--	--	--	--	--	--
+27	610	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	948621	0	7675	0	0	902166	54130	--	--	--	--	--	--	--
+27	611	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	377367	0	3053	0	0	358887	21533	--	--	--	--	--	--	--
+27	612	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16586	66345	203894	0	0	286825	0	--	--	--	--	--	--	--
+27	613	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	324409	0	2624	0	0	308522	18511	--	--	--	--	--	--	--
+27	614	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	339707	0	2748	0	0	323071	19384	--	--	--	--	--	--	--
+27	615	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	6769	27078	83217	0	0	117064	0	--	--	--	--	--	--	--
+27	616	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+27	617	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	44367	177468	545405	0	0	767240	0	--	--	--	--	--	--	--
+27	618	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	40032	160130	492120	0	0	692282	0	--	--	--	--	--	--	--
+27	619	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	YES	15605	62421	191835	0	0	269861	0	--	--	--	--	--	--	--
+28	621	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+28	622	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19944	79778	245177	0	0	344899	0	--	--	--	--	--	--	--
+28	623	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	356892	0	2611	0	0	339154	20349	--	--	--	--	--	--	--
+28	624	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	985644	0	7212	0	0	936657	56199	--	--	--	--	--	--	--
+28	625	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19507	78027	239797	0	0	337331	0	--	--	--	--	--	--	--
+28	626	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	364673	0	2668	0	0	346548	20793	--	--	--	--	--	--	--
+28	627	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	379914	0	2780	0	0	361032	21662	--	--	--	--	--	--	--
+28	628	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	16895	67581	207692	0	0	292168	0	--	--	--	--	--	--	--
+28	629	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	479942	0	3512	0	0	456089	27365	--	--	--	--	--	--	--
+28	630	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	488194	0	3572	0	0	463930	27836	--	--	--	--	--	--	--
+28	631	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1115330	0	8161	0	0	1059897	63594	--	--	--	--	--	--	--
+28	632	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	459869	0	3365	0	0	437013	26221	--	--	--	--	--	--	--
+28	633	Combatant Destroyed	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	SubspaceEddie	Continuum	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

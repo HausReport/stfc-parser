@@ -1,0 +1,352 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Solo Outpost	63	DEFEAT	Borg Solo Outpost	63	198836158464	0	Assimilated Gul	--	--	313818871347	0	78454717837	0	Draxyl	1/14/2026 1:20:57 PM
+
+Reward Name	Count
+Solo Outpost Credits	39618
+<color=#fac710>Outpost</color> Strike	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	868430016	741097920	17397454848	Anti-Tachyon Weaponry---Relative Growth	Weaponry is irrelevant	You will be assimilated	Sadistic	Quick Thinking	5	671106240	15756681	15990547	92230588	0.22	3.45	5	18476998	111265590	18476998	5	17188783609	17606126251	222	1889	561	56516070	0	1	NO	NO
+Player Fleet 2	1419528576	481992800	13010061312	Phase Discriminating Amplifier	Cry Havoc	Dogs of War	See the Flaws	Fear Is the True Enemy	40.5	1355379456	6391193	75769425	6391193	0.22	3.45	40.5	90502272	2967633	2928657	40.5	10605537435	15414586807	212	1641	488.4	2443470	0	1	NO	NO
+Enemy Fleet 1	2504334848	195032144	196136796160	Isolytic Burst---Diverted Power	--	--	--	--	0	2424144896	13364987	13364987	13364987	0.1	1.5	0	13002143	13002143	13002143	0	78454718464	313818873856	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	2	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	3	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	15597169	73529512	152962096	293571200	1426024	214834409	322251592	--	--	--	--	--	--	--
+1	4	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	14670018	69158656	143869472	276120288	1341256	202063874	303095816	--	--	--	--	--	--	--
+1	5	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	14799139	69767368	145135776	278550624	1353061	203842384	305763584	--	--	--	--	--	--	--
+1	6	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	470999392	1412998144	139336672	0	0	587665984	1435668224	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	72021208	216063616	21306172	0	0	89860884	219530112	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	74750472	224251408	22113576	0	0	93266176	227849280	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	304266720	912800192	181288880	0	0	399758672	998597120	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	303431424	910294272	180791184	0	0	398661200	995855680	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	60250800	180752400	35898764	0	0	79160076	197741888	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	59359796	178079392	35367884	0	0	77989440	194817632	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	15	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	31584624	148898944	309751744	594488448	2887731	435044591	652566900	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	327870176	983610496	144647840	0	0	422924352	1033204160	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	57199712	171599136	25235034	0	0	73782714	180251168	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	331522880	994568704	146259328	0	0	427636032	1044714880	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	320067840	960203520	141205648	0	0	412859984	1008617024	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	125235984	375707936	74618384	0	0	164540384	411021920	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	530253728	1590761216	315936960	0	0	696670176	1740281728	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	600205952	1800617984	357616064	0	0	788576320	1969863680	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	124492456	373477376	74175376	0	0	163563512	408581696	--	--	--	--	--	--	--
+1	24	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	26	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	64545476	304285824	362655424	799477376	5901288	614746156	922119232	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	320363680	961091072	141336160	0	0	413241664	1009549248	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	56527500	169582496	24938472	0	0	72915604	178132864	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	55569560	166708688	24515854	0	0	71679958	175114144	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	288331072	864993216	171794064	0	0	378821712	946296640	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	60581340	181744016	36095708	0	0	79594360	198826704	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	281641440	844924288	167808224	0	0	370032576	924341376	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	56036632	168109888	33387870	0	0	73623318	183911072	--	--	--	--	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+1	35	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	36	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21387418	100826400	120167408	264910224	1955417	203698743	305548124	--	--	--	--	--	--	--
+1	37	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	22457604	105871568	126180368	278165856	2053262	213891458	320837200	--	--	--	--	--	--	--
+1	38	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	22268686	104980952	125118912	275825856	2035990	212092156	318138240	--	--	--	--	--	--	--
+1	39	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	472355616	1417066880	139737872	0	0	589358256	1439802112	--	--	--	--	--	--	--
+1	40	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	468063776	1404191360	138468208	0	0	584003344	1426720000	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	438611584	1315834752	129755312	0	0	547255856	1336945792	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	454277344	1362832000	134389744	0	0	566802000	1384697088	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	113793016	341379040	67800408	0	0	149506128	373466336	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	119213200	357639616	71029872	0	0	156627392	391255296	--	--	--	--	--	--	--
+1	45	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	124593704	373781120	74235696	0	0	163696568	408913952	--	--	--	--	--	--	--
+1	46	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	589035584	1767106816	350960480	0	0	773900192	1933202688	--	--	--	--	--	--	--
+2	48	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	13065920	--	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	53	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	22350844	105368264	128208824	284441184	2043501	216965041	325447576	--	--	--	--	--	--	--
+2	54	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21747148	102522272	124745904	276758400	1988306	211104822	316657208	--	--	--	--	--	--	--
+2	55	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	20812028	98113840	119381864	264857872	1902810	202027370	303041044	--	--	--	--	--	--	--
+2	56	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	595296256	1785888768	134909664	0	0	568994656	1947100032	--	--	--	--	--	--	--
+2	57	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	107471736	322415200	24355898	0	0	102723378	351519456	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	625176832	1875530496	141681376	0	0	597555168	2044833536	--	--	--	--	--	--	--
+2	59	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	91123768	273371296	40203532	0	0	88652484	316046112	--	--	--	--	--	--	--
+2	60	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	84775288	254325856	37402600	0	0	82476160	294027584	--	--	--	--	--	--	--
+2	61	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	442836384	1328509184	195378080	0	0	430826688	1535896960	--	--	--	--	--	--	--
+2	62	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	403891776	1211675264	178195824	0	0	392938160	1400824704	--	--	--	--	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	64	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	46350408	218509056	461124480	888895104	4237743	647646727	971470064	--	--	--	--	--	--	--
+2	65	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	66	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	67	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	42436056	200055696	243421536	540049472	3879860	411937044	617905576	--	--	--	--	--	--	--
+2	68	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	425113216	1275339648	142546192	0	0	416779536	1426219520	--	--	--	--	--	--	--
+2	69	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	454709344	1364128000	152470176	0	0	445795456	1525512064	--	--	--	--	--	--	--
+2	70	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	428613664	1285841024	143719936	0	0	420211360	1437963264	--	--	--	--	--	--	--
+2	71	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	79687200	239061616	35157752	0	0	77526088	276380480	--	--	--	--	--	--	--
+2	72	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	425995392	1277986176	187947888	0	0	414442352	1477487104	--	--	--	--	--	--	--
+2	73	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	404629888	1213889664	178521488	0	0	393656336	1403384704	--	--	--	--	--	--	--
+2	74	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	91347112	274041344	40302072	0	0	88869792	316820736	--	--	--	--	--	--	--
+2	75	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+2	76	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	77	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	20896196	98510640	119864672	265929024	1910505	202844421	304266616	--	--	--	--	--	--	--
+2	78	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21812278	102829312	125119496	277587264	1994261	211737043	317605568	--	--	--	--	--	--	--
+2	79	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	22427976	105731888	128651264	285422752	2050553	217713777	326570656	--	--	--	--	--	--	--
+2	80	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	81	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	83	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	17248250	--	--	--	--
+3	84	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	86	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	87	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+3	88	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	24132038	96528152	121122832	268720352	1930559	204973573	307460360	--	--	--	--	--	--	--
+3	89	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	24505040	98020160	122995000	272873888	1960399	208141799	312212688	--	--	--	--	--	--	--
+3	90	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	36983192	147932768	185624992	411823360	2958649	314129185	471193776	--	--	--	--	--	--	--
+3	91	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	754869568	3019478272	203161232	0	0	856852432	3120656640	--	--	--	--	--	--	--
+3	92	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	771744832	3086979328	207702944	0	0	876007648	3190419456	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	776781376	3107125504	209058448	0	0	881724624	3211240704	--	--	--	--	--	--	--
+3	94	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	68991016	275964064	38048284	0	0	83899972	299103392	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	73259496	293037984	40402336	0	0	89090856	317608960	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	498376032	1993504128	274852512	0	0	606075008	2160657664	--	--	--	--	--	--	--
+3	97	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	438854464	1755417856	242026576	0	0	533690896	1902608000	--	--	--	--	--	--	--
+3	98	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+3	99	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	100	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	33604156	134416624	292526784	563894720	2688327	410852231	616278380	--	--	--	--	--	--	--
+3	101	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	515624352	2062497408	205062416	0	0	599565872	2183618304	--	--	--	--	--	--	--
+3	102	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	64327184	257308736	25582748	0	0	74799372	272419296	--	--	--	--	--	--	--
+3	103	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	550022528	2200090112	218742464	0	0	639563840	2329291264	--	--	--	--	--	--	--
+3	104	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	555076800	2220307200	220752560	0	0	645440880	2350695680	--	--	--	--	--	--	--
+3	105	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	844111296	3376445184	465524192	0	0	1026523808	3659556864	--	--	--	--	--	--	--
+3	106	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	849368000	3397472000	468423264	0	0	1032916256	3682347008	--	--	--	--	--	--	--
+3	107	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	998425920	3993703680	550628160	0	0	1214185856	4328571904	--	--	--	--	--	--	--
+3	108	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	944760192	3779040768	521031680	0	0	1148923008	4095909632	--	--	--	--	--	--	--
+3	109	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	110	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	111	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	34332556	137330224	298867584	576117632	2746599	419757839	629636756	--	--	--	--	--	--	--
+3	112	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	520207072	2080828288	206884944	0	0	604894384	2203025920	--	--	--	--	--	--	--
+3	113	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	62612504	250450000	24900824	0	0	72805536	265157792	--	--	--	--	--	--	--
+3	114	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	506093696	2024374784	201272096	0	0	588483488	2143257088	--	--	--	--	--	--	--
+3	115	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	507260384	2029041536	279752192	0	0	616879456	2199174656	--	--	--	--	--	--	--
+3	116	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	498879328	1995517312	275130080	0	0	606687168	2162839552	--	--	--	--	--	--	--
+3	117	Shield Depleted	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	118	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2283981056	0	251921392	0	0	555509744	1980392704	--	--	--	--	--	--	--
+3	119	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2328840704	0	256869360	0	0	566420592	2019289472	--	--	--	--	--	--	--
+3	120	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+3	121	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	122	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	123	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	25631546	102526184	128649120	285418016	2050519	217710149	326565236	--	--	--	--	--	--	--
+3	124	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	24508192	98032760	123010808	272908992	1960651	208168555	312252848	--	--	--	--	--	--	--
+3	125	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	25247128	100988504	126719656	281137344	2019766	214444958	321667440	--	--	--	--	--	--	--
+3	126	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4011898368	0	215947840	0	0	910780992	3317065216	--	--	--	--	--	--	--
+3	127	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3403612160	0	183205712	0	0	772687952	2814129920	--	--	--	--	--	--	--
+3	128	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3802563328	0	204679984	0	0	863257904	3143985408	--	--	--	--	--	--	--
+3	129	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3832814336	0	206308304	0	0	870125520	3168997120	--	--	--	--	--	--	--
+3	130	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5046220288	0	556594304	0	0	1227341440	4375473152	--	--	--	--	--	--	--
+3	131	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4806794240	0	530185760	0	0	1169108512	4167871488	--	--	--	--	--	--	--
+3	132	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4496145408	0	495921472	0	0	1093552192	3898514688	--	--	--	--	--	--	--
+3	133	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4631597568	0	510861728	0	0	1126497184	4015962112	--	--	--	--	--	--	--
+4	135	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	16100710	--	--	--	--
+4	136	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+4	137	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	138	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	139	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	140	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	141	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	142	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+4	143	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17564888	70259552	152903712	294747680	1405188	214752408	322128612	--	--	--	--	--	--	--
+4	144	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16535512	66142048	143942928	277474240	1322838	202167030	303250536	--	--	--	--	--	--	--
+4	145	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16756022	67024088	145862480	281174496	1340479	204863033	307294532	--	--	--	--	--	--	--
+4	146	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	418075616	0	22503692	0	0	94911532	345667776	--	--	--	--	--	--	--
+4	147	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3576558848	0	192514880	0	0	811950400	2957123328	--	--	--	--	--	--	--
+4	148	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2280786688	0	238791680	0	0	526557696	1993020672	--	--	--	--	--	--	--
+4	149	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2283306752	0	239055520	0	0	527139488	1995222784	--	--	--	--	--	--	--
+4	150	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	325949632	0	34125972	0	0	75250900	284824704	--	--	--	--	--	--	--
+4	151	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+4	152	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	153	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	154	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35540128	142160512	309379552	596381248	2843204	434521860	651782784	--	--	--	--	--	--	--
+4	155	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	156	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	157	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	158	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2718129408	0	216198560	0	0	632125856	2302202112	--	--	--	--	--	--	--
+4	159	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2707079936	0	215319680	0	0	629556096	2292843520	--	--	--	--	--	--	--
+4	160	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2585315328	0	270674944	0	0	596863232	2259127040	--	--	--	--	--	--	--
+4	161	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2317101312	0	242593712	0	0	534941488	2024753536	--	--	--	--	--	--	--
+4	162	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2542456064	0	266187712	0	0	586968256	2221675520	--	--	--	--	--	--	--
+4	163	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+4	164	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	165	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	166	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	167	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	168	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	170	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	171	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	172	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+5	173	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	174	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	175	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3676923392	0	197917184	0	0	834735104	3040105472	--	--	--	--	--	--	--
+5	176	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3535621632	0	190311360	0	0	802656704	2923276288	--	--	--	--	--	--	--
+5	177	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2236697344	0	234175680	0	0	516378816	1954494208	--	--	--	--	--	--	--
+5	178	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	364410496	0	38152712	0	0	84130248	318432960	--	--	--	--	--	--	--
+5	179	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2690243072	0	281660576	0	0	621087648	2350816000	--	--	--	--	--	--	--
+5	180	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+5	181	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	182	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	183	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	184	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2691233280	0	214059248	0	0	625870832	2279421696	--	--	--	--	--	--	--
+5	185	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2589772800	0	205989136	0	0	602275344	2193486592	--	--	--	--	--	--	--
+5	186	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2550629376	0	202875680	0	0	593172256	2160332800	--	--	--	--	--	--	--
+5	187	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5373950976	0	562636928	0	0	1240666240	4695921664	--	--	--	--	--	--	--
+5	188	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4816953856	0	504320960	0	0	1112074176	4209200640	--	--	--	--	--	--	--
+5	189	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	747163584	0	78225840	0	0	172495152	652894272	--	--	--	--	--	--	--
+5	190	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	191	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	51489760	205959040	259576384	574617536	4119172	438304756	657457136	--	--	--	--	--	--	--
+5	192	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2698551296	0	214641312	0	0	627572896	2285619712	--	--	--	--	--	--	--
+5	193	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2587300096	0	205792448	0	0	601700288	2191392256	--	--	--	--	--	--	--
+5	194	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2411769088	0	252505152	0	0	556797248	2107476992	--	--	--	--	--	--	--
+5	195	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2410514176	0	252373776	0	0	556507408	2106380544	--	--	--	--	--	--	--
+5	196	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2312048640	0	242064720	0	0	533775056	2020338304	--	--	--	--	--	--	--
+5	197	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	198	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	199	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	200	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3959017984	0	213101440	0	0	898776448	3273342976	--	--	--	--	--	--	--
+5	201	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	484408896	0	26074202	0	0	109970522	400512576	--	--	--	--	--	--	--
+5	202	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3601804288	0	193873760	0	0	817681504	2977996544	--	--	--	--	--	--	--
+5	203	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5160189952	0	540256768	0	0	1191315968	4509130752	--	--	--	--	--	--	--
+5	204	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5231800320	0	547754176	0	0	1207848128	4571706368	--	--	--	--	--	--	--
+5	205	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4596972544	0	481289568	0	0	1061287776	4016974336	--	--	--	--	--	--	--
+6	207	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	5148976	--	--	--	--
+6	208	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+6	209	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	210	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+6	211	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+6	212	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	213	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	214	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	215	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+6	216	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17787412	71149656	154840816	298481760	1422990	217473058	326209576	--	--	--	--	--	--	--
+6	217	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	17375592	69502368	151255888	291571200	1390044	212438042	318657050	--	--	--	--	--	--	--
+6	218	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	16704052	66816208	145410080	280302432	1336321	204227637	306341456	--	--	--	--	--	--	--
+6	219	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4102633984	0	220831840	0	0	931380064	3392085760	--	--	--	--	--	--	--
+6	220	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3987506176	0	214634864	0	0	905243760	3296897280	--	--	--	--	--	--	--
+6	221	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2530760704	0	264963248	0	0	584268208	2211455744	--	--	--	--	--	--	--
+6	222	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2312123904	0	242072608	0	0	533792416	2020404096	--	--	--	--	--	--	--
+6	223	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2459602432	0	257513184	0	0	567840224	2149275392	--	--	--	--	--	--	--
+6	224	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+6	225	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	226	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	227	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	228	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	229	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	230	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	231	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	321723776	0	25589736	0	0	74819784	272493728	--	--	--	--	--	--	--
+6	232	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2701531904	0	214878400	0	0	628265920	2288144384	--	--	--	--	--	--	--
+6	233	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2533248000	0	265223632	0	0	584842704	2213628928	--	--	--	--	--	--	--
+6	234	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2660541696	0	278550944	0	0	614230432	2324862208	--	--	--	--	--	--	--
+6	235	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2616816640	0	273973024	0	0	604135712	2286653952	--	--	--	--	--	--	--
+6	236	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+6	237	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	238	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	239	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	23858172	95432688	120276704	266253424	1908649	203091853	304637784	--	--	--	--	--	--	--
+6	240	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	24228794	96915176	122145120	270389504	1938299	206246753	309370140	--	--	--	--	--	--	--
+6	241	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	24396008	97584024	122988096	272255552	1951676	207670148	311505208	--	--	--	--	--	--	--
+6	242	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	243	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	245	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	7248298	--	--	--	--
+7	246	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	247	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+7	248	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+7	249	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	250	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+7	251	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	252	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3693943296	0	198833296	0	0	838599056	3054177536	--	--	--	--	--	--	--
+7	253	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3640940288	0	195980320	0	0	826566176	3010354432	--	--	--	--	--	--	--
+7	254	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2505919488	0	262362448	0	0	578533200	2189748736	--	--	--	--	--	--	--
+7	255	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2452681216	0	256788544	0	0	566242368	2143227392	--	--	--	--	--	--	--
+7	256	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	358622208	0	37546696	0	0	82793928	313374976	--	--	--	--	--	--	--
+7	257	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+7	258	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	259	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	47960680	191842720	241785184	535233600	3836846	408263606	612395424	--	--	--	--	--	--	--
+7	260	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2786352640	0	221624992	0	0	647991712	2359985920	--	--	--	--	--	--	--
+7	261	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2680756992	0	213225952	0	0	623434464	2270548480	--	--	--	--	--	--	--
+7	262	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2758874880	0	219439424	0	0	641601600	2336712704	--	--	--	--	--	--	--
+7	263	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	670041792	0	70151416	0	0	154690296	585502912	--	--	--	--	--	--	--
+7	264	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4761661952	0	498532096	0	0	1099309056	4160884992	--	--	--	--	--	--	--
+7	265	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5177537024	0	542072960	0	0	1195320960	4524289024	--	--	--	--	--	--	--
+7	266	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	267	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	268	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35084128	140336528	305410080	588729408	2806724	428946748	643420120	--	--	--	--	--	--	--
+7	269	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2665565184	0	212017616	0	0	619901648	2257681152	--	--	--	--	--	--	--
+7	270	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2756816384	0	219275696	0	0	641122736	2334969344	--	--	--	--	--	--	--
+7	271	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2304018688	0	241224016	0	0	531921104	2013321600	--	--	--	--	--	--	--
+7	272	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	376300608	0	39397572	0	0	86875268	328822912	--	--	--	--	--	--	--
+7	273	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2562839040	0	268321744	0	0	591674064	2239486720	--	--	--	--	--	--	--
+7	274	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+7	275	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	276	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	277	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	278	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	434235680	0	23373536	0	0	98580160	359029056	--	--	--	--	--	--	--
+7	279	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3437994752	0	185056416	0	0	780493472	2842557696	--	--	--	--	--	--	--
+7	280	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3966503168	0	213504336	0	0	900475728	3279531776	--	--	--	--	--	--	--
+7	281	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4901739520	0	513197760	0	0	1131648448	4283288832	--	--	--	--	--	--	--
+7	282	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5270030848	0	551756800	0	0	1216674816	4605112832	--	--	--	--	--	--	--
+7	283	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4887489536	0	511705856	0	0	1128358656	4270836736	--	--	--	--	--	--	--
+8	285	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	4796068	--	--	--	--
+8	286	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+8	287	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	288	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+8	289	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+8	290	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+8	291	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	292	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	293	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+8	294	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	23938032	95752128	120679296	267144640	1915038	203771654	305657480	--	--	--	--	--	--	--
+8	295	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	25457080	101828320	128337304	284096960	2036562	216702498	325053728	--	--	--	--	--	--	--
+8	296	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	25084188	100336760	126457448	279935584	2006731	213528283	320292428	--	--	--	--	--	--	--
+8	297	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3825977088	0	205940272	0	0	868573488	3163343872	--	--	--	--	--	--	--
+8	298	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	424451072	0	22846862	0	0	96358894	350939040	--	--	--	--	--	--	--
+8	299	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2688303616	0	281457504	0	0	620639840	2349121280	--	--	--	--	--	--	--
+8	300	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2551947008	0	267181392	0	0	589159504	2229968896	--	--	--	--	--	--	--
+8	301	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	389343872	0	40763164	0	0	89886524	340220512	--	--	--	--	--	--	--
+8	302	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+8	303	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+8	304	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	305	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35405340	141621360	308206240	594119488	2832421	432873933	649310916	--	--	--	--	--	--	--
+8	306	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	307	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	308	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	309	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	328127840	0	26099110	0	0	76309126	277917824	--	--	--	--	--	--	--
+8	310	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2587521792	0	205810080	0	0	601751712	2191580160	--	--	--	--	--	--	--
+8	311	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2455744000	0	257109216	0	0	566949472	2145903744	--	--	--	--	--	--	--
+8	312	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2409780224	0	252296944	0	0	556337904	2105739264	--	--	--	--	--	--	--
+8	313	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2399962112	0	251269008	0	0	554071312	2097159808	--	--	--	--	--	--	--
+8	314	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+8	315	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	316	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	317	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	318	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	320	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	7447930	--	--	--	--
+9	321	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+9	322	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+9	323	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+9	324	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	325	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+9	326	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	327	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	409043616	0	22017528	0	0	92861080	338200064	--	--	--	--	--	--	--
+9	328	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	449490176	0	24194638	0	0	102043246	371641568	--	--	--	--	--	--	--
+9	329	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2295082752	0	240288448	0	0	529858112	2005513088	--	--	--	--	--	--	--
+9	330	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2592117504	0	271387136	0	0	598433536	2265071104	--	--	--	--	--	--	--
+9	331	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2343410688	0	245348240	0	0	541015440	2047743488	--	--	--	--	--	--	--
+9	332	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+9	333	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	334	Charging Weapons	Borg Solo Outpost	--	Borg Solo Outpost	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	335	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	328735264	0	26147426	0	0	76450402	278432288	--	--	--	--	--	--	--
+9	336	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2771078400	0	220410096	0	0	644439536	2347048960	--	--	--	--	--	--	--
+9	337	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2776416512	0	220834672	0	0	645681008	2351570176	--	--	--	--	--	--	--
+9	338	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	679525696	0	71144352	0	0	156879840	593790208	--	--	--	--	--	--	--
+9	339	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4987676672	0	522195168	0	0	1151488224	4358383616	--	--	--	--	--	--	--
+9	340	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	5295351808	0	554407872	0	0	1222520256	4627239424	--	--	--	--	--	--	--
+9	341	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+9	342	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	343	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	72645392	290581568	366228704	810711040	5811619	618391323	927587000	--	--	--	--	--	--	--
+9	344	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2721206016	0	216443248	0	0	632841328	2304807936	--	--	--	--	--	--	--
+9	345	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2631307008	0	209292736	0	0	611934400	2228665344	--	--	--	--	--	--	--
+9	346	Combatant Destroyed	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,234 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Assimilated Galor-Class	64	DEFEAT	Assimilated Galor-Class	64	123121041408	0	Assimilated Gul	--	--	193259148780	0	48314787195	0	Draxyl	1/30/2026 2:51:29 AM
+
+Reward Name	Count
+Solo Outpost Credits	569
+<color=#00ed4b>Uncommon</color> Solo Outpost Components	201
+Outpost Retaliation Medal	74
+<color=#fac710>Retaliation Plunder</color>	30
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1639539584	483833600	12746582016	Phase Discriminating Amplifier	Teaching Moments	Advanced Training	Dogs of War	Fear Is the True Enemy	45	1575390464	6391193	75769425	6391193	0.22	4.2	40.5	90825216	2990239	2951263	40.5	10684257830	14808906612	242	1641	606.8	2443470	0	1	NO	NO
+Player Fleet 2	1164861184	745503424	17066775552	Anti-Tachyon Weaponry---Relative Growth	Weaponry is irrelevant	You will be assimilated	Sadistic	Quick Thinking	5	900500736	21109692	21423009	123564029	0.22	4.2	5	18602869	111894945	18602869	5	17418760923	16714790787	252	1889	697	56516070	0	1	NO	NO
+Enemy Fleet 1	1573888512	760190208	120786960384	Isolytic Burst---Diverted Power	--	--	--	--	0	1478428288	39775116	7955023	15910045	0.1	1.5	0	9943779	4971890	137122368	0	48314785792	193259143168	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	3	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	4	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+1	5	Forbidden Tech Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	6	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	17795372	83892464	102488368	276849728	1627002	193061169	289591765	--	--	--	--	--	--	--
+1	7	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	18106968	85361424	104282936	281697344	1655490	196441668	294662494	--	--	--	--	--	--	--
+1	8	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	913315200	2739945728	237265456	0	0	695979696	3194546688	--	--	--	--	--	--	--
+1	9	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	138028384	414085152	35857684	0	0	105182676	482788544	--	--	--	--	--	--	--
+1	10	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	112344320	337032960	55774768	0	0	89741008	415411040	--	--	--	--	--	--	--
+1	11	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	94766048	284298144	47047812	0	0	75699396	350412608	--	--	--	--	--	--	--
+1	12	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	107255864	321767584	53248540	0	0	85676308	396595680	--	--	--	--	--	--	--
+1	13	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	14	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	46775360	220512400	269391968	727702976	4276595	507463717	761195582	--	--	--	--	--	--	--
+1	15	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	873260992	2619782912	226859968	0	0	665456768	3054447104	--	--	--	--	--	--	--
+1	16	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	137734032	413202080	35781212	0	0	104958380	481758944	--	--	--	--	--	--	--
+1	17	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	116440464	349321376	30249468	0	0	88731884	407279424	--	--	--	--	--	--	--
+1	18	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1349314048	4047942144	669884160	0	0	1077836032	4989304320	--	--	--	--	--	--	--
+1	19	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	220826528	662479616	109632144	0	0	176396976	816541312	--	--	--	--	--	--	--
+1	20	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1481137664	4443412992	735329664	0	0	1183137152	5476743168	--	--	--	--	--	--	--
+1	21	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	22	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	23	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	18237264	85975664	105033344	283724384	1667403	197855230	296782829	--	--	--	--	--	--	--
+1	24	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	18225250	85919040	104964160	283537504	1666305	197724911	296587348	--	--	--	--	--	--	--
+1	25	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	834766016	2504297984	216859552	0	0	636122208	2919801344	--	--	--	--	--	--	--
+1	26	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	138097728	414293184	35875696	0	0	105235536	483031072	--	--	--	--	--	--	--
+1	27	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	105301488	315904480	52278264	0	0	84115176	389369056	--	--	--	--	--	--	--
+1	28	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	748317184	2244951552	371511584	0	0	597758240	2767022080	--	--	--	--	--	--	--
+1	29	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	706215872	2118647552	350609856	0	0	564127360	2611345920	--	--	--	--	--	--	--
+1	30	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	31	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	32	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	135766352	407299040	35270040	0	0	103458920	474876512	--	--	--	--	--	--	--
+1	33	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	833960704	2501882112	216650352	0	0	635508592	2916984576	--	--	--	--	--	--	--
+1	34	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	137434176	412302560	35703316	0	0	104729876	480710176	--	--	--	--	--	--	--
+1	35	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	205562112	616686336	102053928	0	0	164203624	760098752	--	--	--	--	--	--	--
+1	36	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	208017280	624051840	103272832	0	0	166164800	769177152	--	--	--	--	--	--	--
+1	37	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	192194832	576584512	95417576	0	0	153525816	710671104	--	--	--	--	--	--	--
+2	39	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	40	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	41	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	42	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+2	43	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	17952522	84633320	103393440	279294560	1641370	194766090	292149122	--	--	--	--	--	--	--
+2	44	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	17712488	83501736	102011024	275560288	1619424	192161981	288242979	--	--	--	--	--	--	--
+2	45	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	849776512	2549329408	220759056	0	0	647560848	2972304128	--	--	--	--	--	--	--
+2	46	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	140624352	421873088	36532076	0	0	107160908	491868608	--	--	--	--	--	--	--
+2	47	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	102417584	307252768	50846516	0	0	81811492	378705376	--	--	--	--	--	--	--
+2	48	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	670886016	2012658048	333069888	0	0	535905856	2480708096	--	--	--	--	--	--	--
+2	49	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	96407840	289223520	47862896	0	0	77010896	356483360	--	--	--	--	--	--	--
+2	50	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	51	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	52	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	48075464	226641472	276879648	747929280	4395462	521568522	782352804	--	--	--	--	--	--	--
+2	53	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	54	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	55	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	56	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	132308112	396924352	34371644	0	0	100823628	462780480	--	--	--	--	--	--	--
+2	57	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	786319104	2358957312	204273792	0	0	599203968	2750346240	--	--	--	--	--	--	--
+2	58	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	711763968	2135291904	353364288	0	0	568559424	2631860736	--	--	--	--	--	--	--
+2	59	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	745342208	2236026624	370034624	0	0	595381696	2756021760	--	--	--	--	--	--	--
+2	60	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	100980136	302940416	50132872	0	0	80663248	373390176	--	--	--	--	--	--	--
+2	61	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	62	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	63	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	64	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	66	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	67	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	68	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	69	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+3	70	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	20551238	82204952	103565136	279758368	1644095	195089513	292634276	--	--	--	--	--	--	--
+3	71	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	20529654	82118616	103456360	279464544	1642369	194884614	292326929	--	--	--	--	--	--	--
+3	72	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	629791744	2519166976	204512944	0	0	599905456	2753566208	--	--	--	--	--	--	--
+3	73	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	100932744	403730976	32775998	0	0	96143046	441296672	--	--	--	--	--	--	--
+3	74	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	556696896	2226787584	345474080	0	0	555863904	2573094656	--	--	--	--	--	--	--
+3	75	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	75331872	301327488	46749336	0	0	75219160	348189536	--	--	--	--	--	--	--
+3	76	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	518252224	2073008896	321616160	0	0	517476832	2395400448	--	--	--	--	--	--	--
+3	77	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	78	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	79	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	80	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	81	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2955041024	0	191918720	0	0	562962304	2583997440	--	--	--	--	--	--	--
+3	82	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	497888352	0	32335964	0	0	94852284	435372032	--	--	--	--	--	--	--
+3	83	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	550085248	0	35725952	0	0	104796256	481014944	--	--	--	--	--	--	--
+3	84	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	804936576	0	99905248	0	0	160746464	744095360	--	--	--	--	--	--	--
+3	85	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4730077696	0	587076864	0	0	944600320	4372554240	--	--	--	--	--	--	--
+3	86	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5252720128	0	651944960	0	0	1048972288	4855692800	--	--	--	--	--	--	--
+3	87	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	88	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	89	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	20472912	81891640	103170416	278692096	1637829	194345963	291518930	--	--	--	--	--	--	--
+3	90	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	20127960	80511840	101432088	273996416	1610233	191071408	286607129	--	--	--	--	--	--	--
+3	91	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	525495584	0	34128948	0	0	100111732	459512800	--	--	--	--	--	--	--
+3	92	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3164356864	0	205512992	0	0	602838816	2767031040	--	--	--	--	--	--	--
+3	93	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2616972288	0	324807296	0	0	522611328	2419168256	--	--	--	--	--	--	--
+3	94	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2729107200	0	338725024	0	0	545004704	2522827520	--	--	--	--	--	--	--
+3	95	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2383038464	0	295772448	0	0	475894560	2202916352	--	--	--	--	--	--	--
+3	96	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	97	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	98	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3396773120	0	220607552	0	0	647116352	2970264320	--	--	--	--	--	--	--
+3	99	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	481721408	0	31285980	0	0	91772348	421235040	--	--	--	--	--	--	--
+3	100	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	496189024	0	32225598	0	0	94528542	433886080	--	--	--	--	--	--	--
+3	101	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5117491200	0	635160896	0	0	1021967168	4730684928	--	--	--	--	--	--	--
+3	102	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5340264960	0	662810624	0	0	1066455040	4936620544	--	--	--	--	--	--	--
+3	103	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	883075392	0	109603512	0	0	176350840	816328064	--	--	--	--	--	--	--
+4	105	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	106	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	107	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	108	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	109	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	110	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+4	111	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	19828518	79314072	99923088	269920160	1586278	188228852	282343264	--	--	--	--	--	--	--
+4	112	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	19965648	79862584	100614128	271786848	1597248	189530589	284295867	--	--	--	--	--	--	--
+4	113	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	557126976	0	36183288	0	0	106137784	487172480	--	--	--	--	--	--	--
+4	114	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	518988064	0	33706308	0	0	98871972	453822400	--	--	--	--	--	--	--
+4	115	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2512408320	0	311829280	0	0	501729824	2322507776	--	--	--	--	--	--	--
+4	116	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2718156032	0	337365792	0	0	542817824	2512704000	--	--	--	--	--	--	--
+4	117	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2479072256	0	307691744	0	0	495072736	2291691264	--	--	--	--	--	--	--
+4	118	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	119	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	120	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	55119844	220479376	277768864	750331328	4409578	523243586	784865404	--	--	--	--	--	--	--
+4	121	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	122	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	123	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	124	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2995749376	0	194562576	0	0	570717712	2619594240	--	--	--	--	--	--	--
+4	125	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	548968768	0	35653440	0	0	104583584	480038624	--	--	--	--	--	--	--
+4	126	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2439062016	0	302725856	0	0	487082464	2254705408	--	--	--	--	--	--	--
+4	127	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2418878976	0	300220800	0	0	483051904	2236047872	--	--	--	--	--	--	--
+4	128	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2423132672	0	300748768	0	0	483901408	2239980032	--	--	--	--	--	--	--
+4	129	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	130	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	131	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	132	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	134	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	135	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	136	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	137	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+5	138	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	139	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	555984320	0	36109076	0	0	105920084	486173312	--	--	--	--	--	--	--
+5	140	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2973064448	0	193089280	0	0	566395904	2599757824	--	--	--	--	--	--	--
+5	141	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2458131456	0	305092672	0	0	490890816	2272333312	--	--	--	--	--	--	--
+5	142	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2368786432	0	294003552	0	0	473048416	2189741568	--	--	--	--	--	--	--
+5	143	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	387529920	0	48098540	0	0	77390028	358238432	--	--	--	--	--	--	--
+5	144	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	145	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	146	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	147	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3461003776	0	224779088	0	0	659352912	3026429952	--	--	--	--	--	--	--
+5	148	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3060971264	0	198798480	0	0	583143056	2676626688	--	--	--	--	--	--	--
+5	149	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	522781600	0	33952684	0	0	99594700	457139584	--	--	--	--	--	--	--
+5	150	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	883020032	0	109596632	0	0	176339800	816276864	--	--	--	--	--	--	--
+5	151	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5059381248	0	627948608	0	0	1010362432	4676967424	--	--	--	--	--	--	--
+5	152	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	860769792	0	106835032	0	0	171896408	795708416	--	--	--	--	--	--	--
+5	153	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	154	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	155	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	457377376	0	29704928	0	0	87134592	399947712	--	--	--	--	--	--	--
+5	156	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3024941312	0	196458480	0	0	576279024	2645120768	--	--	--	--	--	--	--
+5	157	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2428493056	0	301414080	0	0	484971968	2244935168	--	--	--	--	--	--	--
+5	158	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2636010240	0	327170208	0	0	526413216	2436767232	--	--	--	--	--	--	--
+5	159	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2337041408	0	290063488	0	0	466708864	2160396032	--	--	--	--	--	--	--
+5	160	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	161	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	162	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	535789696	0	34797512	0	0	102072840	468514368	--	--	--	--	--	--	--
+5	163	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3234417152	0	210063152	0	0	616185904	2828294400	--	--	--	--	--	--	--
+5	164	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3031343616	0	196874288	0	0	577498672	2650719232	--	--	--	--	--	--	--
+5	165	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4874628096	0	605017792	0	0	973467328	4506178560	--	--	--	--	--	--	--
+5	166	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5321946624	0	660537024	0	0	1062796992	4919686656	--	--	--	--	--	--	--
+5	167	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4941419520	0	613307648	0	0	986804992	4567922176	--	--	--	--	--	--	--
+6	169	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	170	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	171	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+6	172	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	173	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	174	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+6	175	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	YES	30013368	120053472	151248224	408563712	2401064	284911940	427367900	--	--	--	--	--	--	--
+6	176	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	19493696	77974784	98235792	265362320	1559492	185050435	277575649	--	--	--	--	--	--	--
+6	177	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	512645792	0	33294402	0	0	97663746	448276448	--	--	--	--	--	--	--
+6	178	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3017652480	0	195985104	0	0	574890448	2638747136	--	--	--	--	--	--	--
+6	179	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2441496832	0	303028032	0	0	487568960	2256955904	--	--	--	--	--	--	--
+6	180	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2387339008	0	296306208	0	0	476753440	2206891776	--	--	--	--	--	--	--
+6	181	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2633229056	0	326825024	0	0	525857856	2434196224	--	--	--	--	--	--	--
+6	182	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	183	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	184	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	185	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	186	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	187	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	YES	30764594	123058376	155033936	418789984	2461162	292043216	438064836	--	--	--	--	--	--	--
+6	188	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	19625792	78503168	98901480	267160528	1570060	186304409	279456619	--	--	--	--	--	--	--
+6	189	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3489546496	0	226632816	0	0	664790640	3051388672	--	--	--	--	--	--	--
+6	190	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3246601472	0	210854464	0	0	618507328	2838948608	--	--	--	--	--	--	--
+6	191	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2733838080	0	339312192	0	0	545949504	2527200768	--	--	--	--	--	--	--
+6	192	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2735799040	0	339555584	0	0	546341120	2529013504	--	--	--	--	--	--	--
+6	193	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2547676416	0	316206592	0	0	508772864	2355110144	--	--	--	--	--	--	--
+6	194	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	195	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	196	Charging Weapons	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	197	Charging Weapons	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	199	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	200	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	201	Officer Ability	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+7	202	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	203	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	475592864	0	30887954	0	0	90604786	415876032	--	--	--	--	--	--	--
+7	204	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3207194368	0	208295120	0	0	610999760	2804489728	--	--	--	--	--	--	--
+7	205	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2454129408	0	304595936	0	0	490091488	2268633856	--	--	--	--	--	--	--
+7	206	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2599490560	0	322637536	0	0	519120352	2403007744	--	--	--	--	--	--	--
+7	207	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2395430400	0	297310464	0	0	478369280	2214371584	--	--	--	--	--	--	--
+7	208	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	209	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	210	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	NO	52278344	209113376	263449520	711650752	4182259	496269699	744404552	--	--	--	--	--	--	--
+7	211	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	512192512	0	33264962	0	0	97577378	447880096	--	--	--	--	--	--	--
+7	212	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	531294112	0	34505540	0	0	101216388	464583264	--	--	--	--	--	--	--
+7	213	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	535963488	0	34808800	0	0	102105952	468666336	--	--	--	--	--	--	--
+7	214	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4821581824	0	598433920	0	0	962873472	4457142272	--	--	--	--	--	--	--
+7	215	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	823270016	0	102180720	0	0	164407664	761043072	--	--	--	--	--	--	--
+7	216	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	5439246848	0	675095808	0	0	1086222080	5028120576	--	--	--	--	--	--	--
+7	217	Officer Ability	Gabbaghoul	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	218	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	219	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	456774368	0	29665764	0	0	87019716	399420416	--	--	--	--	--	--	--
+7	220	Attack	Gabbaghoul	ThunderDome	U.S.S. RELATIVITY	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3326019584	0	216012368	0	0	633637200	2908394752	--	--	--	--	--	--	--
+7	221	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2631332096	0	326589568	0	0	525479040	2432442624	--	--	--	--	--	--	--
+7	222	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2419892992	0	300346688	0	0	483254336	2236985344	--	--	--	--	--	--	--
+7	223	Attack	Gabbaghoul	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2569358080	0	318897632	0	0	513102816	2375152896	--	--	--	--	--	--	--
+7	224	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Gabbaghoul	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

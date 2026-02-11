@@ -1,0 +1,506 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Temporal Dreadnought	43	PARTIAL	Static Temporal Dreadnought	43	4066685184	0	Krenim Commander	--	--	3600000000	0	3900000000	0	Vorex Cluster	2/23/2025 2:31:13 PM
+
+Formation Armada Results	Leader	Alliance Tag
+VICTORY	XanOfHanoi	FAFO
+DEFEAT	Jeepster1	FAFO
+--	--	--
+
+Reward Name	Count
+Encrypted Intelligence	28624
+Krenim Temporal Wreckage	58
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	4070825	5403610	16256181	Anti-Tachyon Weaponry	Defensive Measures	Persistence Is Key	Luck Of The Irish	Know Your Enemy	5	2656346	100866	100866	649257	0.12	2.4	5	118435	831116	131171	5	17273926	15238435	171	220	56.49	2119140	0	1	NO	NO
+Player Fleet 2	98745424	48397840	426645824	Drain of the Empire	Joy In Vengeance	See the Flaws	Quick Thinking	Rage of Khitomer	6	86985888	14004956	1440485	1108025	0.22	2.9	6	826001	285597	8567970	6	307906179	545385468	132	590	109.72	1389200	0	1	NO	NO
+Enemy Fleet 1	24185000	292500000	3750000128	ship_ability_name_{0}	--	--	--	--	0	12985000	2500000	1500000	1600000	0.15	1.5	0	1000000	2500000	55000000	0	3900000000	3600000000	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+1	4	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+1	5	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+1	6	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	683682	2822380	1644557	3709709	0	2768852	6091476	--	--	--	--	--	--	--
+1	7	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	714090	2947910	1717702	3874704	0	2892002	6362404	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	303242	1175987	1073892	1051912	584810	1636657	2553186	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	320182	1241683	1133883	1110676	617480	1728087	2695817	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	317821	1232524	1125521	1102485	612926	1715342	2675935	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	323754	1255532	1146531	1123065	624368	1747363	2725887	--	--	--	--	--	--	--
+1	12	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	41294708	160142880	104869904	106738360	79638008	233610172	259073688	--	--	--	--	--	--	--
+1	13	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	41185392	159718960	104592296	106455800	79427192	232991776	258387864	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	15	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+1	16	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	712925	2943101	1714899	3868382	0	2887283	6352024	--	--	--	--	--	--	--
+1	17	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	622058	2567985	1496325	3375334	0	2519282	5542420	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1057713	4101865	3752908	3671489	2039830	5712424	8911381	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1123771	4358037	3987287	3900783	2167223	6069180	9467921	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	272086	1055165	965398	944454	524726	1469464	2292365	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	284688	1104035	1010111	988197	549029	1537523	2398537	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	254348	986374	902460	882880	490517	1373664	2142915	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	274395	1064117	973589	952467	529178	1481931	2311815	--	--	--	--	--	--	--
+1	24	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8404059	32591352	21331406	21719700	16207466	47536263	52717720	--	--	--	--	--	--	--
+1	25	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7159301	27764120	18171928	18502710	13806915	40495484	44909490	--	--	--	--	--	--	--
+1	26	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	27	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+1	28	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	373204	3358838	2071323	3508091	0	2909830	6401626	--	--	--	--	--	--	--
+1	29	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	YES	338542	3046881	1878946	3182273	0	2639575	5807067	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	252552	979411	896087	876647	487054	1363965	2127786	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	294683	1142795	1045571	1022889	568304	1591501	2482741	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	294645	1142648	1045436	1022757	568231	1591296	2482421	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	287930	1116605	1021609	999448	555280	1555027	2425845	--	--	--	--	--	--	--
+1	34	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7982346	30955928	20250452	20626894	15394180	45144522	50065278	--	--	--	--	--	--	--
+1	35	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7998892	31020092	20292426	20669648	15426089	45238097	50169050	--	--	--	--	--	--	--
+1	36	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	41538452	161088144	105379088	107338016	80108080	234922612	260529168	--	--	--	--	--	--	--
+1	37	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+1	38	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+1	39	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	YES	695612	2871629	1673254	3774441	0	2817167	6197769	--	--	--	--	--	--	--
+1	40	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	633971	2617164	1524981	3439973	0	2567528	5648561	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	272243	1055771	965947	944995	525028	1470306	2293678	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	252647	979778	896419	876975	487236	1364474	2128581	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	257411	998251	913322	893511	496423	1390202	2168716	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	284350	1102722	1008903	987019	548376	1535691	2395679	--	--	--	--	--	--	--
+1	45	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	297236	1152696	1054626	1031750	573228	1605287	2504249	--	--	--	--	--	--	--
+1	46	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	269394	1044723	955839	935106	519534	1454920	2269676	--	--	--	--	--	--	--
+2	48	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+2	49	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+2	50	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+2	51	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	52	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1320235	5119934	4426563	4670312	2546110	6747445	11335709	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1404523	5446807	4709169	4968479	2708661	7178223	12059416	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	327654	1270659	1098579	1159072	631890	1674572	2813282	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	340634	1320997	1142099	1204988	656922	1740910	2924730	--	--	--	--	--	--	--
+2	56	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	57	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+2	58	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	59	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	60	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	61	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	62	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1129178	4379005	3794007	3997247	2177650	5775032	9702055	--	--	--	--	--	--	--
+2	63	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	271426	1052603	911984	960837	523452	1388172	2332130	--	--	--	--	--	--	--
+2	64	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	307644	1193060	1033676	1089049	593300	1573406	2643323	--	--	--	--	--	--	--
+2	65	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	314522	1219732	1056785	1113395	606564	1608581	2702417	--	--	--	--	--	--	--
+2	66	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8231649	31922736	19879434	22100036	15874967	44367960	53640862	--	--	--	--	--	--	--
+2	67	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8929518	34629104	21564786	23973648	17220826	48129418	58188464	--	--	--	--	--	--	--
+2	68	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8560939	33199740	20674670	22984102	16510013	46142808	55786656	--	--	--	--	--	--	--
+2	69	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+2	70	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+2	71	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	72	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	74	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+3	75	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+3	76	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+3	77	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	656203	2624814	1540655	3472785	0	2592018	5702439	--	--	--	--	--	--	--
+3	78	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	856390	3425559	2010659	4532221	0	3382759	7442070	--	--	--	--	--	--	--
+3	79	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	300057	1200227	1059108	1077622	593134	1614560	2615588	--	--	--	--	--	--	--
+3	80	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1208782	4835128	4266628	4341213	2389449	6504274	10536926	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	290255	1161022	1024512	1042422	573759	1561820	2530150	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1122964	4491854	3963715	4033005	2219808	6042498	9788848	--	--	--	--	--	--	--
+3	83	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8319075	33276300	20582218	22890032	16444660	45953955	55558330	--	--	--	--	--	--	--
+3	84	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8253945	33015780	20421080	22710826	16315915	45594180	55123366	--	--	--	--	--	--	--
+3	85	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	86	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	418253	3764278	2321664	3931737	0	3261229	7174703	--	--	--	--	--	--	--
+3	87	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	352609	3173485	1957285	3314662	0	2749388	6048653	--	--	--	--	--	--	--
+3	88	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1223967	4895870	4330064	4399111	2419467	6591023	10677456	--	--	--	--	--	--	--
+3	89	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	298895	1195581	1057410	1074272	590838	1609540	2607456	--	--	--	--	--	--	--
+3	90	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1096563	4386254	3879343	3941203	2167622	5904956	9566029	--	--	--	--	--	--	--
+3	91	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1199188	4796752	4242402	4310052	2370484	6457587	10461291	--	--	--	--	--	--	--
+3	92	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	273416	1093662	967269	982693	540471	1472332	2385179	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	258681	1034722	915141	929734	511344	1392985	2256637	--	--	--	--	--	--	--
+3	94	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7722103	30888410	19095400	21244588	15264600	42650565	51564536	--	--	--	--	--	--	--
+3	95	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8162687	32650746	20184886	22456696	16135521	45083992	54506544	--	--	--	--	--	--	--
+3	96	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	97	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+3	98	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	578810	2315240	1358948	3063202	0	2286312	5029888	--	--	--	--	--	--	--
+3	99	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	614526	2458106	1442804	3252221	0	2427393	5340264	--	--	--	--	--	--	--
+3	100	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	277433	1109733	981479	997133	548413	1493965	2420226	--	--	--	--	--	--	--
+3	101	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1227757	4911026	4343451	4412725	2426957	6611418	10710498	--	--	--	--	--	--	--
+3	102	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1157383	4629532	4094490	4159793	2287847	6232460	10096585	--	--	--	--	--	--	--
+3	103	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	286922	1147689	1015048	1031237	567170	1545063	2503003	--	--	--	--	--	--	--
+3	104	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8034124	32136494	19856724	22100018	15881385	44367925	53640820	--	--	--	--	--	--	--
+3	105	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8679314	34717256	21451342	23874788	17156760	47930944	57948516	--	--	--	--	--	--	--
+3	106	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8218382	32873528	20312126	22606868	16245616	45385480	54871040	--	--	--	--	--	--	--
+3	107	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+3	108	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+3	109	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	641195	2564781	1505418	3393358	0	2532735	5572017	--	--	--	--	--	--	--
+3	110	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	510143	2040571	1197729	2699797	0	2015075	4433165	--	--	--	--	--	--	--
+3	111	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	262533	1050132	928762	943577	518959	1413726	2290237	--	--	--	--	--	--	--
+3	112	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	296361	1185446	1048437	1065162	585830	1595891	2585345	--	--	--	--	--	--	--
+3	113	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	258915	1035659	915962	930574	511807	1394242	2258675	--	--	--	--	--	--	--
+3	114	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	259110	1036439	916652	931275	512193	1395293	2260376	--	--	--	--	--	--	--
+3	115	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	272444	1089774	963823	979197	538550	1467095	2376693	--	--	--	--	--	--	--
+3	116	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	277285	1109141	980951	996599	548121	1493167	2418930	--	--	--	--	--	--	--
+4	118	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+4	119	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+4	120	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+4	121	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+4	122	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+4	123	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	124	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	313830	1255320	1078043	1137752	620360	1643770	2761535	--	--	--	--	--	--	--
+4	125	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	315946	1263784	1085312	1145423	624543	1654854	2780154	--	--	--	--	--	--	--
+4	126	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	312144	1248576	1072251	1131640	617027	1634939	2746699	--	--	--	--	--	--	--
+4	127	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	293097	1172388	1006823	1062588	579377	1535176	2579097	--	--	--	--	--	--	--
+4	128	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	129	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+4	130	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	131	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	132	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	133	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	134	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	283536	1134144	976466	1028791	560477	1486348	2497066	--	--	--	--	--	--	--
+4	135	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	284192	1136768	978725	1031171	561774	1489787	2502843	--	--	--	--	--	--	--
+4	136	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	264878	1059514	912211	961093	523595	1388541	2332750	--	--	--	--	--	--	--
+4	137	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	268560	1074241	924891	974452	530874	1407842	2365176	--	--	--	--	--	--	--
+4	138	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46669040	186676160	115166160	128323744	92252624	257622336	311465392	--	--	--	--	--	--	--
+4	139	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8287176	33148704	20450436	22786872	16381604	45746852	55307940	--	--	--	--	--	--	--
+4	140	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8706000	34824000	21483978	23938494	17209512	48058842	58103142	--	--	--	--	--	--	--
+4	141	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+4	142	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+4	143	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	144	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	146	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+5	147	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+5	148	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	748905	2995622	1758303	3963386	0	2958192	6508024	--	--	--	--	--	--	--
+5	149	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	488701	1954803	1147387	2586321	0	1930379	4246833	--	--	--	--	--	--	--
+5	150	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	336068	1344270	1154234	1218303	664318	1760146	2957047	--	--	--	--	--	--	--
+5	151	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	323361	1293446	1110594	1172241	639202	1693598	2845246	--	--	--	--	--	--	--
+5	152	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	317415	1269659	1090170	1150683	627446	1662452	2792921	--	--	--	--	--	--	--
+5	153	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1291250	5165001	4434837	4681006	2552467	6762895	11361666	--	--	--	--	--	--	--
+5	154	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7983768	31935072	19691524	21949640	15781845	44066025	53275824	--	--	--	--	--	--	--
+5	155	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7727000	30908002	19058220	21243712	15274282	42648808	51562408	--	--	--	--	--	--	--
+5	156	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	157	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+5	158	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	344857	3103711	1914364	3241852	0	2688995	5915789	--	--	--	--	--	--	--
+5	159	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	397340	3576063	2205710	3735228	0	3098231	6816110	--	--	--	--	--	--	--
+5	160	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	284374	1137495	979341	1031826	562133	1490735	2504434	--	--	--	--	--	--	--
+5	161	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	262047	1048187	902450	950815	517998	1373692	2307805	--	--	--	--	--	--	--
+5	162	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1102339	4409357	3796294	3999750	2179039	5778648	9708131	--	--	--	--	--	--	--
+5	163	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1152202	4608807	3968012	4180671	2277605	6040036	10147261	--	--	--	--	--	--	--
+5	164	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	293446	1173785	1010585	1064746	580067	1538294	2584335	--	--	--	--	--	--	--
+5	165	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1182607	4730426	4072722	4290993	2337707	6199423	10415032	--	--	--	--	--	--	--
+5	166	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8928608	35714432	22010528	24543956	17649548	49274364	59572708	--	--	--	--	--	--	--
+5	167	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46178328	184713312	113837376	126940144	91282608	254844616	308107152	--	--	--	--	--	--	--
+5	168	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	169	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	745847	2983387	1751122	3947199	0	2946111	6481444	--	--	--	--	--	--	--
+5	170	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	544037	2176148	1277307	2879173	0	2148958	4727707	--	--	--	--	--	--	--
+5	171	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1083617	4334468	3731797	3931810	2142030	5680493	9543229	--	--	--	--	--	--	--
+5	172	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1129048	4516191	3888253	4096652	2231835	5918648	9943331	--	--	--	--	--	--	--
+5	173	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	288283	1153134	992800	1046012	569861	1511227	2538863	--	--	--	--	--	--	--
+5	174	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	289729	1158916	997778	1051257	572719	1518805	2551594	--	--	--	--	--	--	--
+5	175	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46648240	186592960	114936288	128214568	92211504	257403152	311200408	--	--	--	--	--	--	--
+5	176	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8489877	33959508	20918152	23334770	16782292	46846809	56637790	--	--	--	--	--	--	--
+5	177	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8328934	33315736	20521606	22892412	16464149	45958731	55564106	--	--	--	--	--	--	--
+5	178	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+5	179	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	335376	3018386	1861735	3152729	0	2615070	5753156	--	--	--	--	--	--	--
+5	180	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	367033	3303297	2037469	3450322	0	2861913	6296208	--	--	--	--	--	--	--
+5	181	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	307858	1231433	1060206	1117034	608556	1613838	2711249	--	--	--	--	--	--	--
+5	182	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1162453	4649814	4003274	4217854	2297869	6093755	10237509	--	--	--	--	--	--	--
+5	183	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	312040	1248162	1074609	1132209	616823	1635762	2748081	--	--	--	--	--	--	--
+5	184	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	301546	1206182	1038466	1094130	596077	1580746	2655655	--	--	--	--	--	--	--
+5	185	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	264310	1057240	910234	959023	522472	1385552	2327727	--	--	--	--	--	--	--
+5	186	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1067503	4270011	3676282	3873334	2110177	5596010	9401297	--	--	--	--	--	--	--
+6	188	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+6	189	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+6	190	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+6	191	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	192	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	277239	1108956	977718	995385	548029	1491345	2415982	--	--	--	--	--	--	--
+6	193	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	781571	3126286	2756310	2806112	1544964	4204291	6810952	--	--	--	--	--	--	--
+6	194	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	282020	1128079	994578	1012548	557480	1517063	2457642	--	--	--	--	--	--	--
+6	195	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	280673	1122693	989829	1007714	554818	1509819	2445908	--	--	--	--	--	--	--
+6	196	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	197	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+6	198	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	199	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	200	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	201	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	202	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	255791	1023163	904871	919332	505632	1377400	2231389	--	--	--	--	--	--	--
+6	203	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	270550	1082201	957083	972378	534807	1456877	2360142	--	--	--	--	--	--	--
+6	204	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	797744	3190974	2822055	2867154	1576932	4295747	6959112	--	--	--	--	--	--	--
+6	205	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	693561	2774246	2453505	2492714	1370991	3734739	6050278	--	--	--	--	--	--	--
+6	206	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	27796988	111187952	71856400	73346712	54947460	161109504	178026008	--	--	--	--	--	--	--
+6	207	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8339639	33358556	21558322	22005446	16485310	48335995	53411278	--	--	--	--	--	--	--
+6	208	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7917082	31668328	20465994	20890464	15650025	45886885	50705008	--	--	--	--	--	--	--
+6	209	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+6	210	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+6	211	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	212	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	214	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+7	215	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+7	216	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+7	217	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	317426	2856830	1761984	2983920	0	2475050	5445110	--	--	--	--	--	--	--
+7	218	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	378004	3402040	2098249	3553385	0	2947398	6484280	--	--	--	--	--	--	--
+7	219	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	304836	1219342	1074816	1094388	602581	1639680	2656283	--	--	--	--	--	--	--
+7	220	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1210844	4843378	4269305	4347047	2393526	6513015	10551085	--	--	--	--	--	--	--
+7	221	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	41060456	164241824	100959056	112795320	81165904	226447512	273775048	--	--	--	--	--	--	--
+7	222	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7522058	30088232	18495164	20663504	14869163	41483985	50154136	--	--	--	--	--	--	--
+7	223	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+7	224	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+7	225	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	571736	2286944	1342339	3025764	0	2258369	4968414	--	--	--	--	--	--	--
+7	226	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	855334	3421335	2008179	4526630	0	3378587	7432891	--	--	--	--	--	--	--
+7	227	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	299646	1198585	1059998	1076948	592323	1613549	2613951	--	--	--	--	--	--	--
+7	228	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1175748	4702990	4159206	4225711	2324149	6331223	10256581	--	--	--	--	--	--	--
+7	229	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	291670	1166682	1031783	1048281	576557	1570600	2544373	--	--	--	--	--	--	--
+7	230	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8228361	32913444	20221316	22600700	16265342	45373095	54856068	--	--	--	--	--	--	--
+7	231	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7812649	31250596	19199698	21458872	15443587	43080762	52084640	--	--	--	--	--	--	--
+7	232	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+7	233	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+7	234	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	342053	3078481	1898690	3215432	0	2667080	5867576	--	--	--	--	--	--	--
+7	235	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	277114	2494029	1538222	2604979	0	2160732	4753612	--	--	--	--	--	--	--
+7	236	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	298696	1194786	1056630	1073531	590445	1608430	2605658	--	--	--	--	--	--	--
+7	237	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	262730	1050922	929401	944267	519350	1414759	2291911	--	--	--	--	--	--	--
+7	238	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	44961980	179847920	110437368	123479616	88878208	247897284	299707808	--	--	--	--	--	--	--
+7	239	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	43290352	173161424	106331464	118888816	85573840	238680808	288565088	--	--	--	--	--	--	--
+7	240	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8481530	33926120	20832666	23292926	16765791	46762803	56536230	--	--	--	--	--	--	--
+7	241	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+7	242	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	381096	3429868	2115412	3582450	0	2971507	6537319	--	--	--	--	--	--	--
+7	243	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	297113	2674021	1649234	2792978	0	2316670	5096676	--	--	--	--	--	--	--
+7	244	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1116266	4465063	3948730	4011910	2206569	6010892	9737646	--	--	--	--	--	--	--
+7	245	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1200239	4800954	4245779	4313712	2372561	6463070	10470175	--	--	--	--	--	--	--
+7	246	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1099968	4399874	3891078	3953335	2174353	5923133	9595475	--	--	--	--	--	--	--
+8	248	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+8	249	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+8	250	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+8	251	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	252	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1278926	5115702	4387953	4634742	2528105	6696055	11249373	--	--	--	--	--	--	--
+8	253	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	297152	1188610	1019520	1076860	587393	1555796	2613739	--	--	--	--	--	--	--
+8	254	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	255	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+8	256	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	257	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	258	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	259	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	260	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	287606	1150423	990405	1043531	568522	1507644	2532843	--	--	--	--	--	--	--
+8	261	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	277267	1109067	954801	1006017	548084	1453446	2441790	--	--	--	--	--	--	--
+8	262	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8276865	33107460	20298286	22721632	16361222	45615873	55149592	--	--	--	--	--	--	--
+8	263	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8425403	33701608	20662560	23129396	16654842	46434497	56139312	--	--	--	--	--	--	--
+8	264	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46672512	186690048	114460240	128125272	92259488	257223888	310983672	--	--	--	--	--	--	--
+8	265	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+8	266	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+8	267	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	268	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	270	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+9	271	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+9	272	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+9	273	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+9	274	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	428004	3852039	2375791	4023403	0	3337261	7341976	--	--	--	--	--	--	--
+9	275	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	250186	2251672	1388746	2351840	0	1950764	4291680	--	--	--	--	--	--	--
+9	276	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	303861	1215442	1070619	1090628	600653	1634046	2647157	--	--	--	--	--	--	--
+9	277	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	310822	1243288	1095147	1115614	614414	1671483	2707802	--	--	--	--	--	--	--
+9	278	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1198060	4792240	4221233	4300126	2368255	6442715	10437199	--	--	--	--	--	--	--
+9	279	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	320816	1283263	1130359	1151485	634170	1725226	2794867	--	--	--	--	--	--	--
+9	280	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	7591992	30367970	18609014	20838702	15007406	41835710	50579374	--	--	--	--	--	--	--
+9	281	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46933484	187733936	115040400	128824272	92775360	258627180	312680272	--	--	--	--	--	--	--
+9	282	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+9	283	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+9	284	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	608904	2435618	1429605	3222468	0	2405186	5291409	--	--	--	--	--	--	--
+9	285	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	487348	1949391	1144210	2579162	0	1925034	4235077	--	--	--	--	--	--	--
+9	286	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1052446	4209785	3722843	3782494	2080414	5667169	9180813	--	--	--	--	--	--	--
+9	287	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1038637	4154549	3673996	3732866	2053117	5592811	9060354	--	--	--	--	--	--	--
+9	288	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1054715	4218858	3730867	3790647	2084898	5679384	9200601	--	--	--	--	--	--	--
+9	289	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	266548	1066194	942868	957976	526897	1435299	2325184	--	--	--	--	--	--	--
+9	290	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1199728	4798910	4243825	4311825	2371551	6460244	10465595	--	--	--	--	--	--	--
+9	291	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1111804	4447218	3932812	3995829	2197749	5986798	9698614	--	--	--	--	--	--	--
+9	292	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8319158	33276632	20380786	22831556	16444824	45836558	55416398	--	--	--	--	--	--	--
+9	293	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	48123600	192494400	117896160	132073056	95127912	265149448	320565680	--	--	--	--	--	--	--
+9	294	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+9	295	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+9	296	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	644978	2579913	1514300	3413378	0	2547678	5604891	--	--	--	--	--	--	--
+9	297	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	845987	3383950	1986235	4477168	0	3341668	7351672	--	--	--	--	--	--	--
+9	298	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	290394	1161578	1027209	1043675	574034	1563698	2533192	--	--	--	--	--	--	--
+9	299	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1030387	4121547	3644776	3703201	2036808	5548366	8988353	--	--	--	--	--	--	--
+9	300	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1076096	4304386	3806464	3867481	2127164	5794500	9387091	--	--	--	--	--	--	--
+9	301	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	265888	1063550	940521	955598	525590	1431735	2319412	--	--	--	--	--	--	--
+9	302	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	46248924	184995696	113244480	126910928	91422168	254785956	308036240	--	--	--	--	--	--	--
+9	303	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	8481488	33925952	20767654	23273914	16765708	46724634	56490082	--	--	--	--	--	--	--
+9	304	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	45173244	180692976	110610584	123959168	89295824	248860020	300871776	--	--	--	--	--	--	--
+9	305	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+9	306	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+9	307	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	314970	2834727	1748352	2960834	0	2455901	5402982	--	--	--	--	--	--	--
+9	308	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	315045	2835401	1748768	2961538	0	2456485	5404267	--	--	--	--	--	--	--
+9	309	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1099370	4397481	3888751	3951114	2173170	5919804	9590082	--	--	--	--	--	--	--
+9	310	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	1194991	4779965	4226986	4294773	2362188	6434695	10424208	--	--	--	--	--	--	--
+9	311	Shield Depleted	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	XanOfHanoi	F around Find out	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+9	312	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1417574	0	1002863	1018945	560435	1526648	2473169	--	--	--	--	--	--	--
+9	313	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1282208	0	907098	921645	506918	1380865	2237004	--	--	--	--	--	--	--
+9	314	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6134919	0	4340152	4409754	2425429	6606967	10703287	--	--	--	--	--	--	--
+9	315	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5385525	0	3809993	3871093	2129158	5799912	9395857	--	--	--	--	--	--	--
+10	317	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+10	318	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+10	319	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+10	320	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	321	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6473985	0	4438874	4691028	2559478	6777375	11385990	--	--	--	--	--	--	--
+10	322	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6535114	0	4480787	4735322	2583646	6841369	11493500	--	--	--	--	--	--	--
+10	323	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1494530	0	1024721	1082931	590859	1564567	2628474	--	--	--	--	--	--	--
+10	324	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6284245	0	4308779	4553542	2484465	6578743	11052288	--	--	--	--	--	--	--
+10	325	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	326	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+10	327	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	328	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	329	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	330	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	331	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1410290	0	971242	1023382	557555	1478532	2483937	--	--	--	--	--	--	--
+10	332	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6332715	0	4361231	4595356	2503627	6639152	11153777	--	--	--	--	--	--	--
+10	333	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1471787	0	1013594	1068007	581868	1543006	2592250	--	--	--	--	--	--	--
+10	334	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1349175	0	929153	979033	533393	1414460	2376294	--	--	--	--	--	--	--
+10	335	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	43902432	0	21466192	24084612	17356750	48352190	58457796	--	--	--	--	--	--	--
+10	336	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	41499220	0	20291136	22766224	16406646	45705398	55257828	--	--	--	--	--	--	--
+10	337	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	42349708	0	20706984	23232798	16742884	46642088	56390286	--	--	--	--	--	--	--
+10	338	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+10	339	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+10	340	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	341	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	343	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+11	344	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+11	345	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	708787	2835146	1661350	3749080	0	2798238	6156125	--	--	--	--	--	--	--
+11	346	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	743947	2975790	1743765	3935061	0	2937051	6461512	--	--	--	--	--	--	--
+11	347	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3967517	0	2793436	2847259	1568551	4265940	6910823	--	--	--	--	--	--	--
+11	348	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1672005	0	1177220	1199902	661024	1797767	2912384	--	--	--	--	--	--	--
+11	349	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4412932	0	3107043	3166908	1744645	4744858	7686670	--	--	--	--	--	--	--
+11	350	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4485792	0	3158342	3219196	1773450	4823198	7813582	--	--	--	--	--	--	--
+11	351	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	39968036	0	20522720	21053450	15801295	46244895	51100606	--	--	--	--	--	--	--
+11	352	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	42100720	0	21617808	22176858	16644448	48712508	53827326	--	--	--	--	--	--	--
+11	353	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+11	354	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+11	355	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	YES	736146	2944584	1725479	3893795	0	2906251	6393753	--	--	--	--	--	--	--
+11	356	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	661395	2645579	1550267	3498403	0	2611139	5744505	--	--	--	--	--	--	--
+11	357	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3732379	0	2640352	2682777	1475589	4019502	6511595	--	--	--	--	--	--	--
+11	358	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3956206	0	2798691	2843661	1564079	4260548	6902089	--	--	--	--	--	--	--
+11	359	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1513970	0	1071010	1088219	598545	1630436	2641308	--	--	--	--	--	--	--
+11	360	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1374536	0	972371	987995	543420	1480275	2398047	--	--	--	--	--	--	--
+11	361	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3717948	0	2630143	2672405	1469884	4003961	6486419	--	--	--	--	--	--	--
+11	362	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1343778	0	950612	965887	531260	1447151	2344386	--	--	--	--	--	--	--
+11	363	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	37647656	0	19321036	19828354	14883936	43553912	48127070	--	--	--	--	--	--	--
+11	364	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	39296184	0	20167072	20696604	15535679	45461063	50234476	--	--	--	--	--	--	--
+11	365	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+11	366	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	425107	3825968	2359711	3996170	0	3314674	7292282	--	--	--	--	--	--	--
+11	367	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	354718	3192463	1968990	3334485	0	2765830	6084826	--	--	--	--	--	--	--
+11	368	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1398347	0	989202	1005105	552834	1505911	2439577	--	--	--	--	--	--	--
+11	369	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1373466	0	971601	987221	542997	1479116	2396169	--	--	--	--	--	--	--
+11	370	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1402257	0	991968	1007916	554379	1510121	2446399	--	--	--	--	--	--	--
+11	371	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1521518	0	1076335	1093639	601529	1638557	2654464	--	--	--	--	--	--	--
+11	372	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	149555456	0	76712304	78757008	59126492	172993468	191157792	--	--	--	--	--	--	--
+11	373	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	40411000	0	20728238	21280732	15976421	46744127	51652264	--	--	--	--	--	--	--
+11	374	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	141143680	0	72397608	74327304	55800912	163263424	180406080	--	--	--	--	--	--	--
+11	375	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+11	376	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+11	377	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	424286	3818578	2355154	3988453	0	3308271	7278200	--	--	--	--	--	--	--
+11	378	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	434685	3912164	2412874	4086202	0	3389351	7456574	--	--	--	--	--	--	--
+11	379	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3443235	0	2435741	2474923	1361277	3708082	6007094	--	--	--	--	--	--	--
+11	380	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3597926	0	2545170	2586112	1422434	3874672	6276970	--	--	--	--	--	--	--
+11	381	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1309087	0	926047	940943	517545	1409779	2283843	--	--	--	--	--	--	--
+11	382	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3461673	0	2448784	2488175	1368566	3727938	6039260	--	--	--	--	--	--	--
+11	383	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1411272	0	998332	1014390	557943	1519823	2462114	--	--	--	--	--	--	--
+11	384	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3425848	0	2423442	2462425	1354403	3689358	5976760	--	--	--	--	--	--	--
+12	386	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+12	387	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+12	388	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+12	389	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	390	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4105509	0	2888677	2945634	1623106	4413330	7149596	--	--	--	--	--	--	--
+12	391	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4454887	0	3134502	3196305	1761232	4788903	7758023	--	--	--	--	--	--	--
+12	392	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	393	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+12	394	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	395	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	396	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	397	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	398	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1421102	0	1005257	1021447	561830	1530395	2479241	--	--	--	--	--	--	--
+12	399	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3853354	0	2725779	2769679	1523416	4149705	6722523	--	--	--	--	--	--	--
+12	400	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	39087108	0	20017352	20574780	15453021	45193473	49938788	--	--	--	--	--	--	--
+12	401	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	38932388	0	19938116	20493338	15391853	45014581	49741114	--	--	--	--	--	--	--
+12	402	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	40892408	0	20941884	21525058	16166743	47280805	52245288	--	--	--	--	--	--	--
+12	403	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+12	404	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	405	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	407	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+13	408	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	414142	3727278	2298532	3892902	0	3229017	7103837	--	--	--	--	--	--	--
+13	409	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	YES	571701	5145309	3173002	5373946	0	4457487	9806471	--	--	--	--	--	--	--
+13	410	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4248177	0	3071444	3016732	1679509	4693696	7322166	--	--	--	--	--	--	--
+13	411	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3914269	0	2830028	2779616	1547499	4324770	6746642	--	--	--	--	--	--	--
+13	412	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	35395848	0	19045190	17810904	13993687	43015277	43230352	--	--	--	--	--	--	--
+13	413	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	37773488	0	20324510	19007316	14933684	45904736	46134262	--	--	--	--	--	--	--
+13	414	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+13	415	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+13	416	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	271237	2441136	1505396	2549610	0	2114806	4652573	--	--	--	--	--	--	--
+13	417	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	335671	3021036	1863008	3155279	0	2617185	5757809	--	--	--	--	--	--	--
+13	418	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3394825	0	2468563	2415472	1342138	3758202	5862796	--	--	--	--	--	--	--
+13	419	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3372241	0	2452140	2399402	1333209	3733199	5823793	--	--	--	--	--	--	--
+13	420	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3353866	0	2438779	2386329	1325945	3712859	5792060	--	--	--	--	--	--	--
+13	421	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	37020008	0	19908394	18625386	14635797	44982335	45207250	--	--	--	--	--	--	--
+13	422	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	33396096	0	17959548	16802136	13203090	40578986	40781884	--	--	--	--	--	--	--
+13	423	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+13	424	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	302033	2718294	1676314	2839086	0	2354914	5180813	--	--	--	--	--	--	--
+13	425	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	349528	3145755	1939919	3285539	0	2725231	5995510	--	--	--	--	--	--	--
+13	426	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3873639	0	2816685	2756139	1531436	4288241	6689658	--	--	--	--	--	--	--
+13	427	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3620340	0	2632500	2575913	1431295	4007831	6252217	--	--	--	--	--	--	--
+13	428	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	35732120	0	19205474	17974740	14126632	43410956	43628010	--	--	--	--	--	--	--
+13	429	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	36493760	0	19614844	18357876	14427745	44336273	44557952	--	--	--	--	--	--	--
+13	430	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	37771008	0	20301346	19000388	14932704	45888002	46117444	--	--	--	--	--	--	--
+13	431	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+13	432	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+13	433	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	858323	3433290	2009604	4538421	0	3387387	7452251	--	--	--	--	--	--	--
+13	434	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	505929	2023715	1184539	2675122	0	1996658	4392647	--	--	--	--	--	--	--
+13	435	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3709377	0	2697194	2639248	1466495	4106372	6405942	--	--	--	--	--	--	--
+13	436	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3645323	0	2650618	2593672	1441172	4035463	6295322	--	--	--	--	--	--	--
+13	437	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3503104	0	2547207	2492483	1384946	3878024	6049716	--	--	--	--	--	--	--
+14	439	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+14	440	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+14	441	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.3	Luck Of The Irish	Miles O'Brien	--	--	--
+14	442	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+14	443	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	444	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3913149	0	2750137	2806527	1547056	4204911	6811958	--	--	--	--	--	--	--
+14	445	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4086498	0	2871965	2930852	1615589	4391184	7113720	--	--	--	--	--	--	--
+14	446	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1392665	0	978756	998825	550587	1496500	2424333	--	--	--	--	--	--	--
+14	447	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1570413	0	1103676	1126306	620859	1687501	2733753	--	--	--	--	--	--	--
+14	448	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	449	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+14	450	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	451	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	452	Charging Weapons	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	453	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	454	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1291509	0	913487	928266	510595	1390784	2253073	--	--	--	--	--	--	--
+14	455	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4061119	0	2872440	2918910	1605556	4373291	7084734	--	--	--	--	--	--	--
+14	456	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	3628352	0	2566343	2607860	1434462	3907258	6329759	--	--	--	--	--	--	--
+14	457	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	4055300	0	2868324	2914728	1603255	4367025	7074582	--	--	--	--	--	--	--
+14	458	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	145402624	0	74227280	76472160	57484680	167974704	185612040	--	--	--	--	--	--	--
+14	459	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	39890360	0	20363822	20979692	15770586	46082878	50921582	--	--	--	--	--	--	--
+14	460	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	143572432	0	73292976	75509600	56761116	165860396	183275728	--	--	--	--	--	--	--
+14	461	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+14	462	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+14	463	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	464	Charging Weapons	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	466	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Persistence Is Key	Benjamin Sisko	--	--	--
+15	467	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+15	468	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	Joy In Vengeance	Nero	--	--	--
+15	469	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	354918	3194266	1970101	3336366	0	2767391	6088260	--	--	--	--	--	--	--
+15	470	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	263388	2370495	1462031	2475950	0	2053707	4518157	--	--	--	--	--	--	--
+15	471	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5591659	0	3928069	4009774	2210652	6007692	9732462	--	--	--	--	--	--	--
+15	472	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6236996	0	4381410	4472546	2465785	6701044	10855693	--	--	--	--	--	--	--
+15	473	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1455005	0	1022122	1043382	575233	1563260	2532482	--	--	--	--	--	--	--
+15	474	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1406693	0	988184	1008739	556133	1511354	2448395	--	--	--	--	--	--	--
+15	475	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	209243584	0	101617008	114587992	82724088	230046472	278126200	--	--	--	--	--	--	--
+15	476	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	42978444	0	20872042	23536272	16991454	47251340	57126872	--	--	--	--	--	--	--
+15	477	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+15	478	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+15	479	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	558423	2233692	1311083	2955309	0	2205783	4852724	--	--	--	--	--	--	--
+15	480	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Jeepster1	F around Find out	SANCTUS	YES	NO	671150	2684598	1575746	3551885	0	2651056	5832323	--	--	--	--	--	--	--
+15	481	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5600831	0	3961311	4025512	2214278	6031271	9770661	--	--	--	--	--	--	--
+15	482	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5242791	0	3708080	3768177	2072728	5645716	9146060	--	--	--	--	--	--	--
+15	483	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6164076	0	4359679	4430336	2436956	6637804	10753243	--	--	--	--	--	--	--
+15	484	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5691030	0	4025106	4090341	2249938	6128402	9928013	--	--	--	--	--	--	--
+15	485	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	6004803	0	4247030	4315861	2373988	6466291	10475391	--	--	--	--	--	--	--
+15	486	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5169742	0	3656414	3715674	2043848	5567052	9018626	--	--	--	--	--	--	--
+15	487	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	41204336	0	19999976	22561662	16290064	45294720	54761318	--	--	--	--	--	--	--
+15	488	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	41896196	0	20335792	22940494	16563589	46055261	55680810	--	--	--	--	--	--	--
+15	489	Officer Ability	XanOfHanoi	F around Find out	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.1	Know Your Enemy	Changeling Kira	--	--	--
+15	490	Officer Ability	Jeepster1	F around Find out	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	See the Flaws	Nero	--	--	--
+15	491	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	YES	426354	3837190	2366634	4007894	0	3324397	7313675	--	--	--	--	--	--	--
+15	492	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	F around Find out	USS RELATIVITY	YES	NO	341475	3073278	1895481	3209996	0	2662572	5857658	--	--	--	--	--	--	--
+15	493	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5976044	0	4226591	4295157	2362618	6435270	10425140	--	--	--	--	--	--	--
+15	494	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5439343	0	3847007	3909415	2150435	5857328	9488872	--	--	--	--	--	--	--
+15	495	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	1367060	0	966860	982545	540464	1472110	2384819	--	--	--	--	--	--	--
+15	496	Attack	XanOfHanoi	F around Find out	USS RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	5466520	0	3866228	3928948	2161179	5886593	9536282	--	--	--	--	--	--	--
+15	497	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	YES	223090176	0	108227888	122137728	88198320	245203312	296450800	--	--	--	--	--	--	--
+15	498	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	42769688	0	20748890	23415610	16908924	47009106	56834006	--	--	--	--	--	--	--
+15	499	Attack	Jeepster1	F around Find out	SANCTUS	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	NO	41161852	0	19968878	22535350	16273268	45241896	54697452	--	--	--	--	--	--	--
+15	500	Combatant Destroyed	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	Jeepster1	F around Find out	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

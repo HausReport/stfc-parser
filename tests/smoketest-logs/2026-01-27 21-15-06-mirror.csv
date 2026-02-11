@@ -1,0 +1,34 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Gabbaghoul	67	VICTORY	NSEA PROTECTOR	63	1810120064	340525	Annorax	Suder	Seska	254087036	246821896	1543003354	1508753409	Mirror Tholus	1/27/2026 9:15:06 PM
+Imperial Starfleet Ω-Annihilator	65	DEFEAT	Imperial Starfleet Exterminator	65	16852441088	0	Imperial Starfleet Captain	--	--	19090980518	0	12727320345	0	Mirror Tholus	1/27/2026 9:15:06 PM
+
+Reward Name	Count
+Raw Omega-Trellium	63990
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	191614688	569758976	1048746368	Quantum Flux---Trellium Chompers	Past, Present, and Future	Time is Patient	Silence Your Demons	Lone Operative	5	182720256	1471706	15375691	953346	0.22	4.2	5	17409706	79132380	17409706	5	1142965448	954527246	277	931	858.37	43075180	0	16	NO	NO
+Enemy Fleet 1	813239168	130051408	15909150720	Dismantlement---Deadlock---Photophobia	--	--	--	--	0	370477600	19773064	100803856	100803856	0.1	1.5	0	5326292	6327859	14356130	0	12727320576	19090980864	50	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	2	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+1	5	Attack	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NO	2434298	11475978	51473296	6630723	7525468	72308876	7230887	--	--	--	--	--	--	--
+1	6	Attack	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NO	2379839	11219241	50321752	6482383	7357111	70691206	7069120	--	--	--	--	--	--	--
+1	7	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	NO	257471136	886845056	123014808	0	0	187669304	1079661696	--	--	--	--	--	--	--
+1	8	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	NO	217364320	748699328	103852536	0	0	158435672	911480512	--	--	--	--	--	--	--
+1	9	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	YES	2913539328	10035523584	1392033536	0	0	2123662336	12217434112	--	--	--	--	--	--	--
+1	10	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	11	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	12	Officer Ability	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	13	Attack	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NO	819164	3861773	20580898	2651205	3889853	28911721	2891172	--	--	--	--	--	--	--
+1	14	Attack	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NO	842139	3970084	21158124	2725562	3998951	29722600	2972260	--	--	--	--	--	--	--
+1	15	Attack	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	--	--	NO	789700	3722869	19840624	2555843	3749939	27871796	2787179	--	--	--	--	--	--	--
+1	16	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	YES	3828677120	13187665920	1772823296	0	0	2782344448	16006821888	--	--	--	--	--	--	--
+1	17	Shield Depleted	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	Imperial Starfleet Exterminator	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	18	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	YES	20139866112	0	2098243200	0	0	3293070976	18945038336	--	--	--	--	--	--	--
+1	19	Attack	Gabbaghoul	ThunderDome	NSEA PROTECTOR	NO	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	--	--	NO	1650775680	0	171983696	0	0	269918544	1552840832	--	--	--	--	--	--	--
+1	20	Combatant Destroyed	Imperial Starfleet Ω-Annihilator	--	Imperial Starfleet Exterminator	NO	Gabbaghoul	ThunderDome	Imperial Starfleet Exterminator	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,448 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	62	VICTORY	USS ENTERPRISE-D	55	2962538752	0	Kathryn Janeway	The Doctor	Annorax	2639317916	2411432718	5250661332	2626648935	Scalos	10/11/2025 12:26:44 PM
+Hijacked D3 Class	62	DEFEAT	Hijacked D3 Class	62	137234710528	0	Augment Exile	--	--	116141872600	0	52997451449	0	Scalos	10/11/2025 12:26:44 PM
+
+Reward Name	Count
+Common Hijacked Splicer	7562
+Rare Hijacked Splicer	2188
+Uncommon Hijacked Splicer	1636
+Epic Hijacked Splicer	137
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	374718464	174273456	2413546752	Galaxy Class	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	6.5	313381952	3326821	3380307	39420144	0.22	3.4	6.5	2357267	30140157	2357267	6.5	2187775555	2639317916	207	1184	307.52	3997300	0	1	NO	NO
+Enemy Fleet 1	4221288960	519788448	132493631488	Augmented Force---Not So Wounded	--	--	--	--	0	3353468160	361591968	36159196	36159196	0.1	1.5	0	9039799	4519900	90397992	0	52997451776	211989807104	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Adaptive Transformation	Quasi	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1200	The Suit Is Me	Zeph	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1200	Not Playing Nice	The Godsend	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.2	Black Market Armaments	The Godsend	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1700	--	Agony Booth	--	--	--
+1	10	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	--	Agony Booth	--	--	--
+1	11	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5771181	27206994	108636800	22487102	25558114	164921905	24738286	--	--	--	--	--	--	--
+1	12	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	5000998	23576132	94138864	19486124	22147300	142912538	21436880	--	--	--	--	--	--	--
+1	13	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5784055	27267690	108879152	22537268	25615132	165289823	24793474	--	--	--	--	--	--	--
+1	14	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5851048	27583512	110140224	22798300	25911814	167204260	25080638	--	--	--	--	--	--	--
+1	15	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	5935772	27982924	111735064	23128422	26287020	169625393	25443809	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	323195040	1145873408	208503280	0	380586944	467869648	1590289024	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	31700852	112393928	20451216	0	37330180	45891376	155984800	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	31216468	110676568	20138726	0	36759784	45190170	153601376	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	326397248	1157226624	210569120	0	384357760	472505312	1606045440	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	29280180	103811544	18889564	0	34479656	42387120	144073824	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	303480288	1075975552	195784688	0	357371296	439329776	1493282048	--	--	--	--	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+1	24	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	26	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1504838	31936016	132131640	26792552	33608076	196498367	29474755	--	--	--	--	--	--	--
+1	27	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	28	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+1	30	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	31	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	32	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	37284024	174194464	34640596	46045824	254056441	38108467	--	--	--	--	--	--	--
+1	33	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	32677224	152671072	30360418	40356420	222665334	33399800	--	--	--	--	--	--	--
+1	34	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	35	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	36	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	34847704	179566096	35708808	51051784	261890775	39283617	--	--	--	--	--	--	--
+1	37	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	34701280	178811584	35558764	50837268	260790344	39118552	--	--	--	--	--	--	--
+2	39	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	5969579	--	--	--	--
+2	40	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	42	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3021249	14243032	97261392	19341558	29262896	141852285	21277842	--	--	--	--	--	--	--
+2	43	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3340123	15746293	107526712	21382938	32351408	156823890	23523584	--	--	--	--	--	--	--
+2	44	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	2953562	13923935	95082368	18908236	28607298	138674259	20801140	--	--	--	--	--	--	--
+2	45	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3391749	15989676	109188696	21713442	32851448	159247836	23887175	--	--	--	--	--	--	--
+2	46	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3429037	16165460	110389072	21952152	33212602	160998541	24149782	--	--	--	--	--	--	--
+2	47	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	48	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	52	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	998613	21192780	142588688	27911438	42718500	204704366	30705653	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	323806112	1148039808	216944240	0	381306496	470583440	1599513216	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	322005088	1141654400	215737600	0	379185664	467966048	1590616704	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	344085120	1219938176	230530832	0	405186592	500054704	1699686016	--	--	--	--	--	--	--
+2	56	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	331944320	1176893440	222396704	0	390889856	482410528	1639713792	--	--	--	--	--	--	--
+2	57	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	340059648	1205666048	227833824	0	400446304	494204608	1679801216	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	314215776	1114037760	210518896	0	370013152	456645936	1552139648	--	--	--	--	--	--	--
+2	59	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	60	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+2	61	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	63	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	25457128	182404928	35339788	54860164	259184354	38877654	--	--	--	--	--	--	--
+2	64	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24434220	175075600	33919776	52655796	248769907	37315485	--	--	--	--	--	--	--
+2	65	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1569950208	5566187520	1012824256	0	1848736768	2272721088	7724977664	--	--	--	--	--	--	--
+2	66	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1560779520	5533672448	1006907904	0	1837937408	2259444736	7679852544	--	--	--	--	--	--	--
+2	67	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	68	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24002128	184516784	35748944	57245068	262185153	39327771	--	--	--	--	--	--	--
+2	69	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24133320	185525312	35944344	57557960	263618204	39542732	--	--	--	--	--	--	--
+3	71	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3426867	--	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	73	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	74	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3695620	14782479	112984112	22468206	35570396	164783315	24717498	--	--	--	--	--	--	--
+3	75	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3575612	14302446	109315168	21738592	34415316	159432291	23914843	--	--	--	--	--	--	--
+3	76	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3568169	14272676	109087624	21693344	34343680	159100428	23865065	--	--	--	--	--	--	--
+3	77	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3642802	14571210	111369352	22147090	35062024	162428242	24364236	--	--	--	--	--	--	--
+3	78	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3754181	15016724	114774464	22824238	36134048	167394482	25109173	--	--	--	--	--	--	--
+3	79	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	296176192	1184704768	210179824	0	383647168	471631728	1603076224	--	--	--	--	--	--	--
+3	80	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	327680992	1310723968	232537040	0	424456416	521800080	1773598336	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	29507040	118028160	20939510	0	38221480	46987086	159709104	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	276173344	1104693376	195984928	0	357736800	439779104	1494809344	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	326153408	1304613632	231452992	0	422477696	519367552	1765330176	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	325444576	1301778304	230949968	0	421559488	518238832	1761493504	--	--	--	--	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	86	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+3	87	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	89	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1488207	19771890	147346240	28842722	45815552	211534444	31730167	--	--	--	--	--	--	--
+3	90	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	91	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	92	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+3	93	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	94	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	95	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23696428	182166704	35293632	56515972	258845858	38826878	--	--	--	--	--	--	--
+3	96	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23276632	178939520	34668384	55514760	254260259	38139037	--	--	--	--	--	--	--
+3	97	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	98	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	99	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22036808	180919248	35051944	57626304	257073309	38560995	--	--	--	--	--	--	--
+3	100	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	18250740	149836128	29029790	47725724	212906419	31935963	--	--	--	--	--	--	--
+4	102	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3944918	--	--	--	--
+4	103	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	104	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	105	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3798218	15192871	116120776	23091968	36557900	169358028	25403705	--	--	--	--	--	--	--
+4	106	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3521383	14085531	107657256	21408898	33893360	157014285	23552143	--	--	--	--	--	--	--
+4	107	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3764544	15058177	115091296	22887244	36233792	167856567	25178486	--	--	--	--	--	--	--
+4	108	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3804726	15218904	116319752	23131536	36620544	169648228	25447234	--	--	--	--	--	--	--
+4	109	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3774765	15099059	115403768	22949382	36332168	168312297	25246845	--	--	--	--	--	--	--
+4	110	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	111	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	112	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+4	113	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	114	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	115	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1471651	19551928	145707024	28521848	45305856	209181137	31377170	--	--	--	--	--	--	--
+4	116	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	258513888	1034055552	203103200	0	391687392	440560288	1446799744	--	--	--	--	--	--	--
+4	117	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	281317088	1125268352	221018688	0	426237696	479421472	1574420352	--	--	--	--	--	--	--
+4	118	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	246398128	985592512	193584368	0	373330208	419912576	1378992640	--	--	--	--	--	--	--
+4	119	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	257338032	1029352128	202179376	0	389905792	438556320	1440219008	--	--	--	--	--	--	--
+4	120	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	284573440	1138293760	223577072	0	431171552	484970960	1592644864	--	--	--	--	--	--	--
+4	121	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	263683712	1054734848	207164896	0	399520448	449370656	1475733248	--	--	--	--	--	--	--
+4	122	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	123	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+4	124	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	125	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	126	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24304840	186843888	36199808	57967036	265491801	39823771	--	--	--	--	--	--	--
+4	127	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23838520	183259056	35505268	56854864	260398007	39059701	--	--	--	--	--	--	--
+4	128	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	129	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	130	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21480724	176353872	34167432	56172144	250586238	37587934	--	--	--	--	--	--	--
+4	131	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21959240	180282416	34928564	57423460	256168417	38425263	--	--	--	--	--	--	--
+5	133	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	4027058	--	--	--	--
+5	134	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	135	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	136	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3659109	14636434	111867872	22246228	35218972	163155317	24473298	--	--	--	--	--	--	--
+5	137	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3658143	14632574	111838368	22240360	35209684	163112286	24466843	--	--	--	--	--	--	--
+5	138	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3795359	15181435	116033376	23074586	36530384	169230557	25384583	--	--	--	--	--	--	--
+5	139	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3739358	14957432	114321296	22734120	35991376	166733549	25010033	--	--	--	--	--	--	--
+5	140	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3548561	14194246	108488176	21574136	34154956	158226152	23733923	--	--	--	--	--	--	--
+5	141	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	305238528	1220954112	230890768	0	462482272	518105968	1701459712	--	--	--	--	--	--	--
+5	142	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	28916740	115666960	21873412	0	43813208	49082704	161187616	--	--	--	--	--	--	--
+5	143	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	270883296	1083533184	204903520	0	410428928	459791936	1509956992	--	--	--	--	--	--	--
+5	144	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	287318176	1149272704	217335328	0	435330240	487688192	1601568256	--	--	--	--	--	--	--
+5	145	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	294667424	1178669696	222894480	0	446465440	500162768	1642534272	--	--	--	--	--	--	--
+5	146	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	284169920	1136679680	214953904	0	430560160	482344464	1584019200	--	--	--	--	--	--	--
+5	147	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	148	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+5	149	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	150	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	151	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1401962	18626072	138807248	27171232	43160456	199275626	29891344	--	--	--	--	--	--	--
+5	152	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	153	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	154	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+5	155	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	156	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	157	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23498604	180645952	34998996	56044168	256684974	38502746	--	--	--	--	--	--	--
+5	158	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23968194	184255920	35698404	57164136	261814482	39272172	--	--	--	--	--	--	--
+5	159	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1237057280	4948229120	935743936	0	1874327808	2099756992	6895601152	--	--	--	--	--	--	--
+5	160	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1287592576	5150370304	973970240	0	1950896384	2185534144	7177295360	--	--	--	--	--	--	--
+5	161	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	162	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	18078528	148422288	28755868	47275388	210897454	31634618	--	--	--	--	--	--	--
+5	163	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22474808	184515168	35748632	58771676	262182856	39327428	--	--	--	--	--	--	--
+6	165	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3960499	--	--	--	--
+6	166	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	167	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	168	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3791003	15164010	115900192	23048100	36488456	169036315	25355446	--	--	--	--	--	--	--
+6	169	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3562060	14248242	108900872	21656204	34284884	158828055	23824207	--	--	--	--	--	--	--
+6	170	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3179882	12719530	97216760	19332684	30606414	141787191	21268079	--	--	--	--	--	--	--
+6	171	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3723159	14892636	113826048	22635634	35835460	166011249	24901688	--	--	--	--	--	--	--
+6	172	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	2984164	11936654	91233160	18142776	28722620	133060325	19959049	--	--	--	--	--	--	--
+6	173	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	174	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	175	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+6	176	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	177	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	178	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1461201	19413104	144672448	28319332	44984172	207695876	31154381	--	--	--	--	--	--	--
+6	179	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	274676096	1098704384	215801152	0	416175584	468103968	1537253248	--	--	--	--	--	--	--
+6	180	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	284941216	1139764864	223866016	0	431728800	485597792	1594703104	--	--	--	--	--	--	--
+6	181	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	278798112	1115192448	219039632	0	422421056	475128688	1560322560	--	--	--	--	--	--	--
+6	182	Shield Depleted	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+6	183	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1272544384	0	199956624	0	385619200	433734928	1424385280	--	--	--	--	--	--	--
+6	184	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1320403840	0	207476864	0	400122080	450047328	1477955456	--	--	--	--	--	--	--
+6	185	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1279414400	0	201036128	0	387701024	436076416	1432075136	--	--	--	--	--	--	--
+6	186	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	187	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+6	188	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	189	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	190	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22755616	174934192	33892380	54272136	248568977	37285347	--	--	--	--	--	--	--
+6	191	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23868606	183490320	35550076	56926616	260726623	39108995	--	--	--	--	--	--	--
+6	192	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	193	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	194	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22599820	185541504	35947480	59098580	263641202	39546182	--	--	--	--	--	--	--
+6	195	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22533410	184996272	35841844	58924920	262866475	39429971	--	--	--	--	--	--	--
+7	197	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3740294	--	--	--	--
+7	198	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+7	199	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	200	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3758254	15033015	114898984	22849000	36173248	167576087	25136414	--	--	--	--	--	--	--
+7	201	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3632826	14531305	111064352	22086438	34966004	161983413	24297512	--	--	--	--	--	--	--
+7	202	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3550313	14201252	108541728	21584786	34171816	158304256	23745639	--	--	--	--	--	--	--
+7	203	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3597175	14388699	109974408	21869690	34622860	160393767	24059065	--	--	--	--	--	--	--
+7	204	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3549288	14197153	108510400	21578554	34161952	158258564	23738783	--	--	--	--	--	--	--
+7	205	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1382502400	0	209152512	0	418939776	469326464	1541268224	--	--	--	--	--	--	--
+7	206	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1416612352	0	214312864	0	429276160	480906016	1579295360	--	--	--	--	--	--	--
+7	207	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1364385152	0	206411648	0	413449728	463176064	1521070464	--	--	--	--	--	--	--
+7	208	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1532169984	0	231795040	0	464293568	520135072	1708123520	--	--	--	--	--	--	--
+7	209	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1455367680	0	220175968	0	441020160	494062560	1622501248	--	--	--	--	--	--	--
+7	210	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1623930368	0	245677056	0	492099712	551285504	1810421632	--	--	--	--	--	--	--
+7	211	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	212	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+7	213	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	214	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	215	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1377560	18301868	136391184	26698294	42409212	195807058	29371060	--	--	--	--	--	--	--
+7	216	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	217	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	218	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+7	219	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	220	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	221	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22605744	173782064	33669160	53914692	246931880	37039780	--	--	--	--	--	--	--
+7	222	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24047336	184864320	35816280	57352888	262678976	39401848	--	--	--	--	--	--	--
+7	223	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	224	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+7	225	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21203786	174080240	33726932	55447948	247355570	37103336	--	--	--	--	--	--	--
+7	226	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	19213700	157741920	30561486	50243872	224139981	33620997	--	--	--	--	--	--	--
+8	228	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3893083	--	--	--	--
+8	229	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+8	230	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+8	231	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3585854	14343415	109628296	21800862	34513896	159888976	23983347	--	--	--	--	--	--	--
+8	232	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3623427	14493707	110776992	22029294	34875536	161564309	24234647	--	--	--	--	--	--	--
+8	233	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3562864	14251456	108925440	21661090	34292616	158863884	23829582	--	--	--	--	--	--	--
+8	234	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3532917	14131667	108009880	21479020	34004376	157528575	23629285	--	--	--	--	--	--	--
+8	235	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3600322	14401289	110070624	21888826	34653152	160534097	24080116	--	--	--	--	--	--	--
+8	236	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	237	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	238	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+8	239	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	240	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+8	241	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1487309	19759964	147257360	28825324	45787920	211406849	31711028	--	--	--	--	--	--	--
+8	242	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1491478400	0	234358032	0	451962784	508356528	1669442688	--	--	--	--	--	--	--
+8	243	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1445375232	0	227113776	0	437992128	492642672	1617838464	--	--	--	--	--	--	--
+8	244	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1326599168	0	208450336	0	401999424	452158944	1484889984	--	--	--	--	--	--	--
+8	245	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1302080768	0	204597728	0	394569632	443802112	1457446016	--	--	--	--	--	--	--
+8	246	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1438327168	0	226006320	0	435856384	490240304	1609949568	--	--	--	--	--	--	--
+8	247	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1451472512	0	228071856	0	439839808	494720880	1624663296	--	--	--	--	--	--	--
+8	248	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	249	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+8	250	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	251	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+8	252	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23281532	178977184	34675684	55526444	254313777	38147067	--	--	--	--	--	--	--
+8	253	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22556228	173401408	33595412	53796600	246390999	36958649	--	--	--	--	--	--	--
+8	254	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	6417827328	0	970923968	0	1944794624	2178698688	7154847232	--	--	--	--	--	--	--
+8	255	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	6142278656	0	929237440	0	1861295104	2085156800	6847654400	--	--	--	--	--	--	--
+8	256	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+8	257	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22783276	187047632	36239280	59578316	265781309	39867195	--	--	--	--	--	--	--
+8	258	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22519370	184881008	35819512	58888204	262702690	39405404	--	--	--	--	--	--	--
+9	260	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3878539	--	--	--	--
+9	261	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+9	262	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+9	263	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3108228	12432913	95026112	18897048	29916742	138592211	20788832	--	--	--	--	--	--	--
+9	264	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3592491	14369964	109831208	21841214	34577780	160184919	24027738	--	--	--	--	--	--	--
+9	265	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3514026	14056102	107432336	21364170	33822548	156686245	23502937	--	--	--	--	--	--	--
+9	266	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3695045	14780180	112966536	22464710	35564860	164757679	24713652	--	--	--	--	--	--	--
+9	267	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3635146	14540584	111135280	22100542	34988332	162086856	24313028	--	--	--	--	--	--	--
+9	268	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1523438720	0	230474128	0	461647712	517171056	1698389504	--	--	--	--	--	--	--
+9	269	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	154297248	0	23342930	0	46756704	52380226	172016656	--	--	--	--	--	--	--
+9	270	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1642403328	0	248471744	0	497697600	557556608	1831016064	--	--	--	--	--	--	--
+9	271	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1438447872	0	217616256	0	435892960	488318688	1603638400	--	--	--	--	--	--	--
+9	272	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1656153728	0	250551984	0	501864384	562224624	1846345472	--	--	--	--	--	--	--
+9	273	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1635524608	0	247431104	0	495613152	555221536	1823347328	--	--	--	--	--	--	--
+9	274	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	275	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+9	276	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	277	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+9	278	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1493883	19847308	147908256	28952736	45990308	212341296	31851195	--	--	--	--	--	--	--
+9	279	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	280	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	281	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+9	282	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	283	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+9	284	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23203360	178376240	34559256	55340008	253459881	38018983	--	--	--	--	--	--	--
+9	285	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23629654	181653392	35194180	56356720	258116476	38717470	--	--	--	--	--	--	--
+9	286	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+9	287	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+9	288	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21766304	178698448	34621680	56918936	253917711	38087657	--	--	--	--	--	--	--
+9	289	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	20987510	172304640	33382922	54882388	244832573	36724887	--	--	--	--	--	--	--
+10	291	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3807764	--	--	--	--
+10	292	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+10	293	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+10	294	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3582914	14331657	109538424	21782990	34485604	159757904	23963685	--	--	--	--	--	--	--
+10	295	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3790397	15161588	115881680	23044420	36482628	169009316	25351397	--	--	--	--	--	--	--
+10	296	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3626703	14506812	110877152	22049212	34907068	161710388	24256559	--	--	--	--	--	--	--
+10	297	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3185263	12741053	97381264	19365396	30658204	142027114	21304066	--	--	--	--	--	--	--
+10	298	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3230423	12921690	98761896	19639952	31092864	144040717	21606108	--	--	--	--	--	--	--
+10	299	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	300	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	301	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+10	302	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	303	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+10	304	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	1236352	16425820	122410288	23961560	38062016	175735684	26360352	--	--	--	--	--	--	--
+10	305	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1553155328	0	244049424	0	470652768	529378416	1738479104	--	--	--	--	--	--	--
+10	306	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1349183488	0	211999040	0	408843168	459856608	1510169088	--	--	--	--	--	--	--
+10	307	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1471673600	0	231246080	0	445961344	501606144	1647274880	--	--	--	--	--	--	--
+10	308	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1393293440	0	218930112	0	422209824	474891104	1559542272	--	--	--	--	--	--	--
+10	309	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1514857344	0	238031600	0	459047296	516324976	1695611264	--	--	--	--	--	--	--
+10	310	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1524689024	0	239576464	0	462026624	519676048	1706616064	--	--	--	--	--	--	--
+10	311	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	312	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+10	313	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	314	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+10	315	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22849216	175653744	34031788	54495372	249591409	37438711	--	--	--	--	--	--	--
+10	316	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22453736	172613488	33442758	53552152	245271421	36790713	--	--	--	--	--	--	--
+10	317	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	318	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+10	319	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21002068	172424160	33406078	54920456	245002401	36750361	--	--	--	--	--	--	--
+10	320	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21928140	180027088	34879096	57342136	255805617	38370843	--	--	--	--	--	--	--
+11	322	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3730411	--	--	--	--
+11	323	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+11	324	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+11	325	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3702581	14810325	113196936	22510528	35637396	165093709	24764057	--	--	--	--	--	--	--
+11	326	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3623507	14494029	110779456	22029782	34876312	161567902	24235184	--	--	--	--	--	--	--
+11	327	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	3218464	12873854	98396280	19567246	30977760	143507481	21526123	--	--	--	--	--	--	--
+11	328	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3787389	15149554	115789704	23026130	36453672	168875173	25331276	--	--	--	--	--	--	--
+11	329	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3575155	14300620	109301208	21735816	34410920	159411930	23911789	--	--	--	--	--	--	--
+11	330	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1620871680	0	245214336	0	491172864	550247168	1807011712	--	--	--	--	--	--	--
+11	331	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1558224256	0	235736672	0	472188800	528979936	1737169792	--	--	--	--	--	--	--
+11	332	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1597645952	0	241700608	0	484134752	542362592	1781118720	--	--	--	--	--	--	--
+11	333	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1668466048	0	252414656	0	505595360	566404384	1860071680	--	--	--	--	--	--	--
+11	334	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1642561792	0	248495712	0	497745600	557610528	1831192576	--	--	--	--	--	--	--
+11	335	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1555519104	0	235327424	0	471369056	528061472	1734154112	--	--	--	--	--	--	--
+11	336	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	337	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+11	338	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	339	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+11	340	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1466182	19479280	145165616	28415868	45137512	208403877	31260581	--	--	--	--	--	--	--
+11	341	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	342	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	343	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+11	344	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	345	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+11	346	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	19814240	152322336	29511476	47256960	216439142	32465870	--	--	--	--	--	--	--
+11	347	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24285180	186692752	36170524	57920144	265277044	39791556	--	--	--	--	--	--	--
+11	348	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	7495893504	0	1134019712	0	2271481088	2544676736	8356717568	--	--	--	--	--	--	--
+11	349	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	6418260480	0	970989504	0	1944925952	2178845888	7155330048	--	--	--	--	--	--	--
+11	350	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+11	351	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22622564	185728224	35983652	59158056	263906520	39585976	--	--	--	--	--	--	--
+11	352	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22539796	185048720	35852004	58941620	262940992	39441148	--	--	--	--	--	--	--
+12	354	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3874656	--	--	--	--
+12	355	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+12	356	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+12	357	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3518759	14075034	107577032	21392944	33868104	156897281	23534592	--	--	--	--	--	--	--
+12	358	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3592552	14370210	109833088	21841586	34578372	160187660	24028148	--	--	--	--	--	--	--
+12	359	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3809809	15239237	116475160	23162440	36669468	169874882	25481232	--	--	--	--	--	--	--
+12	360	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3541069	14164278	108259128	21528588	34082844	157892092	23683815	--	--	--	--	--	--	--
+12	361	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3755255	15021019	114807296	22830766	36144380	167442362	25116354	--	--	--	--	--	--	--
+12	362	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	363	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	364	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+12	365	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	366	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+12	367	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1486786	19753018	147205584	28815190	45771820	211332519	31699879	--	--	--	--	--	--	--
+12	368	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1563841664	0	245728576	0	473891040	533020832	1750440448	--	--	--	--	--	--	--
+12	369	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1396000640	0	219355488	0	423030176	475813760	1562572544	--	--	--	--	--	--	--
+12	370	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1523008512	0	239312400	0	461517376	519103184	1704735104	--	--	--	--	--	--	--
+12	371	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1458459776	0	229169776	0	441957152	497102480	1632484224	--	--	--	--	--	--	--
+12	372	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1516336256	0	238263984	0	459495488	516829040	1697266688	--	--	--	--	--	--	--
+12	373	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1394814208	0	219169056	0	422670656	475409376	1561244544	--	--	--	--	--	--	--
+12	374	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	375	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+12	376	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	377	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+12	378	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22886780	175942512	34087736	54584960	250001728	37500260	--	--	--	--	--	--	--
+12	379	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23099344	177576608	34404332	55091928	252323662	37848550	--	--	--	--	--	--	--
+12	380	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+12	381	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+12	382	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22499452	184717488	35787832	58836116	262470336	39370552	--	--	--	--	--	--	--
+12	383	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22456444	184364400	35719420	58723652	261968624	39295292	--	--	--	--	--	--	--
+13	385	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3940846	--	--	--	--
+13	386	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+13	387	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+13	388	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3655676	14622704	111762928	22225358	35185936	163002263	24450339	--	--	--	--	--	--	--
+13	389	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3634759	14539034	111123432	22098188	34984604	162069579	24310438	--	--	--	--	--	--	--
+13	390	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	2993144	11972577	91507720	18197374	28809058	133460760	20019113	--	--	--	--	--	--	--
+13	391	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3703689	14814755	113230800	22517262	35648060	165143101	24771465	--	--	--	--	--	--	--
+13	392	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3741779	14967115	114395304	22748838	36014676	166841488	25026224	--	--	--	--	--	--	--
+13	393	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	NO	137307952	0	20772696	0	41608436	46612764	153076320	--	--	--	--	--	--	--
+13	394	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1615121664	0	244344416	0	489430400	548295136	1800601344	--	--	--	--	--	--	--
+13	395	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1555585408	0	235337472	0	471389152	528083936	1734228096	--	--	--	--	--	--	--
+13	396	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1666561536	0	252126528	0	505018240	565757760	1857948544	--	--	--	--	--	--	--
+13	397	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1581542016	0	239264304	0	479254784	536895664	1763165440	--	--	--	--	--	--	--
+13	398	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1483625216	0	224450928	0	449583040	503655344	1654003840	--	--	--	--	--	--	--
+13	399	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	400	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+13	401	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	402	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+13	403	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1473258	19573288	145866192	28553006	45355352	209409648	31411448	--	--	--	--	--	--	--
+13	404	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	405	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	406	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+13	407	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	408	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+13	409	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23848702	183337328	35520432	56879148	260509227	39076383	--	--	--	--	--	--	--
+13	410	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	23321732	179286240	34735560	55622324	254752919	38212937	--	--	--	--	--	--	--
+13	411	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	412	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+13	413	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21346710	175253632	33954268	55821696	249022876	37353430	--	--	--	--	--	--	--
+13	414	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	21233168	174321472	33773668	55524784	247698342	37154750	--	--	--	--	--	--	--
+14	416	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	3840461	--	--	--	--
+14	417	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+14	418	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+14	419	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3734950	14939800	114186528	22707320	35948948	166536996	24980550	--	--	--	--	--	--	--
+14	420	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3700692	14802769	113139184	22499044	35619216	165009482	24751423	--	--	--	--	--	--	--
+14	421	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3625401	14501603	110837344	22041296	34894536	161652330	24247850	--	--	--	--	--	--	--
+14	422	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3562617	14250467	108917880	21659588	34290240	158852862	23827930	--	--	--	--	--	--	--
+14	423	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	3648843	14595373	111554040	22183818	35120168	162697602	24404640	--	--	--	--	--	--	--
+14	424	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	425	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	426	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+14	427	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	428	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+14	429	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1472809	19567314	145821680	28544292	45341508	209345742	31401861	--	--	--	--	--	--	--
+14	430	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1525036800	0	239631120	0	462132000	519794608	1707005312	--	--	--	--	--	--	--
+14	431	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1567799296	0	246350432	0	475090304	534369760	1754870272	--	--	--	--	--	--	--
+14	432	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1636506880	0	257146560	0	495910784	557788096	1831776128	--	--	--	--	--	--	--
+14	433	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1485310208	0	233388832	0	450093664	506254080	1662538624	--	--	--	--	--	--	--
+14	434	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1578820992	0	248082288	0	478430208	538126448	1767207040	--	--	--	--	--	--	--
+14	435	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	1415143296	0	222363392	0	428830976	482338432	1583999232	--	--	--	--	--	--	--
+14	436	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	437	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Over My Dead Program	The Doctor	--	--	--
+14	438	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	439	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+14	440	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	22439022	172500384	33420844	53517060	245110705	36766605	--	--	--	--	--	--	--
+14	441	Attack	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	0	24061332	184971904	35837124	57386268	262831849	39424779	--	--	--	--	--	--	--
+14	442	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	7686592512	0	1162869632	0	2329268736	2609414528	8569316352	--	--	--	--	--	--	--
+14	443	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Hijacked D3 Class	--	Hijacked D3 Class	NO	--	--	YES	7214032896	0	1091378304	0	2186068992	2448991872	8042488320	--	--	--	--	--	--	--
+14	444	Combatant Destroyed	Hijacked D3 Class	--	Hijacked D3 Class	NO	XanOfHanoi	ThunderDome	Hijacked D3 Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

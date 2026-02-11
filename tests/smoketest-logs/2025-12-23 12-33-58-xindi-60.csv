@@ -1,0 +1,82 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	ENTERPRISE NX-01	55	583995840	0	Kathryn Janeway	The Doctor	Annorax	708621151	698416423	1068096	1068096	Yoton	12/23/2025 12:33:58 PM
+Xindi-Aquatic Cruiser	62	DEFEAT	Xindi-Aquatic Cruiser	62	14446591213568	0	Xindi-Aquatic	--	--	17084530245239	0	11389686830159	0	Yoton	12/23/2025 12:33:58 PM
+
+Reward Name	Count
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	61390892	27918980	494685952	Learning The Hard Way---Polarized Hull	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	5	53997768	313388	424062	3546551	0.22	3.45	5	397511	4807065	379220	5	890080	988481856	270	1596	457.63	44745400	0	1	NO	NO
+Enemy Fleet 1	208962994176	519788448	14237108797440	Strength of the Ibix---Be Like Water	--	--	--	--	0	207661268992	361591968	36159196	36159196	0.22	2.91	0	9039799	4519900	90397992	0	11389687037952	17084530556928	25	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	3	Forbidden Tech Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	50000	--	Temporal Conduit	--	--	--
+1	4	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	1729470	0	2749073	0	9361642	13840185	0	--	--	--	--	--	--	--
+1	5	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	NO	163517022208	563225296896	162614575104	0	0	228391600128	660965294080	--	--	--	--	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+1	9	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	11	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	541441	0	7943223	0	3071585	11556249	0	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	NO	154265976832	531360579584	153414582272	0	0	215470227456	623570911232	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	18	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	320225	0	5382424	0	1899889	7602538	0	--	--	--	--	--	--	--
+1	19	Charging Weapons	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	20	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	24	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	238691	0	4234625	0	1478213	5951529	0	--	--	--	--	--	--	--
+1	25	Charging Weapons	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	26	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	30	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	YES	14864049	0	273803936	0	95917840	384585825	0	--	--	--	--	--	--	--
+1	31	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	36	battle_action_type_{0}	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	--	--	8846938	--	--	--	--
+2	37	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	38	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	39	Forbidden Tech Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.85	--	Temporal Conduit	--	--	--
+2	40	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	492671	0	9496605	0	3348697	13337973	0	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	875375230976	3015181336576	640923533312	0	0	900174643200	3631305457664	--	--	--	--	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+2	44	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+2	45	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	46	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	47	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	408883	0	8144388	0	2885479	11438750	0	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	979503677440	3373845970944	717163266048	0	0	1007253127168	4063259787264	--	--	--	--	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	53	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	54	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	263581	0	5419588	0	1928612	7611781	0	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	723596476416	2492387819520	529671782400	0	0	744071364608	3001584713728	--	--	--	--	--	--	--
+2	56	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	762643939328	2626884730880	558254456832	0	0	784224092160	3163559034880	--	--	--	--	--	--	--
+2	57	Shield Depleted	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	Xindi-Aquatic Cruiser	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	3142061654016	0	517496733696	0	0	726968139776	2932590247936	--	--	--	--	--	--	--
+2	59	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	2892746719232	0	476434628608	0	0	669285056512	2699896291328	--	--	--	--	--	--	--
+2	60	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	61	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Over My Dead Program	The Doctor	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	2600	Time is Patient	Annorax	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	64	Officer Ability	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	65	Attack	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	--	--	NO	192655	0	4085092	0	1459742	5737489	0	--	--	--	--	--	--	--
+2	66	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	3150986870784	0	518966706176	0	0	729033441280	2940920135680	--	--	--	--	--	--	--
+2	67	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	2970412384256	0	489226141696	0	0	687254175744	2772384350208	--	--	--	--	--	--	--
+2	68	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	3210424352768	0	528756047872	0	0	742785089536	2996395311104	--	--	--	--	--	--	--
+2	69	Attack	XanOfHanoi	ThunderDome	ENTERPRISE NX-01	NO	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	--	--	YES	3359676039168	0	553337749504	0	0	777316990976	3135696797696	--	--	--	--	--	--	--
+2	70	Combatant Destroyed	Xindi-Aquatic Cruiser	--	Xindi-Aquatic Cruiser	NO	XanOfHanoi	ThunderDome	Xindi-Aquatic Cruiser	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

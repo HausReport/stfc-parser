@@ -1,0 +1,306 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	64	VICTORY	USS RELATIVITY	60	5574169600	0	James T. Kirk	Khan Noonien Singh	Paul Zhou	4769957375	1420347448	11370282915	273193723	Endurance-429	10/30/2025 1:13:49 PM
+Magg	1	DEFEAT	Breen Warship	1	15515045888	0	officer_name_{0}	--	--	10600071282	0	10600071282	0	Endurance-429	10/30/2025 1:13:49 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	371895648	233140080	4969134080	Anti-Tachyon Weaponry---Relative Growth	Leader	Inspirational	Savage Tenacity	Upper hand	5	281756288	7138909	7249205	42036533	0.22	3.6	5	5801815	34995535	5830666	5	5168310615	4769957375	222	1551	361.2	38762790	0	1	NO	NO
+Enemy Fleet 1	4429443072	485531616	10600071168	ship_ability_name_{0}	--	--	--	--	0	2751246848	647375488	126985184	64737544	0.1	1.79	0	8092194	8092194	80921936	0	10600071168	10600071168	40	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+1	4	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13843399	65261736	75536296	0	1028353	155669784	0	--	--	--	--	--	--	--
+1	5	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14134907	66635992	77126904	0	1050007	158947810	0	--	--	--	--	--	--	--
+1	6	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13813538	65120964	75373360	0	1026134	155333996	0	--	--	--	--	--	--	--
+1	7	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14028717	66135384	76547480	0	1042119	157753700	0	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	18443740	63528444	17187284	0	0	33785168	65374300	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	11170823	38477280	10409824	0	0	20462667	39595260	--	--	--	--	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	11	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26876738	126704624	146652512	0	1996531	302230405	0	--	--	--	--	--	--	--
+1	12	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27606500	130144928	150634448	0	2050741	310436617	0	--	--	--	--	--	--	--
+1	13	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	24531752	115649688	133857128	0	1822334	275860902	0	--	--	--	--	--	--	--
+1	14	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	30205624	142397936	164816512	0	2243816	339663888	0	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	91855576	316391424	85598024	0	0	168260640	325584384	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	94204808	324483232	87787224	0	0	172563968	333911296	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	9677740	33334440	9018456	0	0	17727644	34302992	--	--	--	--	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	19	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27191224	128187200	148368496	0	2019892	305766812	0	--	--	--	--	--	--	--
+1	20	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27733732	130744744	151328688	0	2060192	311867356	0	--	--	--	--	--	--	--
+1	21	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26312784	124045984	143575312	0	1954638	295888718	0	--	--	--	--	--	--	--
+1	22	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	24254570	114342976	132344696	0	1801744	272743986	0	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	65550772	225785984	61085204	0	0	120075624	232346336	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	80568928	277515200	75080264	0	0	147585832	285578560	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	26	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26246900	123735384	143215808	0	1949743	295147835	0	--	--	--	--	--	--	--
+1	27	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	23515108	110856936	128309824	0	1746813	264428681	0	--	--	--	--	--	--	--
+1	28	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26330948	124131616	143674416	0	1955987	296092967	0	--	--	--	--	--	--	--
+1	29	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	23618378	111343784	128873320	0	1754484	265589966	0	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	54909620	189133136	51168968	0	0	100583212	194628512	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	54121724	186419280	50434748	0	0	99139944	191835808	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	11254800	38766532	10488080	0	0	20616492	39892920	--	--	--	--	--	--	--
+2	34	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	35	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+2	36	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+2	37	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	12293421	57954696	67078864	0	913213	138240194	0	--	--	--	--	--	--	--
+2	38	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13781412	64969516	75198064	0	1023748	154972740	0	--	--	--	--	--	--	--
+2	39	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13033340	61442888	71116216	0	968178	146560622	0	--	--	--	--	--	--	--
+2	40	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	12639809	59587668	68968920	0	938944	142135341	0	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	54162616	186560128	50472856	0	0	99214848	191980752	--	--	--	--	--	--	--
+2	42	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	82661664	284723520	77030440	0	0	151419304	292996320	--	--	--	--	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	44	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	45	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	46	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	47	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	94162464	324337376	87747760	0	0	172486416	333761184	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	18349016	63202168	17099012	0	0	33611648	65038548	--	--	--	--	--	--	--
+2	49	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	50	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	52	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+3	53	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+3	54	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+3	55	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15167219	60668876	72414736	0	985856	149236687	0	--	--	--	--	--	--	--
+3	56	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15596241	62384964	74463072	0	1013742	153458019	0	--	--	--	--	--	--	--
+3	57	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13386780	53547120	63914168	0	870129	131718197	0	--	--	--	--	--	--	--
+3	58	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15307427	61229708	73084152	0	994969	150616256	0	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	12680204	50720816	13293428	0	0	26130984	50563464	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	12886107	51544428	13509288	0	0	26555307	51384516	--	--	--	--	--	--	--
+3	61	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	62	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32083366	128333464	153179600	0	2085391	315681821	0	--	--	--	--	--	--	--
+3	63	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31414116	125656464	149984320	0	2041890	309096790	0	--	--	--	--	--	--	--
+3	64	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27116344	108465384	129464936	0	1762539	266809203	0	--	--	--	--	--	--	--
+3	65	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26774464	107097864	127832656	0	1740317	263445301	0	--	--	--	--	--	--	--
+3	66	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	10439134	41756536	10943979	0	0	21512657	41626992	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	48373520	193494080	50712900	0	0	99686708	192893792	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	59170224	236680880	62031736	0	0	121936232	235946608	--	--	--	--	--	--	--
+3	69	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	70	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27552520	110210088	131547424	0	1790890	271100922	0	--	--	--	--	--	--	--
+3	71	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31136144	124544568	148657152	0	2023822	306361686	0	--	--	--	--	--	--	--
+3	72	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30111484	120445944	143765008	0	1957220	296279656	0	--	--	--	--	--	--	--
+3	73	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27163774	108655096	129691376	0	1765621	267275867	0	--	--	--	--	--	--	--
+3	74	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	13076375	52305500	13708758	0	0	26947405	52143228	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	13687511	54750040	14349449	0	0	28206812	54580188	--	--	--	--	--	--	--
+3	76	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	77	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31577332	126309320	150763568	0	2052499	310702719	0	--	--	--	--	--	--	--
+3	78	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26860046	107440184	128241248	0	1745879	264287357	0	--	--	--	--	--	--	--
+3	79	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28061460	112245840	133977312	0	1823970	276108582	0	--	--	--	--	--	--	--
+3	80	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26859096	107436384	128236712	0	1745817	264278009	0	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	79389056	317556224	83228368	0	0	163602608	316571040	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	64527764	258111056	67648376	0	0	132976908	257310288	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	65064332	260257328	68210888	0	0	134082644	259449904	--	--	--	--	--	--	--
+4	85	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+4	86	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	87	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+4	88	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+4	89	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14233128	56932512	67954992	0	925141	140045773	0	--	--	--	--	--	--	--
+4	90	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15569544	62278176	74335608	0	1012006	153195334	0	--	--	--	--	--	--	--
+4	91	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	17809096	71236384	85028176	0	1157575	175231231	0	--	--	--	--	--	--	--
+4	92	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13736214	54944856	65582508	0	892842	135156420	0	--	--	--	--	--	--	--
+4	93	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	73941488	295765952	77517352	0	0	152376408	294848384	--	--	--	--	--	--	--
+4	94	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	46042624	184170480	48269276	0	0	94883260	183599120	--	--	--	--	--	--	--
+4	95	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	96	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	97	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	98	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	99	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	79838208	319352832	83699240	0	0	164528200	318362080	--	--	--	--	--	--	--
+4	100	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	60888984	243555936	63833620	0	0	125478204	242800336	--	--	--	--	--	--	--
+4	101	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	102	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	104	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+5	105	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+5	106	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+5	107	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13718573	54874292	65498288	0	891695	134982848	0	--	--	--	--	--	--	--
+5	108	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14782866	59131464	70579672	0	960873	145454875	0	--	--	--	--	--	--	--
+5	109	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	16991698	67966792	81125568	0	1104445	167188503	0	--	--	--	--	--	--	--
+5	110	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15019066	60076264	71707392	0	976226	147778948	0	--	--	--	--	--	--	--
+5	111	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	11621040	46484160	12183042	0	0	23948294	46339948	--	--	--	--	--	--	--
+5	112	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	14918326	59673304	15639787	0	0	30743245	59488172	--	--	--	--	--	--	--
+5	113	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	114	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27857978	111431912	133005800	0	1810744	274106434	0	--	--	--	--	--	--	--
+5	115	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31263168	125052680	149263632	0	2032078	307611558	0	--	--	--	--	--	--	--
+5	116	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27632268	110529064	131928160	0	1796073	271885565	0	--	--	--	--	--	--	--
+5	117	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	29518288	118073152	140932832	0	1918663	290442935	0	--	--	--	--	--	--	--
+5	118	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	48944260	195777040	51311240	0	0	100862876	195169664	--	--	--	--	--	--	--
+5	119	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	NO	8606915	34427660	9023151	0	0	17736874	34320852	--	--	--	--	--	--	--
+5	120	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	43221712	172886848	45311944	0	0	89070024	172350480	--	--	--	--	--	--	--
+5	121	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	122	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30058572	120234296	143512384	0	1953781	295759033	0	--	--	--	--	--	--	--
+5	123	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32144604	128578408	153471968	0	2089371	316284351	0	--	--	--	--	--	--	--
+5	124	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27923876	111695496	133320424	0	1815027	274754823	0	--	--	--	--	--	--	--
+5	125	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31016236	124064944	148084656	0	2016028	305181864	0	--	--	--	--	--	--	--
+5	126	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	41238692	164954768	43233024	0	0	84983460	164443024	--	--	--	--	--	--	--
+5	127	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	59886516	239546064	62782672	0	0	123412340	238802912	--	--	--	--	--	--	--
+5	128	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	129	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32513184	130052736	155231728	0	2113328	319910976	0	--	--	--	--	--	--	--
+5	130	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27714524	110858096	132320888	0	1801420	272694928	0	--	--	--	--	--	--	--
+5	131	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30705824	122823296	146602624	0	1995852	302127596	0	--	--	--	--	--	--	--
+5	132	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31084048	124336192	148408432	0	2020436	305849108	0	--	--	--	--	--	--	--
+5	133	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	66580092	266320368	69799952	0	0	137206268	265494144	--	--	--	--	--	--	--
+5	134	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	80228496	320913984	84108408	0	0	165332488	319918400	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	75112712	300450848	78745216	0	0	154790024	299518752	--	--	--	--	--	--	--
+6	137	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+6	138	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	139	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+6	140	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+6	141	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	16251089	65004356	77589592	0	1056306	159901343	0	--	--	--	--	--	--	--
+6	142	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14889473	59557896	71088664	0	967802	146503835	0	--	--	--	--	--	--	--
+6	143	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15157010	60628040	72365992	0	985192	149136234	0	--	--	--	--	--	--	--
+6	144	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14127493	56509968	67450640	0	918274	139006375	0	--	--	--	--	--	--	--
+6	145	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	50052644	200210576	52473228	0	0	103146992	199589456	--	--	--	--	--	--	--
+6	146	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	48555840	194223360	50904032	0	0	100062432	193620800	--	--	--	--	--	--	--
+6	147	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	148	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	149	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	150	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	151	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	76611784	306447136	80316784	0	0	157879288	305496416	--	--	--	--	--	--	--
+6	152	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	66557640	266230576	69776416	0	0	137160008	265404624	--	--	--	--	--	--	--
+6	153	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	154	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	156	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+7	157	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+7	158	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+7	159	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14847093	59388372	70886320	0	965048	146086833	0	--	--	--	--	--	--	--
+7	160	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13624928	54499712	65051184	0	885608	134061432	0	--	--	--	--	--	--	--
+7	161	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	16287009	65148036	77761088	0	1058641	160254774	0	--	--	--	--	--	--	--
+7	162	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15864805	63459220	75745304	0	1031198	156100527	0	--	--	--	--	--	--	--
+7	163	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	71685224	286740896	75151976	0	0	147726768	285851328	--	--	--	--	--	--	--
+7	164	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	63227432	252909728	66285156	0	0	130297212	252125104	--	--	--	--	--	--	--
+7	165	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	166	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28334130	113336520	135279152	0	1841693	278791495	0	--	--	--	--	--	--	--
+7	167	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30338700	121354800	144849824	0	1971989	298515313	0	--	--	--	--	--	--	--
+7	168	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31651360	126605440	151117024	0	2057311	311431135	0	--	--	--	--	--	--	--
+7	169	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31385330	125541320	149846880	0	2040019	308813549	0	--	--	--	--	--	--	--
+7	170	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	50480340	201921360	52921604	0	0	104028376	201294928	--	--	--	--	--	--	--
+7	171	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	67881576	271526304	71164376	0	0	139888320	270683936	--	--	--	--	--	--	--
+7	172	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	53243000	212972000	55817868	0	0	109721604	212311264	--	--	--	--	--	--	--
+7	173	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	174	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30079432	120317728	143611968	0	1955137	295964265	0	--	--	--	--	--	--	--
+7	175	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	35313552	141254208	168601872	0	2295350	347464982	0	--	--	--	--	--	--	--
+7	176	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	29287804	117151216	139832400	0	1903681	288175101	0	--	--	--	--	--	--	--
+7	177	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28184268	112737064	134563648	0	1831953	277316933	0	--	--	--	--	--	--	--
+7	178	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	60271356	241085424	63186124	0	0	124205416	240337488	--	--	--	--	--	--	--
+7	179	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	76283064	305132256	79972168	0	0	157201856	304185632	--	--	--	--	--	--	--
+7	180	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	181	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27129686	108518744	129528632	0	1763406	266940468	0	--	--	--	--	--	--	--
+7	182	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31788944	127155776	151773904	0	2066253	312784877	0	--	--	--	--	--	--	--
+7	183	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30970990	123883960	147868640	0	2013087	304736677	0	--	--	--	--	--	--	--
+7	184	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31130724	124522896	148631280	0	2023470	306308370	0	--	--	--	--	--	--	--
+7	185	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	56382628	225530512	59109332	0	0	116191640	224830832	--	--	--	--	--	--	--
+7	186	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	48335292	193341168	50672820	0	0	99607936	192741344	--	--	--	--	--	--	--
+7	187	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	51116224	204464896	53588244	0	0	105338788	203830576	--	--	--	--	--	--	--
+8	189	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+8	190	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	191	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+8	192	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+8	193	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13752578	55010312	65660640	0	893905	135317435	0	--	--	--	--	--	--	--
+8	194	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14257729	57030916	68072448	0	926740	140287833	0	--	--	--	--	--	--	--
+8	195	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	16243468	64973872	77553208	0	1055811	159826359	0	--	--	--	--	--	--	--
+8	196	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14584973	58339896	69634848	0	948010	143507727	0	--	--	--	--	--	--	--
+8	197	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	61136108	244544432	64092692	0	0	125987472	243785760	--	--	--	--	--	--	--
+8	198	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	62390188	249560752	65407424	0	0	128571836	248786528	--	--	--	--	--	--	--
+8	199	Shield Depleted	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+8	200	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	201	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	202	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	203	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	204	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	364848256	0	76498520	0	0	150373688	290973088	--	--	--	--	--	--	--
+8	205	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	383665856	0	80444040	0	0	158129448	305980448	--	--	--	--	--	--	--
+8	206	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	207	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	209	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+9	210	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+9	211	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+9	212	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	16104572	64418288	76890056	0	1046783	158459699	0	--	--	--	--	--	--	--
+9	213	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14442647	57770588	68955320	0	938759	142107314	0	--	--	--	--	--	--	--
+9	214	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15024629	60098516	71733952	0	976587	147833684	0	--	--	--	--	--	--	--
+9	215	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15856092	63424368	75703704	0	1030632	156014796	0	--	--	--	--	--	--	--
+9	216	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	234618112	0	49192880	0	0	96698800	187112192	--	--	--	--	--	--	--
+9	217	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	229227968	0	48062720	0	0	94477248	182813440	--	--	--	--	--	--	--
+9	218	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	219	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32003394	128013576	152797776	0	2080192	314894938	0	--	--	--	--	--	--	--
+9	220	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	29918888	119675544	142845456	0	1944701	294384589	0	--	--	--	--	--	--	--
+9	221	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	27308292	109233168	130381368	0	1775015	268697843	0	--	--	--	--	--	--	--
+9	222	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31710812	126843248	151400864	0	2061175	312016099	0	--	--	--	--	--	--	--
+9	223	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	392939392	0	82388440	0	0	161951576	313376256	--	--	--	--	--	--	--
+9	224	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	245814768	0	51540508	0	0	101313548	196041728	--	--	--	--	--	--	--
+9	225	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	253658144	0	53185048	0	0	104546232	202296960	--	--	--	--	--	--	--
+9	226	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	227	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28712044	114848176	137083472	0	1866258	282509950	0	--	--	--	--	--	--	--
+9	228	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31995310	127981240	152759184	0	2079667	314815401	0	--	--	--	--	--	--	--
+9	229	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	31300184	125200736	149440352	0	2034484	307975756	0	--	--	--	--	--	--	--
+9	230	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28109400	112437600	134206200	0	1827086	276580286	0	--	--	--	--	--	--	--
+9	231	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	199250688	0	41777316	0	0	82121988	158906016	--	--	--	--	--	--	--
+9	232	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	257800480	0	54053580	0	0	106253516	205600544	--	--	--	--	--	--	--
+9	233	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	234	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28607556	114430224	136584608	0	1859466	281481854	0	--	--	--	--	--	--	--
+9	235	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28820534	115282136	137601456	0	1873309	283577435	0	--	--	--	--	--	--	--
+9	236	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	26978868	107915480	128808568	0	1753603	265456519	0	--	--	--	--	--	--	--
+9	237	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30892672	123570688	147494720	0	2007996	303966076	0	--	--	--	--	--	--	--
+9	238	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	373728128	0	78360376	0	0	154033560	298054944	--	--	--	--	--	--	--
+9	239	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	361195488	0	75732632	0	0	148868184	288059936	--	--	--	--	--	--	--
+9	240	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	219209056	0	45962032	0	0	90347904	174823184	--	--	--	--	--	--	--
+10	242	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+10	243	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	244	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+10	245	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+10	246	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14063276	56253104	67144048	0	914100	138374528	0	--	--	--	--	--	--	--
+10	247	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15486791	61947164	73940512	0	1006628	152381095	0	--	--	--	--	--	--	--
+10	248	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14443693	57774772	68960320	0	938827	142117612	0	--	--	--	--	--	--	--
+10	249	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15326752	61307008	73176416	0	996225	150806401	0	--	--	--	--	--	--	--
+10	250	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	299358368	0	62767108	0	0	123381780	238743696	--	--	--	--	--	--	--
+10	251	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	269137920	0	56430724	0	0	110926292	214642352	--	--	--	--	--	--	--
+10	252	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	253	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	254	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	255	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	256	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	399197984	0	83700696	0	0	164531064	318367616	--	--	--	--	--	--	--
+10	257	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	326158016	0	68386248	0	0	134427336	260116928	--	--	--	--	--	--	--
+10	258	Charging Weapons	Magg	--	Breen Warship	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	259	Charging Weapons	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	261	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+11	262	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+11	263	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+11	264	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15805720	63222880	75463208	0	1027358	155519166	0	--	--	--	--	--	--	--
+11	265	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15037877	60151512	71797208	0	977449	147964046	0	--	--	--	--	--	--	--
+11	266	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15925162	63700648	76033472	0	1035121	156694403	0	--	--	--	--	--	--	--
+11	267	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	13450529	53802112	64218528	0	874272	132345441	0	--	--	--	--	--	--	--
+11	268	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	221662272	0	46476404	0	0	91358996	176779680	--	--	--	--	--	--	--
+11	269	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	253062400	0	53060136	0	0	104300696	201821840	--	--	--	--	--	--	--
+11	270	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	271	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	30557034	122228136	145892240	0	1986180	300663590	0	--	--	--	--	--	--	--
+11	272	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32574616	130298472	155525040	0	2117322	320515450	0	--	--	--	--	--	--	--
+11	273	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	32272584	129090336	154083008	0	2097690	317543618	0	--	--	--	--	--	--	--
+11	274	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28705358	114821432	137051552	0	1865823	282444165	0	--	--	--	--	--	--	--
+11	275	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	268615168	0	56321116	0	0	110710844	214225440	--	--	--	--	--	--	--
+11	276	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	325351968	0	68217248	0	0	134095136	259474080	--	--	--	--	--	--	--
+11	277	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	353188544	0	74053800	0	0	145568104	281674240	--	--	--	--	--	--	--
+11	278	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	279	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	28579830	114319320	136452224	0	1857664	281209038	0	--	--	--	--	--	--	--
+11	280	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	29092236	116368936	138898672	0	1890970	286250814	0	--	--	--	--	--	--	--
+11	281	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	33175426	132701704	158393552	0	2156374	326427056	0	--	--	--	--	--	--	--
+11	282	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	39016676	156066704	186282160	0	2536050	383901590	0	--	--	--	--	--	--	--
+11	283	Shield Depleted	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+11	284	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	262712832	0	55083560	0	0	108278168	209518224	--	--	--	--	--	--	--
+11	285	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	319907200	0	67075628	0	0	131851052	255131776	--	--	--	--	--	--	--
+11	286	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	287	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	184139584	0	175832096	0	2393782	362365462	0	--	--	--	--	--	--	--
+11	288	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	144706976	0	138178496	0	1881165	284766637	0	--	--	--	--	--	--	--
+11	289	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	141050496	0	134686976	0	1833632	277571104	0	--	--	--	--	--	--	--
+11	290	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	YES	172568160	0	164782704	0	2243356	339594220	0	--	--	--	--	--	--	--
+11	291	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	236155232	0	49515172	0	0	97332340	188338064	--	--	--	--	--	--	--
+11	292	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	209364608	0	43897924	0	0	86290468	166972064	--	--	--	--	--	--	--
+11	293	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	355613568	0	74562256	0	0	146567568	283608256	--	--	--	--	--	--	--
+12	295	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+12	296	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	297	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+12	298	Officer Ability	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3	Upper hand	Paul Zhou	--	--	--
+12	299	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15810899	63243596	75487936	0	1027694	155570125	0	--	--	--	--	--	--	--
+12	300	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	14132613	56530452	67475088	0	918607	139056760	0	--	--	--	--	--	--	--
+12	301	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15783860	63135440	75358840	0	1025937	155304077	0	--	--	--	--	--	--	--
+12	302	Attack	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	--	--	NO	15181958	60727832	72485104	0	986814	149381708	0	--	--	--	--	--	--	--
+12	303	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	355335168	0	74503888	0	0	146452816	283386240	--	--	--	--	--	--	--
+12	304	Attack	XanOfHanoi	ThunderDome	USS RELATIVITY	NO	Magg	--	Breen Warship	NO	--	--	YES	320031840	0	67101764	0	0	131902404	255231200	--	--	--	--	--	--	--
+12	305	Combatant Destroyed	Magg	--	Breen Warship	NO	XanOfHanoi	ThunderDome	Breen Warship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

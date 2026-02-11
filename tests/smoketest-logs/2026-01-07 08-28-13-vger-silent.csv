@@ -1,0 +1,979 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	BORG CUBE	75	14383602688	0	Chang	Seska	Suder	14775803681	6387483311	115147075921	29088165947	Fiavoli	1/7/2026 8:28:13 AM
+V'ger Silent Enemy ▶	67	DEFEAT	V'ger Silent Enemy	67	1218569175040	0	Replicated Silent	--	--	922702461912	0	1504406187900	0	Fiavoli	1/7/2026 8:28:13 AM
+
+Reward Name	Count
+6★ Broken Battleship Parts	54858
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1387010944	481436000	12515155968	Phase Discriminating Amplifier	Cry Havoc	Dogs of War	Lone Operative	Silence Your Demons	40.5	1322861824	6391193	75769425	6391193	0.22	3.45	40.5	90390912	2967633	2928657	40.5	10487262949	14543048696	212	1641	562.4	2443470	0	1	NO	NO
+Enemy Fleet 1	702357120	4312630784	1213554229248	Replicated Ruthless Pursuit---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	380614784	15244649	130381872	15244649	0.1	1.5	0	722114944	70205624	70205624	0	1504406142976	922702446592	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	AGIMUS	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	AGIMUS	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.15	--	AGIMUS	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+1	9	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	78829048	371622656	102293312	4761764352	39668888	172715440	5181462816	--	--	--	--	--	--	--
+1	10	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8830143	41627816	11458525	533395488	4443564	19346952	580408584	--	--	--	--	--	--	--
+1	11	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	79335272	374009152	102950224	4792343552	39923636	173824588	5214737248	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	128482824	442551968	63875460	0	0	96652524	538257728	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1488217216	5126081536	739869760	0	0	1119526080	6234642432	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	121555624	418691584	60431588	0	0	91441452	509237344	--	--	--	--	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	16	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82237896	387692960	106716848	4967680000	41384316	180184276	5405527744	--	--	--	--	--	--	--
+1	17	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	81346616	383491200	105560264	4913841152	40935800	178231448	5346943584	--	--	--	--	--	--	--
+1	18	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9190103	43324772	11925631	555139328	4624706	20135628	604068912	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	261002496	899008640	129757848	0	0	196341784	1093427200	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3353120512	11549637632	1667009664	0	0	2522419072	14047348736	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3232609536	11134543872	1607097472	0	0	2431762816	13542488064	--	--	--	--	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91421592	430987520	118981960	5525228032	46005796	200407236	6012217664	--	--	--	--	--	--	--
+1	24	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9588764	45204172	12479436	579514112	4825323	21019735	630592072	--	--	--	--	--	--	--
+1	25	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9646320	45475512	12554344	582992640	4854287	21145911	634377192	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1421702400	4896974848	706801792	0	0	1069490048	5955988992	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1698458624	5850246144	844391616	0	0	1277682368	7115414016	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1480596224	5099831296	736080960	0	0	1113793344	6202715136	--	--	--	--	--	--	--
+1	29	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	30	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9629003	45393872	12531806	581946048	4845572	21107945	633238356	--	--	--	--	--	--	--
+1	31	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82613720	389464672	107518824	4992908288	41573436	181099324	5432979616	--	--	--	--	--	--	--
+1	32	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9901806	46679940	12886849	598433344	4982854	21705961	651178832	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	242777104	836232256	120697064	0	0	182631480	1017074944	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	239532640	825056832	119084064	0	0	180190784	1003482752	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3418376192	11774406656	1699451648	0	0	2571507456	14320727040	--	--	--	--	--	--	--
+2	37	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	348119300	--	--	--	--
+2	38	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	39	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	40	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+2	44	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+2	45	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+2	46	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	79801392	376206560	103708552	4827643392	40893496	175104976	5253148416	--	--	--	--	--	--	--
+2	47	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8891532	41917220	11555285	537899712	4556384	19510325	585309808	--	--	--	--	--	--	--
+2	48	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	77272264	364283520	100421736	4674641920	39597468	169555404	5086661504	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1431279232	4929961472	711562944	0	0	1076693824	5996109824	--	--	--	--	--	--	--
+2	50	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1458219648	5022756352	724956416	0	0	1096959872	6108972544	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1676393600	5774244352	833421952	0	0	1261083904	7022976000	--	--	--	--	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	53	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	77267976	364263296	100416168	4674382848	39595272	169545976	5086379584	--	--	--	--	--	--	--
+2	54	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	8893190	41925040	11557441	538000064	4557234	19513965	585419004	--	--	--	--	--	--	--
+2	55	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	79886168	376606208	103818720	4832772096	40936940	175290980	5258729152	--	--	--	--	--	--	--
+2	56	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	57	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	58	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94667016	446287392	123388352	5729849856	48511256	207829152	6234874720	--	--	--	--	--	--	--
+2	59	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9587449	45197976	12496217	580293376	4913001	21048003	631440016	--	--	--	--	--	--	--
+2	60	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10474676	49380612	13652622	633993984	5367652	22995790	689873756	--	--	--	--	--	--	--
+2	61	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1567047936	5397609984	779060672	0	0	1178827968	6564890624	--	--	--	--	--	--	--
+2	62	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1689814528	5820472320	840094272	0	0	1271179840	7079201280	--	--	--	--	--	--	--
+2	63	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1710459008	5891580928	850357696	0	0	1286709824	7165687808	--	--	--	--	--	--	--
+2	64	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	65	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	84947072	400464768	110719440	5141536768	43530356	186490276	5594708128	--	--	--	--	--	--	--
+2	66	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	81189584	382750912	105821960	4914109952	41604864	178241208	5347236064	--	--	--	--	--	--	--
+2	67	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9587306	45197300	12496030	580284736	4912928	21047684	631430616	--	--	--	--	--	--	--
+2	68	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	70	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	392153300	--	--	--	--
+3	71	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	73	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	74	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+3	75	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	76	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+3	77	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+3	78	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+3	79	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90220272	360881056	102744584	4782770688	41181424	173477352	5204320672	--	--	--	--	--	--	--
+3	80	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10005980	40023920	11395003	530438560	4567271	19239702	577191032	--	--	--	--	--	--	--
+3	81	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89499856	357999424	101924168	4744580608	40852588	172092132	5162764512	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1329097856	5316391424	743358720	0	0	1124805504	6264042496	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1312258176	5249032704	733940352	0	0	1110554368	6184676864	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1305288320	5221153280	730042176	0	0	1104655808	6151827968	--	--	--	--	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	86	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90925112	363700448	103547272	4820136448	41503152	174832624	5244979808	--	--	--	--	--	--	--
+3	87	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10021672	40086688	11412873	531270432	4574434	19269875	578096224	--	--	--	--	--	--	--
+3	88	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90686200	362744800	103275192	4807470592	41394100	174373284	5231197600	--	--	--	--	--	--	--
+3	89	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2955942656	11823770624	1653245952	0	0	2501592832	13931366400	--	--	--	--	--	--	--
+3	90	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2994731776	11978927104	1674940672	0	0	2534419456	14114180096	--	--	--	--	--	--	--
+3	91	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2543181056	10172724224	1422390144	0	0	2152276096	11986019328	--	--	--	--	--	--	--
+3	92	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	93	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	83051720	332206880	94858192	4404979712	37909308	159774356	4793231456	--	--	--	--	--	--	--
+3	94	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	102169912	408679648	116694184	5418989056	46635888	196553808	5896614880	--	--	--	--	--	--	--
+3	95	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92969336	371877344	106185672	4930999808	42436248	178853816	5365614592	--	--	--	--	--	--	--
+3	96	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1473050624	5892202496	823870912	0	0	1246631872	6942492160	--	--	--	--	--	--	--
+3	97	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1431298944	5725195776	800519360	0	0	1211297856	6745716224	--	--	--	--	--	--	--
+3	98	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1434069760	5736279040	802069056	0	0	1213642560	6758775296	--	--	--	--	--	--	--
+3	99	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	100	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90140216	360560864	102954368	4780945920	41144880	173411176	5202335072	--	--	--	--	--	--	--
+3	101	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9131300	36525200	10429388	484314976	4168020	17566736	527002148	--	--	--	--	--	--	--
+3	102	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11136223	44544892	12719326	590654016	5083176	21423793	642713840	--	--	--	--	--	--	--
+3	103	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2672076544	10688306176	1494480896	0	0	2261359360	12593504256	--	--	--	--	--	--	--
+3	104	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2770915072	11083660288	1549760896	0	0	2345005184	13059331072	--	--	--	--	--	--	--
+3	105	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2877819648	11511278592	1609552256	0	0	2435477632	13563172864	--	--	--	--	--	--	--
+4	107	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	485073400	--	--	--	--
+4	108	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	109	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	110	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	111	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+4	112	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	113	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+4	114	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+4	115	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+4	116	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92282512	369130048	105248392	4899323392	42866768	177704872	5331146240	--	--	--	--	--	--	--
+4	117	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89646936	358587744	102242512	4759399424	41642500	172629644	5178889472	--	--	--	--	--	--	--
+4	118	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10019522	40078088	11427286	531941312	4654235	19294207	578826236	--	--	--	--	--	--	--
+4	119	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1259416448	5037665792	722108608	0	0	1092651072	5926539776	--	--	--	--	--	--	--
+4	120	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1311679744	5246718976	752074624	0	0	1137993856	6172479488	--	--	--	--	--	--	--
+4	121	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1237403392	4949613568	709486976	0	0	1073553024	5822950912	--	--	--	--	--	--	--
+4	122	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	123	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10002967	40011864	11408404	531062368	4646545	19262324	577869824	--	--	--	--	--	--	--
+4	124	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9978103	39912412	11380047	529742336	4634995	19214449	576433444	--	--	--	--	--	--	--
+4	125	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91322088	365288352	104153024	4848333824	42420636	175855428	5275662496	--	--	--	--	--	--	--
+4	126	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	127	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	128	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	107961720	431846880	123491544	5734641664	50150024	208002968	6240088864	--	--	--	--	--	--	--
+4	129	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	99209488	396837952	113480336	5269746176	46084464	191140592	5734217824	--	--	--	--	--	--	--
+4	130	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	84843688	339374752	97048080	4506672640	39411312	163462920	4903887552	--	--	--	--	--	--	--
+4	131	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1397497216	5589988864	801279616	0	0	1212447744	6576317952	--	--	--	--	--	--	--
+4	132	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1334153344	5336613376	764960320	0	0	1157491392	6278235648	--	--	--	--	--	--	--
+4	133	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1221460992	4885843968	700346112	0	0	1059721472	5747929600	--	--	--	--	--	--	--
+4	134	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	135	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	101928064	407712256	116589976	5414150144	47347292	196378292	5891349440	--	--	--	--	--	--	--
+4	136	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	98677352	394709408	112871664	5241480704	45837280	190115352	5703461056	--	--	--	--	--	--	--
+4	137	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	98831936	395327744	113048480	5249691648	45909088	190413184	5712395712	--	--	--	--	--	--	--
+4	138	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	140	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	563663700	--	--	--	--
+5	141	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	142	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+5	143	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	144	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+5	145	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	146	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+5	147	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+5	148	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+5	149	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92953504	371814016	106170080	4942227968	43927884	179261068	5377832384	--	--	--	--	--	--	--
+5	150	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90839392	363357568	103755368	4829822976	42928800	175183976	5255520128	--	--	--	--	--	--	--
+5	151	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92305072	369220256	105429440	4907750912	43621444	178010548	5340316576	--	--	--	--	--	--	--
+5	152	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1256313216	5025252864	720329216	0	0	1089958784	5911936512	--	--	--	--	--	--	--
+5	153	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1370344192	5481376768	785710912	0	0	1188890176	6448541696	--	--	--	--	--	--	--
+5	154	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1331097344	5324389376	763208000	0	0	1154840640	6263854080	--	--	--	--	--	--	--
+5	155	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	156	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10164915	40659660	11610210	540456448	4803726	19603063	588091896	--	--	--	--	--	--	--
+5	157	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90866664	363466656	103786520	4831272960	42941688	175236600	5257097888	--	--	--	--	--	--	--
+5	158	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10428900	41715600	11911730	554492224	4928480	20112162	603364772	--	--	--	--	--	--	--
+5	159	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2727621888	10910487552	1563929984	0	0	2366444160	12835595264	--	--	--	--	--	--	--
+5	160	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2706247424	10824989696	1551674496	0	0	2347900800	12735010816	--	--	--	--	--	--	--
+5	161	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2849584640	11398338560	1633859456	0	0	2472257920	13409524736	--	--	--	--	--	--	--
+5	162	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	163	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11088474	44353896	12702216	589859456	5240181	21394979	641849244	--	--	--	--	--	--	--
+5	164	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	106221856	424887424	121680672	5650549248	50198228	204952820	6148584608	--	--	--	--	--	--	--
+5	165	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87838480	351353920	100621904	4672632320	41510628	169482500	5084474752	--	--	--	--	--	--	--
+5	166	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1416397952	5665591808	812116672	0	0	1228845888	6665260544	--	--	--	--	--	--	--
+5	167	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1198676992	4794707968	687282496	0	0	1039954240	5640713216	--	--	--	--	--	--	--
+5	168	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1381555072	5526220288	792138880	0	0	1198617088	6501297152	--	--	--	--	--	--	--
+5	169	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	170	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	107862000	431448000	123559512	5737798144	50973328	208117432	6243523552	--	--	--	--	--	--	--
+5	171	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11538964	46155856	13218268	613823616	5453073	22264185	667925592	--	--	--	--	--	--	--
+5	172	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11780206	47120824	13494619	626656704	5567079	22729656	681889776	--	--	--	--	--	--	--
+5	173	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2442632448	9770529792	1400526208	0	0	2119192192	11494496256	--	--	--	--	--	--	--
+5	174	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2441399040	9765596160	1399819008	0	0	2118121984	11488692224	--	--	--	--	--	--	--
+5	175	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2770336256	11081345024	1588420992	0	0	2403502976	13036599296	--	--	--	--	--	--	--
+6	177	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	456049700	--	--	--	--
+6	178	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	179	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+6	180	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	181	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+6	182	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	183	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+6	184	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+6	185	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+6	186	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9865717	39462868	11268471	524548480	4662331	19026059	570781808	--	--	--	--	--	--	--
+6	187	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88737200	354948800	101354280	4718051840	41935348	171129932	5133897536	--	--	--	--	--	--	--
+6	188	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9758287	39033148	11145766	518836544	4611562	18818883	564566424	--	--	--	--	--	--	--
+6	189	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1393310336	5573241344	798878976	0	0	1208815488	6556615168	--	--	--	--	--	--	--
+6	190	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1271683584	5086734336	729142144	0	0	1103293824	5984266240	--	--	--	--	--	--	--
+6	191	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1395646208	5582584832	800218240	0	0	1210842496	6567606784	--	--	--	--	--	--	--
+6	192	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	193	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90946104	363784416	103877248	4835496448	42979228	175389780	5261693664	--	--	--	--	--	--	--
+6	194	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92844392	371377568	106045448	4936426496	43876320	179050640	5371519584	--	--	--	--	--	--	--
+6	195	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91613264	366453056	104639272	4870968832	43294512	176676424	5300292512	--	--	--	--	--	--	--
+6	196	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	197	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	198	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	102531272	410125088	117452984	5454225920	48454136	197831928	5934957472	--	--	--	--	--	--	--
+6	199	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82830016	331320064	94884536	4406203392	39143732	159818764	4794562976	--	--	--	--	--	--	--
+6	200	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	83904528	335618112	96115432	4463362560	39651528	161892000	4856760160	--	--	--	--	--	--	--
+6	201	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1345334272	5381337088	771371008	0	0	1167192064	6330850304	--	--	--	--	--	--	--
+6	202	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1424437248	5697748992	816726144	0	0	1235820672	6703091712	--	--	--	--	--	--	--
+6	203	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1257496704	5029986816	721007872	0	0	1090985344	5917506048	--	--	--	--	--	--	--
+6	204	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	205	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11336358	45345432	12986175	603045824	5357325	21873262	656197852	--	--	--	--	--	--	--
+6	206	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91160904	364643616	104427848	4849370624	43080736	175893040	5276790688	--	--	--	--	--	--	--
+6	207	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94551264	378205056	108311624	5029723648	44682952	182434640	5473039904	--	--	--	--	--	--	--
+6	208	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	210	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	535550000	--	--	--	--
+7	211	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+7	212	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+7	213	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	214	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+7	215	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	216	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+7	217	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+7	218	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+7	219	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88282784	353131136	100835248	4693891072	41720600	170253576	5107607264	--	--	--	--	--	--	--
+7	220	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87789088	351156352	100271352	4667641856	41487288	169301488	5079044448	--	--	--	--	--	--	--
+7	221	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87792088	351168352	100274776	4667801088	41488704	169307280	5079217728	--	--	--	--	--	--	--
+7	222	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1398335360	5593341440	801760192	0	0	1213175104	6580261888	--	--	--	--	--	--	--
+7	223	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1229711872	4918847488	705076928	0	0	1066879680	5786756608	--	--	--	--	--	--	--
+7	224	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1287418496	5149673984	738164032	0	0	1116945344	6058311168	--	--	--	--	--	--	--
+7	225	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	226	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93480616	373922464	106772128	4970253312	44176984	180277632	5408327872	--	--	--	--	--	--	--
+7	227	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88676736	354706912	101285208	4714836992	41906768	171013288	5130399328	--	--	--	--	--	--	--
+7	228	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89938944	359755776	102726896	4781947392	42503268	173447476	5203424800	--	--	--	--	--	--	--
+7	229	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2541208064	10164832256	1457046272	0	0	2204714240	11958372352	--	--	--	--	--	--	--
+7	230	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2775864576	11103458304	1591590784	0	0	2408299648	13062614016	--	--	--	--	--	--	--
+7	231	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2639318784	10557275136	1513299840	0	0	2289833600	12420060160	--	--	--	--	--	--	--
+7	232	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	233	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9132821	36531284	10461951	485827104	4315980	17621584	528647556	--	--	--	--	--	--	--
+7	234	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11675070	46700280	13374182	621063936	5517394	22526798	675804064	--	--	--	--	--	--	--
+7	235	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90718368	362873440	103920904	4825829888	42871604	175039164	5251175040	--	--	--	--	--	--	--
+7	236	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1355169152	5420676608	777010048	0	0	1175724800	6377131008	--	--	--	--	--	--	--
+7	237	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1254223360	5016893440	719131008	0	0	1088145792	5902102016	--	--	--	--	--	--	--
+7	238	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1377643904	5510575616	789896320	0	0	1195223552	6482892288	--	--	--	--	--	--	--
+7	239	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	240	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92135456	368541824	105544240	4901213184	43541292	177773404	5333202592	--	--	--	--	--	--	--
+7	241	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10198903	40795612	11683183	542538112	4819788	19678566	590357032	--	--	--	--	--	--	--
+7	242	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	106272864	425091456	121739104	5653262848	50222332	205051260	6151537344	--	--	--	--	--	--	--
+7	243	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2461121280	9844485120	1411127168	0	0	2135232128	11581501440	--	--	--	--	--	--	--
+7	244	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2747058176	10988232704	1575074176	0	0	2383307136	12927057920	--	--	--	--	--	--	--
+7	245	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2553704704	10214818816	1464211456	0	0	2215557376	12017177600	--	--	--	--	--	--	--
+8	247	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	539339100	--	--	--	--
+8	248	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+8	249	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+8	250	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	251	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+8	252	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	253	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+8	254	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+8	255	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+8	256	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88970336	355881344	101620560	4730447360	42045520	171579520	5147385600	--	--	--	--	--	--	--
+8	257	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9821792	39287168	11218301	522213088	4641574	18941351	568240572	--	--	--	--	--	--	--
+8	258	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94118896	376475584	107501168	5004190208	44478624	181508512	5445255968	--	--	--	--	--	--	--
+8	259	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1376935808	5507743232	789490368	0	0	1194609216	6479560192	--	--	--	--	--	--	--
+8	260	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1384553728	5538214912	793858240	0	0	1201218496	6515408384	--	--	--	--	--	--	--
+8	261	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1421467392	5685869568	815023360	0	0	1233244160	6689116160	--	--	--	--	--	--	--
+8	262	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	263	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94063152	376252608	107437496	5001226240	44452280	181401024	5442030752	--	--	--	--	--	--	--
+8	264	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10363950	41455800	11837546	551038976	4897786	19986902	599607156	--	--	--	--	--	--	--
+8	265	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10068990	40275960	11500647	535356288	4758394	19418075	582542204	--	--	--	--	--	--	--
+8	266	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	267	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	268	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	100816792	403267168	115488992	5363022848	47643908	194523868	5835715840	--	--	--	--	--	--	--
+8	269	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88386360	353545440	101249520	4701776896	41769548	170539604	5116188160	--	--	--	--	--	--	--
+8	270	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11399744	45598976	13058786	606417728	5387280	21995566	659866948	--	--	--	--	--	--	--
+8	271	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1252311296	5009245184	718034752	0	0	1086486592	5893104640	--	--	--	--	--	--	--
+8	272	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1249984896	4999939584	716700800	0	0	1084468736	5882156544	--	--	--	--	--	--	--
+8	273	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1323774976	5295099904	759009664	0	0	1148487552	6229396992	--	--	--	--	--	--	--
+8	274	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	275	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91350384	365401536	104644912	4859450880	43170284	176258636	5287759360	--	--	--	--	--	--	--
+8	276	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11375629	45502516	13031162	605134912	5375884	21949035	658471068	--	--	--	--	--	--	--
+8	277	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	96363176	385452704	110387224	5126109696	45539220	185930708	5577921312	--	--	--	--	--	--	--
+8	278	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	280	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	445472500	--	--	--	--
+9	281	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+9	282	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+9	283	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	284	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+9	285	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	286	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+9	287	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+9	288	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+9	289	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10322877	41291508	11790633	548855168	4878376	19907694	597230868	--	--	--	--	--	--	--
+9	290	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92605664	370422656	105772776	4923733504	43763500	178590260	5357707840	--	--	--	--	--	--	--
+9	291	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92023168	368092704	105107464	4892763136	43488228	177466924	5324007776	--	--	--	--	--	--	--
+9	292	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1264949504	5059798016	725281088	0	0	1097451072	5952577536	--	--	--	--	--	--	--
+9	293	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1206637696	4826550784	691846912	0	0	1046861184	5678174208	--	--	--	--	--	--	--
+9	294	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1449290112	5797160448	830975936	0	0	1257382720	6820043776	--	--	--	--	--	--	--
+9	295	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	296	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91661560	366646240	104694432	4873536512	43317336	176769552	5303086528	--	--	--	--	--	--	--
+9	297	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10428696	41714784	11911497	554481408	4928383	20111768	603353000	--	--	--	--	--	--	--
+9	298	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10086363	40345448	11520489	536279936	4766604	19451576	583547264	--	--	--	--	--	--	--
+9	299	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2694195456	10776781824	1544764288	0	0	2337443968	12678297600	--	--	--	--	--	--	--
+9	300	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2619975936	10479903744	1502209280	0	0	2273052160	12329036800	--	--	--	--	--	--	--
+9	301	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2567880192	10271520768	1472339200	0	0	2227855104	12083885056	--	--	--	--	--	--	--
+9	302	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	303	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9220796	36883184	10562728	490506976	4357555	17791331	533739908	--	--	--	--	--	--	--
+9	304	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	85541440	342165792	97990576	4550439936	40425100	165050428	4951512416	--	--	--	--	--	--	--
+9	305	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104189784	416759136	119352864	5542451712	49237912	201031984	6030959424	--	--	--	--	--	--	--
+9	306	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1207638016	4830552064	692420480	0	0	1047729024	5682881536	--	--	--	--	--	--	--
+9	307	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1394102784	5576411136	799333312	0	0	1209503168	6560344064	--	--	--	--	--	--	--
+9	308	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1268281472	5073125888	727191424	0	0	1100342272	5968256512	--	--	--	--	--	--	--
+9	309	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	310	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	85736264	342945056	98213744	4560803328	40517164	165426308	4962789248	--	--	--	--	--	--	--
+9	311	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	102131760	408527040	116995328	5432973312	48265332	197061092	5911831680	--	--	--	--	--	--	--
+9	312	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104369752	417479008	119559032	5552025600	49322964	201379236	6041377120	--	--	--	--	--	--	--
+9	313	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2412984064	9651936256	1383526784	0	0	2093469824	11354977280	--	--	--	--	--	--	--
+9	314	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2857689344	11430757376	1638506496	0	0	2479288576	13447664640	--	--	--	--	--	--	--
+9	315	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2514951936	10059807744	1441991936	0	0	2181935104	11834816512	--	--	--	--	--	--	--
+10	317	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	502940400	--	--	--	--
+10	318	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+10	319	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+10	320	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	321	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+10	322	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	323	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+10	324	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+10	325	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+10	326	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92669536	370678144	105845728	4927129600	43793684	178713428	5361403264	--	--	--	--	--	--	--
+10	327	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9832831	39331320	11230909	522799968	4646790	18962638	568879180	--	--	--	--	--	--	--
+10	328	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91850344	367401376	104910064	4883574272	43406552	177133616	5314008992	--	--	--	--	--	--	--
+10	329	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1278192640	5112770560	732874240	0	0	1108941312	6014896128	--	--	--	--	--	--	--
+10	330	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1230704512	4922818048	705646016	0	0	1067740992	5791427584	--	--	--	--	--	--	--
+10	331	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1347664256	5390657024	772707008	0	0	1169213504	6341814784	--	--	--	--	--	--	--
+10	332	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	333	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91598544	366394176	104622464	4870186496	43287560	176648024	5299441216	--	--	--	--	--	--	--
+10	334	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92590976	370363904	105756000	4922952704	43756560	178561936	5356858208	--	--	--	--	--	--	--
+10	335	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10301462	41205848	11766173	547716544	4868255	19866394	595991888	--	--	--	--	--	--	--
+10	336	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	337	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	338	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	95979560	383918240	109947784	5105702912	45357932	185190524	5555715904	--	--	--	--	--	--	--
+10	339	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9998288	39993152	11453372	531866240	4724982	19291486	578744548	--	--	--	--	--	--	--
+10	340	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104004288	416017152	119140376	5532583936	49150252	200674084	6020221920	--	--	--	--	--	--	--
+10	341	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1248519808	4994079232	715860800	0	0	1083197376	5875262464	--	--	--	--	--	--	--
+10	342	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1379620608	5518482432	791029696	0	0	1196938432	6492194304	--	--	--	--	--	--	--
+10	343	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1355896704	5423586816	777427200	0	0	1176355968	6380554752	--	--	--	--	--	--	--
+10	344	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	345	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	86435512	345742048	99014760	4598000640	40847616	166775488	5003265088	--	--	--	--	--	--	--
+10	346	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90676608	362706464	103873080	4823608832	42851872	174958616	5248758240	--	--	--	--	--	--	--
+10	347	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	95046472	380185888	108878896	5056066560	44916976	183390152	5501704640	--	--	--	--	--	--	--
+10	348	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	350	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	548720200	--	--	--	--
+11	351	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+11	352	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+11	353	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	354	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+11	355	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	356	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+11	357	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+11	358	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+11	359	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87855104	351420416	100346760	4671152128	41518488	169428800	5082864096	--	--	--	--	--	--	--
+11	360	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89108840	356435360	101778760	4737811456	42110976	171846608	5155398784	--	--	--	--	--	--	--
+11	361	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10213979	40855912	11666250	543065152	4826913	19697682	590930524	--	--	--	--	--	--	--
+11	362	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1293184256	5172737024	741469888	0	0	1121947584	6085443584	--	--	--	--	--	--	--
+11	363	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1452175232	5808700928	832630144	0	0	1259885824	6833620480	--	--	--	--	--	--	--
+11	364	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1424725888	5698903552	816891648	0	0	1236071040	6704450048	--	--	--	--	--	--	--
+11	365	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	366	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10277785	41111136	11739129	546457664	4857066	19820732	594622048	--	--	--	--	--	--	--
+11	367	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10478687	41914748	11968596	557139392	4952008	20208175	606245256	--	--	--	--	--	--	--
+11	368	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92837400	371349600	106037464	4936054784	43873016	179037160	5371115104	--	--	--	--	--	--	--
+11	369	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2457802496	9831209984	1409224192	0	0	2132353280	11565883392	--	--	--	--	--	--	--
+11	370	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2552832512	10211330048	1463711360	0	0	2214799488	12013074432	--	--	--	--	--	--	--
+11	371	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2432595456	9730381824	1394771456	0	0	2110483456	11447265280	--	--	--	--	--	--	--
+11	372	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	373	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11473532	45894128	13143313	610342976	5422151	22137936	664138164	--	--	--	--	--	--	--
+11	374	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	103875168	415500672	118992472	5525715968	49089236	200424940	6012748576	--	--	--	--	--	--	--
+11	375	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91175664	364702656	104444760	4850156032	43087712	175921512	5277645312	--	--	--	--	--	--	--
+11	376	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1253953920	5015815680	718976512	0	0	1087911808	5900834304	--	--	--	--	--	--	--
+11	377	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1405175296	5620701184	805681920	0	0	1219109632	6612448768	--	--	--	--	--	--	--
+11	378	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1281359360	5125437440	734689856	0	0	1111688768	6029797888	--	--	--	--	--	--	--
+11	379	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	380	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11498495	45993976	13171908	611670848	5433948	22186099	665583076	--	--	--	--	--	--	--
+11	381	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9380373	37521492	10745530	498995808	4432968	18099231	542976940	--	--	--	--	--	--	--
+11	382	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	100760992	403043968	115425064	5360054272	47617536	194416200	5832485632	--	--	--	--	--	--	--
+11	383	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2600270336	10401081344	1490910720	0	0	2255955968	12236306432	--	--	--	--	--	--	--
+11	384	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2681099776	10724399104	1537255680	0	0	2326082304	12616672256	--	--	--	--	--	--	--
+11	385	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2564040704	10256162816	1470137856	0	0	2224523776	12065817600	--	--	--	--	--	--	--
+12	387	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	396229700	--	--	--	--
+12	388	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+12	389	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+12	390	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	391	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+12	392	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	393	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+12	394	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+12	395	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+12	396	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93420296	373681184	106703240	4967046656	44148480	180161264	5404838592	--	--	--	--	--	--	--
+12	397	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9904895	39619576	11313220	526631520	4680846	19101613	573048444	--	--	--	--	--	--	--
+12	398	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9759262	39037048	11146880	518888416	4612023	18820761	564622868	--	--	--	--	--	--	--
+12	399	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1217302656	4869210624	697961856	0	0	1056113664	5728361472	--	--	--	--	--	--	--
+12	400	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1434252672	5737010688	822353984	0	0	1244336576	6749280768	--	--	--	--	--	--	--
+12	401	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1428124544	5712498176	818840320	0	0	1239019648	6720443392	--	--	--	--	--	--	--
+12	402	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	403	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9745836	38983344	11131545	518174528	4605678	18794871	563846060	--	--	--	--	--	--	--
+12	404	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90271640	361086560	103106888	4799636480	42660492	174089068	5222672992	--	--	--	--	--	--	--
+12	405	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87744760	350979040	100220728	4665285120	41466340	169215988	5076480000	--	--	--	--	--	--	--
+12	406	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	407	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	408	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104764368	419057472	120011080	5573017600	49509452	202140612	6064219360	--	--	--	--	--	--	--
+12	409	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	99752704	399010816	114270040	5306418176	47141040	192470728	5774122048	--	--	--	--	--	--	--
+12	410	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9823749	39294996	11253432	522581504	4642498	18954715	568641464	--	--	--	--	--	--	--
+12	411	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1338051712	5352206848	767195456	0	0	1160873920	6296580096	--	--	--	--	--	--	--
+12	412	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1308121856	5232487424	750034624	0	0	1134907328	6155736576	--	--	--	--	--	--	--
+12	413	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1316980352	5267921408	755113856	0	0	1142592512	6197423104	--	--	--	--	--	--	--
+12	414	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	415	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89149768	356599072	102124024	4742387200	42130316	172012588	5160377792	--	--	--	--	--	--	--
+12	416	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88556376	354225504	101444272	4710820864	41849892	170867660	5126029248	--	--	--	--	--	--	--
+12	417	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11403383	45613532	13062955	606611328	5389000	22002586	660077612	--	--	--	--	--	--	--
+12	418	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	420	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	443707100	--	--	--	--
+13	421	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+13	422	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+13	423	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	424	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+13	425	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	426	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+13	427	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+13	428	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+13	429	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90828176	363312704	103742552	4829226496	42923496	175162384	5254871040	--	--	--	--	--	--	--
+13	430	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10137045	40548184	11578378	538974720	4790555	19549318	586479564	--	--	--	--	--	--	--
+13	431	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92984352	371937408	106205304	4943867904	43942460	179320564	5379616864	--	--	--	--	--	--	--
+13	432	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1384888320	5539553280	794050112	0	0	1201508416	6516983296	--	--	--	--	--	--	--
+13	433	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1366639104	5466556416	783586560	0	0	1185676032	6431106048	--	--	--	--	--	--	--
+13	434	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1270198912	5080795648	728290880	0	0	1102005952	5977279488	--	--	--	--	--	--	--
+13	435	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	436	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93235008	372940032	106491600	4957194752	44060916	179803972	5394118336	--	--	--	--	--	--	--
+13	437	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10023008	40092032	11448126	532911456	4736664	19329398	579881888	--	--	--	--	--	--	--
+13	438	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91080944	364323776	104031264	4842665984	43042948	175649844	5269495072	--	--	--	--	--	--	--
+13	439	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2759448576	11037794304	1582178432	0	0	2394056832	12985364480	--	--	--	--	--	--	--
+13	440	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2410764800	9643059200	1382254336	0	0	2091543808	11344534528	--	--	--	--	--	--	--
+13	441	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2810306048	11241224192	1611338368	0	0	2438179968	13224688640	--	--	--	--	--	--	--
+13	442	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	443	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	86135968	344543872	98671624	4582066176	40706060	166197524	4985926176	--	--	--	--	--	--	--
+13	444	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10394209	41576840	11906913	552927552	4912086	20055408	601662192	--	--	--	--	--	--	--
+13	445	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82320744	329282976	94301152	4379111936	38903060	158836156	4765083712	--	--	--	--	--	--	--
+13	446	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1337284864	5349139456	766755776	0	0	1160208576	6292971520	--	--	--	--	--	--	--
+13	447	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1204522240	4818088960	690633984	0	0	1045025792	5668219392	--	--	--	--	--	--	--
+13	448	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1394270080	5577080320	799429312	0	0	1209648192	6561131520	--	--	--	--	--	--	--
+13	449	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	450	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	84915848	339663392	97273936	4517160960	40129456	163843336	4915300256	--	--	--	--	--	--	--
+13	451	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10411300	41645200	11926491	553836736	4920163	20088382	602651508	--	--	--	--	--	--	--
+13	452	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10538750	42155000	12072489	560616512	4980393	20334296	610028848	--	--	--	--	--	--	--
+13	453	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2789289216	11157156864	1599287936	0	0	2419946368	13125787648	--	--	--	--	--	--	--
+13	454	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2456761600	9827046400	1408627328	0	0	2131450752	11560984576	--	--	--	--	--	--	--
+13	455	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2851762176	11407048704	1635107968	0	0	2474145920	13419772928	--	--	--	--	--	--	--
+14	457	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	423993400	--	--	--	--
+14	458	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+14	459	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+14	460	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	461	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+14	462	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+14	463	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+14	464	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+14	465	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+14	466	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9760271	39041080	11148032	518942016	4612500	18822707	564681192	--	--	--	--	--	--	--
+14	467	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94438000	377752000	107865648	5021156864	44629428	182123924	5463718016	--	--	--	--	--	--	--
+14	468	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88260672	353042688	100809992	4692715520	41710148	170210956	5106328064	--	--	--	--	--	--	--
+14	469	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1458055296	5832221184	836001664	0	0	1264987136	6861291008	--	--	--	--	--	--	--
+14	470	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1415011456	5660045824	811321728	0	0	1227642880	6658736128	--	--	--	--	--	--	--
+14	471	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1275341056	5101364224	731239232	0	0	1106466880	6001477632	--	--	--	--	--	--	--
+14	472	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	473	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10382504	41530016	11858737	552025408	4906554	20022687	600680532	--	--	--	--	--	--	--
+14	474	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88363200	353452800	100927096	4698166784	41758600	170408640	5112259840	--	--	--	--	--	--	--
+14	475	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90689408	362757632	103584056	4821848064	42857916	174894772	5246842304	--	--	--	--	--	--	--
+14	476	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	477	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	478	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	102953072	411812288	117936168	5476663808	48653468	198645780	5959373024	--	--	--	--	--	--	--
+14	479	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10494109	41976436	12021351	558241792	4959296	20248160	607444824	--	--	--	--	--	--	--
+14	480	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89907312	359629248	102991816	4782685184	42488316	173474260	5204227616	--	--	--	--	--	--	--
+14	481	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1348431488	5393725952	773146880	0	0	1169879424	6345424896	--	--	--	--	--	--	--
+14	482	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1454851712	5819406848	834164800	0	0	1262207680	6846215680	--	--	--	--	--	--	--
+14	483	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1213432960	4853731840	695743104	0	0	1052756736	5710151168	--	--	--	--	--	--	--
+14	484	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	485	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9476095	37904376	10855182	504087776	4478204	18283921	548517712	--	--	--	--	--	--	--
+14	486	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10177205	40708820	11658327	541383872	4809534	19636702	589101056	--	--	--	--	--	--	--
+14	487	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	99782912	399131648	114304648	5308024832	47155316	192529020	5775870336	--	--	--	--	--	--	--
+14	488	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	490	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	443951400	--	--	--	--
+15	491	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+15	492	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+15	493	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	494	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+15	495	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+15	496	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+15	497	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+15	498	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+15	499	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88089560	352358240	100614552	4683617792	41629284	169880948	5096428480	--	--	--	--	--	--	--
+15	500	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90142704	360570848	102959624	4792781312	42599560	173840448	5215213600	--	--	--	--	--	--	--
+15	501	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10458754	41835016	11945829	556079552	4942588	20169731	605092008	--	--	--	--	--	--	--
+15	502	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1448302080	5793208320	830409472	0	0	1256525568	6815394304	--	--	--	--	--	--	--
+15	503	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1466142592	5864570368	840638592	0	0	1272003584	6899347968	--	--	--	--	--	--	--
+15	504	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1385090432	5540361728	794165888	0	0	1201683968	6517934080	--	--	--	--	--	--	--
+15	505	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	506	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91466072	365864288	104471152	4863142912	43224952	176392544	5291776832	--	--	--	--	--	--	--
+15	507	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92694808	370779232	105874592	4928473088	43805628	178762164	5362865184	--	--	--	--	--	--	--
+15	508	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90476048	361904192	103340360	4810504192	42757088	174483288	5234498592	--	--	--	--	--	--	--
+15	509	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2827606272	11310425088	1621257728	0	0	2453189376	13306099712	--	--	--	--	--	--	--
+15	510	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2549248256	10196993024	1461656192	0	0	2211690368	11996207104	--	--	--	--	--	--	--
+15	511	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2506203136	10024812544	1436975616	0	0	2174344704	11793646592	--	--	--	--	--	--	--
+15	512	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	513	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11046603	44186408	12654251	587632128	5220393	21314183	639425600	--	--	--	--	--	--	--
+15	514	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	106840840	427363360	122389744	5683476480	50490748	206147124	6184414048	--	--	--	--	--	--	--
+15	515	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9118184	36472736	10445183	485048480	4309063	17593342	527800304	--	--	--	--	--	--	--
+15	516	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1362291968	5449167872	781094016	0	0	1181904256	6410649600	--	--	--	--	--	--	--
+15	517	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1374695680	5498782720	788205952	0	0	1192665728	6469018624	--	--	--	--	--	--	--
+15	518	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1321786112	5287144448	757869312	0	0	1146761728	6220038144	--	--	--	--	--	--	--
+15	519	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	520	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	107536864	430147456	123187064	5720502272	50819676	207490100	6224703232	--	--	--	--	--	--	--
+15	521	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87241144	348964576	99937632	4640856576	41228340	168329932	5049898336	--	--	--	--	--	--	--
+15	522	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	97519024	390076096	111711288	5187595776	46085452	188160916	5644826720	--	--	--	--	--	--	--
+15	523	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2541807360	10167229440	1457389952	0	0	2205234304	11961192448	--	--	--	--	--	--	--
+15	524	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2857701888	11430807552	1638513536	0	0	2479299968	13447723008	--	--	--	--	--	--	--
+15	525	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2663705600	10654822400	1527282432	0	0	2310991616	12534818816	--	--	--	--	--	--	--
+16	527	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	556057300	--	--	--	--
+16	528	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+16	529	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+16	530	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	531	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+16	532	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+16	533	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+16	534	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+16	535	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+16	536	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+16	537	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10261764	41047056	11720830	545605824	4849495	19789841	593695128	--	--	--	--	--	--	--
+16	538	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10411615	41646464	11891988	553573248	4920312	20078827	602364800	--	--	--	--	--	--	--
+16	539	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10068320	40273280	11499882	535320672	4758078	19416780	582503452	--	--	--	--	--	--	--
+16	540	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1286218752	5144875008	737476160	0	0	1115904064	6052665856	--	--	--	--	--	--	--
+16	541	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1230568448	4922273792	705568064	0	0	1067622720	5790787584	--	--	--	--	--	--	--
+16	542	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1258826752	5035307008	721770432	0	0	1092139456	5923764736	--	--	--	--	--	--	--
+16	543	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	544	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9875028	39500112	11279106	525043520	4666731	19044017	571320480	--	--	--	--	--	--	--
+16	545	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94068464	376273856	107443560	5001508864	44454788	181411292	5442338240	--	--	--	--	--	--	--
+16	546	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10100672	40402688	11536834	537040768	4773366	19479168	584375160	--	--	--	--	--	--	--
+16	547	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	548	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	549	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92359912	369439648	105801352	4913153024	43647364	178206484	5346194816	--	--	--	--	--	--	--
+16	550	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	101767560	407070240	116578128	5413599744	48093220	196358364	5890750528	--	--	--	--	--	--	--
+16	551	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93083928	372335712	106630744	4951667712	43989520	179603456	5388104160	--	--	--	--	--	--	--
+16	552	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1225148544	4900594176	702460480	0	0	1062920896	5765282304	--	--	--	--	--	--	--
+16	553	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1245622016	4982488064	714199232	0	0	1080683456	5861625856	--	--	--	--	--	--	--
+16	554	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1217187200	4868748800	697895680	0	0	1056013440	5727818240	--	--	--	--	--	--	--
+16	555	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+16	556	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10405492	41621968	11919837	553527744	4917418	20077179	602315280	--	--	--	--	--	--	--
+16	557	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9731683	38926732	11147967	517684000	4598990	18777076	563312296	--	--	--	--	--	--	--
+16	558	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82697384	330789536	94732608	4399148032	39081056	159562856	4786885760	--	--	--	--	--	--	--
+16	559	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	561	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	336944100	--	--	--	--
+17	562	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+17	563	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+17	564	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	565	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+17	566	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+17	567	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+17	568	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+17	569	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+17	570	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+17	571	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91621688	366486752	104648896	4871416832	43298492	176692660	5300780000	--	--	--	--	--	--	--
+17	572	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89158824	356635296	101835848	4740469248	42134596	171943028	5158290784	--	--	--	--	--	--	--
+17	573	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88711768	354847072	101325224	4716699648	41923328	171080864	5132426176	--	--	--	--	--	--	--
+17	574	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1314574720	5258298880	753734528	0	0	1140505344	6186102784	--	--	--	--	--	--	--
+17	575	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1268063616	5072254464	727066560	0	0	1100153152	5967231488	--	--	--	--	--	--	--
+17	576	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1245115776	4980463104	713908992	0	0	1080243840	5859244032	--	--	--	--	--	--	--
+17	577	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	578	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92173912	368695648	105279640	4900777984	43559464	177757624	5332729024	--	--	--	--	--	--	--
+17	579	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89918336	359673344	102703352	4780851712	42493528	173407728	5202232544	--	--	--	--	--	--	--
+17	580	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89280392	357121568	101974704	4746932736	42192048	172177448	5165324000	--	--	--	--	--	--	--
+17	581	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2620013824	10480055296	1502230912	0	0	2273085056	12329214976	--	--	--	--	--	--	--
+17	582	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2818362624	11273450496	1615957760	0	0	2445169664	13262601216	--	--	--	--	--	--	--
+17	583	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2688550656	10754202624	1541527680	0	0	2332546944	12651734016	--	--	--	--	--	--	--
+17	584	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	585	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	101085240	404340960	115796512	5377303040	47770772	195041836	5851254688	--	--	--	--	--	--	--
+17	586	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94137160	376548640	107837256	5007695360	44487256	181635656	5449070016	--	--	--	--	--	--	--
+17	587	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82344704	329378816	94328600	4380386816	38914388	158882348	4766470976	--	--	--	--	--	--	--
+17	588	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1256803840	5027215360	720610560	0	0	1090384640	5914245120	--	--	--	--	--	--	--
+17	589	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1336141568	5344566272	766100288	0	0	1159216704	6287591424	--	--	--	--	--	--	--
+17	590	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1262343168	5049372672	723786624	0	0	1095190400	5940312064	--	--	--	--	--	--	--
+17	591	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+17	592	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10849489	43397956	12428451	577146496	5127241	20933861	628015772	--	--	--	--	--	--	--
+17	593	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93648960	374595840	107278008	4981725184	44256544	180693688	5420810848	--	--	--	--	--	--	--
+17	594	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11149619	44598472	12772259	593112128	5269076	21512950	645388604	--	--	--	--	--	--	--
+17	595	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2592508672	10370034688	1486460416	0	0	2249222400	12199781376	--	--	--	--	--	--	--
+17	596	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2480079104	9920316416	1421996928	0	0	2151680128	11670712320	--	--	--	--	--	--	--
+17	597	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2844378112	11377512448	1630874112	0	0	2467741184	13385023488	--	--	--	--	--	--	--
+18	599	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	588470500	--	--	--	--
+18	600	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+18	601	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+18	602	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	603	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+18	604	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+18	605	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+18	606	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+18	607	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+18	608	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+18	609	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10437957	41751828	11922075	554973824	4932760	20129628	603888816	--	--	--	--	--	--	--
+18	610	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94134480	376537920	107518968	5005019136	44485988	181538572	5446157920	--	--	--	--	--	--	--
+18	611	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10130705	40522820	11571136	538637568	4787559	19537092	586112696	--	--	--	--	--	--	--
+18	612	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1437430528	5749722112	824176064	0	0	1247093440	6764235264	--	--	--	--	--	--	--
+18	613	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1455381760	5821527040	834468736	0	0	1262667904	6848709632	--	--	--	--	--	--	--
+18	614	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1413808000	5655232000	810631680	0	0	1226598784	6653072896	--	--	--	--	--	--	--
+18	615	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	616	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90289384	361157536	103127160	4800579584	42668876	174123308	5223699232	--	--	--	--	--	--	--
+18	617	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92678552	370714208	105856032	4927608832	43797948	178730836	5361924736	--	--	--	--	--	--	--
+18	618	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94434544	377738176	107861688	5020972544	44627792	182117272	5463517472	--	--	--	--	--	--	--
+18	619	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	620	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	621	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	106711248	426844992	122241288	5676582912	50429504	205897080	6176912864	--	--	--	--	--	--	--
+18	622	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	95998464	383993856	109969440	5106708480	45366868	185226996	5556810112	--	--	--	--	--	--	--
+18	623	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87358272	349433088	100071808	4647087104	41283692	168555948	5056678016	--	--	--	--	--	--	--
+18	624	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1304244480	5216977920	747811456	0	0	1131543424	6137490432	--	--	--	--	--	--	--
+18	625	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1210207360	4840829440	693893632	0	0	1049958016	5694972416	--	--	--	--	--	--	--
+18	626	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1287526400	5150105600	738225856	0	0	1117038784	6058819072	--	--	--	--	--	--	--
+18	627	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+18	628	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92924088	371696352	106447640	4943164928	43913980	179295052	5378851936	--	--	--	--	--	--	--
+18	629	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93665840	374663328	107297336	4982622720	44264516	180726252	5421787488	--	--	--	--	--	--	--
+18	630	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104945792	419783168	120218896	5582667776	49595184	202490688	6074720128	--	--	--	--	--	--	--
+18	631	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+19	633	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	613436900	--	--	--	--
+19	634	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+19	635	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+19	636	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	637	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+19	638	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+19	639	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+19	640	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+19	641	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+19	642	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+19	643	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10434471	41737888	11918094	554788480	4931113	20122906	603687140	--	--	--	--	--	--	--
+19	644	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9892840	39571360	11299451	525990592	4675149	19078368	572351024	--	--	--	--	--	--	--
+19	645	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9973585	39894340	11391676	530283712	4713307	19234084	577022536	--	--	--	--	--	--	--
+19	646	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1360458880	5441835520	780043008	0	0	1180313984	6402023424	--	--	--	--	--	--	--
+19	647	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1390878336	5563513344	797484544	0	0	1206705280	6545170944	--	--	--	--	--	--	--
+19	648	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1315956736	5263826944	754526912	0	0	1141704384	6192606208	--	--	--	--	--	--	--
+19	649	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	650	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9778260	39113040	11168579	519898496	4621001	18857400	565721976	--	--	--	--	--	--	--
+19	651	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94283248	377132992	107688888	5012929024	44556292	181825484	5454764960	--	--	--	--	--	--	--
+19	652	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9911637	39646552	11320921	526990016	4684032	19114622	573438536	--	--	--	--	--	--	--
+19	653	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2664274432	10657097728	1527608576	0	0	2311485184	12537495552	--	--	--	--	--	--	--
+19	654	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2789225728	11156902912	1599251584	0	0	2419890560	13125489664	--	--	--	--	--	--	--
+19	655	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2906336256	11625345024	1666398976	0	0	2521494272	13676585984	--	--	--	--	--	--	--
+19	656	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	657	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10124898	40499592	11598408	538601344	4784815	19535777	586073280	--	--	--	--	--	--	--
+19	658	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104991384	419965536	120271128	5585093632	49616736	202578640	6077359776	--	--	--	--	--	--	--
+19	659	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	96914032	387656128	111018256	5155412992	45799548	186993564	5609807392	--	--	--	--	--	--	--
+19	660	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1206476928	4825907712	691754752	0	0	1046721920	5677417472	--	--	--	--	--	--	--
+19	661	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1434325504	5737302016	822395712	0	0	1244399424	6749623808	--	--	--	--	--	--	--
+19	662	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1235441152	4941764608	708361856	0	0	1071850624	5813716992	--	--	--	--	--	--	--
+19	663	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+19	664	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82560936	330243744	94576296	4391889408	39016572	159299596	4778987360	--	--	--	--	--	--	--
+19	665	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89541384	358165536	102572640	4763219456	42315388	172768196	5183046208	--	--	--	--	--	--	--
+19	666	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90760320	363041248	103968960	4828061184	42891428	175120100	5253603040	--	--	--	--	--	--	--
+19	667	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2674209024	10696836096	1533304704	0	0	2320104576	12584245248	--	--	--	--	--	--	--
+19	668	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2825811968	11303247872	1620228992	0	0	2451632000	13297656832	--	--	--	--	--	--	--
+19	669	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2821665280	11286661120	1617851392	0	0	2448035328	13278142464	--	--	--	--	--	--	--
+20	671	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	390075200	--	--	--	--
+20	672	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+20	673	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+20	674	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+20	675	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+20	676	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+20	677	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+20	678	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+20	679	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+20	680	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+20	681	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9883090	39532360	11288314	525472192	4670541	19059565	571786932	--	--	--	--	--	--	--
+20	682	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10344824	41379296	11815700	550022080	4888747	19950019	598500628	--	--	--	--	--	--	--
+20	683	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9774523	39098088	11164310	519699808	4619235	18850188	565505776	--	--	--	--	--	--	--
+20	684	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1252976256	5011905024	718416000	0	0	1087063808	5896233472	--	--	--	--	--	--	--
+20	685	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1306271488	5225085952	748973696	0	0	1133302144	6147028992	--	--	--	--	--	--	--
+20	686	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1428452864	5713811456	819028544	0	0	1239304768	6721988096	--	--	--	--	--	--	--
+20	687	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+20	688	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89250640	357002560	101940712	4745350656	42177984	172120088	5163602464	--	--	--	--	--	--	--
+20	689	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10394598	41578392	11872552	552668480	4912270	20046008	601380284	--	--	--	--	--	--	--
+20	690	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9854500	39418000	11255659	523952064	4657030	19004429	570132824	--	--	--	--	--	--	--
+20	691	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	692	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+20	693	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9703560	38814240	11115751	516187968	4585699	18722810	561684408	--	--	--	--	--	--	--
+20	694	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9502941	38011764	10885935	505515872	4490891	18335723	550071680	--	--	--	--	--	--	--
+20	695	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11127874	44511496	12747350	591955392	5258800	21470996	644129916	--	--	--	--	--	--	--
+20	696	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1330832256	5323329024	763056000	0	0	1154610432	6262606848	--	--	--	--	--	--	--
+20	697	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1454133632	5816534528	833753024	0	0	1261585216	6842835968	--	--	--	--	--	--	--
+20	698	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1351547264	5406189056	774933376	0	0	1172582656	6360087040	--	--	--	--	--	--	--
+20	699	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+20	700	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9741969	38967880	11159751	518231200	4603851	18796927	563907724	--	--	--	--	--	--	--
+20	701	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9579863	38319448	10974052	509607808	4527243	18484142	554524272	--	--	--	--	--	--	--
+20	702	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93615896	374463584	107240120	4979965952	44240916	180629892	5418896576	--	--	--	--	--	--	--
+20	703	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+21	705	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	178147800	--	--	--	--
+21	706	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+21	707	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+21	708	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+21	709	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+21	710	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+21	711	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+21	712	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+21	713	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+21	714	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+21	715	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9943191	39772764	11356961	528667680	4698944	19175468	575264072	--	--	--	--	--	--	--
+21	716	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91420032	365680128	104418568	4860695040	43203196	176303748	5289113216	--	--	--	--	--	--	--
+21	717	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89575304	358301216	102311544	4762612736	42331416	172746232	5182385984	--	--	--	--	--	--	--
+21	718	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1260072064	5040288256	722484416	0	0	1093220160	5929624576	--	--	--	--	--	--	--
+21	719	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1469412096	5877648384	842513216	0	0	1274840640	6914733056	--	--	--	--	--	--	--
+21	720	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1381869952	5527479808	792319360	0	0	1198890240	6502778880	--	--	--	--	--	--	--
+21	721	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+21	722	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87968456	351873824	100476232	4677178880	41572056	169647400	5089422048	--	--	--	--	--	--	--
+21	723	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88242664	352970656	100789424	4691758080	41701640	170176224	5105286240	--	--	--	--	--	--	--
+21	724	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93540512	374162048	106840544	4973437952	44205288	180393128	5411793216	--	--	--	--	--	--	--
+21	725	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2594404864	10377619456	1487547648	0	0	2250867456	12208704512	--	--	--	--	--	--	--
+21	726	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2566112256	10264449024	1471325568	0	0	2226321792	12075565056	--	--	--	--	--	--	--
+21	727	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2426891776	9707567104	1391501184	0	0	2105534848	11420425216	--	--	--	--	--	--	--
+21	728	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+21	729	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	97040544	388162208	111163176	5162142720	45859336	187237680	5617130304	--	--	--	--	--	--	--
+21	730	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11489728	45958912	13161865	611204480	5429805	22169190	665075600	--	--	--	--	--	--	--
+21	731	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	104879528	419518112	120142992	5579143168	49563872	202362808	6070884864	--	--	--	--	--	--	--
+21	732	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1257116672	5028466688	720789952	0	0	1090655680	5915717632	--	--	--	--	--	--	--
+21	733	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1332309888	5329239552	763903296	0	0	1155892416	6269560320	--	--	--	--	--	--	--
+21	734	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1296295424	5185181696	743253760	0	0	1124646656	6100084224	--	--	--	--	--	--	--
+21	735	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+21	736	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	98554280	394217120	112897216	5242667008	46574692	190158380	5704751936	--	--	--	--	--	--	--
+21	737	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	83748408	334993632	95936592	4455057920	39577748	161590780	4847723520	--	--	--	--	--	--	--
+21	738	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	84131504	336526016	96375440	4475437056	39758792	162329928	4869898880	--	--	--	--	--	--	--
+21	739	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2687192576	10748770304	1540749184	0	0	2331367808	12645344256	--	--	--	--	--	--	--
+21	740	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2440726784	9762907136	1399433728	0	0	2117538560	11485529088	--	--	--	--	--	--	--
+21	741	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2686518016	10746072064	1540362368	0	0	2330783616	12642168832	--	--	--	--	--	--	--
+22	743	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	592536500	--	--	--	--
+22	744	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+22	745	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+22	746	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+22	747	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+22	748	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+22	749	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+22	750	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+22	751	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+22	752	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+22	753	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91264368	365057472	104240768	4852418560	43129632	176003568	5280107232	--	--	--	--	--	--	--
+22	754	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10016631	40066524	11440843	532572416	4733650	19317096	579512968	--	--	--	--	--	--	--
+22	755	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90017648	360070592	102816784	4786131968	42540460	173599276	5207978176	--	--	--	--	--	--	--
+22	756	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1463896960	5855587840	839351040	0	0	1270055552	6888780288	--	--	--	--	--	--	--
+22	757	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1215228928	4860915712	696772864	0	0	1054314752	5718602752	--	--	--	--	--	--	--
+22	758	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1307685760	5230743040	749784576	0	0	1134528896	6153684480	--	--	--	--	--	--	--
+22	759	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+22	760	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92084952	368339808	105178024	4896047616	43517424	177586064	5327581760	--	--	--	--	--	--	--
+22	761	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92460760	369843040	105607272	4916029440	43695024	178310800	5349324736	--	--	--	--	--	--	--
+22	762	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90243984	360975936	103075304	4798165504	42647420	174035764	5221072384	--	--	--	--	--	--	--
+22	763	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	764	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+22	765	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	96238584	384954336	110244504	5119481856	45480340	185690308	5570709312	--	--	--	--	--	--	--
+22	766	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	86153008	344612032	98691136	4582971904	40714108	166230412	4986911776	--	--	--	--	--	--	--
+22	767	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	100336240	401344960	114938504	5337459712	47416812	193596644	5807899584	--	--	--	--	--	--	--
+22	768	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1334675712	5338702848	765259776	0	0	1157945088	6280693248	--	--	--	--	--	--	--
+22	769	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1436305408	5745221632	823530944	0	0	1246117312	6758940672	--	--	--	--	--	--	--
+22	770	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1355621504	5422486016	777269376	0	0	1176117504	6379259392	--	--	--	--	--	--	--
+22	771	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+22	772	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89606208	358424832	102646896	4766667776	42346020	172893300	5186798432	--	--	--	--	--	--	--
+22	773	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94043648	376174592	107730128	5002720768	44443064	181455240	5443656960	--	--	--	--	--	--	--
+22	774	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	100133688	400534752	114706472	5326684672	47321088	193205856	5796174816	--	--	--	--	--	--	--
+22	775	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+23	777	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	650537800	--	--	--	--
+23	778	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+23	779	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+23	780	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+23	781	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+23	782	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+23	783	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+23	784	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+23	785	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+23	786	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+23	787	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90544320	362177312	103418344	4814134272	42789356	174614964	5238448640	--	--	--	--	--	--	--
+23	788	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9787386	39149544	11179003	520383712	4625314	18874999	566249960	--	--	--	--	--	--	--
+23	789	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89704024	358816096	102458568	4769456640	42392248	172994456	5189833120	--	--	--	--	--	--	--
+23	790	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1305331456	5221325824	748434752	0	0	1132486208	6142605824	--	--	--	--	--	--	--
+23	791	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1410614912	5642459648	808800832	0	0	1223828672	6638046720	--	--	--	--	--	--	--
+23	792	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1227477120	4909908480	703795584	0	0	1064941056	5776240128	--	--	--	--	--	--	--
+23	793	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+23	794	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90575344	362301376	103453776	4815783424	42804012	174674796	5240243136	--	--	--	--	--	--	--
+23	795	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9736321	38945288	11120678	517668672	4601182	18776525	563295616	--	--	--	--	--	--	--
+23	796	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10006144	40024576	11428865	532014848	4728694	19296871	578906256	--	--	--	--	--	--	--
+23	797	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2820707072	11282828288	1617302016	0	0	2447203584	13273633792	--	--	--	--	--	--	--
+23	798	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2896300544	11585202176	1660644864	0	0	2512787456	13629360128	--	--	--	--	--	--	--
+23	799	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2674481152	10697924608	1533460736	0	0	2320340224	12585526272	--	--	--	--	--	--	--
+23	800	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+23	801	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	101704656	406818624	116506072	5410253312	48063496	196236976	5887109184	--	--	--	--	--	--	--
+23	802	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9164963	36659856	10498771	487536928	4331170	17683604	530508084	--	--	--	--	--	--	--
+23	803	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9295544	37182176	10648356	494483264	4392880	17935556	538066664	--	--	--	--	--	--	--
+23	804	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1207354368	4829417472	692257856	0	0	1047482944	5681546752	--	--	--	--	--	--	--
+23	805	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1407379456	5629517824	806945728	0	0	1221021632	6622821376	--	--	--	--	--	--	--
+23	806	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1406732160	5626928640	806574592	0	0	1220460416	6619774976	--	--	--	--	--	--	--
+23	807	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+23	808	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	83356336	333425344	95487464	4434201600	39392464	160834280	4825028928	--	--	--	--	--	--	--
+23	809	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88189192	352756768	101023656	4691288576	41676368	170159200	5104775360	--	--	--	--	--	--	--
+23	810	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89185816	356743264	102165320	4744304640	42147352	172082136	5162464256	--	--	--	--	--	--	--
+23	811	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2551906048	10207624192	1463180160	0	0	2213996160	12008714240	--	--	--	--	--	--	--
+23	812	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2798114816	11192459264	1604348288	0	0	2427603328	13167319040	--	--	--	--	--	--	--
+23	813	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2585851904	10343407616	1482643584	0	0	2243446912	12168456192	--	--	--	--	--	--	--
+24	815	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	429187500	--	--	--	--
+24	816	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+24	817	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+24	818	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+24	819	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+24	820	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+24	821	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+24	822	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+24	823	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+24	824	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+24	825	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92480840	369923360	105630200	4917096448	43704512	178349536	5350485824	--	--	--	--	--	--	--
+24	826	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10439270	41757080	11923575	555043648	4933380	20132161	603964792	--	--	--	--	--	--	--
+24	827	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91773552	367094208	104822352	4879491072	43370264	176985528	5309565920	--	--	--	--	--	--	--
+24	828	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1352370176	5409480704	775405184	0	0	1173296768	6363959296	--	--	--	--	--	--	--
+24	829	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1328769792	5315079168	761873536	0	0	1152821120	6252901376	--	--	--	--	--	--	--
+24	830	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1438888320	5755553280	825011904	0	0	1248358464	6771095040	--	--	--	--	--	--	--
+24	831	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+24	832	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93811728	375246912	107150320	4987858432	44333460	180916180	5427484672	--	--	--	--	--	--	--
+24	833	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88399408	353597632	100968448	4700091904	41775712	170478480	5114354624	--	--	--	--	--	--	--
+24	834	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88629392	354517568	101231136	4712319488	41884396	170922012	5127659968	--	--	--	--	--	--	--
+24	835	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	836	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+24	837	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10811752	43247008	12385222	575139072	5109408	20861046	625831416	--	--	--	--	--	--	--
+24	838	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10575879	42303516	12115021	562591616	4997939	20405935	612178036	--	--	--	--	--	--	--
+24	839	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	102855224	411420896	117824088	5471458816	48607228	198456972	5953709280	--	--	--	--	--	--	--
+24	840	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1336527616	5346110464	766321536	0	0	1159551616	6289408000	--	--	--	--	--	--	--
+24	841	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1212965120	4851860480	695474880	0	0	1052350400	5707950080	--	--	--	--	--	--	--
+24	842	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1433844992	5735379968	822120256	0	0	1243982400	6747362816	--	--	--	--	--	--	--
+24	843	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+24	844	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88397184	353588736	101261912	4702352896	41774660	170560508	5116814880	--	--	--	--	--	--	--
+24	845	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94152832	376611328	107855208	5008528896	44494660	181665900	5449977024	--	--	--	--	--	--	--
+24	846	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82119344	328477408	94070448	4368398848	38807888	158447568	4753426368	--	--	--	--	--	--	--
+24	847	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+25	849	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	538301200	--	--	--	--
+25	850	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+25	851	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+25	852	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+25	853	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+25	854	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+25	855	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+25	856	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+25	857	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+25	858	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+25	859	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10099057	40396232	11534989	536954944	4772603	19476061	584281764	--	--	--	--	--	--	--
+25	860	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91758288	367033152	104804912	4878679552	43363048	176956104	5308682848	--	--	--	--	--	--	--
+25	861	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91236624	364946496	104209080	4850943488	43116520	175950064	5278502144	--	--	--	--	--	--	--
+25	862	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1353940992	5415763968	776305856	0	0	1174659264	6371351552	--	--	--	--	--	--	--
+25	863	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1279921792	5119687168	733865600	0	0	1110441216	6023033344	--	--	--	--	--	--	--
+25	864	Shield Depleted	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+25	865	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6062075904	0	695159552	0	0	1051873536	5705361920	--	--	--	--	--	--	--
+25	866	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+25	867	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88799960	355199840	101425960	4721388544	41965004	171250956	5137528352	--	--	--	--	--	--	--
+25	868	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92401104	369604416	105539128	4912857088	43666828	178195764	5345872800	--	--	--	--	--	--	--
+25	869	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	90605728	362422880	103488472	4817399296	42818372	174733372	5242001376	--	--	--	--	--	--	--
+25	870	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13560260608	0	1555002752	0	0	2352936320	12762327040	--	--	--	--	--	--	--
+25	871	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13719815168	0	1573299456	0	0	2380622080	12912492544	--	--	--	--	--	--	--
+25	872	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	12663730176	0	1452194432	0	0	2197373568	11918551040	--	--	--	--	--	--	--
+25	873	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+25	874	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	96616784	386467136	110677744	5139600384	45659072	186420032	5592601088	--	--	--	--	--	--	--
+25	875	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9485077	37940308	10865471	504565600	4482449	18301257	549037648	--	--	--	--	--	--	--
+25	876	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10429529	41718116	11947373	554806400	4928777	20123555	603706640	--	--	--	--	--	--	--
+25	877	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6024412672	0	690840576	0	0	1045338112	5669915136	--	--	--	--	--	--	--
+25	878	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6303890944	0	722889344	0	0	1093832320	5932947968	--	--	--	--	--	--	--
+25	879	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6417094656	0	735870848	0	0	1113474944	6039490560	--	--	--	--	--	--	--
+25	880	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+25	881	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9450778	37803112	10826181	502741056	4466240	18235075	547052292	--	--	--	--	--	--	--
+25	882	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	81928664	327714656	93852008	4358255104	38717772	158079628	4742388576	--	--	--	--	--	--	--
+25	883	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	97482688	389930752	111669664	5185662976	46068280	188090776	5642723584	--	--	--	--	--	--	--
+25	884	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14282742784	0	1637852288	0	0	2478299264	13442295808	--	--	--	--	--	--	--
+25	885	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13916936192	0	1595904000	0	0	2414825472	13098014720	--	--	--	--	--	--	--
+25	886	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14411801600	0	1652651904	0	0	2500693888	13563759616	--	--	--	--	--	--	--
+26	888	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	485285400	--	--	--	--
+26	889	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+26	890	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+26	891	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+26	892	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+26	893	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+26	894	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+26	895	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+26	896	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+26	897	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+26	898	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10257646	41030584	11716127	545386880	4847549	19781898	593456888	--	--	--	--	--	--	--
+26	899	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91089320	364357280	104040832	4843111424	43046908	175665988	5269979776	--	--	--	--	--	--	--
+26	900	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10227274	40909096	11681436	543772032	4833196	19723326	591699708	--	--	--	--	--	--	--
+26	901	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6807258624	0	780612288	0	0	1181175488	6406695424	--	--	--	--	--	--	--
+26	902	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6189811712	0	709807488	0	0	1074037632	5825581568	--	--	--	--	--	--	--
+26	903	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6785438720	0	778110080	0	0	1177389184	6386159616	--	--	--	--	--	--	--
+26	904	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+26	905	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91503888	366015552	104514344	4865153536	43242824	176465504	5293964640	--	--	--	--	--	--	--
+26	906	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92220152	368880608	105332448	4903236608	43581316	177846780	5335404352	--	--	--	--	--	--	--
+26	907	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88831216	355324864	101461656	4723050496	41979776	171311240	5139336768	--	--	--	--	--	--	--
+26	908	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	909	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+26	910	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	103441216	413764864	118495360	5502630912	48884156	199587644	5987628864	--	--	--	--	--	--	--
+26	911	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82473160	329892640	94475752	4387219968	38975092	159130212	4773906400	--	--	--	--	--	--	--
+26	912	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	82984720	331938912	95061768	4414433280	39216844	160117284	4803518240	--	--	--	--	--	--	--
+26	913	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	7080795648	0	811979712	0	0	1228638656	6664136704	--	--	--	--	--	--	--
+26	914	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6251095040	0	716835072	0	0	1084671232	5883258880	--	--	--	--	--	--	--
+26	915	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6778256384	0	777286464	0	0	1176143168	6379399680	--	--	--	--	--	--	--
+26	916	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+26	917	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11549577	46198308	13230425	614388160	5458088	22284662	668539896	--	--	--	--	--	--	--
+26	918	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94816112	379264480	108615016	5043812864	44808116	182945708	5488370880	--	--	--	--	--	--	--
+26	919	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	97537584	390150336	111732552	5188583424	46094224	188196680	5645901440	--	--	--	--	--	--	--
+26	920	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+27	922	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	539867100	--	--	--	--
+27	923	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+27	924	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+27	925	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+27	926	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+27	927	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+27	928	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+27	929	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+27	930	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+27	931	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+27	932	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92237344	368949376	105352088	4904150528	43589440	177879928	5336398848	--	--	--	--	--	--	--
+27	933	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9790026	39160104	11182019	520524096	4626562	18880091	566402716	--	--	--	--	--	--	--
+27	934	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93298736	373194912	106564384	4960583168	44091032	179926824	5397805408	--	--	--	--	--	--	--
+27	935	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6330640384	0	725956736	0	0	1098474112	5958123008	--	--	--	--	--	--	--
+27	936	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6172179456	0	707785472	0	0	1070978304	5808986624	--	--	--	--	--	--	--
+27	937	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6053285376	0	694151488	0	0	1050348352	5697088512	--	--	--	--	--	--	--
+27	938	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+27	939	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9791003	39164012	11183134	520576032	4627023	18881976	566459228	--	--	--	--	--	--	--
+27	940	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9820695	39282780	11217048	522154752	4641055	18939234	568177096	--	--	--	--	--	--	--
+27	941	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	91398440	365593760	104393904	4859546624	43192992	176262136	5287863584	--	--	--	--	--	--	--
+27	942	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14569646080	0	1670752512	0	0	2528082176	13712316416	--	--	--	--	--	--	--
+27	943	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	12573932544	0	1441897088	0	0	2181791360	11834038272	--	--	--	--	--	--	--
+27	944	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13812458496	0	1583923200	0	0	2396696576	12999685120	--	--	--	--	--	--	--
+27	945	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+27	946	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	105580032	422320128	120945440	5616407040	49894916	203714436	6111433120	--	--	--	--	--	--	--
+27	947	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	85789408	343157632	98274624	4563630080	40542280	165528840	4965865184	--	--	--	--	--	--	--
+27	948	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	87831800	351327200	100614256	4672276992	41507472	169469592	5084088128	--	--	--	--	--	--	--
+27	949	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	7255004672	0	831956864	0	0	1258867072	6828094464	--	--	--	--	--	--	--
+27	950	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6686484480	0	766762688	0	0	1160219328	6293027840	--	--	--	--	--	--	--
+27	951	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6852009984	0	785744064	0	0	1188940480	6448813568	--	--	--	--	--	--	--
+27	952	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+27	953	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	97615040	390460160	111821280	5192703488	46130828	188346156	5650384640	--	--	--	--	--	--	--
+27	954	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9278236	37112944	10628529	493562592	4384700	17902157	537064844	--	--	--	--	--	--	--
+27	955	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89741952	358967808	102802392	4773888512	42410168	173155216	5194655616	--	--	--	--	--	--	--
+27	956	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	14166425600	0	1624513792	0	0	2458116352	13332823040	--	--	--	--	--	--	--
+27	957	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	12842852352	0	1472735104	0	0	2228453248	12087134208	--	--	--	--	--	--	--
+27	958	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	13227850752	0	1516884224	0	0	2295257344	12449477632	--	--	--	--	--	--	--
+28	960	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	492768800	--	--	--	--
+28	961	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+28	962	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+28	963	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+28	964	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.21	Silence Your Demons	Suder	--	--	--
+28	965	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+28	966	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Cry Havoc	Chang	--	--	--
+28	967	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+28	968	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+28	969	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+28	970	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	89211072	356844288	101895520	4743246848	42159288	172043800	5161313216	--	--	--	--	--	--	--
+28	971	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10036394	40145576	11463416	533623200	4742990	19355212	580656364	--	--	--	--	--	--	--
+28	972	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	88222160	352888640	100766000	4690667520	41691948	170136652	5104099616	--	--	--	--	--	--	--
+28	973	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	7107999744	0	815099328	0	0	1233359296	6689739776	--	--	--	--	--	--	--
+28	974	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6102477824	0	699792640	0	0	1058883840	5743386624	--	--	--	--	--	--	--
+28	975	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6939876864	0	795820096	0	0	1204186688	6531510272	--	--	--	--	--	--	--
+28	976	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+28	977	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	94418784	377675136	107843696	5020134912	44620344	182086856	5462606016	--	--	--	--	--	--	--
+28	978	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	93116032	372464128	106355712	4950868992	44004692	179574516	5387235040	--	--	--	--	--	--	--
+28	979	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92577264	370309056	105740336	4922223616	43750080	178535488	5356064864	--	--	--	--	--	--	--
+28	980	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+28	981	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+28	982	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	106460088	425840352	121953576	5663222272	50310812	205412476	6162374624	--	--	--	--	--	--	--
+28	983	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	9083539	36334160	10405497	483205536	4292691	17526499	525794924	--	--	--	--	--	--	--
+28	984	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	10045816	40183264	11507817	534394528	4747442	19383191	581495676	--	--	--	--	--	--	--
+28	985	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6966247936	0	798844160	0	0	1208762624	6556329472	--	--	--	--	--	--	--
+28	986	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	7153662464	0	820335616	0	0	1241282560	6732715520	--	--	--	--	--	--	--
+28	987	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	6709444096	0	769395520	0	0	1164202816	6314636800	--	--	--	--	--	--	--
+28	988	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+28	989	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	11381858	45527432	13038297	605466240	5378828	21961055	658831600	--	--	--	--	--	--	--
+28	990	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	92254688	369018752	105680816	4907555840	43597636	178003476	5340104256	--	--	--	--	--	--	--
+28	991	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	105585160	422340640	120951312	5616679424	49897340	203724340	6111729536	--	--	--	--	--	--	--
+28	992	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+

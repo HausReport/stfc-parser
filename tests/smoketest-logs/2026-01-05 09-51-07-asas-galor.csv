@@ -1,0 +1,361 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Assimilated Galor-Class	63	DEFEAT	Assimilated Galor-Class	63	122386169856	0	Assimilated Gul	--	--	193259148780	0	48314787195	0	Draxyl	1/5/2026 9:51:07 AM
+
+Reward Name	Count
+Solo Outpost Credits	354
+Common Solo Outpost Components	75
+Outpost Retaliation Medal	45
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1116721280	476504384	10235338752	True Aim	Adaptive Shielding	Bodyguard	Adapt & Overcome	Strengthen the Unimatrix	36	1003481472	5201835	5279042	73369998	0.22	3.45	40.5	3612254	88000933	3687684	36	9317561819	11153116728	242	1647	535.5	595680	0	1	NO	NO
+Player Fleet 2	1409830400	505037088	12743118848	Phase Discriminating Amplifier	Quick Victory	Creating Opportunities	Dogs of War	Fear Is the True Enemy	45	1345681280	6391193	75769425	6391193	0.22	3.45	45	95157120	2930995	2919302	45	10533021602	14953214703	242	1641	466.2	2443470	0	1	NO	NO
+Enemy Fleet 1	908131072	691081984	120786960384	Isolytic Burst---Diverted Power	--	--	--	--	0	821348992	14463677	36159196	7231839	0.1	1.5	0	124656704	9039799	4519900	0	48314785792	193259143168	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Quick Victory	Gorkon	--	--	--
+1	2	Officer Ability	NileRed	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	Adaptive Shielding	One of Eleven	--	--	--
+1	3	Forbidden Tech Ability	NileRed	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	4	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5301026	50499252	55690104	150215872	725393	104972661	157458986	--	--	--	--	--	--	--
+1	5	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5295267	50444380	55629592	150052656	724605	104858600	157287900	--	--	--	--	--	--	--
+1	6	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	53009364	159028096	44243080	0	0	73728572	182551968	--	--	--	--	--	--	--
+1	7	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	199979072	599937216	166908064	0	0	278142752	688681600	--	--	--	--	--	--	--
+1	8	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	50920376	152761136	42499556	0	0	70823100	175357968	--	--	--	--	--	--	--
+1	9	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	121603328	364809984	100621496	0	0	160260664	426774144	--	--	--	--	--	--	--
+1	10	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	120113536	360340608	99388768	0	0	158297280	421545632	--	--	--	--	--	--	--
+1	11	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+1	12	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	13	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	14741473	140431920	154867024	417731040	2017227	291915476	437873208	--	--	--	--	--	--	--
+1	14	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	587825600	1763476864	490615488	0	0	817582848	2024335104	--	--	--	--	--	--	--
+1	15	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	656852928	1970558720	548227584	0	0	913590208	2262049024	--	--	--	--	--	--	--
+1	16	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	108157024	324471072	90270840	0	0	150431224	372467712	--	--	--	--	--	--	--
+1	17	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	111258832	333776480	92061880	0	0	146627688	390469504	--	--	--	--	--	--	--
+1	18	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	118773904	356321728	98280280	0	0	156531784	416844128	--	--	--	--	--	--	--
+1	19	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+1	20	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	21	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	22	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5299038	50480312	55669220	150159552	725121	104933294	157399949	--	--	--	--	--	--	--
+1	23	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5359112	51052592	56300320	151861856	733342	106122887	159184335	--	--	--	--	--	--	--
+1	24	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	59086360	177259072	49315108	0	0	82180828	203479712	--	--	--	--	--	--	--
+1	25	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	54638356	163915072	45602680	0	0	75994284	188161824	--	--	--	--	--	--	--
+1	26	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	54968280	164904832	45878044	0	0	76453140	189298016	--	--	--	--	--	--	--
+1	27	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	569687296	1709061888	471391616	0	0	750789248	1999351552	--	--	--	--	--	--	--
+1	28	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2944933120	8834799616	2436804864	0	0	3881119232	10335418368	--	--	--	--	--	--	--
+1	29	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	30	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	106213240	318639712	88648504	0	0	147727696	365773760	--	--	--	--	--	--	--
+1	31	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	117692224	353076672	98229184	0	0	163693344	405304736	--	--	--	--	--	--	--
+1	32	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	118208192	354624576	98659824	0	0	164410992	407081600	--	--	--	--	--	--	--
+2	34	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	35	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	36	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5318489	50665600	58786960	154990240	727783	108195627	162293445	--	--	--	--	--	--	--
+2	37	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	5126457	48836248	56664372	149394096	701505	104289070	156433608	--	--	--	--	--	--	--
+2	38	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	402577760	1207733248	246451440	0	0	410697296	1446065152	--	--	--	--	--	--	--
+2	39	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	380226912	1140680704	232768608	0	0	387895616	1365780608	--	--	--	--	--	--	--
+2	40	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	418109728	1254329216	255959856	0	0	426542544	1501856256	--	--	--	--	--	--	--
+2	41	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	42	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+2	43	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	44	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	14151167	134808496	156417392	412390240	1936449	287881504	431822240	--	--	--	--	--	--	--
+2	45	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	46	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	47	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	48	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	74102864	222308608	45364548	0	0	75597444	266178576	--	--	--	--	--	--	--
+2	49	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	402350752	1207052288	246312464	0	0	410465712	1445249792	--	--	--	--	--	--	--
+2	50	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	72879160	218637472	44615412	0	0	74349052	261782992	--	--	--	--	--	--	--
+2	51	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	52	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+2	53	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	54	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	55	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	57	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	58	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6754497	49532980	59105532	155830144	731727	108781954	163172926	--	--	--	--	--	--	--
+3	59	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6875436	50419864	60163812	158620272	744828	110729686	166094526	--	--	--	--	--	--	--
+3	60	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	303847168	1215388672	232512736	0	0	387469280	1364279296	--	--	--	--	--	--	--
+3	61	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	293716896	1174867584	224760768	0	0	374551008	1318794240	--	--	--	--	--	--	--
+3	62	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	57574448	230297792	44057652	0	0	73419572	258510320	--	--	--	--	--	--	--
+3	63	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	128986808	515947232	99244000	0	0	158066680	586111360	--	--	--	--	--	--	--
+3	64	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	118695456	474781824	91325712	0	0	145455152	539347840	--	--	--	--	--	--	--
+3	65	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	66	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	67	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	68	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	17921512	131424424	156823008	413459648	1941471	288628023	432942040	--	--	--	--	--	--	--
+3	69	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	124299008	497196064	95117240	0	0	158507480	558104832	--	--	--	--	--	--	--
+3	70	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	573932416	2295729664	439189888	0	0	731884800	2576967168	--	--	--	--	--	--	--
+3	71	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	577495552	2309982208	441916480	0	0	736428864	2592965376	--	--	--	--	--	--	--
+3	72	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	115792896	463171584	89092448	0	0	141898240	526158688	--	--	--	--	--	--	--
+3	73	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	129958592	519834368	99991704	0	0	159257560	590527104	--	--	--	--	--	--	--
+3	74	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	75	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	76	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	77	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6862689	50326384	60052272	158326208	743448	110524396	165786605	--	--	--	--	--	--	--
+3	78	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6532824	47907380	57165776	150716032	707713	105211890	157817835	--	--	--	--	--	--	--
+3	79	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	60843680	243374720	46559364	0	0	77588516	273189248	--	--	--	--	--	--	--
+3	80	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	302989056	1211956224	231856096	0	0	386375008	1360426368	--	--	--	--	--	--	--
+3	81	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	284119424	1136477696	217416512	0	0	362312256	1275701376	--	--	--	--	--	--	--
+3	82	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	83	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	84	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	85	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	86	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	617160960	2468643840	472269664	0	0	787010400	2771064064	--	--	--	--	--	--	--
+3	87	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	120717744	482870976	92376752	0	0	153940640	542024832	--	--	--	--	--	--	--
+3	88	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	657451840	2629807360	503101376	0	0	838390016	2951970560	--	--	--	--	--	--	--
+4	90	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	91	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	92	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	93	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	94	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6852036	50248264	59959056	158080432	742294	110352834	165529248	--	--	--	--	--	--	--
+4	95	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6406561	46981444	56060900	147803056	694034	103178397	154767598	--	--	--	--	--	--	--
+4	96	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	340207200	1360828800	260336496	0	0	433835984	1527536512	--	--	--	--	--	--	--
+4	97	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	341371168	1365484672	261227216	0	0	435320304	1532762752	--	--	--	--	--	--	--
+4	98	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	287181952	1148727808	219760048	0	0	366217520	1289452288	--	--	--	--	--	--	--
+4	99	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	100	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	101	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	102	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	103	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	104	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	105	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	106	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	107	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	310284160	1241136640	237438512	0	0	395677872	1393181440	--	--	--	--	--	--	--
+4	108	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	330191872	1320767488	252672496	0	0	421064304	1482567552	--	--	--	--	--	--	--
+4	109	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	281820256	1127281024	215657104	0	0	359380336	1265378048	--	--	--	--	--	--	--
+4	110	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+4	111	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2846913280	0	438089824	0	0	697749344	2587253760	--	--	--	--	--	--	--
+4	112	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2608601600	0	401417888	0	0	639341472	2370678016	--	--	--	--	--	--	--
+4	113	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	114	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	115	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	116	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	118	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	119	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	120	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1604426752	0	245550864	0	0	409196560	1440781056	--	--	--	--	--	--	--
+5	121	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1556833024	0	238266832	0	0	397058128	1398041728	--	--	--	--	--	--	--
+5	122	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	299732448	0	45872808	0	0	76444424	269160832	--	--	--	--	--	--	--
+5	123	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	583146496	0	89735984	0	0	142923216	529959264	--	--	--	--	--	--	--
+5	124	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	686788224	0	105684624	0	0	168324688	624148160	--	--	--	--	--	--	--
+5	125	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	126	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	127	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	128	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	18301456	134210680	160147728	422225152	1982631	294747067	442120580	--	--	--	--	--	--	--
+5	129	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3336613888	0	510654912	0	0	850977472	2996291328	--	--	--	--	--	--	--
+5	130	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3058508800	0	468092064	0	0	780048800	2746552064	--	--	--	--	--	--	--
+5	131	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3284119040	0	502620800	0	0	837589120	2949150720	--	--	--	--	--	--	--
+5	132	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	672050816	0	103416792	0	0	164712728	610754880	--	--	--	--	--	--	--
+5	133	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	618529536	0	95180808	0	0	151595272	562115072	--	--	--	--	--	--	--
+5	134	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	135	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	136	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	137	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	138	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1643661568	0	251555584	0	0	419203072	1476014080	--	--	--	--	--	--	--
+5	139	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1659263360	0	253943392	0	0	423182176	1490024576	--	--	--	--	--	--	--
+5	140	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	316489536	0	48437412	0	0	80718180	284208768	--	--	--	--	--	--	--
+5	141	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+5	142	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	143	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	144	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	145	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2962713088	0	453430944	0	0	755616928	2660527104	--	--	--	--	--	--	--
+5	146	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	580334848	0	88817840	0	0	148009872	521142816	--	--	--	--	--	--	--
+5	147	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3081847808	0	471664032	0	0	786001312	2767510528	--	--	--	--	--	--	--
+6	149	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	150	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	151	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	152	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	153	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6497271	47646656	56854668	149895808	703861	104639303	156958961	--	--	--	--	--	--	--
+6	154	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6814798	49975184	59633200	157221328	738259	109753106	164629663	--	--	--	--	--	--	--
+6	155	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1574662528	0	240995568	0	0	401605360	1414052736	--	--	--	--	--	--	--
+6	156	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1616064384	0	247331968	0	0	412164608	1451231744	--	--	--	--	--	--	--
+6	157	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1537969664	0	235379872	0	0	392247200	1381102336	--	--	--	--	--	--	--
+6	158	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	159	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	160	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	161	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	162	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	163	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	164	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6460073	47373868	56529164	149037616	699831	104040221	156060331	--	--	--	--	--	--	--
+6	165	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6435867	47196360	56317352	148479184	697209	103650387	155475585	--	--	--	--	--	--	--
+6	166	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1680326016	0	257166928	0	0	428554064	1508938880	--	--	--	--	--	--	--
+6	167	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1540104704	0	235706640	0	0	392791696	1383019648	--	--	--	--	--	--	--
+6	168	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1543105024	0	236165840	0	0	393556944	1385713920	--	--	--	--	--	--	--
+6	169	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	170	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	171	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	172	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+6	173	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	175	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	176	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	177	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	284062752	0	43474628	0	0	72448004	255089376	--	--	--	--	--	--	--
+7	178	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1481056896	0	226669616	0	0	377732016	1329994496	--	--	--	--	--	--	--
+7	179	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1639939456	0	250985920	0	0	418253888	1472671488	--	--	--	--	--	--	--
+7	180	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	604384256	0	93004104	0	0	148128392	549259968	--	--	--	--	--	--	--
+7	181	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	581370624	0	89462712	0	0	142487960	528345376	--	--	--	--	--	--	--
+7	182	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	183	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	184	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	185	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	18295570	134167512	160096224	422089376	1981993	294652271	441978404	--	--	--	--	--	--	--
+7	186	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3319557632	0	508044544	0	0	846627328	2980974848	--	--	--	--	--	--	--
+7	187	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3039785984	0	465226656	0	0	775273888	2729738752	--	--	--	--	--	--	--
+7	188	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	655517632	0	100324256	0	0	167184672	588657216	--	--	--	--	--	--	--
+7	189	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	676959616	0	104172176	0	0	165915792	615216000	--	--	--	--	--	--	--
+7	190	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3363032320	0	517511488	0	0	824244800	3056299008	--	--	--	--	--	--	--
+7	191	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	192	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	193	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	194	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1676353536	0	256558960	0	0	427540976	1505371520	--	--	--	--	--	--	--
+7	195	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1673433088	0	256112000	0	0	426796032	1502749056	--	--	--	--	--	--	--
+7	196	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1531311744	0	234360928	0	0	390549088	1375123584	--	--	--	--	--	--	--
+7	197	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2979095808	0	458430432	0	0	730145760	2707380480	--	--	--	--	--	--	--
+7	198	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	2850955520	0	438711872	0	0	698739776	2590927616	--	--	--	--	--	--	--
+7	199	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	200	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	201	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	202	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3376918272	0	516823328	0	0	861256736	3032484864	--	--	--	--	--	--	--
+7	203	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3149877504	0	482075712	0	0	803351616	2828601600	--	--	--	--	--	--	--
+7	204	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3296771584	0	504557216	0	0	840816032	2960512768	--	--	--	--	--	--	--
+8	206	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	207	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+8	208	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	209	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	210	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	YES	9954902	73002616	87110824	229665344	1078433	160324848	240487271	--	--	--	--	--	--	--
+8	211	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6512045	47754996	56983944	150236640	705462	104877234	157315853	--	--	--	--	--	--	--
+8	212	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	317526816	0	48596164	0	0	80982724	285140256	--	--	--	--	--	--	--
+8	213	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1495211776	0	228835968	0	0	381342080	1342705664	--	--	--	--	--	--	--
+8	214	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	298030912	0	45612396	0	0	76010460	267632848	--	--	--	--	--	--	--
+8	215	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	216	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	217	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	218	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	219	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	220	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	221	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6500092	47667340	56879352	149960880	704167	104684732	157027099	--	--	--	--	--	--	--
+8	222	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	YES	10205787	74842440	89306200	235453408	1105612	164365376	246548071	--	--	--	--	--	--	--
+8	223	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	290192800	0	44412804	0	0	74011412	260594192	--	--	--	--	--	--	--
+8	224	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	321090592	0	49141580	0	0	81891660	288340512	--	--	--	--	--	--	--
+8	225	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1582372736	0	242175600	0	0	403571824	1420976512	--	--	--	--	--	--	--
+8	226	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+8	227	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	228	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+8	229	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	231	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	232	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	233	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	316840480	0	48491124	0	0	80807700	284523904	--	--	--	--	--	--	--
+9	234	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	322980608	0	49430844	0	0	82373692	290037760	--	--	--	--	--	--	--
+9	235	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1574660736	0	240995296	0	0	401604960	1414051072	--	--	--	--	--	--	--
+9	236	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	658172800	0	101281208	0	0	161311416	598142592	--	--	--	--	--	--	--
+9	237	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3397643776	0	522837568	0	0	832727616	3087753728	--	--	--	--	--	--	--
+9	238	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	239	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	240	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	17993880	131955112	157456256	415129184	1949310	289793498	434690244	--	--	--	--	--	--	--
+9	241	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2912184320	0	445697728	0	0	742729920	2615152128	--	--	--	--	--	--	--
+9	242	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2964791040	0	453748992	0	0	756146688	2662393344	--	--	--	--	--	--	--
+9	243	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3180889088	0	486821888	0	0	811260928	2856450048	--	--	--	--	--	--	--
+9	244	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	611374080	0	94079712	0	0	149841504	555612288	--	--	--	--	--	--	--
+9	245	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	590457216	0	90860976	0	0	144714992	536603200	--	--	--	--	--	--	--
+9	246	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	247	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+9	248	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	249	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	250	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1591133184	0	243516336	0	0	405806128	1428843392	--	--	--	--	--	--	--
+9	251	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1537501056	0	235308160	0	0	392127744	1380681472	--	--	--	--	--	--	--
+9	252	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1515061376	0	231873856	0	0	386404672	1360530560	--	--	--	--	--	--	--
+9	253	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	254	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	255	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	256	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2968595200	0	454331200	0	0	757116992	2665809408	--	--	--	--	--	--	--
+9	257	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2966012672	0	453935936	0	0	756458560	2663490048	--	--	--	--	--	--	--
+9	258	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2903638784	0	444389856	0	0	740550624	2607478016	--	--	--	--	--	--	--
+10	260	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	261	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+10	262	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+10	263	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	264	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6765432	49613168	59201220	156082416	732912	108958063	163437085	--	--	--	--	--	--	--
+10	265	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6606566	48448152	57811060	152417296	715701	106399512	159599263	--	--	--	--	--	--	--
+10	266	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1524824576	0	233368080	0	0	388894608	1369298048	--	--	--	--	--	--	--
+10	267	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1427952768	0	218542240	0	0	364188192	1282306816	--	--	--	--	--	--	--
+10	268	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	301472416	0	46139104	0	0	76888192	270723328	--	--	--	--	--	--	--
+10	269	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	270	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	271	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+10	272	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+10	273	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	17663186	129530032	154562512	407499904	1913486	284467648	426701472	--	--	--	--	--	--	--
+10	274	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	275	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	276	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6685165	49024548	58498844	154230624	724216	107665361	161498036	--	--	--	--	--	--	--
+10	277	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6901781	50613056	60394348	159228064	747682	111153974	166730957	--	--	--	--	--	--	--
+10	278	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1528732288	0	233966144	0	0	389891264	1372807168	--	--	--	--	--	--	--
+10	279	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1402903936	0	214708624	0	0	357799696	1259812864	--	--	--	--	--	--	--
+10	280	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	302223456	0	46254048	0	0	77079744	271397760	--	--	--	--	--	--	--
+10	281	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	14601587712	0	2246927360	0	0	3578699776	13269815296	--	--	--	--	--	--	--
+10	282	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	3002332416	0	462006112	0	0	735840864	2728497664	--	--	--	--	--	--	--
+10	283	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	284	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+10	285	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+10	286	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	288	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	289	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	290	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1546083456	0	236621664	0	0	394316512	1388388608	--	--	--	--	--	--	--
+11	291	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1631852928	0	249748336	0	0	416191344	1465409920	--	--	--	--	--	--	--
+11	292	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	297097120	0	45469484	0	0	75772300	266794304	--	--	--	--	--	--	--
+11	293	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	588550016	0	90567488	0	0	144247584	534869920	--	--	--	--	--	--	--
+11	294	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	625846400	0	96306744	0	0	153388472	568764672	--	--	--	--	--	--	--
+11	295	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+11	296	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	297	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	298	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	299	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3391397120	0	519039264	0	0	864949536	3045486848	--	--	--	--	--	--	--
+11	300	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	622893568	0	95331272	0	0	158864200	559360640	--	--	--	--	--	--	--
+11	301	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3163368192	0	484140384	0	0	806792544	2840716032	--	--	--	--	--	--	--
+11	302	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	605560448	0	93185088	0	0	148416640	550328896	--	--	--	--	--	--	--
+11	303	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	627963264	0	96632496	0	0	153907312	570688448	--	--	--	--	--	--	--
+11	304	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+11	305	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	306	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	307	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	308	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	308010080	0	47139664	0	0	78555568	276594176	--	--	--	--	--	--	--
+11	309	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1552280576	0	237570112	0	0	395897152	1393953536	--	--	--	--	--	--	--
+11	310	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1464052608	0	224067184	0	0	373395184	1314724608	--	--	--	--	--	--	--
+11	311	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+11	312	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+11	313	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	314	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	571860672	0	87520904	0	0	145848648	513532928	--	--	--	--	--	--	--
+11	315	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3286721536	0	503019104	0	0	838252640	2951488000	--	--	--	--	--	--	--
+11	316	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3134434304	0	479712160	0	0	799413152	2814733312	--	--	--	--	--	--	--
+12	318	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+12	319	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+12	320	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	321	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6812984	49961880	59617324	157179472	738063	109723888	164585835	--	--	--	--	--	--	--
+12	322	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6479562	47516784	56699700	149487232	701943	104354088	156531133	--	--	--	--	--	--	--
+12	323	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	274571328	0	42022004	0	0	70027284	246566048	--	--	--	--	--	--	--
+12	324	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	294853184	0	45126056	0	0	75200008	264779232	--	--	--	--	--	--	--
+12	325	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1539516928	0	235616672	0	0	392641824	1382491776	--	--	--	--	--	--	--
+12	326	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	327	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+12	328	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	329	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	330	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	331	Charging Weapons	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	332	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1675232640	0	256387424	0	0	427255008	1504365056	--	--	--	--	--	--	--
+12	333	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	280429856	0	42918628	0	0	71521444	251827040	--	--	--	--	--	--	--
+12	334	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1410401280	0	215856080	0	0	359711824	1266545536	--	--	--	--	--	--	--
+12	335	Charging Weapons	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	336	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+12	337	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+12	338	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+12	339	Charging Weapons	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	341	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	342	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	NO	6393537	46885940	55946940	147502592	692624	102968657	154452976	--	--	--	--	--	--	--
+13	343	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	YES	9911245	72682464	86728800	228658144	1073703	159621744	239432612	--	--	--	--	--	--	--
+13	344	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	308113856	0	47155552	0	0	78582016	276687392	--	--	--	--	--	--	--
+13	345	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1601978752	0	245176192	0	0	408572288	1438582656	--	--	--	--	--	--	--
+13	346	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1696930432	0	259708160	0	0	432788992	1523849600	--	--	--	--	--	--	--
+13	347	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3356535296	0	516511680	0	0	822652352	3050394624	--	--	--	--	--	--	--
+13	348	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	633744768	0	97522168	0	0	155324344	575942592	--	--	--	--	--	--	--
+13	349	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+13	350	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+13	351	Officer Ability	NileRed	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+13	352	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	KOS'KARII	NO	--	--	YES	26296492	192840944	230108640	606675264	2848748	423508032	635262056	--	--	--	--	--	--	--
+13	353	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3207572224	0	490905664	0	0	818066240	2880411648	--	--	--	--	--	--	--
+13	354	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2994436352	0	458286080	0	0	763707648	2689014784	--	--	--	--	--	--	--
+13	355	Attack	NileRed	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	601721664	0	92091008	0	0	153464448	540348224	--	--	--	--	--	--	--
+13	356	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	608951872	0	93706976	0	0	149247840	553411008	--	--	--	--	--	--	--
+13	357	Attack	NileRed	ThunderDome	KOS'KARII	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	642563456	0	98879200	0	0	157485728	583956928	--	--	--	--	--	--	--
+13	358	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	NileRed	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

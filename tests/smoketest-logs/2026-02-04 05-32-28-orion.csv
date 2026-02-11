@@ -1,0 +1,145 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	68	DEFEAT	U.S.S. RELATIVITY	75	19002257408	0	Chang	S31 Georgiou	Seska	4217239805	0	47945428819	47165303187	Dae Mu	2/4/2026 5:32:28 AM
+V'ger Orion Interceptor ▶	68	VICTORY	V'ger Orion Interceptor	68	22269478912	0	Replicated Orion Commander	--	--	24234930720	20397708378	14540958432	545031459	Dae Mu	2/4/2026 5:32:28 AM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1168393216	745503424	17088360448	Anti-Tachyon Weaponry---Relative Growth	Cry Havoc	Dogs of War	Loyal to Duty	Lone Operative	5	904032768	21109692	21423009	123564029	0.22	4.2	5	18602869	111894945	18602869	5	17434701626	16742018045	252	1946	733.68	79673660	0	1	NO	NO
+Enemy Fleet 1	264160752	2617372416	19387944960	Replicated Particle Cannon---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	256405568	161566	743205	1680288	0.06	1.66	0	193879440	290819168	38775888	0	14540958720	24234930176	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	Loyal to Duty	S31 Georgiou	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1750	--	Agony Booth	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	18	--	Agony Booth	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1500	Not Playing Nice	The Godsend	--	--	--
+1	10	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.35	Black Market Armaments	The Godsend	--	--	--
+1	11	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	76981648	362913472	90666160	8992656384	378748960	127340128	9774626496	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	196032768	675224000	840884288	12407349248	1966990464	1922840064	14163640704	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	197877536	681578176	848797440	12524108800	1985500800	1940935008	14296927744	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	17	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	253433488	280110688	66206564	6566649856	64249020	92986704	7137662912	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	182303488	627934208	781992448	11538392064	1829230976	1788172800	13171680384	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	193356256	666004928	829403392	12237946880	1940134400	1896586912	13970258944	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	175006080	602798720	750690112	11076523008	1756008960	1716594240	12644432640	--	--	--	--	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	472238336	137101440	71854168	7126803456	39446876	100918772	7746525504	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	193232272	665577856	828871552	12230098944	1938890368	1895370768	13961300224	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	185242960	638059072	794601344	11724438528	1858725632	1817005328	13384062208	--	--	--	--	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	29	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	672661440	0	77796200	7716158976	29777070	109264342	8387129344	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	185871232	640223168	797296320	11764202496	1865029760	1823168000	13429454976	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	203005664	699241728	870794624	12848679936	2036956544	1991235680	14667442816	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	180506432	621744384	774283968	11424653312	1811199488	1770545920	13041841664	--	--	--	--	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	35	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	36	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	549905856	0	62951272	6243776000	18494614	88414718	6786713024	--	--	--	--	--	--	--
+1	37	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	38	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	39	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	550182464	0	62982936	6246916608	18503916	88459204	6790126720	--	--	--	--	--	--	--
+2	41	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1287702000	--	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	44	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	45	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	46	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+2	48	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	713152256	0	81639136	8097318400	23984970	114661738	8801433024	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	123222832	424434208	528565440	7799046656	1236416384	1208664208	8903021312	--	--	--	--	--	--	--
+2	50	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	144613568	498113408	620321216	9152913408	1451050880	1418481152	10448531328	--	--	--	--	--	--	--
+2	51	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	53	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	54	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	55	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	56	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	57	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	140146880	482728128	601161280	8870206464	1406232064	1374668352	10125806464	--	--	--	--	--	--	--
+2	58	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	134914336	464704896	578716224	8539027456	1353728768	1323343456	9747748224	--	--	--	--	--	--	--
+2	59	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	60	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	61	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	62	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	63	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	65	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	356576100	--	--	--	--
+3	66	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	67	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	68	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	69	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+3	70	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	77534096	310136384	374156096	5520717824	875223168	855578256	6302189312	--	--	--	--	--	--	--
+3	72	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	69966136	279864544	337635424	4981851136	789794304	772066872	5687044672	--	--	--	--	--	--	--
+3	73	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	74	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	651357824	0	73548936	7294897664	12731252	103299068	7929236608	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	70931408	283725632	342293504	5050582016	800690496	782718480	5765504576	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	67997600	271990400	328135840	4841683968	767572992	750344320	5527036480	--	--	--	--	--	--	--
+3	77	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	72102872	288411488	347946656	5133994496	813914304	795645464	5860724352	--	--	--	--	--	--	--
+3	78	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	79	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	80	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	81	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	627814720	0	70724040	7014712320	10767778	99331562	7624687296	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	80646512	322586048	389175680	5742333952	910356928	889923376	6555175744	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	70041064	280164256	337996992	4987186176	790640128	772893704	5693134912	--	--	--	--	--	--	--
+3	84	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	86	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	87	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	88	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	72466440	289865760	349701120	5159882240	818018368	799657384	5890276544	--	--	--	--	--	--	--
+3	89	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	66969680	267878720	323175424	4768492032	755969600	739001360	5443484096	--	--	--	--	--	--	--
+3	90	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	80409488	321637952	388031872	5725456896	907681344	887307856	6535909696	--	--	--	--	--	--	--
+3	91	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	92	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	93	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	95	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	639586200	--	--	--	--
+4	96	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	97	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	98	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	99	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+4	100	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	640249408	0	71885512	7129911808	8820207	100962807	7749904128	--	--	--	--	--	--	--
+4	101	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	81111184	324444736	396413248	5730014208	915602176	906473424	6541112128	--	--	--	--	--	--	--
+4	102	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	80046696	320186784	391210816	5654815232	903586048	894577096	6455268480	--	--	--	--	--	--	--
+4	103	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	104	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	105	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	106	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+4	107	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	108	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	109	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	110	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	80018344	320073376	391072256	5652812288	903266048	894260296	6452982016	--	--	--	--	--	--	--
+4	111	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	73017792	292071168	356858560	5158265344	824242112	816024192	5888430784	--	--	--	--	--	--	--
+4	112	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	113	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	821654208	0	92047032	9129617408	9458058	129279554	9923497152	--	--	--	--	--	--	--
+4	114	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	115	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	116	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	117	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	118	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	120	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	730951800	--	--	--	--
+5	121	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	122	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	123	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	124	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Lone Operative	Seska	--	--	--
+5	125	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	796395456	0	89217376	8848960512	9167304	125305320	9618435328	--	--	--	--	--	--	--
+5	126	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	66611752	266447008	325550432	4705717248	751929216	744432296	5371823360	--	--	--	--	--	--	--
+5	127	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	68146048	272584192	333048960	4814106112	769248704	761579136	5495554880	--	--	--	--	--	--	--
+5	128	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	129	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	130	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	131	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	132	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	73933360	295733408	361333184	5222944256	834577216	826256272	5962265152	--	--	--	--	--	--	--
+5	133	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	78547608	314190432	383884352	5548913664	886664000	877823736	6334376320	--	--	--	--	--	--	--
+5	134	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	71391952	285567808	348912640	5043409920	805889280	797854352	5757317248	--	--	--	--	--	--	--
+5	135	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	136	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	807358336	0	90300096	8956349440	7980536	126826040	9735162368	--	--	--	--	--	--	--
+5	137	Combatant Destroyed	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	V'ger Orion Interceptor ▶	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

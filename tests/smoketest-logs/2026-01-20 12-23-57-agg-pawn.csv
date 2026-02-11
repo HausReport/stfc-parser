@@ -1,0 +1,48 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	U.S.S. DAUNTLESS	5	49807720	0	Enterprise-E Riker	SNW Una Chin-Riley	Rachel Garrett	45469749	10088743	33761416	0	Dunt	1/20/2026 12:23:57 PM
+Aggregation Pawn	49	DEFEAT	Aggregation Pawn	49	47930656	0	Hireling Captain	--	--	30123873	0	33136259	0	Dunt	1/20/2026 12:23:57 PM
+
+Reward Name	Count
+Common Reclaimed Loot	27172
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	2248095	7944040	39615584	Active Sweep---Aft Expansion---Aggregation Plunder---Active Apex Barrier	Eternity Awaits	Fear Is the True Enemy	Engine Redlining	Bright Future	5	2140818	130459	10837	10443	0.22	3.45	5	68640	68069	1452099	5	33761416	45469749	435.2	265	451	6186000	0	1	NO	NO
+Enemy Fleet 1	11726593	4573995	31630066	Bloodthirsty Ambition---Aggregation Boons	--	--	--	--	0	5101039	494858	1218802	494858	0.06	1.66	0	100301	105314	709184	0	33136260	30123872	25	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Hyperthermic Decay	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	25	110	--	11367440	--	11367440	--	--	0	--	--	--	--	--	--	--	--
+1	2	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	3566442	16813224	51445164	0	14999426	86824256	0	--	--	--	--	--	--	--
+1	3	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	4875725	16794166	4749879	0	0	6671658	19748112	--	--	--	--	--	--	--
+1	4	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	4616518	15901338	4497362	0	0	6316974	18698244	--	--	--	--	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	6	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	3203897	15104084	46215528	0	13474666	77998175	0	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	NO	513290	1767999	500041	0	0	702356	2078974	--	--	--	--	--	--	--
+1	8	Shield Depleted	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	NO	2025501	0	443974	0	0	623604	1845871	--	--	--	--	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	11	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	3390570	15984113	48908244	0	14259759	82542686	0	--	--	--	--	--	--	--
+1	12	Shield Depleted	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	3407128	0	746882	0	0	1048992	3105018	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	NO	311704	0	68329	0	0	95968	284065	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	3118848	0	683688	0	0	960236	2842300	--	--	--	--	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	17	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	18055856	0	45579080	0	13289103	76924039	0	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	NO	519258	0	113827	0	0	159870	473215	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	4708803	0	1032224	0	0	1449754	4291273	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	4569740	0	1001740	0	0	1406939	4164541	--	--	--	--	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	22	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	8591139	0	21686938	0	6323075	36601152	0	--	--	--	--	--	--	--
+1	23	Attack	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	NO	7418353	0	18726428	0	5459904	31604685	0	--	--	--	--	--	--	--
+2	25	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	--	--	U.S.S. DAUNTLESS	NO	--	--	--	--	--	--	--	--	--	--	--	--	8845251	--	--	--	--
+2	26	Hyperthermic Decay	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	25	110	--	11367440	--	11367440	--	--	0	--	--	--	--	--	--	--	--
+2	27	Charging Weapons	Aggregation Pawn	--	Aggregation Pawn	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	28	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	29	Charging Weapons	Aggregation Pawn	--	Aggregation Pawn	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	30	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	31	Charging Weapons	Aggregation Pawn	--	Aggregation Pawn	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	32	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	3502393	0	767765	0	0	1078322	3191836	--	--	--	--	--	--	--
+2	33	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	3063387	0	671530	0	0	943160	2791757	--	--	--	--	--	--	--
+2	34	Attack	XanOfHanoi	ThunderDome	U.S.S. DAUNTLESS	NO	Aggregation Pawn	--	Aggregation Pawn	NO	--	--	YES	3301456	0	723718	0	0	1016458	3008716	--	--	--	--	--	--	--
+2	35	Combatant Destroyed	Aggregation Pawn	--	Aggregation Pawn	NO	XanOfHanoi	ThunderDome	Aggregation Pawn	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,181 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Charged Krenim Warships	68	DEFEAT	Charged Krenim Warships	68	837071470592	0	Krenim Captain	--	--	655200000000	0	655200000000	0	Kyana	1/12/2026 8:51:54 AM
+
+Reward Name	Count
+Encrypted Intelligence	1111815526
+Charged Temporal Wreckage	7768660
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	847135616	695567424	16609208320	Anti-Tachyon Weaponry---Relative Growth	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	649811840	15756681	15990547	92230588	0.22	3.45	5	18476998	111265590	9370892	5	17130003465	16088412186	222	1889	548.25	56516070	0	1	NO	NO
+Player Fleet 2	1446610304	456936800	12972568576	Phase Discriminating Amplifier	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Unshakeable Moral Code	36	1382461184	6391193	75769425	6391193	0.22	3.65	36	85491072	2967633	2928657	40.5	10574514619	15370621976	212	1641	477.3	2443470	0	1	NO	NO
+Enemy Fleet 1	9881466880	171990007808	655200026624	Charged Quantum Barrier---Krenim Temporal Core---ship_ability_name_{0}	--	--	--	--	0	7682791424	366446080	366446080	366446080	0.1	1.5	0	11466000384	11466000384	11466000384	0	655200026624	655200026624	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2.5	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	9	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	10	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22725264	107133392	244902224	431858752	158427856	482523744	482523744	--	--	--	--	--	--	--
+1	11	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	19189540	90464976	206798960	364667744	133778760	407449988	407449992	--	--	--	--	--	--	--
+1	12	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20284554	95627184	218599520	385476768	141412576	430700302	430700300	--	--	--	--	--	--	--
+1	13	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22173216	104530872	238952960	421367872	154579264	470802092	470802092	--	--	--	--	--	--	--
+1	14	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21331950	100564904	229886944	405380928	148714432	452939574	452939584	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1682811904	5048435712	1515815552	7370278400	1430392704	2307177472	14740556800	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1474417664	4423252992	1328101760	6457566208	1253257344	2021463552	12915132416	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1517170176	4551510528	1366611584	6644810752	1289597056	2080078592	13289621504	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1678998784	5036996608	1512380928	7353577984	1427151616	2301949952	14707155968	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	89278176	267834512	104993736	378185184	75886584	159807824	756370368	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	87666760	263000272	103098664	371359200	74516880	156923376	742718400	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	96539632	289618912	113533424	408944992	82058840	172805816	817889984	--	--	--	--	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	23	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	29606792	139574880	115856320	424571200	206402016	458005600	458005608	--	--	--	--	--	--	--
+1	24	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	28536062	134527152	111666368	409216544	198937472	441441802	441441796	--	--	--	--	--	--	--
+1	25	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	30888432	145616896	120871584	442950336	215336896	477832068	477832076	--	--	--	--	--	--	--
+1	26	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	27336600	128872536	106972672	392015872	190575488	422886576	422886592	--	--	--	--	--	--	--
+1	27	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	28269724	133271552	110624144	405397184	197080720	437321660	437321664	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	11889704960	35669114880	10709812224	52073816064	10106267648	16301083648	104147632128	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1213016320	3639048704	1092640768	5312695808	1031065728	1663075712	10625391616	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1126730112	3380190464	1014917440	4934785024	957722432	1544775424	9869570048	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1194506624	3583520000	1075968128	5231628800	1015332544	1637698496	10463257600	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	12007600128	36022800384	10816008192	52590166016	10206479360	16462722048	105180332032	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	12004385792	36013158400	10813113344	52576088064	10203747328	16458316800	105152176128	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	165602800	496808416	194753728	701498752	140762640	296428832	1402997504	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	185355520	556066560	217983488	785171904	157552480	331786144	1570343808	--	--	--	--	--	--	--
+1	36	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	1607716608	4823150080	1890721664	6810338816	1366561664	2877811200	13620677632	--	--	--	--	--	--	--
+1	37	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	38	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	39	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	4289478	91032256	260136720	407561376	116292728	439656274	439656284	--	--	--	--	--	--	--
+1	40	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	4064818	86264472	246512144	386215488	110201936	416629422	416629436	--	--	--	--	--	--	--
+1	41	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	4095745	86920808	248387712	389153952	111040392	419799309	419799300	--	--	--	--	--	--	--
+1	42	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	YES	6190297	131371856	375412448	588166144	167826128	634483437	634483436	--	--	--	--	--	--	--
+1	43	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	4134466	87742552	250735952	392832992	112090160	423768062	423768060	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1204554880	3613664512	1085019008	5275636736	1023873472	1651475136	10551273472	--	--	--	--	--	--	--
+1	45	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	11977765888	35933298688	10789134336	52459499520	10181120000	16421819392	104918999040	--	--	--	--	--	--	--
+1	46	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1186828288	3560484864	1069051648	5197999104	1008805888	1627171584	10395998208	--	--	--	--	--	--	--
+1	47	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1159187840	3477563648	1044154176	5076941312	985311488	1589275840	10153882624	--	--	--	--	--	--	--
+1	48	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	835011008	2505032960	981997312	3537133312	709760704	1494668672	7074266624	--	--	--	--	--	--	--
+1	49	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	87036416	261109264	102357368	368689056	73981096	155795088	737378112	--	--	--	--	--	--	--
+1	50	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	81746432	245239280	96136184	346280480	69484592	146326008	692560960	--	--	--	--	--	--	--
+1	51	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	52	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	53	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22339924	105316784	240749520	424535904	155741472	474341812	474341792	--	--	--	--	--	--	--
+1	54	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21186202	99877808	228316272	402611200	147698368	449844934	449844916	--	--	--	--	--	--	--
+1	55	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21971860	103581632	236783040	417541440	153175536	466526760	466526748	--	--	--	--	--	--	--
+1	56	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	19902508	93826112	214482368	378216608	138749168	422588376	422588388	--	--	--	--	--	--	--
+1	57	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20867140	98373664	224877872	396547936	145474048	443070340	443070320	--	--	--	--	--	--	--
+1	58	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1739825536	5219476480	1567171328	7619983360	1478854400	2385344384	15239966720	--	--	--	--	--	--	--
+1	59	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1623051904	4869155840	1461986048	7108545536	1379596672	2225244928	14217091072	--	--	--	--	--	--	--
+1	60	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1725724160	5177172480	1554469376	7558223360	1466868224	2366011392	15116446208	--	--	--	--	--	--	--
+1	61	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1588858752	4766576128	1431186048	6958788096	1350532352	2178365184	13917576192	--	--	--	--	--	--	--
+1	62	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1556555776	4669667328	1402088704	6817309696	1323074816	2134076928	13634619392	--	--	--	--	--	--	--
+1	63	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	15780582400	47341748224	14214574080	69114847232	13413520384	21635577856	138229694464	--	--	--	--	--	--	--
+1	64	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	1504144512	4512433664	1768917760	6371604480	1278525184	2692416640	12743208960	--	--	--	--	--	--	--
+1	65	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	185809232	557427712	218517088	787093888	157938144	332598288	1574187776	--	--	--	--	--	--	--
+1	66	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	169106720	507320160	198874432	716341504	143740976	302700784	1432683008	--	--	--	--	--	--	--
+2	68	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	42394430	--	--	--	--
+2	69	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	70	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	71	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	72	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	73	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	74	Charging Weapons	Charged Krenim Warships	--	Charged Krenim Warships	NO	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	75	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	16974009344	50922024960	15289568256	74341744640	14427934720	23271792640	148683489280	--	--	--	--	--	--	--
+2	76	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	16275244032	48825733120	14660146176	71281336320	13833982976	22313769984	142562672640	--	--	--	--	--	--	--
+2	77	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	16634061824	49902186496	14983356416	72852865024	14138978304	22805718016	145705730048	--	--	--	--	--	--	--
+2	78	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	17351852032	52055556096	15629915136	75996594176	14749101056	23789830144	151993188352	--	--	--	--	--	--	--
+2	79	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	92344456	277033376	108599776	391174080	78492936	165296464	782348160	--	--	--	--	--	--	--
+2	80	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	87994176	263982528	103483720	372746144	74795184	157509464	745492288	--	--	--	--	--	--	--
+2	81	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	815972416	2447917312	959607360	3456485376	693577856	1460589568	6912970752	--	--	--	--	--	--	--
+2	82	Charging Weapons	Charged Krenim Warships	--	Charged Krenim Warships	NO	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	83	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	84	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	85	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	14642857	69030616	327593472	443498880	102081816	478423821	478423820	--	--	--	--	--	--	--
+2	86	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	13693100	64553184	306345280	414732896	95460640	447392548	447392552	--	--	--	--	--	--	--
+2	87	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	14867192	70088192	332612352	450293472	103645752	485753484	485753476	--	--	--	--	--	--	--
+2	88	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	13705212	64610288	306616256	415099744	95545080	447788290	447788290	--	--	--	--	--	--	--
+2	89	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	12618121	59485424	282295584	382174208	87966488	412269913	412269912	--	--	--	--	--	--	--
+2	90	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1214865024	3644594944	1094306048	5320792576	1032637184	1665610624	10641585152	--	--	--	--	--	--	--
+2	91	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1141958656	3425875712	1028634688	5001481728	970666624	1565653952	10002963456	--	--	--	--	--	--	--
+2	92	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	11793705984	35381121024	10623340544	51653365760	10024669184	16169470976	103306731520	--	--	--	--	--	--	--
+2	93	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	12164971520	36494917632	10957763584	53279412224	10340245504	16678486016	106558824448	--	--	--	--	--	--	--
+2	94	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	82127992	246383984	96584912	347896800	69808920	147009008	695793600	--	--	--	--	--	--	--
+2	95	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	90143000	270428992	106010800	381848640	76621696	161355848	763697280	--	--	--	--	--	--	--
+2	96	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	84066480	252199440	98864632	356108288	71456640	150478904	712216576	--	--	--	--	--	--	--
+2	97	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	98	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	99	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	3287362	69765120	311288832	409042432	89124192	441253966	441253972	--	--	--	--	--	--	--
+2	100	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	3217915	68291304	304712704	400401216	87241408	431932275	431932272	--	--	--	--	--	--	--
+2	101	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	3421909	72620512	324029440	425783968	92771928	459313875	459313882	--	--	--	--	--	--	--
+2	102	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	3347536	71042160	316986912	416529856	90755592	449331036	449331020	--	--	--	--	--	--	--
+2	103	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	3250884	68990984	307834656	404503520	88135240	436357656	436357628	--	--	--	--	--	--	--
+2	104	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	105	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	107	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	36830730	--	--	--	--
+3	108	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	109	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	110	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	111	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	112	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	113	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+3	114	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+3	115	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	24120592	96482360	255536464	433597632	159196208	484466628	484466628	--	--	--	--	--	--	--
+3	116	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22724708	90898832	240748320	408504928	149983376	456430076	456430088	--	--	--	--	--	--	--
+3	117	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20505454	82021816	217237264	368611040	135336256	411855918	411855912	--	--	--	--	--	--	--
+3	118	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20265786	81063144	214698192	364302720	133754456	407042150	407042148	--	--	--	--	--	--	--
+3	119	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20523876	82095504	217432432	368942208	135457840	412225932	412225928	--	--	--	--	--	--	--
+3	120	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	1348310784	5393243136	1465922688	7408822272	1432582784	2231237120	14817644544	--	--	--	--	--	--	--
+3	121	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	12515867648	50063470592	13607615488	68773339136	13298134016	20711748608	137546678272	--	--	--	--	--	--	--
+3	122	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	13145692160	52582768640	14292378624	72234164224	13967323136	21753998336	144468328448	--	--	--	--	--	--	--
+3	123	Shield Depleted	Charged Krenim Warships	--	Charged Krenim Warships	YES	XanOfHanoi	ThunderDome	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	124	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	60644405248	0	13186872320	66646896640	12886960128	20071341056	133293793280	--	--	--	--	--	--	--
+3	125	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	351986080	0	103486480	372756096	74797184	157513648	745512192	--	--	--	--	--	--	--
+3	126	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	342838752	0	100797088	363068960	72853368	153420248	726137920	--	--	--	--	--	--	--
+3	127	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	345873088	0	101689208	366282368	73498168	154778096	732564736	--	--	--	--	--	--	--
+3	128	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	129	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22266028	89064112	235888992	400259552	146956064	447217372	447217376	--	--	--	--	--	--	--
+3	130	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20781156	83124624	220158096	373567168	137155904	417393468	417393480	--	--	--	--	--	--	--
+3	131	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21316080	85264320	225825152	383183072	140686416	428137528	428137512	--	--	--	--	--	--	--
+3	132	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	23565794	94263176	249658880	423624480	155534544	473323434	473323440	--	--	--	--	--	--	--
+3	133	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	23959148	95836592	253826112	430695488	158130688	481224020	481224008	--	--	--	--	--	--	--
+3	134	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	47767502848	0	10386844672	52495458304	10150614016	15809503232	104990916608	--	--	--	--	--	--	--
+3	135	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	48523624448	0	10551259136	53326417920	10311288832	16059754496	106652835840	--	--	--	--	--	--	--
+3	136	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	5028575232	0	1093442688	5526296064	1068574208	1664296064	11052592128	--	--	--	--	--	--	--
+3	137	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	4626363904	0	1005983424	5084274176	983104128	1531177280	10168548352	--	--	--	--	--	--	--
+3	138	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	47725735936	0	10377761792	52449554432	10141737984	15795681280	104899108864	--	--	--	--	--	--	--
+3	139	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	48080584704	0	10454922240	52839526400	10217143296	15913123840	105679052800	--	--	--	--	--	--	--
+3	140	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	691192960	0	203215760	731978880	146878768	309308608	1463957760	--	--	--	--	--	--	--
+3	141	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	764474240	0	224760992	809584320	162451072	342101984	1619168640	--	--	--	--	--	--	--
+3	142	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	6452814848	0	1897174656	6833582592	1371225728	2887632640	13667165184	--	--	--	--	--	--	--
+3	143	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	144	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20753372	83013488	219863744	373067680	136972528	416835412	416835400	--	--	--	--	--	--	--
+3	145	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22715876	90863496	240654736	408346112	149925072	456252652	456252640	--	--	--	--	--	--	--
+3	146	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	20706478	82825912	219366944	372224704	136663024	415893534	415893528	--	--	--	--	--	--	--
+3	147	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	22225540	88902160	235460064	399531712	146688848	446404176	446404148	--	--	--	--	--	--	--
+3	148	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21081282	84325128	223337664	378962272	139136736	423421546	423421536	--	--	--	--	--	--	--
+3	149	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	45549174784	0	9904478208	50057564160	9679217664	15075306496	100115128320	--	--	--	--	--	--	--
+3	150	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	4741663232	0	1031054848	5210985472	1007605312	1569337920	10421970944	--	--	--	--	--	--	--
+3	151	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	4880903168	0	1061331968	5364007424	1037193856	1615421568	10728014848	--	--	--	--	--	--	--
+3	152	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	48990457856	0	10652770304	53839458304	10410491904	16214261760	107678916608	--	--	--	--	--	--	--
+3	153	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	346732864	0	101941992	367192864	73680872	155162864	734385728	--	--	--	--	--	--	--
+3	154	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	2991848704	0	879625344	3168391680	635769024	1338851392	6336783360	--	--	--	--	--	--	--
+3	155	Attack	XanOfHanoi	ThunderDome	BORG CUBE	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	372835808	0	109616448	394836096	79227752	166843912	789672192	--	--	--	--	--	--	--
+3	156	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	157	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	5278639	70130488	295237408	399694944	91999304	431170399	431170384	--	--	--	--	--	--	--
+3	158	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	YES	8365005	111135064	467859712	633392512	145790352	683271325	683271320	--	--	--	--	--	--	--
+3	159	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	5624786	74729296	314597600	425904960	98032160	459444400	459444402	--	--	--	--	--	--	--
+3	160	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	5896657	78341296	329803520	446490848	102770488	481651409	481651400	--	--	--	--	--	--	--
+3	161	Attack	Charged Krenim Warships	--	Charged Krenim Warships	NO	XanOfHanoi	ThunderDome	BORG CUBE	YES	--	--	NO	5134895	68220744	287197728	388810752	89494048	419429091	419429076	--	--	--	--	--	--	--
+3	162	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	64875732992	0	14106956800	71297032192	13786119168	21471776768	142594064384	--	--	--	--	--	--	--
+3	163	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	68880203776	0	14977713152	75697864704	14637071360	22797123584	151395729408	--	--	--	--	--	--	--
+3	164	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	6992031232	0	1520387968	7684091392	1485809408	2314137216	15368182784	--	--	--	--	--	--	--
+3	165	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	NO	6024973312	0	1310105216	6621315584	1280309120	1994072064	13242631168	--	--	--	--	--	--	--
+3	166	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	60956254208	0	13254682624	66989613056	12953228288	20174552064	133979226112	--	--	--	--	--	--	--
+3	167	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Charged Krenim Warships	--	Charged Krenim Warships	NO	--	--	YES	70223003648	0	15269698560	77173571584	14922416128	23241546752	154347143168	--	--	--	--	--	--	--
+3	168	Combatant Destroyed	Charged Krenim Warships	--	Charged Krenim Warships	YES	XanOfHanoi	ThunderDome	Charged Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,164 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Sphere	35	DEFEAT	Borg Sphere	35	91631512	0	Borg Drone	--	--	75137836	0	75137836	0	Megnomis	12/14/2024 12:56:06 PM
+
+Reward Name	Count
+Borg Solo Armada Credit Uncommon	21614
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1486696	1252605	6430289	Optimized Crew Interface	Safe Cracker	No Locked Doors	The Looking Glass	Creating Opportunities	3	1074761	16172	18482	259798	0.12	2.2	3	8848	233931	7742	3	6337360	6523217	137	75	27.93	237800	0	1	NO	NO
+Player Fleet 2	680785	1309605	3025644	Feels Like Home	Leader	Inspirational	Illogical	Savage Tenacity	3.5	558664	6823	7799	74841	0.12	2.2	3.5	15645	232591	13685	3.5	3126963	2924325	153	165	37.24	104622	0	5.19	NO	NO
+Player Fleet 3	1479380	509600	2627825	Collective Severance	Weaponry is irrelevant	You will be assimilated	Strengthen the Unimatrix	Adapt & Overcome	2	1215870	251160	15122	9173	0.18	2.28	3.5	18745	21190	61985	3	2946829	2308820	162	80	26.77	1972100	0	1	NO	NO
+Enemy Fleet 1	3665259	12828410	75137840	ship_ability_name_{0}	--	--	--	--	0	2382418	175933	190593	146611	0.1	1.5	0	795361	1026273	744048	0	75137840	75137840	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	4	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+1	5	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	6	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+1	7	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	8	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	27268	109072	321791	0	0	458131	0	--	--	--	--	--	--	--
+1	9	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	736695	2946781	5462495	0	0	8628275	517696	--	--	--	--	--	--	--
+1	10	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4792	19168	32322	0	0	49197	7085	--	--	--	--	--	--	--
+1	11	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4899	19597	33046	0	0	50299	7243	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	563935	2255739	4568365	0	0	6969848	418191	--	--	--	--	--	--	--
+1	13	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	19984	79937	235834	0	0	335755	0	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	788042	3152168	5843224	0	0	9229655	553779	--	--	--	--	--	--	--
+1	15	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4903	19613	33073	0	0	50340	7249	--	--	--	--	--	--	--
+1	16	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4779	19115	32234	0	0	49063	7065	--	--	--	--	--	--	--
+1	17	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4400	17602	29681	0	0	45177	6506	--	--	--	--	--	--	--
+1	18	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	19	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	53194	212776	656612	0	0	922582	0	--	--	--	--	--	--	--
+1	20	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	21	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	22	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	23	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	45131	180524	557083	0	0	782738	0	--	--	--	--	--	--	--
+1	24	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	52032	208128	607451	0	0	867611	0	--	--	--	--	--	--	--
+2	26	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	27	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	28	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+2	29	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	30	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	25176	100703	310897	0	0	436776	0	--	--	--	--	--	--	--
+2	31	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	701584	2806338	5160952	0	0	8178183	490691	--	--	--	--	--	--	--
+2	32	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4919	19677	33181	0	0	50504	7273	--	--	--	--	--	--	--
+2	33	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4913	19654	33141	0	0	50444	7264	--	--	--	--	--	--	--
+2	34	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	576821	2307284	4667261	0	0	7123930	427436	--	--	--	--	--	--	--
+2	35	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	53135	212540	161372	0	0	427047	0	--	--	--	--	--	--	--
+2	36	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	743107	2972430	5466400	0	0	8662205	519732	--	--	--	--	--	--	--
+2	37	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4662	18646	31443	0	0	47859	6892	--	--	--	--	--	--	--
+2	38	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4438	17753	29936	0	0	45565	6562	--	--	--	--	--	--	--
+2	39	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4288	17151	28922	0	0	44022	6339	--	--	--	--	--	--	--
+2	40	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	1068630	4274521	8106424	0	0	12688278	761297	--	--	--	--	--	--	--
+2	41	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	42	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	43	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	872606	3490425	6419012	0	0	10171739	610304	--	--	--	--	--	--	--
+2	44	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	1013227	4052908	7453438	0	0	11810918	708655	--	--	--	--	--	--	--
+2	45	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	46	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	47	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	48	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	50	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	51	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+3	52	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+3	53	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+3	54	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	55	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	48051	192206	145933	0	0	386190	0	--	--	--	--	--	--	--
+3	56	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	761235	3044938	5552578	0	0	8829010	529741	--	--	--	--	--	--	--
+3	57	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	10085	40339	68023	0	0	103537	14910	--	--	--	--	--	--	--
+3	58	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4272	17086	28813	0	0	43856	6315	--	--	--	--	--	--	--
+3	59	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	679435	2717742	5489887	0	0	8384023	503041	--	--	--	--	--	--	--
+3	60	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	61	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	YES	35716	142866	441065	0	0	619647	0	--	--	--	--	--	--	--
+3	62	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	720832	2883326	5257873	0	0	8360407	501624	--	--	--	--	--	--	--
+3	63	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	11694	46776	78878	0	0	120059	17289	--	--	--	--	--	--	--
+3	64	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4851	19404	32720	0	0	49803	7172	--	--	--	--	--	--	--
+3	65	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4308	17232	29057	0	0	44228	6369	--	--	--	--	--	--	--
+3	66	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	1212153	4848610	9133234	0	0	14333959	860038	--	--	--	--	--	--	--
+3	67	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	48132	192526	594122	0	0	834780	0	--	--	--	--	--	--	--
+3	68	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	69	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	45183	180733	303960	0	0	463178	66698	--	--	--	--	--	--	--
+3	70	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	18799	75198	126469	0	0	192715	27751	--	--	--	--	--	--	--
+3	71	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	45526	182104	306268	0	0	466694	67204	--	--	--	--	--	--	--
+3	72	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	20106	80424	135259	0	0	206109	29680	--	--	--	--	--	--	--
+3	73	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	1793955	7175818	12090321	0	0	19868013	1192081	--	--	--	--	--	--	--
+3	74	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	1924765	7699062	12971918	0	0	21316741	1279004	--	--	--	--	--	--	--
+3	75	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	49946	199782	616515	0	0	866243	0	--	--	--	--	--	--	--
+3	76	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	108440	433758	314161	0	0	856359	0	--	--	--	--	--	--	--
+4	78	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+4	79	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	80	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	81	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+4	82	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	83	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	84	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	25948	103791	306210	0	0	435949	0	--	--	--	--	--	--	--
+4	85	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	740167	2960668	5350682	0	0	8539167	512350	--	--	--	--	--	--	--
+4	86	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4752	19006	32049	0	0	48782	7025	--	--	--	--	--	--	--
+4	87	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4394	17576	29637	0	0	45111	6496	--	--	--	--	--	--	--
+4	88	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	YES	1578026	6312102	12729493	0	0	19452473	1167148	--	--	--	--	--	--	--
+4	89	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	YES	64857	259429	196973	0	0	521259	0	--	--	--	--	--	--	--
+4	90	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	688198	2752794	4975000	0	0	7939615	476377	--	--	--	--	--	--	--
+4	91	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	10807	43228	72894	0	0	110952	15977	--	--	--	--	--	--	--
+4	92	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	4272	17090	28818	0	0	43864	6316	--	--	--	--	--	--	--
+4	93	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	10596	42383	71470	0	0	108784	15665	--	--	--	--	--	--	--
+4	94	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	YES	2702089	10808355	20211830	0	0	31813466	1908808	--	--	--	--	--	--	--
+4	95	Shield Depleted	Borg Sphere	--	Borg Sphere	YES	SubspaceEddie	Continuum	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+4	96	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	97	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	98	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	4572481	0	6610913	0	0	10550372	633022	--	--	--	--	--	--	--
+4	99	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	5106204	0	7382571	0	0	11781863	706912	--	--	--	--	--	--	--
+4	100	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	101	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	102	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	103	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	105	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	106	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+5	107	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	108	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+5	109	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	110	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	25881	103523	305421	0	0	434825	0	--	--	--	--	--	--	--
+5	111	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	4049995	0	5800208	0	0	9292644	557559	--	--	--	--	--	--	--
+5	112	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	56990	0	76879	0	0	117018	16851	--	--	--	--	--	--	--
+5	113	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	22881	0	30866	0	0	46982	6765	--	--	--	--	--	--	--
+5	114	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	3107248	0	5003256	0	0	7651419	459085	--	--	--	--	--	--	--
+5	115	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	22158	88630	261483	0	0	372271	0	--	--	--	--	--	--	--
+5	116	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	3444633	0	4933239	0	0	7903653	474219	--	--	--	--	--	--	--
+5	117	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	22187	0	29931	0	0	45558	6560	--	--	--	--	--	--	--
+5	118	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	21453	0	28939	0	0	44049	6343	--	--	--	--	--	--	--
+5	119	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	55977	0	75512	0	0	114938	16551	--	--	--	--	--	--	--
+5	120	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	5707406	0	8471850	0	0	13376657	802599	--	--	--	--	--	--	--
+5	121	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	51583	206330	602205	0	0	860118	0	--	--	--	--	--	--	--
+5	122	Charging Weapons	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	123	Charging Weapons	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	124	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	125	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS VOYAGER	YES	NO	105847	423386	306649	0	0	835882	0	--	--	--	--	--	--	--
+5	126	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	127	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	USS ENTERPRISE	YES	NO	50886	203545	594074	0	0	848505	0	--	--	--	--	--	--	--
+6	129	Officer Ability	SubspaceEddie	Continuum	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+6	130	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Inspirational	James T. Kirk	--	--	--
+6	131	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+6	132	Officer Ability	SubspaceEddie	Continuum	USS VOYAGER	YES	--	--	USS VOYAGER	NO	--	--	--	--	--	--	--	--	Officer	4	Illogical	Spock	--	--	--
+6	133	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	134	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	25511	102045	315039	0	0	442595	0	--	--	--	--	--	--	--
+6	135	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	3625053	0	5139974	0	0	8268893	496134	--	--	--	--	--	--	--
+6	136	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	21088	0	28447	0	0	43300	6235	--	--	--	--	--	--	--
+6	137	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	24034	0	32420	0	0	49348	7106	--	--	--	--	--	--	--
+6	138	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	2954440	0	4746206	0	0	7264760	435886	--	--	--	--	--	--	--
+6	139	Attack	Borg Sphere	--	Borg Sphere	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	20845	83379	257414	0	0	361638	0	--	--	--	--	--	--	--
+6	140	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	3871045	0	5488767	0	0	8830011	529801	--	--	--	--	--	--	--
+6	141	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	21395	0	28860	0	0	43929	6326	--	--	--	--	--	--	--
+6	142	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	24011	0	32390	0	0	49302	7099	--	--	--	--	--	--	--
+6	143	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	21839	0	29459	0	0	44841	6457	--	--	--	--	--	--	--
+6	144	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	6185736	0	9105255	0	0	14425463	865528	--	--	--	--	--	--	--
+6	145	Charging Weapons	Borg Sphere	--	Borg Sphere	NO	Borg Sphere	--	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	146	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	5052693	0	7164231	0	0	11525400	691524	--	--	--	--	--	--	--
+6	147	Attack	SubspaceEddie	Continuum	USS ENTERPRISE	YES	Borg Sphere	--	Borg Sphere	NO	NO	5063220	0	7179157	0	0	11549412	692965	--	--	--	--	--	--	--
+6	148	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	106342	0	142714	0	0	217706	31350	--	--	--	--	--	--	--
+6	149	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	105091	0	141035	0	0	215145	30981	--	--	--	--	--	--	--
+6	150	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	NO	106978	0	143568	0	0	219009	31537	--	--	--	--	--	--	--
+6	151	Attack	SubspaceEddie	Continuum	USS VOYAGER	YES	Borg Sphere	--	Borg Sphere	NO	YES	219126	0	294073	0	0	448600	64599	--	--	--	--	--	--	--
+6	152	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	NO	9963382	0	13077049	0	0	21736256	1304175	--	--	--	--	--	--	--
+6	153	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Sphere	--	Borg Sphere	NO	YES	25009332	0	32825020	0	0	54560709	3273643	--	--	--	--	--	--	--
+6	154	Combatant Destroyed	Borg Sphere	--	Borg Sphere	YES	SubspaceEddie	Continuum	Borg Sphere	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

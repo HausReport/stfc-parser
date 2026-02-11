@@ -1,0 +1,355 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	68	VICTORY	BORG CUBE	75	15243104256	0	Christopher Pike	Chang	Enterprise-E Data	15274416582	2130436777	10918867876	9990879930	Dae Mu	2/4/2026 2:53:30 PM
+V'ger Orion Interceptor ▶	68	DEFEAT	V'ger Orion Interceptor	68	22269478912	0	Replicated Orion Commander	--	--	24234930720	0	14540958432	0	Dae Mu	2/4/2026 2:53:30 PM
+
+Reward Name	Count
+6★ Broken Interceptor Parts	73348
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1662627584	483833600	13096642560	Phase Discriminating Amplifier	Teaching Moments	Advanced Training	Dogs of War	Saddle up. Lock and Load!	45	1598478464	6391193	75769425	6391193	0.22	4.2	40.5	90825216	2990239	2951263	45	10918867876	15274416582	212	1641	526.14	2917470	0	1	NO	NO
+Enemy Fleet 1	264160752	2617372416	19387944960	Replicated Particle Cannon---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	256405568	161566	743205	1680288	0.06	1.66	0	193879440	290819168	38775888	0	14540958720	24234930176	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Saddle up. Lock and Load!	Enterprise-E Data	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	AGIMUS	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	AGIMUS	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.15	--	AGIMUS	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+1	10	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	89611960	422456384	87818920	8745903104	294951072	123980736	9516760704	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	8512680	29321452	73023440	1048781376	145207392	107607332	1197239008	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	108945920	375258176	934559488	13422383104	1858375040	1377166528	15322355200	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	9205348	31707310	78965280	1134119680	157022768	116363218	1294657168	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	15	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	327152192	361589248	80985784	8065389568	55484260	114333852	8776267200	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	17196456	59232240	147514576	2118642304	293333312	217377448	2418541440	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	16885776	58162120	144849504	2080365824	288033792	213450168	2374846848	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	234607792	808093504	2012511744	28904210432	4001887232	2965636592	32995674112	--	--	--	--	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	21	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	495801216	143942288	72631144	7233349120	27706518	102538958	7870891328	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	117894728	406081856	1011324160	14524897280	2011021824	1490286984	16580932864	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	125003776	430568544	1072306944	15400747008	2132286336	1580151008	17580761600	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	9010561	31036378	77294360	1110121472	153700128	113900947	1267261952	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	27	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	795179840	0	89093136	8872802304	23549100	125779644	9654844736	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	241415248	831541376	2070907392	29742903296	4118007040	3051688400	33953085952	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	243849424	839925824	2091788288	30042800128	4159528960	3082458640	34295433984	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	209540048	721749056	1797475712	25815805952	3574287104	2648759696	29470098176	--	--	--	--	--	--	--
+1	31	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+1	33	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	591048704	0	66019764	6551983104	13298663	92880027	7129470208	--	--	--	--	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	35	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	594547200	0	66410548	6590765568	13377380	93429784	7171670912	--	--	--	--	--	--	--
+2	37	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1446671000	--	--	--	--
+2	38	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	39	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	40	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	42	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+2	43	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	731027200	0	81370440	8103697920	16733386	114876946	8817952000	--	--	--	--	--	--	--
+2	44	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	81065144	279224384	695392704	9987408896	1382791040	1024730552	11401151616	--	--	--	--	--	--	--
+2	45	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	76827232	264627136	659039104	9465288704	1310501760	971159840	10805124096	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	84782952	292030176	727284800	10445451264	1446208640	1071726728	11924031104	--	--	--	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	48	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	49	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	661947840	0	73361864	7306122240	12217220	103570572	7950078592	--	--	--	--	--	--	--
+2	50	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	51	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	52	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	53	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	82011568	282484288	703511360	10104010752	1398935040	1036694192	11534258816	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	76435984	263279504	655682880	9417085952	1303827840	966214112	10750098048	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	84476288	290973888	724654208	10407669760	1440977664	1067850304	11880901504	--	--	--	--	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+2	57	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	58	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	59	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	60	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	62	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	696487600	--	--	--	--
+3	63	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	64	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	65	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	66	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+3	67	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	731646080	0	80868896	8053748736	11505472	114168864	8763600320	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	43905532	175622128	423709056	6085417984	842547072	624377580	6946824192	--	--	--	--	--	--	--
+3	69	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	46273304	185093216	446559168	6413597696	887984640	658049464	7321458560	--	--	--	--	--	--	--
+3	70	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	45986880	183947520	443795040	6373898240	882488128	653976288	7276139520	--	--	--	--	--	--	--
+3	71	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	73	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	74	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	85540784	342163136	825508864	11856169984	1641527552	1216469616	13534440704	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	88126544	352506208	850462656	12214563840	1691148288	1253241584	13943565952	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	83840336	335361344	809098688	11620483072	1608895872	1192287696	13265391616	--	--	--	--	--	--	--
+3	77	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	78	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	787874176	0	86753440	8639791104	9353877	122476469	9401296128	--	--	--	--	--	--	--
+3	79	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	45138164	180552656	435604544	6256264192	866201280	641906756	7141854080	--	--	--	--	--	--	--
+3	80	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	47696868	190787472	460297248	6610907136	915302784	678293844	7546697664	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	48423304	193693200	467307648	6711592448	929243072	688624408	7661635264	--	--	--	--	--	--	--
+3	82	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	83	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	84	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	85	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	86148696	344594784	831375488	11940427776	1653193216	1225114680	13630625280	--	--	--	--	--	--	--
+3	86	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	89118304	356473216	860033600	12352023552	1710180096	1267345184	14100483584	--	--	--	--	--	--	--
+3	87	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	95513448	382053792	921749760	13238406144	1832902912	1358290184	15112335872	--	--	--	--	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+3	89	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	90	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	92	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	759760100	--	--	--	--
+4	93	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	94	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	95	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	96	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+4	97	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	704457152	0	77401504	7708430336	6830495	109273663	8387845824	--	--	--	--	--	--	--
+4	98	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	44308716	177234864	434601568	6117874688	850284160	640428732	6983875264	--	--	--	--	--	--	--
+4	99	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	43167408	172669632	423407040	5960289792	828382464	623932528	6803983808	--	--	--	--	--	--	--
+4	100	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	46813464	187253856	459169344	6463714816	898350208	676631800	7378669888	--	--	--	--	--	--	--
+4	101	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	102	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	103	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	742032960	0	81459944	8112611328	6550101	115003261	8827651072	--	--	--	--	--	--	--
+4	104	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	105	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	106	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	107	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	42518264	170073056	417039968	5870660608	815925440	614550008	6701667328	--	--	--	--	--	--	--
+4	108	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	48066164	192264656	471456480	6636680704	922389632	694738148	7576119488	--	--	--	--	--	--	--
+4	109	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	41424792	165699184	406314656	5719681024	794941696	598745128	6529316224	--	--	--	--	--	--	--
+4	110	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+4	111	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	810971200	0	88963864	8859928576	6569759	125597111	9640836288	--	--	--	--	--	--	--
+4	112	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	113	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	114	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	115	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	117	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1128731000	--	--	--	--
+5	118	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	119	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+5	120	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	121	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+5	122	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	778010432	0	85359408	8500959744	6407122	120508482	9250228224	--	--	--	--	--	--	--
+5	123	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	45937156	183748624	450574112	6342720000	881533952	663965876	7240547968	--	--	--	--	--	--	--
+5	124	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	42703444	170813776	418856288	5896228864	819478976	617226500	6730854848	--	--	--	--	--	--	--
+5	125	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	48717424	194869696	477844352	6726602752	934887296	704151280	7678770240	--	--	--	--	--	--	--
+5	126	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	127	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	128	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	129	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	83936448	335745792	823289792	11589428224	1610740224	1213199616	13229940864	--	--	--	--	--	--	--
+5	130	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	89635112	358540448	879185088	12376264704	1720097664	1295566856	14128156160	--	--	--	--	--	--	--
+5	131	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	90360088	361440352	886296000	12476364800	1734009856	1306045496	14242425600	--	--	--	--	--	--	--
+5	132	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	133	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	134	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	47133728	188534896	462310656	6507934720	904496128	681260880	7429149248	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	48834472	195337888	478992384	6742763520	937133376	705843016	7697218624	--	--	--	--	--	--	--
+5	136	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	45977864	183911456	450973376	6348340224	882315072	664554216	7246963776	--	--	--	--	--	--	--
+5	137	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	138	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	139	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	85089856	340359424	834602944	11748683776	1632874112	1229870592	13411739520	--	--	--	--	--	--	--
+5	140	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	97505920	390023680	956385792	13463018496	1871138432	1409329792	15368742528	--	--	--	--	--	--	--
+5	141	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	93149504	372598016	913655936	12861510656	1787538816	1346363072	14682089856	--	--	--	--	--	--	--
+5	142	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+5	143	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	568599872	0	62499600	6202632192	3523709	87927629	6749327744	--	--	--	--	--	--	--
+5	144	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	145	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	602892096	0	66268940	6576711680	3736223	93230571	7156378368	--	--	--	--	--	--	--
+6	147	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	974751200	--	--	--	--
+6	148	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+6	149	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+6	150	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	151	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	152	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+6	153	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	653535680	0	71557720	7126447104	4050070	101023534	7754567040	--	--	--	--	--	--	--
+6	154	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	43566264	174265056	427319232	6015361536	836036480	629697496	6866851072	--	--	--	--	--	--	--
+6	155	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	46740104	186960416	458449824	6453585920	896942464	675571528	7367107200	--	--	--	--	--	--	--
+6	156	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	42541908	170167632	417271872	5873925120	816379136	614891684	6705393984	--	--	--	--	--	--	--
+6	157	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	158	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	159	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	699224512	0	76532848	7621920768	4080576	108047280	8293711424	--	--	--	--	--	--	--
+6	160	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	161	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	162	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+6	163	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	41970876	167883504	411670880	5795080192	805420992	606638092	6615388352	--	--	--	--	--	--	--
+6	164	Shield Depleted	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+6	165	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	242812384	0	476324544	6705207808	931913792	701911712	7654346816	--	--	--	--	--	--	--
+6	166	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	236617104	0	464171264	6534127104	908136320	684002640	7459049152	--	--	--	--	--	--	--
+6	167	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+6	168	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	169	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	170	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	171	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	173	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	676380100	--	--	--	--
+7	174	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+7	175	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+7	176	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	177	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+7	178	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	688148224	0	75296496	7498792448	3795310	106301854	8159730624	--	--	--	--	--	--	--
+7	179	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	214147856	0	420093408	5913643520	821899392	619049520	6750734656	--	--	--	--	--	--	--
+7	180	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	208511216	0	409036032	5757989376	800265984	602755376	6573047232	--	--	--	--	--	--	--
+7	181	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	209003632	0	410002016	5771587584	802155904	604178832	6588570304	--	--	--	--	--	--	--
+7	182	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	183	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	184	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	185	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	429474176	0	842498560	11859830784	1648321664	1241505664	13538619520	--	--	--	--	--	--	--
+7	186	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	456932480	0	896363520	12618085376	1753706752	1320881024	14404207104	--	--	--	--	--	--	--
+7	187	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	421150496	0	826170048	11629974528	1616375424	1217443936	13276226560	--	--	--	--	--	--	--
+7	188	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	189	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	190	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	211714544	0	415319968	5846448640	812560320	612015376	6674028096	--	--	--	--	--	--	--
+7	191	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	219093312	0	429794912	6050211328	840880064	633345632	6906633984	--	--	--	--	--	--	--
+7	192	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	229590576	0	450387360	6340090880	881168512	663690640	7237546688	--	--	--	--	--	--	--
+7	193	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	194	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	660265984	0	72189472	7189363200	3125236	101915412	7823028480	--	--	--	--	--	--	--
+7	195	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	443029056	0	869089152	12234144768	1700345344	1280689600	13965918720	--	--	--	--	--	--	--
+7	196	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	449863328	0	882495936	12422872064	1726575232	1300445664	14181360896	--	--	--	--	--	--	--
+7	197	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	441078016	0	865261824	12180268032	1692857216	1275049600	13904415488	--	--	--	--	--	--	--
+7	198	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	199	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+7	200	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	201	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	203	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	674207100	--	--	--	--
+8	204	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+8	205	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+8	206	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	207	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+8	208	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	656025536	0	71710560	7141668864	2964797	101239325	7771130432	--	--	--	--	--	--	--
+8	209	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	36521848	0	71644832	1008542464	140170832	105575800	1151304176	--	--	--	--	--	--	--
+8	210	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	245804000	0	482193184	6787820544	943395648	710559744	7748653632	--	--	--	--	--	--	--
+8	211	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	224585968	0	440569824	6201889792	861960832	649223568	7079782848	--	--	--	--	--	--	--
+8	212	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	213	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+8	214	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	802016704	0	87651960	8729275392	3468419	123745019	9498667456	--	--	--	--	--	--	--
+8	215	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	216	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	217	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	808751808	0	88388040	8802581504	3497545	124784209	9578434688	--	--	--	--	--	--	--
+8	218	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	233190368	0	457449056	6439498240	894984512	674096768	7351025408	--	--	--	--	--	--	--
+8	219	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	227394240	0	446078784	6279439360	872739008	657341568	7168309824	--	--	--	--	--	--	--
+8	220	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	215934512	0	423598272	5962981888	828756544	624214320	6807056896	--	--	--	--	--	--	--
+8	221	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	222	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+8	223	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	224	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	225	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	226	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	228	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1133397000	--	--	--	--
+9	229	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+9	230	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+9	231	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	232	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+9	233	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	712124992	0	77813832	7749494272	2951837	109855781	8432529152	--	--	--	--	--	--	--
+9	234	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	225145120	0	441666720	6217330688	864106880	650839936	7097409472	--	--	--	--	--	--	--
+9	235	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	244724576	0	480075680	6758012928	939252800	707439360	7714626624	--	--	--	--	--	--	--
+9	236	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	217338448	0	426352384	6001751040	834144896	628272784	6851313984	--	--	--	--	--	--	--
+9	237	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	238	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+9	239	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	240	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	444106304	0	871202368	12263892992	1704479744	1283803520	13999877888	--	--	--	--	--	--	--
+9	241	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	473341216	0	928552448	13071208448	1816683392	1368314656	14921470848	--	--	--	--	--	--	--
+9	242	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	444710048	0	872386816	12280565760	1706797056	1285548960	14018910720	--	--	--	--	--	--	--
+9	243	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+9	244	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	245	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	223196992	0	437845056	6163533312	856629952	645208384	7035996928	--	--	--	--	--	--	--
+9	246	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	204583984	0	401331968	5649539584	785193216	591402672	6449246080	--	--	--	--	--	--	--
+9	247	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	226576208	0	444474080	6256849920	869599424	654976880	7142522752	--	--	--	--	--	--	--
+9	248	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+9	249	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	250	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	404614592	0	793731584	11173339136	1552910720	1169642688	12754953344	--	--	--	--	--	--	--
+9	251	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	449110304	0	881018688	12402077696	1723685120	1298268896	14157622912	--	--	--	--	--	--	--
+9	252	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	451680512	0	886060672	12473053184	1733549568	1305698816	14238645120	--	--	--	--	--	--	--
+9	253	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+9	254	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	255	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	257	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	356062500	--	--	--	--
+10	258	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+10	259	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+10	260	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	261	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+10	262	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	750224960	0	81928968	8159321600	2668253	115665445	8878478336	--	--	--	--	--	--	--
+10	263	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	231690512	0	454506784	6398080000	889228096	669761072	7303744320	--	--	--	--	--	--	--
+10	264	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	NO	40041964	0	78550240	1105749632	153681040	115751596	1262271280	--	--	--	--	--	--	--
+10	265	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	240074576	0	470953792	6629604352	921406144	693997392	7568041472	--	--	--	--	--	--	--
+10	266	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	267	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	811003520	0	88555592	8819267584	2785600	125020744	9596591552	--	--	--	--	--	--	--
+10	268	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	269	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	270	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	833156352	0	90974520	9060169728	2861689	128435697	9858726592	--	--	--	--	--	--	--
+10	271	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	237970944	0	466827104	6571512832	913332352	687916256	7501726976	--	--	--	--	--	--	--
+10	272	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	225704448	0	442763936	6232776192	866253568	652456800	7115041344	--	--	--	--	--	--	--
+10	273	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	221252832	0	434031200	6109846016	849168256	639588224	6974710080	--	--	--	--	--	--	--
+10	274	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	275	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+10	276	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	277	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	278	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	608618624	0	66707164	6620202496	2021217	93847101	7203702400	--	--	--	--	--	--	--
+10	279	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	280	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	594943424	0	65208308	6471451648	1975802	91738414	7041840768	--	--	--	--	--	--	--
+11	282	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1798973000	--	--	--	--
+11	283	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+11	284	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+11	285	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	286	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	287	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+11	288	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	761828352	0	83176600	8283573248	2530026	117426754	9013681472	--	--	--	--	--	--	--
+11	289	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	206930976	0	405936064	5714351616	794201024	598187296	6523232384	--	--	--	--	--	--	--
+11	290	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	238555280	0	467973376	6587649024	915575040	689605456	7520147264	--	--	--	--	--	--	--
+11	291	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	213188928	0	418212288	5887163392	818219008	616277504	6720506112	--	--	--	--	--	--	--
+11	292	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	293	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	294	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	649948736	0	70954008	7066322944	2089129	100171201	7689143616	--	--	--	--	--	--	--
+11	295	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	409147584	0	802623936	11298515968	1570308224	1182746368	12897849344	--	--	--	--	--	--	--
+11	296	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	452297344	0	887270784	12490087424	1735917056	1307481984	14258090624	--	--	--	--	--	--	--
+11	297	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	429988960	0	843508416	11874045952	1650297472	1242993824	13554846976	--	--	--	--	--	--	--
+11	298	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	299	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	300	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	820808000	0	89597576	8923039744	2556547	126491787	9709510080	--	--	--	--	--	--	--
+11	301	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	229701328	0	450604608	6343149568	881593600	664010832	7241038272	--	--	--	--	--	--	--
+11	302	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	210278816	0	412503520	5806801408	807050048	607865088	6628768704	--	--	--	--	--	--	--
+11	303	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	220932544	0	433402912	6101001216	847939008	638662432	6964613248	--	--	--	--	--	--	--
+11	304	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	305	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	306	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	784685376	0	85646440	8529545216	2369823	120913671	9281333184	--	--	--	--	--	--	--
+11	307	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	460320704	0	903010176	12711650304	1766710656	1330675520	14511016320	--	--	--	--	--	--	--
+11	308	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	429240448	0	842040064	11853375488	1647424640	1240830080	13531250560	--	--	--	--	--	--	--
+11	309	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	435118208	0	853570432	12015688704	1669983488	1257821184	13716539648	--	--	--	--	--	--	--
+11	310	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	311	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+11	312	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	313	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	315	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	1508635000	--	--	--	--
+12	316	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+12	317	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+12	318	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	319	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+12	320	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+12	321	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	207024800	0	406120128	5716942336	794561088	598458464	6526189888	--	--	--	--	--	--	--
+12	322	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	212799392	0	417448128	5876406272	816723968	615151392	6708226368	--	--	--	--	--	--	--
+12	323	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	206941472	0	405956672	5714641408	794241280	598217632	6523563200	--	--	--	--	--	--	--
+12	324	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+12	325	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	326	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	327	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	328	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	208537152	0	409086912	5758705664	800365504	602830336	6573864896	--	--	--	--	--	--	--
+12	329	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	214235664	0	420265664	5916068864	822236416	619303376	6753503232	--	--	--	--	--	--	--
+12	330	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	202762208	0	397758176	5599231488	778201216	586136320	6391816768	--	--	--	--	--	--	--
+12	331	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+12	332	Charging Weapons	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	333	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	334	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	609791808	0	66799024	6629318656	1688909	93976317	7213622080	--	--	--	--	--	--	--
+12	335	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	336	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	597650688	0	65469040	6497327616	1655283	92105251	7069997376	--	--	--	--	--	--	--
+13	338	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	603721200	--	--	--	--
+13	339	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+13	340	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+13	341	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	342	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	343	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+13	344	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	747862720	0	81606952	8127251968	2071317	115210813	8843582144	--	--	--	--	--	--	--
+13	345	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	222238752	0	435965280	6137072128	852952256	642438336	7005790080	--	--	--	--	--	--	--
+13	346	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	240525536	0	471838432	6642057216	923136896	695300992	7582257088	--	--	--	--	--	--	--
+13	347	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	226543424	0	444409760	6255944192	869473536	654882080	7141488832	--	--	--	--	--	--	--
+13	348	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	349	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Dogs of War	Chang	--	--	--
+13	350	Attack	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	638340352	0	69650680	6936524800	1720483	98331163	7547905152	--	--	--	--	--	--	--
+13	351	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	420424320	0	824745472	11609920512	1613588352	1215344768	13253333888	--	--	--	--	--	--	--
+13	352	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	424931840	0	833587904	11734394880	1630888192	1228374848	13395427968	--	--	--	--	--	--	--
+13	353	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	--	--	YES	439218176	0	861613376	12128908288	1685719168	1269673280	13845785728	--	--	--	--	--	--	--
+13	354	Combatant Destroyed	V'ger Orion Interceptor ▶	--	V'ger Orion Interceptor	NO	XanOfHanoi	ThunderDome	V'ger Orion Interceptor	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

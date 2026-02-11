@@ -1,0 +1,477 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Exchange Vault	33	DEFEAT	Exchange Vault	33	22810580	0	Exchange Vault	--	--	25112115	0	17044817	0	Exchange Delta	12/20/2024 12:34:23 PM
+
+Reward Name	Count
+Rare Exchange Vault Loot	581
+Uncommon Exchange Vault Loot	578
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	256625	168240	603152	Master Thief	Safe Cracker	No Locked Doors	The Looking Glass	Defenses are irrelevant	3	232434	2705	20207	2705	0.07	1.84	3	25614	4017	4017	3	289103	917201	144	33	18.81	89687	0	1	NO	NO
+Player Fleet 2	1836565	1104000	5610812	Collective Severance	Leader	Inspirational	Illogical	See the Flaws	3.5	1563010	306493	21250	17170	0.18	2.25	5	28254	37118	155428	4	6234148	4987476	151	100	37.19	3996350	0	1	NO	NO
+Player Fleet 3	277016	162635	828258	Master Thief	Weaponry is irrelevant	You will be assimilated	Defenses are irrelevant	Fun Will Now Commence	3	251627	2460	18149	2460	0.07	1.84	3	24883	3822	3822	3	345110	1311406	136	33	19.41	132500	0	1	NO	NO
+Player Fleet 4	225956	147260	506530	Master Thief	Safe Cracker	No Locked Doors	The Looking Glass	Savage Tenacity	3	206288	2083	13236	2083	0.07	1.27	3	22774	3339	3339	3	202952	810107	144	33	10.8	101750	0	1	NO	NO
+Player Fleet 5	183142	133315	320349	Master Thief	Defensive Measures	Persistence Is Key	Me Against The Galaxy	Critical Avoidance	3	166906	1859	10693	1859	0.07	1.28	3	20615	3152	2896	3	209541	431156	105	33	13.2	107250	0	1	NO	NO
+Player Fleet 6	203645	127670	259879	Master Thief	Ruthless Mastermind	Savage Tenacity	Guardian Angel	Brute Force	3	186022	1840	11542	1840	0.07	1.55	3	19672	2931	2931	2.69	161366	358392	110	33	9.03	82500	0	1	NO	NO
+Enemy Fleet 1	538925	1193190	21078466	ship_ability_name_{0}	--	--	--	--	0	430948	14397	14397	14397	0.2	2	0	79546	79546	79546	0	17044816	25112116	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.8	Fun Will Now Commence	Seven of Nine	--	--	--
+1	4	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	6	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	4	Defensive Measures	Benjamin Sisko	--	--	--
+1	7	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Critical Avoidance	Gaila	--	--	--
+1	8	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	9	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	10	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+1	11	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	12	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+1	13	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	14	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	15	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+1	16	Forbidden Tech Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.55	--	Transphasic Torpedoes	--	--	--
+1	17	Forbidden Tech Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Transphasic Torpedoes	--	--	--
+1	18	Forbidden Tech Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.7	--	Transphasic Torpedoes	--	--	--
+1	19	Forbidden Tech Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.05	--	Transphasic Torpedoes	--	--	--
+1	20	Forbidden Tech Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.02	--	Transphasic Torpedoes	--	--	--
+1	21	Forbidden Tech Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Transphasic Torpedoes	--	--	--
+1	22	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	NO	2055	8219	25399	0	0	35673	0	--	--	--	--	--	--	--
+1	23	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	YES	2949	11795	36449	0	0	51193	0	--	--	--	--	--	--	--
+1	24	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12333	49334	73307	0	0	127334	7640	--	--	--	--	--	--	--
+1	25	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12107	48430	71964	0	0	125001	7500	--	--	--	--	--	--	--
+1	26	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12569	50274	74705	0	0	129762	7786	--	--	--	--	--	--	--
+1	27	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12071	48282	71746	0	0	124622	7477	--	--	--	--	--	--	--
+1	28	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13440	53758	79883	0	0	138756	8325	--	--	--	--	--	--	--
+1	29	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	10691	42766	63547	0	0	110381	6623	--	--	--	--	--	--	--
+1	30	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11977	47906	71186	0	0	123650	7419	--	--	--	--	--	--	--
+1	31	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11635	46542	69158	0	0	120127	7208	--	--	--	--	--	--	--
+1	32	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	39308	157233	86126	0	0	238537	44130	--	--	--	--	--	--	--
+1	33	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	59792	239169	94071	0	0	363918	29114	--	--	--	--	--	--	--
+1	34	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21292	85166	33498	0	0	129589	10367	--	--	--	--	--	--	--
+1	35	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20894	83577	32873	0	0	127170	10174	--	--	--	--	--	--	--
+1	36	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20369	81475	32046	0	0	123972	9918	--	--	--	--	--	--	--
+1	37	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23136	92546	36400	0	0	140817	11265	--	--	--	--	--	--	--
+1	38	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18072	72290	28433	0	0	109995	8800	--	--	--	--	--	--	--
+1	39	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22222	88887	34961	0	0	135250	10820	--	--	--	--	--	--	--
+1	40	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22540	90162	35463	0	0	137190	10975	--	--	--	--	--	--	--
+1	41	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	25809	103234	49343	0	0	169891	8495	--	--	--	--	--	--	--
+1	42	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13242	52967	25317	0	0	87168	4358	--	--	--	--	--	--	--
+1	43	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17279	69117	33036	0	0	113745	5687	--	--	--	--	--	--	--
+1	44	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16359	65437	31277	0	0	107689	5384	--	--	--	--	--	--	--
+1	45	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17802	71206	34035	0	0	117184	5859	--	--	--	--	--	--	--
+1	46	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	14337	57348	27411	0	0	94377	4719	--	--	--	--	--	--	--
+1	47	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15857	63428	30317	0	0	104383	5219	--	--	--	--	--	--	--
+1	48	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16186	64742	30945	0	0	106546	5327	--	--	--	--	--	--	--
+1	49	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5786	23143	44424	0	0	69529	3824	--	--	--	--	--	--	--
+1	50	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7694	30776	59075	0	0	92460	5085	--	--	--	--	--	--	--
+1	51	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7556	30223	58014	0	0	90799	4994	--	--	--	--	--	--	--
+1	52	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6699	26796	51434	0	0	80501	4428	--	--	--	--	--	--	--
+1	53	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7258	29032	55728	0	0	87221	4797	--	--	--	--	--	--	--
+1	54	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6786	27146	52107	0	0	81554	4485	--	--	--	--	--	--	--
+1	55	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	9038	36154	69398	0	0	108616	5974	--	--	--	--	--	--	--
+1	56	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6638	26551	50966	0	0	79768	4387	--	--	--	--	--	--	--
+1	57	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5188	20753	36488	0	0	60028	2401	--	--	--	--	--	--	--
+1	58	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5276	21105	37107	0	0	61046	2442	--	--	--	--	--	--	--
+1	59	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6684	26735	47007	0	0	77333	3093	--	--	--	--	--	--	--
+1	60	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6905	27621	48563	0	0	79893	3196	--	--	--	--	--	--	--
+1	61	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5086	20343	35767	0	0	58842	2354	--	--	--	--	--	--	--
+1	62	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6910	27642	48600	0	0	79954	3198	--	--	--	--	--	--	--
+1	63	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5015	20059	35268	0	0	58021	2321	--	--	--	--	--	--	--
+1	64	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6660	26640	46839	0	0	77057	3082	--	--	--	--	--	--	--
+1	65	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	66	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+1	67	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	68	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	1879	7517	23229	0	0	32625	0	--	--	--	--	--	--	--
+1	69	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	1963	7850	24259	0	0	34072	0	--	--	--	--	--	--	--
+1	70	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12040	48160	57795	0	0	111316	6679	--	--	--	--	--	--	--
+1	71	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	10934	43738	52487	0	0	101093	6066	--	--	--	--	--	--	--
+1	72	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12626	50504	60608	0	0	116734	7004	--	--	--	--	--	--	--
+1	73	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11081	44324	53191	0	0	102449	6147	--	--	--	--	--	--	--
+1	74	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	75	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22842	91368	33739	0	0	136990	10959	--	--	--	--	--	--	--
+1	76	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23938	95754	35358	0	0	143565	11485	--	--	--	--	--	--	--
+1	77	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	24267	97066	35843	0	0	145533	11643	--	--	--	--	--	--	--
+1	78	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21096	84382	31159	0	0	126516	10121	--	--	--	--	--	--	--
+1	79	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16118	64472	30542	0	0	105840	5292	--	--	--	--	--	--	--
+1	80	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13606	54426	25783	0	0	89348	4467	--	--	--	--	--	--	--
+1	81	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12974	51895	24584	0	0	85193	4260	--	--	--	--	--	--	--
+1	82	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	19483	77930	36918	0	0	127934	6397	--	--	--	--	--	--	--
+1	83	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	8700	34798	66797	0	0	104545	5750	--	--	--	--	--	--	--
+1	84	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5374	21498	41266	0	0	64586	3552	--	--	--	--	--	--	--
+1	85	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6711	26845	51529	0	0	80649	4436	--	--	--	--	--	--	--
+1	86	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5695	22779	43724	0	0	68434	3764	--	--	--	--	--	--	--
+1	87	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6173	24692	43414	0	0	71422	2857	--	--	--	--	--	--	--
+1	88	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6376	25506	44845	0	0	73776	2951	--	--	--	--	--	--	--
+1	89	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5504	22015	38708	0	0	63680	2547	--	--	--	--	--	--	--
+1	90	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5389	21558	37903	0	0	62356	2494	--	--	--	--	--	--	--
+1	91	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	92	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	93	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	94	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4663	18653	14553	0	0	37869	0	--	--	--	--	--	--	--
+1	95	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4528	18112	14131	0	0	36771	0	--	--	--	--	--	--	--
+1	96	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12193	48771	43406	0	0	98462	5908	--	--	--	--	--	--	--
+1	97	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15481	61924	55112	0	0	125016	7501	--	--	--	--	--	--	--
+1	98	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13243	52973	47146	0	0	106945	6417	--	--	--	--	--	--	--
+1	99	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11963	47852	42589	0	0	96608	5796	--	--	--	--	--	--	--
+1	100	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	101	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19268	77071	27020	0	0	114221	9138	--	--	--	--	--	--	--
+1	102	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20504	82018	28755	0	0	121553	9724	--	--	--	--	--	--	--
+1	103	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21952	87807	30784	0	0	130132	10411	--	--	--	--	--	--	--
+1	104	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	65965	263862	92508	0	0	391051	31284	--	--	--	--	--	--	--
+1	105	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	24736	98946	46873	0	0	162433	8122	--	--	--	--	--	--	--
+1	106	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13523	54092	25625	0	0	88800	4440	--	--	--	--	--	--	--
+1	107	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	14176	56703	26862	0	0	93087	4654	--	--	--	--	--	--	--
+1	108	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12621	50485	23916	0	0	82878	4144	--	--	--	--	--	--	--
+1	109	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11334	45335	12763	0	0	65812	3620	--	--	--	--	--	--	--
+1	110	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12846	51385	14466	0	0	74594	4103	--	--	--	--	--	--	--
+1	111	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11638	46550	13105	0	0	67576	3717	--	--	--	--	--	--	--
+1	112	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	11902	47606	13402	0	0	69109	3801	--	--	--	--	--	--	--
+1	113	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	5155	20621	36256	0	0	59646	2386	--	--	--	--	--	--	--
+1	114	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6107	24428	42951	0	0	70660	2826	--	--	--	--	--	--	--
+1	115	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	6512	26050	45801	0	0	75349	3014	--	--	--	--	--	--	--
+1	116	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	4750	19000	33406	0	0	54958	2198	--	--	--	--	--	--	--
+1	117	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	118	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	119	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	120	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2825	11301	34922	0	0	49048	0	--	--	--	--	--	--	--
+1	121	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2941	11765	36356	0	0	51062	0	--	--	--	--	--	--	--
+1	122	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+1	123	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	YES	4595	18382	50978	0	0	73955	0	--	--	--	--	--	--	--
+1	124	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	YES	4017	16066	44556	0	0	64639	0	--	--	--	--	--	--	--
+2	126	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	127	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+2	128	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+2	129	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+2	130	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	131	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+2	132	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	133	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+2	134	Attack	Exchange Vault	--	Exchange Vault	NO	Rareplayer	Continuum	STELLA	YES	NO	1896	7585	23439	0	0	32920	0	--	--	--	--	--	--	--
+2	135	Attack	Exchange Vault	--	Exchange Vault	NO	Rareplayer	Continuum	STELLA	YES	NO	1937	7747	23941	0	0	33625	0	--	--	--	--	--	--	--
+2	136	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	137	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	59669	238674	51357	0	0	283158	66542	--	--	--	--	--	--	--
+2	138	Charging Weapons	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	139	Charging Weapons	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	140	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	141	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	142	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	143	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+2	144	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	NO	2172	8688	26848	0	0	37708	0	--	--	--	--	--	--	--
+2	145	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	YES	3215	12858	39736	0	0	55809	0	--	--	--	--	--	--	--
+2	146	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18867	75466	18003	0	0	98368	13968	--	--	--	--	--	--	--
+2	147	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21817	87266	20818	0	0	113749	16152	--	--	--	--	--	--	--
+2	148	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	52748	210990	50334	0	0	275019	39053	--	--	--	--	--	--	--
+2	149	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18423	73690	17579	0	0	96052	13640	--	--	--	--	--	--	--
+2	150	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	102871	411482	85466	0	0	485683	114136	--	--	--	--	--	--	--
+2	151	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	31262	125048	26083	0	0	158879	23514	--	--	--	--	--	--	--
+2	152	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25446	101785	21230	0	0	129321	19140	--	--	--	--	--	--	--
+2	153	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	26782	107128	22345	0	0	136111	20144	--	--	--	--	--	--	--
+2	154	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	30405	121618	25368	0	0	154522	22869	--	--	--	--	--	--	--
+2	155	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16809	67235	15452	0	0	89636	9860	--	--	--	--	--	--	--
+2	156	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17533	70133	16118	0	0	93499	10285	--	--	--	--	--	--	--
+2	157	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20891	83564	19205	0	0	111405	12255	--	--	--	--	--	--	--
+2	158	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20009	80035	18394	0	0	106701	11737	--	--	--	--	--	--	--
+2	159	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20761	83046	19086	0	0	110714	12179	--	--	--	--	--	--	--
+2	160	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	8596	34384	37820	0	0	76588	4212	--	--	--	--	--	--	--
+2	161	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	8870	35482	39027	0	0	79032	4347	--	--	--	--	--	--	--
+2	162	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	8121	32482	35729	0	0	72353	3979	--	--	--	--	--	--	--
+2	163	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7479	29916	32905	0	0	66635	3665	--	--	--	--	--	--	--
+2	164	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9370	37480	26528	0	0	67319	6059	--	--	--	--	--	--	--
+2	165	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	8162	32650	23109	0	0	58643	5278	--	--	--	--	--	--	--
+2	166	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9698	38793	27457	0	0	69677	6271	--	--	--	--	--	--	--
+2	167	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	10351	41403	29305	0	0	74366	6693	--	--	--	--	--	--	--
+2	168	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	169	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	170	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2149	8594	26558	0	0	37301	0	--	--	--	--	--	--	--
+2	171	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	YES	3026	12106	37408	0	0	52540	0	--	--	--	--	--	--	--
+2	172	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19391	77564	17833	0	0	100515	14273	--	--	--	--	--	--	--
+2	173	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22542	90169	20732	0	0	116850	16593	--	--	--	--	--	--	--
+2	174	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17951	71803	16509	0	0	93050	13213	--	--	--	--	--	--	--
+2	175	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18924	75695	17404	0	0	98094	13929	--	--	--	--	--	--	--
+2	176	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	177	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25439	101755	21084	0	0	129162	19116	--	--	--	--	--	--	--
+2	178	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	31008	124033	25700	0	0	157440	23301	--	--	--	--	--	--	--
+2	179	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	29108	116431	24125	0	0	147791	21873	--	--	--	--	--	--	--
+2	180	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	26209	104835	21722	0	0	133071	19695	--	--	--	--	--	--	--
+2	181	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15443	61770	14196	0	0	82350	9059	--	--	--	--	--	--	--
+2	182	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19140	76562	17595	0	0	102069	11228	--	--	--	--	--	--	--
+2	183	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18079	72317	16620	0	0	96411	10605	--	--	--	--	--	--	--
+2	184	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19397	77586	17831	0	0	103436	11378	--	--	--	--	--	--	--
+2	185	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18538	74154	17042	0	0	98859	10875	--	--	--	--	--	--	--
+2	186	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	8608	34434	37875	0	0	76699	4218	--	--	--	--	--	--	--
+2	187	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9457	37827	41607	0	0	84257	4634	--	--	--	--	--	--	--
+2	188	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7357	29426	32367	0	0	65545	3605	--	--	--	--	--	--	--
+2	189	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9016	36064	39668	0	0	80330	4418	--	--	--	--	--	--	--
+2	190	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7757	31028	21961	0	0	55730	5016	--	--	--	--	--	--	--
+2	191	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	7848	31393	22219	0	0	56385	5075	--	--	--	--	--	--	--
+2	192	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9347	37388	26463	0	0	67154	6044	--	--	--	--	--	--	--
+2	193	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	9431	37724	26701	0	0	67758	6098	--	--	--	--	--	--	--
+2	194	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	195	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	196	Charging Weapons	Exchange Vault	--	Exchange Vault	NO	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	197	Charging Weapons	Exchange Vault	--	Exchange Vault	NO	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	199	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	200	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+3	201	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+3	202	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+3	203	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+3	204	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	205	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.1	Knock it Down	B'Elanna Torres	--	--	--
+3	206	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	207	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+3	208	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2111	8443	23415	0	0	33969	0	--	--	--	--	--	--	--
+3	209	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2344	9377	26004	0	0	37725	0	--	--	--	--	--	--	--
+3	210	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25752	103008	11174	0	0	122534	17400	--	--	--	--	--	--	--
+3	211	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25949	103794	11259	0	0	123469	17533	--	--	--	--	--	--	--
+3	212	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	24592	98369	10670	0	0	117015	16616	--	--	--	--	--	--	--
+3	213	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	26363	105452	11439	0	0	125441	17813	--	--	--	--	--	--	--
+3	214	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	28076	112302	12182	0	0	133590	18970	--	--	--	--	--	--	--
+3	215	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23227	92908	10078	0	0	110519	15694	--	--	--	--	--	--	--
+3	216	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	30321	121282	13156	0	0	144272	20487	--	--	--	--	--	--	--
+3	217	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	28299	113195	12279	0	0	134652	19121	--	--	--	--	--	--	--
+3	218	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	64069	256277	23197	0	0	278172	65371	--	--	--	--	--	--	--
+3	219	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	100508	402030	57921	0	0	488205	72254	--	--	--	--	--	--	--
+3	220	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25154	100618	14496	0	0	122185	18083	--	--	--	--	--	--	--
+3	221	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	28540	114161	16447	0	0	138631	20517	--	--	--	--	--	--	--
+3	222	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23969	95878	13813	0	0	116429	17231	--	--	--	--	--	--	--
+3	223	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	122806	491223	70771	0	0	596516	88284	--	--	--	--	--	--	--
+3	224	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	29485	117942	16992	0	0	143222	21197	--	--	--	--	--	--	--
+3	225	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23858	95430	13748	0	0	115885	17151	--	--	--	--	--	--	--
+3	226	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	29364	117456	16922	0	0	142632	21110	--	--	--	--	--	--	--
+3	227	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23894	95576	10814	0	0	117373	12911	--	--	--	--	--	--	--
+3	228	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18103	72414	8193	0	0	88928	9782	--	--	--	--	--	--	--
+3	229	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22422	89688	10147	0	0	110141	12116	--	--	--	--	--	--	--
+3	230	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17690	70762	8006	0	0	86899	9559	--	--	--	--	--	--	--
+3	231	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19557	78226	8851	0	0	96067	10567	--	--	--	--	--	--	--
+3	232	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20019	80076	9060	0	0	98338	10817	--	--	--	--	--	--	--
+3	233	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19316	77265	8742	0	0	94886	10437	--	--	--	--	--	--	--
+3	234	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23224	92897	10510	0	0	114082	12549	--	--	--	--	--	--	--
+3	235	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22247	88987	10068	0	0	109281	12021	--	--	--	--	--	--	--
+3	236	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19443	77770	8799	0	0	95506	10506	--	--	--	--	--	--	--
+3	237	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15320	61281	476	0	0	73059	4018	--	--	--	--	--	--	--
+3	238	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	36814	147258	1145	0	0	175561	9656	--	--	--	--	--	--	--
+3	239	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18424	73696	573	0	0	87861	4832	--	--	--	--	--	--	--
+3	240	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	32835	131339	1022	0	0	156584	8612	--	--	--	--	--	--	--
+3	241	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19754	79015	614	0	0	94202	5181	--	--	--	--	--	--	--
+3	242	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15146	60586	471	0	0	72230	3973	--	--	--	--	--	--	--
+3	243	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18304	73216	569	0	0	87288	4801	--	--	--	--	--	--	--
+3	244	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18441	73762	574	0	0	87940	4837	--	--	--	--	--	--	--
+3	245	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16852	67408	1088	0	0	74216	11132	--	--	--	--	--	--	--
+3	246	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18514	74056	1195	0	0	81535	12230	--	--	--	--	--	--	--
+3	247	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16278	65110	1051	0	0	71686	10753	--	--	--	--	--	--	--
+3	248	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17292	69166	1116	0	0	76151	11423	--	--	--	--	--	--	--
+3	249	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18440	73762	1190	0	0	81210	12182	--	--	--	--	--	--	--
+3	250	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17199	68794	1110	0	0	75742	11361	--	--	--	--	--	--	--
+3	251	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	14799	59195	955	0	0	65173	9776	--	--	--	--	--	--	--
+3	252	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16792	67169	1084	0	0	73952	11093	--	--	--	--	--	--	--
+3	253	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	254	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+3	255	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	256	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2067	8268	25549	0	0	35884	0	--	--	--	--	--	--	--
+3	257	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2174	8695	26870	0	0	37739	0	--	--	--	--	--	--	--
+3	258	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25091	100363	11842	0	0	120224	17072	--	--	--	--	--	--	--
+3	259	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	23325	93300	11009	0	0	111764	15870	--	--	--	--	--	--	--
+3	260	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	19870	79478	9378	0	0	95207	13519	--	--	--	--	--	--	--
+3	261	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21718	86870	10250	0	0	104061	14777	--	--	--	--	--	--	--
+3	262	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	YES	404981	1619926	165143	0	0	1773320	416730	--	--	--	--	--	--	--
+3	263	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	30997	123990	18206	0	0	150865	22328	--	--	--	--	--	--	--
+3	264	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25766	103065	15133	0	0	125404	18560	--	--	--	--	--	--	--
+3	265	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	27987	111949	16438	0	0	136214	20160	--	--	--	--	--	--	--
+3	266	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	25253	101012	14832	0	0	122907	18190	--	--	--	--	--	--	--
+3	267	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18739	74958	8540	0	0	92105	10132	--	--	--	--	--	--	--
+3	268	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	20002	80009	9115	0	0	98312	10814	--	--	--	--	--	--	--
+3	269	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	18799	75198	8567	0	0	92400	10164	--	--	--	--	--	--	--
+3	270	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22705	90820	10347	0	0	111596	12276	--	--	--	--	--	--	--
+3	271	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	41304	165216	18823	0	0	203012	22331	--	--	--	--	--	--	--
+3	272	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	17206	68824	535	0	0	82052	4513	--	--	--	--	--	--	--
+3	273	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16717	66867	520	0	0	79719	4385	--	--	--	--	--	--	--
+3	274	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	15879	63518	494	0	0	75726	4165	--	--	--	--	--	--	--
+3	275	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	14561	58242	453	0	0	69437	3819	--	--	--	--	--	--	--
+3	276	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	12694	50777	819	0	0	55904	8386	--	--	--	--	--	--	--
+3	277	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	16961	67846	1095	0	0	74697	11205	--	--	--	--	--	--	--
+3	278	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13350	53402	862	0	0	58795	8819	--	--	--	--	--	--	--
+3	279	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	13885	55542	896	0	0	61150	9173	--	--	--	--	--	--	--
+3	280	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	281	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	282	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	YES	1963	7850	24259	0	0	34072	0	--	--	--	--	--	--	--
+3	283	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	1881	7524	23251	0	0	32656	0	--	--	--	--	--	--	--
+3	284	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22016	88064	10942	0	0	105974	15048	--	--	--	--	--	--	--
+3	285	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22228	88910	11047	0	0	106992	15193	--	--	--	--	--	--	--
+3	286	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	21374	85494	10623	0	0	102882	14609	--	--	--	--	--	--	--
+3	287	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	22508	90034	11187	0	0	108344	15385	--	--	--	--	--	--	--
+3	288	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	YES	670188	2680750	288253	0	0	2946713	692478	--	--	--	--	--	--	--
+3	289	Shield Depleted	Exchange Vault	--	Exchange Vault	YES	Traveler5	Continuum	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	290	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	YES	3892889	0	334873	0	0	3423289	804473	--	--	--	--	--	--	--
+3	291	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	151636	0	18111	0	0	147863	21884	--	--	--	--	--	--	--
+3	292	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	149904	0	17904	0	0	146174	21634	--	--	--	--	--	--	--
+3	293	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	147924	0	17668	0	0	144244	21348	--	--	--	--	--	--	--
+3	294	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	160603	0	19182	0	0	156607	23178	--	--	--	--	--	--	--
+3	295	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	87839	0	8006	0	0	86347	9498	--	--	--	--	--	--	--
+3	296	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	106547	0	9711	0	0	104737	11521	--	--	--	--	--	--	--
+3	297	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	87122	0	7940	0	0	85641	9421	--	--	--	--	--	--	--
+3	298	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	92205	0	8404	0	0	90639	9970	--	--	--	--	--	--	--
+3	299	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	105427	0	9609	0	0	103636	11400	--	--	--	--	--	--	--
+3	300	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	201803	0	1256	0	0	192473	10586	--	--	--	--	--	--	--
+3	301	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76877	0	478	0	0	73322	4033	--	--	--	--	--	--	--
+3	302	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	69471	0	432	0	0	66259	3644	--	--	--	--	--	--	--
+3	303	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	79824	0	496	0	0	76133	4187	--	--	--	--	--	--	--
+3	304	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76126	0	983	0	0	67051	10058	--	--	--	--	--	--	--
+3	305	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76877	0	992	0	0	67712	10157	--	--	--	--	--	--	--
+3	306	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	60786	0	784	0	0	53539	8031	--	--	--	--	--	--	--
+3	307	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76658	0	989	0	0	67519	10128	--	--	--	--	--	--	--
+3	308	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	309	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	310	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	YES	2698	10790	33346	0	0	46834	0	--	--	--	--	--	--	--
+3	311	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	NO	2586	10345	31968	0	0	44899	0	--	--	--	--	--	--	--
+3	312	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2945	11778	32664	0	0	47387	0	--	--	--	--	--	--	--
+3	313	Attack	Exchange Vault	--	Exchange Vault	NO	Traveler5	Continuum	VI'DAR TALIOS	YES	NO	2747	10989	30475	0	0	44211	0	--	--	--	--	--	--	--
+4	315	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	316	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+4	317	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+4	318	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+4	319	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	320	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+4	321	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+4	322	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	2029	8115	25078	0	0	35222	0	--	--	--	--	--	--	--
+4	323	Attack	Exchange Vault	--	Exchange Vault	NO	Smasher21212	Continuum	STELLA	YES	NO	1969	7877	24341	0	0	34187	0	--	--	--	--	--	--	--
+4	324	Charging Weapons	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	325	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	YES	801676	0	35033	0	0	677497	159212	--	--	--	--	--	--	--
+4	326	Charging Weapons	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	327	Charging Weapons	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	328	Charging Weapons	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	329	Charging Weapons	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	330	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	2.5	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	331	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	NO	1932	7728	23881	0	0	33541	0	--	--	--	--	--	--	--
+4	332	Attack	Exchange Vault	--	Exchange Vault	NO	HavocOfSuperDoom	Continuum	STELLA	YES	YES	3024	12095	37376	0	0	52495	0	--	--	--	--	--	--	--
+4	333	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	114003	0	7262	0	0	106186	15079	--	--	--	--	--	--	--
+4	334	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	135652	0	8641	0	0	126351	17942	--	--	--	--	--	--	--
+4	335	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	124297	0	7918	0	0	115775	16440	--	--	--	--	--	--	--
+4	336	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	118385	0	7541	0	0	110268	15658	--	--	--	--	--	--	--
+4	337	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	668596	0	35002	0	0	569715	133883	--	--	--	--	--	--	--
+4	338	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	136611	0	12259	0	0	129678	19192	--	--	--	--	--	--	--
+4	339	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	147615	0	13247	0	0	140124	20738	--	--	--	--	--	--	--
+4	340	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	411033	0	36886	0	0	390173	57746	--	--	--	--	--	--	--
+4	341	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	143493	0	12877	0	0	136211	20159	--	--	--	--	--	--	--
+4	342	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	110941	0	4967	0	0	104422	11486	--	--	--	--	--	--	--
+4	343	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	94729	0	4241	0	0	89162	9808	--	--	--	--	--	--	--
+4	344	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	86151	0	3857	0	0	81088	8920	--	--	--	--	--	--	--
+4	345	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	108652	0	4864	0	0	102267	11249	--	--	--	--	--	--	--
+4	346	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	73581	0	7984	0	0	77313	4252	--	--	--	--	--	--	--
+4	347	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	70624	0	7663	0	0	74206	4081	--	--	--	--	--	--	--
+4	348	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	62599	0	6792	0	0	65773	3618	--	--	--	--	--	--	--
+4	349	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76317	0	8281	0	0	80188	4410	--	--	--	--	--	--	--
+4	350	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	80567	0	181	0	0	74081	6667	--	--	--	--	--	--	--
+4	351	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	77947	0	175	0	0	71672	6450	--	--	--	--	--	--	--
+4	352	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	61385	0	137	0	0	56442	5080	--	--	--	--	--	--	--
+4	353	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	55781	0	125	0	0	51290	4616	--	--	--	--	--	--	--
+4	354	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	355	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	356	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	2018	8073	24947	0	0	35038	0	--	--	--	--	--	--	--
+4	357	Attack	Exchange Vault	--	Exchange Vault	NO	SubspaceEddie	Continuum	STELLA	YES	NO	1912	7650	23639	0	0	33201	0	--	--	--	--	--	--	--
+4	358	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	131131	0	8995	0	0	122702	17424	--	--	--	--	--	--	--
+4	359	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	118032	0	8096	0	0	110445	15683	--	--	--	--	--	--	--
+4	360	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	117476	0	8058	0	0	109925	15609	--	--	--	--	--	--	--
+4	361	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	120328	0	8254	0	0	112594	15988	--	--	--	--	--	--	--
+4	362	Charging Weapons	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	363	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	166855	0	15427	0	0	158782	23500	--	--	--	--	--	--	--
+4	364	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	374155	0	34594	0	0	356053	52696	--	--	--	--	--	--	--
+4	365	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	140027	0	12946	0	0	133252	19721	--	--	--	--	--	--	--
+4	366	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	132199	0	12223	0	0	125803	18619	--	--	--	--	--	--	--
+4	367	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	111451	0	4990	0	0	104902	11539	--	--	--	--	--	--	--
+4	368	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	111446	0	4989	0	0	104896	11539	--	--	--	--	--	--	--
+4	369	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	110140	0	4931	0	0	103668	11403	--	--	--	--	--	--	--
+4	370	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	96891	0	4338	0	0	91197	10032	--	--	--	--	--	--	--
+4	371	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	116148	0	12603	0	0	122039	6712	--	--	--	--	--	--	--
+4	372	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	102093	0	11078	0	0	107271	5900	--	--	--	--	--	--	--
+4	373	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	105963	0	11498	0	0	111337	6124	--	--	--	--	--	--	--
+4	374	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	67418	0	7315	0	0	70837	3896	--	--	--	--	--	--	--
+4	375	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	60904	0	136	0	0	56000	5040	--	--	--	--	--	--	--
+4	376	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	55954	0	125	0	0	51449	4630	--	--	--	--	--	--	--
+4	377	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	77499	0	174	0	0	71260	6413	--	--	--	--	--	--	--
+4	378	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	74531	0	167	0	0	68530	6168	--	--	--	--	--	--	--
+4	379	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	380	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	381	Charging Weapons	Exchange Vault	--	Exchange Vault	NO	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	382	Charging Weapons	Exchange Vault	--	Exchange Vault	NO	Exchange Vault	--	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	384	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	385	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Inspirational	James T. Kirk	--	--	--
+5	386	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+5	387	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+5	388	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+5	389	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	390	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+5	391	Officer Ability	Rareplayer	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+5	392	Officer Ability	Smasher21212	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.03	Persistence Is Key	Benjamin Sisko	--	--	--
+5	393	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4343	17373	13554	0	0	35270	0	--	--	--	--	--	--	--
+5	394	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4675	18700	14590	0	0	37965	0	--	--	--	--	--	--	--
+5	395	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	113679	0	5956	0	0	112863	6772	--	--	--	--	--	--	--
+5	396	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	138658	0	7265	0	0	137663	8260	--	--	--	--	--	--	--
+5	397	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	143516	0	7519	0	0	142486	8549	--	--	--	--	--	--	--
+5	398	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	139630	0	7315	0	0	138627	8318	--	--	--	--	--	--	--
+5	399	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	146253	0	7662	0	0	145203	8712	--	--	--	--	--	--	--
+5	400	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	137051	0	7180	0	0	136067	8164	--	--	--	--	--	--	--
+5	401	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	120336	0	6305	0	0	119473	7168	--	--	--	--	--	--	--
+5	402	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	135112	0	7079	0	0	134142	8049	--	--	--	--	--	--	--
+5	403	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	274016	0	9756	0	0	239470	44302	--	--	--	--	--	--	--
+5	404	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	377789	0	29184	0	0	376827	30146	--	--	--	--	--	--	--
+5	405	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	116432	0	8994	0	0	116135	9291	--	--	--	--	--	--	--
+5	406	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	136577	0	10550	0	0	136229	10898	--	--	--	--	--	--	--
+5	407	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	107850	0	8331	0	0	107575	8606	--	--	--	--	--	--	--
+5	408	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	118890	0	9184	0	0	118587	9487	--	--	--	--	--	--	--
+5	409	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	107740	0	8322	0	0	107465	8597	--	--	--	--	--	--	--
+5	410	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	105260	0	8131	0	0	104992	8399	--	--	--	--	--	--	--
+5	411	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	311674	0	24076	0	0	310880	24870	--	--	--	--	--	--	--
+5	412	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	120339	0	2767	0	0	117244	5862	--	--	--	--	--	--	--
+5	413	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	89881	0	2067	0	0	87570	4378	--	--	--	--	--	--	--
+5	414	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	138220	0	3178	0	0	134665	6733	--	--	--	--	--	--	--
+5	415	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	87617	0	2015	0	0	85364	4268	--	--	--	--	--	--	--
+5	416	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	117226	0	2696	0	0	114211	5711	--	--	--	--	--	--	--
+5	417	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	94775	0	2179	0	0	92337	4617	--	--	--	--	--	--	--
+5	418	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	94762	0	2179	0	0	92325	4616	--	--	--	--	--	--	--
+5	419	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	105883	0	2435	0	0	103160	5158	--	--	--	--	--	--	--
+5	420	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	118068	0	2715	0	0	115031	5752	--	--	--	--	--	--	--
+5	421	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	181919	0	4184	0	0	177241	8862	--	--	--	--	--	--	--
+5	422	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	88643	0	1	0	0	84023	4621	--	--	--	--	--	--	--
+5	423	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	86778	0	1	0	0	82255	4524	--	--	--	--	--	--	--
+5	424	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76884	0	1	0	0	72877	4008	--	--	--	--	--	--	--
+5	425	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	123199	0	2	0	0	116778	6423	--	--	--	--	--	--	--
+5	426	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	76224	0	1	0	0	72251	3974	--	--	--	--	--	--	--
+5	427	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	87902	0	1	0	0	83320	4583	--	--	--	--	--	--	--
+5	428	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	YES	127418	0	2	0	0	120777	6643	--	--	--	--	--	--	--
+5	429	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	97574	0	1	0	0	92488	5087	--	--	--	--	--	--	--
+5	430	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	63081	0	23	0	0	60677	2427	--	--	--	--	--	--	--
+5	431	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	85712	0	32	0	0	82446	3298	--	--	--	--	--	--	--
+5	432	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	74116	0	28	0	0	71292	2852	--	--	--	--	--	--	--
+5	433	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	77398	0	29	0	0	74449	2978	--	--	--	--	--	--	--
+5	434	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	64844	0	24	0	0	62373	2495	--	--	--	--	--	--	--
+5	435	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	68919	0	26	0	0	66293	2652	--	--	--	--	--	--	--
+5	436	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	68135	0	25	0	0	65538	2622	--	--	--	--	--	--	--
+5	437	Attack	Biggk81	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	70842	0	26	0	0	68142	2726	--	--	--	--	--	--	--
+5	438	Officer Ability	Biggk81	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.01	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	439	Officer Ability	SubspaceEddie	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	440	Officer Ability	Traveler5	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	See the Flaws	Nero	--	--	--
+5	441	Officer Ability	HavocOfSuperDoom	Continuum	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	442	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	3988	15950	12445	0	0	32383	0	--	--	--	--	--	--	--
+5	443	Attack	Exchange Vault	--	Exchange Vault	NO	Biggk81	Continuum	STELLA	YES	NO	4726	18905	14750	0	0	38381	0	--	--	--	--	--	--	--
+5	444	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	126197	0	7316	0	0	125956	7557	--	--	--	--	--	--	--
+5	445	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	116788	0	6770	0	0	116564	6994	--	--	--	--	--	--	--
+5	446	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	124540	0	7220	0	0	124302	7458	--	--	--	--	--	--	--
+5	447	Attack	SubspaceEddie	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	101373	0	5876	0	0	101178	6071	--	--	--	--	--	--	--
+5	448	Attack	Traveler5	Continuum	VI'DAR TALIOS	YES	Exchange Vault	--	Exchange Vault	NO	NO	572927	0	24679	0	0	504309	93297	--	--	--	--	--	--	--
+5	449	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	123687	0	9923	0	0	123713	9897	--	--	--	--	--	--	--
+5	450	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	124216	0	9966	0	0	124243	9939	--	--	--	--	--	--	--
+5	451	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	117528	0	9429	0	0	117553	9404	--	--	--	--	--	--	--
+5	452	Attack	HavocOfSuperDoom	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	128681	0	10324	0	0	128708	10297	--	--	--	--	--	--	--
+5	453	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	97192	0	2291	0	0	94746	4737	--	--	--	--	--	--	--
+5	454	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	85510	0	2016	0	0	83358	4168	--	--	--	--	--	--	--
+5	455	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	109815	0	2589	0	0	107051	5353	--	--	--	--	--	--	--
+5	456	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	87746	0	2069	0	0	85538	4277	--	--	--	--	--	--	--
+5	457	Attack	Rareplayer	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	108433	0	2556	0	0	105704	5285	--	--	--	--	--	--	--
+5	458	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	86488	0	1	0	0	81980	4509	--	--	--	--	--	--	--
+5	459	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	85144	0	1	0	0	80706	4439	--	--	--	--	--	--	--
+5	460	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	71763	0	1	0	0	68023	3741	--	--	--	--	--	--	--
+5	461	Attack	Smasher21212	Continuum	STELLA	YES	Exchange Vault	--	Exchange Vault	NO	NO	78426	0	1	0	0	74338	4089	--	--	--	--	--	--	--
+5	462	Combatant Destroyed	Exchange Vault	--	Exchange Vault	YES	Smasher21212	Continuum	Exchange Vault	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

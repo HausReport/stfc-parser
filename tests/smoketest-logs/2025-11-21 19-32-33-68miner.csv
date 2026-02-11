@@ -1,0 +1,141 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	65	VICTORY	U.S.S. RELATIVITY	60	6325352960	0	SNW Christopher Pike	Annorax	SNW Hemmer	2009670839	1987963721	9297892744	9034859082	Mirror Terix	11/21/2025 7:32:33 PM
+Romulan Republic Miner	68	DEFEAT	Romulan Republic Miner	68	41291771904	0	Romulan Republic Commander	--	--	46106296992	0	30737531328	0	Mirror Terix	11/21/2025 7:32:33 PM
+
+Reward Name	Count
+6★ Broken Interceptor Parts	89103
+6★ Broken Explorer Parts	81985
+6★ Broken Battleship Parts	68909
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	415611936	301780576	5607960576	Anti-Tachyon Weaponry---Relative Growth	Prepared For Anything	Quick Thinker	Time is Patient	Fix What Is Broken	5	320902784	7548470	7661556	44244725	0.22	3.45	5	7518581	45281894	7555637	5	5811182762	5404738519	277	1607	407.55	38937240	0	1	NO	NO
+Enemy Fleet 1	1107097600	1762760704	38421913600	Dismantlement---Deadlock---Photophobia	--	--	--	--	0	451872480	218408352	218408352	218408352	0.1	1.5	0	117517384	117517384	117517384	0	30737530880	46106296320	50	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.09	Prepared For Anything	SNW Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Quick Thinker	SNW Christopher Pike	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	25	Fix What Is Broken	SNW Hemmer	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	8	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1458261	15697756	61322036	7837512	8423597	86126511	8612651	--	--	--	--	--	--	--
+1	9	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1448611	15593873	60916228	7785646	8367852	85556555	8555655	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	111857728	82677456	34776448	0	0	57399664	171911968	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	101835480	75269704	31660540	0	0	52256748	156508976	--	--	--	--	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	14	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	873665	9404741	42406152	5419891	7410716	59559241	5955924	--	--	--	--	--	--	--
+1	15	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	876287	9432975	42533456	5436162	7432963	59738039	5973804	--	--	--	--	--	--	--
+1	16	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	858766	9244365	41683012	5327467	7284343	58543594	5854359	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1184150400	875241664	373180736	0	0	608904320	1823668480	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	86487080	63925232	27256092	0	0	44472692	133195712	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	986905920	729452160	311019840	0	0	507478784	1519899136	--	--	--	--	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	932899712	689534592	293999968	0	0	479708256	1436726016	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1026571392	758770176	323520256	0	0	527875328	1580986496	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1084328320	801460096	341722176	0	0	557574592	1669936000	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1040486016	769054848	327905408	0	0	535030400	1602415872	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1417931392	1048036288	446855968	0	0	729117280	2183706368	--	--	--	--	--	--	--
+2	28	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1764989	--	--	--	--
+2	29	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	30	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	31	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1184664	12752565	65186248	8331394	13254287	91553780	9155378	--	--	--	--	--	--	--
+2	32	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1133532	12202141	62372696	7971796	12682208	87602158	8760215	--	--	--	--	--	--	--
+2	33	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1237170176	914430080	384634848	0	0	634852320	1901382784	--	--	--	--	--	--	--
+2	34	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1584708608	1171306368	492684192	0	0	813191200	2435507968	--	--	--	--	--	--	--
+2	35	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	36	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	37	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	668832	7199781	41141180	5258216	9292843	57782593	5778259	--	--	--	--	--	--	--
+2	38	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	687875	7404767	42312512	5407922	9557420	59427724	5942772	--	--	--	--	--	--	--
+2	39	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	684877	7372504	42128152	5384360	9515778	59168792	5916879	--	--	--	--	--	--	--
+2	40	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	41	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	43	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	833675712	616195072	262729904	0	0	428685936	1283914752	--	--	--	--	--	--	--
+2	44	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	997561856	737328320	314378016	0	0	512958176	1536310016	--	--	--	--	--	--	--
+2	45	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	47	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1395130	--	--	--	--
+3	48	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	49	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	50	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	51	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1439580	11647508	61210028	7823197	12445804	85969197	8596920	--	--	--	--	--	--	--
+3	52	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	957180288	783147520	311112960	0	0	513502080	1537938688	--	--	--	--	--	--	--
+3	53	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	956366528	782481728	310848480	0	0	513065440	1536631296	--	--	--	--	--	--	--
+3	54	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	55	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	56	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	877589	7100489	41713512	5331365	9422120	58586432	5858643	--	--	--	--	--	--	--
+3	57	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	876757	7093758	41673976	5326312	9413189	58530902	5853090	--	--	--	--	--	--	--
+3	58	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	871829	7053890	41439756	5296377	9360284	58201942	5820194	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	996865728	815617408	328438592	0	0	535900288	1605021440	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1224651904	1001987968	403487584	0	0	658354784	1971772672	--	--	--	--	--	--	--
+3	61	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1077587456	881662464	355034080	0	0	579295072	1734988928	--	--	--	--	--	--	--
+3	62	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	63	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1538546688	1258810880	506906880	0	0	827099904	2477164544	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1430449280	1170367616	471291872	0	0	768988384	2303120384	--	--	--	--	--	--	--
+3	66	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1041434816	852083008	343122816	0	0	559859968	1676780672	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1533204096	1254439680	505146656	0	0	824227744	2468562688	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1016647744	831802688	334956192	0	0	546534816	1636871808	--	--	--	--	--	--	--
+4	70	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1301042	--	--	--	--
+4	71	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	72	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	73	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1500691	12141958	63808460	8155300	12974141	89618682	8961868	--	--	--	--	--	--	--
+4	74	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1419567	11485586	60359096	7714439	12272784	84774066	8477406	--	--	--	--	--	--	--
+4	75	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1022124096	836283328	342322272	0	0	565013984	1635715712	--	--	--	--	--	--	--
+4	76	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1509363840	1234934016	505505024	0	0	834352512	2415450368	--	--	--	--	--	--	--
+4	77	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	78	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	79	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	869450	7034637	41326652	5281921	9334737	58043088	5804309	--	--	--	--	--	--	--
+4	80	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	853259	6903644	40557100	5183565	9160913	56962256	5696225	--	--	--	--	--	--	--
+4	81	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	861925	6973754	40968980	5236206	9253947	57540739	5754073	--	--	--	--	--	--	--
+4	82	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	83	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	84	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	85	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1266827264	1036494976	430099968	0	0	701777280	2031644928	--	--	--	--	--	--	--
+4	86	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	746263104	610578880	253363456	0	0	413403264	1196802176	--	--	--	--	--	--	--
+4	87	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	89	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1761566	--	--	--	--
+5	90	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	91	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	92	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1515218	12259494	64426136	8234244	13099733	90486205	9048620	--	--	--	--	--	--	--
+5	93	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+5	94	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1498270080	1225857408	501789600	0	0	828220064	2397697024	--	--	--	--	--	--	--
+5	95	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	975461184	798104640	326694272	0	0	539219584	1561040512	--	--	--	--	--	--	--
+5	96	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	97	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	98	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	871073	7047770	41403808	5291782	9352164	58151452	5815145	--	--	--	--	--	--	--
+5	99	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	864005	6990583	41067844	5248843	9276278	57679594	5767959	--	--	--	--	--	--	--
+5	100	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	863545	6986867	41046012	5246053	9271346	57648930	5764893	--	--	--	--	--	--	--
+5	101	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1494928256	1223123072	507542464	0	0	828137152	2397456640	--	--	--	--	--	--	--
+5	102	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1509482752	1235031424	512483872	0	0	836199840	2420798208	--	--	--	--	--	--	--
+5	103	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	868551552	710633088	294881568	0	0	481146656	1392919552	--	--	--	--	--	--	--
+5	104	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	105	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+5	106	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	924455104	756372352	313861376	0	0	512115264	1482573568	--	--	--	--	--	--	--
+5	107	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	909378560	744036992	308742720	0	0	503763392	1458394880	--	--	--	--	--	--	--
+5	108	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1300176384	1063780672	441422336	0	0	720251456	2085127936	--	--	--	--	--	--	--
+5	109	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	963160960	788040768	327002368	0	0	533556928	1544647168	--	--	--	--	--	--	--
+5	110	Shield Depleted	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+5	111	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1995985024	0	372710816	0	0	608137632	1760558208	--	--	--	--	--	--	--
+6	113	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1316429	--	--	--	--
+6	114	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	115	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+6	116	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1500192	12137915	63787216	8152584	12969822	89588845	8958884	--	--	--	--	--	--	--
+6	117	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	1518891	12289207	64582288	8254201	13131483	90705519	9070551	--	--	--	--	--	--	--
+6	118	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1843464832	0	339569824	0	0	560471072	1622563584	--	--	--	--	--	--	--
+6	119	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	2056834560	0	378872960	0	0	625342080	1810365440	--	--	--	--	--	--	--
+6	120	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	121	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	122	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	856380	6928889	40705408	5202520	9194413	57170555	5717055	--	--	--	--	--	--	--
+6	123	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	918330	7430123	43650028	5578870	9859534	61306259	6130626	--	--	--	--	--	--	--
+6	124	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	892622	7222122	42428076	5422693	9583523	59590033	5959003	--	--	--	--	--	--	--
+6	125	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	126	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	127	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+6	128	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	2108209792	0	393666560	0	0	642330240	1859546112	--	--	--	--	--	--	--
+6	129	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1578908416	0	294829984	0	0	481062432	1392675968	--	--	--	--	--	--	--
+6	130	Combatant Destroyed	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

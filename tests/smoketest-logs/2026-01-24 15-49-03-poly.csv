@@ -1,0 +1,245 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Polygon 1.2	70	DEFEAT	Borg Polygon 1.2	70	6.8017560968233E+15	0	Borg Drone	--	--	1.08827867367609E+16	0	2.72069668419023E+15	0	Manmoor	1/24/2026 3:49:03 PM
+
+Reward Name	Count
+Borg Polygon Group Armada Credits	346234
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	108228992	30390764	535811456	Learning The Hard Way---Polarized Hull	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	5	97087088	466633	632029	5332553	0.22	4.45	5	383499	5119426	575228	5	991240	1070631675	242	1607	497.2	60682500	0	1	NO	NO
+Player Fleet 2	193445152	1128655616	6319986688	Laid to Rest---Phantom's Tithe---Collective's Bane	Red Alert! Raise Shields!	Bend the Rules	Maquis Strike	I Have One Job!	5	187181808	6156004	711538	1051697	0.22	4.2	5	21593197	14395437	189742485	5	4936809983	7703162649	277	1892	1243.55	76920100	0	1	NO	NO
+Player Fleet 3	142141520	957601152	4832092672	Laid to Rest---Phantom's Tithe---Collective's Bane	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	135878192	6156004	711538	1051697	0.22	4.2	5	19548347	13205645	158766244	5	3838392317	5825793271	277	1856	902	61715660	0	1	NO	NO
+Player Fleet 4	127212560	853711104	4688806912	Laid to Rest---Phantom's Tithe---Collective's Bane	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	122897304	4680905	561685	826919	0.22	4.15	5	17383824	11727945	141630451	5	3484228079	5893386434	232	1892	931.15	54233160	0	1	NO	NO
+Player Fleet 5	78650832	519055136	4596670464	Laid to Rest---Phantom's Tithe---Collective's Bane	Defensive Measures	Persistence Is Key	I Have One Job!	Luck Of The Irish	5	73243296	5041270	574692	848106	0.22	3.45	5	16155874	10770562	76884588	5	3502880808	5690460645	247	1743	457.95	41025370	0	1	NO	NO
+Player Fleet 6	22051374	20453790	112920416	Learning The Hard Way---Polarized Hull	Quick Victory	Creating Opportunities	Savage Tenacity	Fight or Flight	5	18674534	131786	179073	1638830	0.22	2.95	5	103285	3832515	154958	5	578000	225262834	172	1655	408.3	20088200	0	1	NO	NO
+Enemy Fleet 1	12404197376	2124189184	6.80174160130867E+15	Defense Protocol γ---Q Juniors Twist---Defense Protocol β---Defense Protocol α	--	--	--	--	0	5606792192	1132900864	1132900864	1132900864	0.1	1.5	0	141612608	141612608	141612608	0	2.72069669421056E+15	1.08827867768422E+16	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.65	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	2	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	4.5	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	3	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	4	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Bend the Rules	Kathryn Janeway	--	--	--
+1	5	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.5	I Have One Job!	Gwen DeMarco	--	--	--
+1	6	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	8	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	7	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	9	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	10	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.3	I Have One Job!	Gwen DeMarco	--	--	--
+1	11	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	12	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	13	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	9	Defensive Measures	Benjamin Sisko	--	--	--
+1	14	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.1	I Have One Job!	Gwen DeMarco	--	--	--
+1	15	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	16	Officer Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Quick Victory	Gorkon	--	--	--
+1	17	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	18	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	19	Officer Ability	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	20	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	21	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	22	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	24	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	28	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	29	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+1	30	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	31	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	32	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	33	Officer Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+1	34	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1.2	--	Transphasic Torpedoes	--	--	--
+1	35	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Transphasic Torpedoes	--	--	--
+1	36	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.16	--	Transphasic Torpedoes	--	--	--
+1	37	Forbidden Tech Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	38	Forbidden Tech Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	9	--	Dual Photon Warheads	--	--	--
+1	39	Forbidden Tech Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	6	--	Dual Photon Warheads	--	--	--
+1	40	Forbidden Tech Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	15.5	--	Dual Photon Warheads	--	--	--
+1	41	Forbidden Tech Ability	Toolowkeyathome	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	3	--	Genesis Device	--	--	--
+1	42	Forbidden Tech Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.7	--	Temporal Conduit	--	--	--
+1	43	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	20577056	108029552	186459152	0	514426432	829492192	0	--	--	--	--	--	--	--
+1	44	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21940288	115186520	198812096	0	548507200	884446104	0	--	--	--	--	--	--	--
+1	45	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	20330616	106735728	184226016	0	508265376	819557736	0	--	--	--	--	--	--	--
+1	46	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21019244	110351032	190466032	0	525481088	847317396	0	--	--	--	--	--	--	--
+1	47	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	48	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21985036	115421440	199217584	0	549625920	886249980	0	--	--	--	--	--	--	--
+1	49	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21671398	113774840	196375536	0	541784960	873606734	0	--	--	--	--	--	--	--
+1	50	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	20492082	107583432	185689168	0	512302048	826066730	0	--	--	--	--	--	--	--
+1	51	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21711412	113984912	196738128	0	542785280	875219732	0	--	--	--	--	--	--	--
+1	52	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Alannon007	ThunderDome	SS REVENANT	YES	--	--	NO	21974220	115364656	199119568	0	549355520	885813964	0	--	--	--	--	--	--	--
+1	53	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	272018528	682432448	179172864	0	909001344	272713632	1769911552	--	--	--	--	--	--	--
+1	54	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	261355776	655682048	172149536	0	873369792	262023648	1700533504	--	--	--	--	--	--	--
+1	55	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	262547344	658671360	172934384	0	877351616	263218240	1708286464	--	--	--	--	--	--	--
+1	56	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	19330896	48496812	12732854	0	64597848	19380298	125778112	--	--	--	--	--	--	--
+1	57	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	234506992	588324544	154464816	0	783649472	235106208	1525839616	--	--	--	--	--	--	--
+1	58	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	19928808	49996832	13126685	0	66595876	19979737	129668464	--	--	--	--	--	--	--
+1	59	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	240831376	604190976	158630544	0	804783552	241446752	1566989696	--	--	--	--	--	--	--
+1	60	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	268238144	672948288	176682800	0	896368448	268923504	1745314176	--	--	--	--	--	--	--
+1	61	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	18054782	45295328	11892304	0	60333468	18100922	117474960	--	--	--	--	--	--	--
+1	62	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	241285184	605329472	158929456	0	806300096	241901808	1569942400	--	--	--	--	--	--	--
+1	63	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	251891696	631938816	165915744	0	841743744	252535376	1638954624	--	--	--	--	--	--	--
+1	64	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	21079678	52884104	13884739	0	70441728	21133545	137156704	--	--	--	--	--	--	--
+1	65	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	528742940672	1326495432704	92791906304	0	1766894600192	141235789824	3573689090048	--	--	--	--	--	--	--
+1	66	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	517586944000	1298507628544	90834083840	0	1729614708736	138255802368	3498287562752	--	--	--	--	--	--	--
+1	67	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	12532973568000	31442371346432	2199478075392	0	41881299845120	3347757924352	84708364910592	--	--	--	--	--	--	--
+1	68	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	12462712684544	31266103623680	2187147608064	0	41646511095808	3328989200384	84233485811712	--	--	--	--	--	--	--
+1	69	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11052770131968	27728877191168	1939709231104	0	36934919389184	2952374648832	74703901294592	--	--	--	--	--	--	--
+1	70	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	609891778560	1530079346688	107033149440	0	2038068805632	162911895552	4122161184768	--	--	--	--	--	--	--
+1	71	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13253089427456	33248979714048	2325855076352	0	44287706267648	3540111327232	89575519158272	--	--	--	--	--	--	--
+1	72	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11382569304064	28556270764032	1997587611648	0	38037010513920	3040465649664	76932972544000	--	--	--	--	--	--	--
+1	73	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11594446667776	29087823298560	2034771034112	0	38745038389248	3097062408192	78365016981504	--	--	--	--	--	--	--
+1	74	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11265301807104	28262073892864	1977007734784	0	37645140885504	3009149403136	76140374917120	--	--	--	--	--	--	--
+1	75	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	12289960837120	30832708288512	2156830523392	0	41069228064768	3282843860992	83065883852800	--	--	--	--	--	--	--
+1	76	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10975678824448	27535475736576	1926180241408	0	36677309431808	2931784548352	74182859685888	--	--	--	--	--	--	--
+1	77	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	12191692488704	30586177585152	2139584987136	0	40740847616000	3256595251200	82401707425792	--	--	--	--	--	--	--
+1	78	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	577120108544	1447862730752	101281873920	0	1928556052480	154158153728	3900662611968	--	--	--	--	--	--	--
+1	79	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	234071539712	587232116736	99471065088	0	782194311168	151402004480	1551567028224	--	--	--	--	--	--	--
+1	80	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	224512589824	563250921472	95408898048	0	750251278336	145219092480	1488204595200	--	--	--	--	--	--	--
+1	81	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4093380657152	10269359079424	1739523489792	0	13678806040576	2647676289024	27133392977920	--	--	--	--	--	--	--
+1	82	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	254821515264	639289065472	108288983040	0	851534348288	164823465984	1689110446080	--	--	--	--	--	--	--
+1	83	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	3905095991296	9796995514368	1659510063104	0	13049617448960	2525891526656	25885327491072	--	--	--	--	--	--	--
+1	84	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4395919998976	11028360331264	1868090572800	0	14689797931008	2843363770368	29138805063680	--	--	--	--	--	--	--
+1	85	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	250688012288	628919042048	106532405248	0	837721456640	162149761024	1661711155200	--	--	--	--	--	--	--
+1	86	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	217544212480	545768800256	92447612928	0	726965157888	140711747584	1442014035968	--	--	--	--	--	--	--
+1	87	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4144557457408	10397749870592	1761271611392	0	13849823543296	2680780488704	27472621993984	--	--	--	--	--	--	--
+1	88	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4385362935808	11001875398656	1863604240384	0	14654519640064	2836534919168	29068827295744	--	--	--	--	--	--	--
+1	89	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4277313994752	10730804871168	1817687752704	0	14293454028800	2766648508416	28352612139008	--	--	--	--	--	--	--
+1	90	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4207881748480	10556615426048	1788181872640	0	14061432471552	2721738260480	27892373258240	--	--	--	--	--	--	--
+1	91	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4159904153600	10436250435584	1767793229824	0	13901106249728	2690705522688	27574348546048	--	--	--	--	--	--	--
+1	92	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	3925232844800	9847513808896	1668067360768	0	13116907716608	2538914709504	26018807021568	--	--	--	--	--	--	--
+1	93	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4173129842688	10469430525952	1773413728256	0	13945302679552	2699258888192	27662017888256	--	--	--	--	--	--	--
+1	94	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4333688324096	10872235753472	1841644568576	0	14481839095808	2803112476672	28726295265280	--	--	--	--	--	--	--
+1	95	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	4406683631616	11055364308992	1872664723456	0	14725767233536	2850327625728	29210152271872	--	--	--	--	--	--	--
+1	96	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	3996076998656	10025245343744	1698173288448	0	13353646817280	2584739053568	26488403394560	--	--	--	--	--	--	--
+1	97	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	323478585344	811533991936	96346841088	0	1080964874240	146646671360	2165677621248	--	--	--	--	--	--	--
+1	98	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	359916404736	902948192256	107199717376	0	1202728861696	163165528064	2409627648000	--	--	--	--	--	--	--
+1	99	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5972751810560	14984272674816	1778961088512	0	19959080026112	2707703726080	39987361873920	--	--	--	--	--	--	--
+1	100	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	6290526437376	15781495570432	1873608966144	0	21020983427072	2851763126272	42114851274752	--	--	--	--	--	--	--
+1	101	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5588146716672	14019386671104	1664407961600	0	18673850908672	2533347164160	37412445093888	--	--	--	--	--	--	--
+1	102	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5751176167424	14428390031360	1712965681152	0	19218642763776	2607254208512	38503920435200	--	--	--	--	--	--	--
+1	103	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5590865149952	14026205560832	1665217593344	0	18682933673984	2534577799168	37430644178944	--	--	--	--	--	--	--
+1	104	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	312455888896	783880552448	93063782400	0	1044130430976	141649584128	2091881070592	--	--	--	--	--	--	--
+1	105	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	325639667712	816955654144	96990511104	0	1088186548224	147626377216	2180146003968	--	--	--	--	--	--	--
+1	106	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	6197313273856	15547645296640	1845845688320	0	20709493440512	2809504333824	41490793365504	--	--	--	--	--	--	--
+1	107	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5797661638656	14545010556928	1726811078656	0	19373983006720	2628328488960	38815137792000	--	--	--	--	--	--	--
+1	108	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5920759742464	14853836111872	1763475456000	0	19785339371520	2684134096896	39639276584960	--	--	--	--	--	--	--
+1	109	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	364059197440	913341480960	108433629184	0	1216572686336	165043462144	2437363531776	--	--	--	--	--	--	--
+1	110	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5452610404352	13679356542976	1624038965248	0	18220928991232	2471902314496	36505032589312	--	--	--	--	--	--	--
+1	111	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5565906944000	13963590893568	1657783844864	0	18599532036096	2523262222336	37263551496192	--	--	--	--	--	--	--
+1	112	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5418677436416	13594226851840	1613932134400	0	18107535982592	2456515903488	36277856501760	--	--	--	--	--	--	--
+1	113	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5270443393024	13222339936256	1569781186560	0	17612182388736	2389317255168	35285429649408	--	--	--	--	--	--	--
+1	114	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	5514648354816	13834994581504	1642516709376	0	18428240855040	2500026957824	36920373542912	--	--	--	--	--	--	--
+1	115	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2342152568832	5875926827008	1275895742464	0	7826746376192	1942002860032	15378718654464	--	--	--	--	--	--	--
+1	116	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2209150664704	5542255263744	1203442417664	0	7382294855680	1831723728896	14505419472896	--	--	--	--	--	--	--
+1	117	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	128452861952	322258927616	69975138304	0	429249527808	106507075584	843429380096	--	--	--	--	--	--	--
+1	118	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	129088667648	323854041088	70321496064	0	431374204928	107034255360	847604154368	--	--	--	--	--	--	--
+1	119	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	138461151232	347367473152	75427192832	0	462694154240	114805481472	909144489984	--	--	--	--	--	--	--
+1	120	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	149082767360	374014672896	81213349888	0	498188255232	123612389376	978886656000	--	--	--	--	--	--	--
+1	121	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	129203650560	324142497792	70384132096	0	431758442496	107129593856	848359129088	--	--	--	--	--	--	--
+1	122	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	137500164096	344956567552	74903691264	0	459482824704	114008694784	902834552832	--	--	--	--	--	--	--
+1	123	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	133562155008	335076982784	72758444032	0	446323195904	110743453696	876977324032	--	--	--	--	--	--	--
+1	124	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2086140903424	5233652006912	1136432513024	0	6971234713600	1729729396736	13697730740224	--	--	--	--	--	--	--
+1	125	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2041268142080	5121076363264	1111987847168	0	6821283627008	1692523560960	13403092418560	--	--	--	--	--	--	--
+1	126	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2068646985728	5189763334144	1126902530048	0	6912775028736	1715224444928	13582863433728	--	--	--	--	--	--	--
+1	127	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	144098508800	361510273024	78498152448	0	481532411904	119479664640	946159681536	--	--	--	--	--	--	--
+1	128	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	2413703987200	6055433076736	1314873540608	0	8065848442880	2001330110464	15848528936960	--	--	--	--	--	--	--
+1	129	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15226377	38199504	24147344	0	50881820	36753949	91701096	--	--	--	--	--	--	--
+1	130	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	12790309	32087968	20284010	0	42741236	30873683	77029840	--	--	--	--	--	--	--
+1	131	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14967282	37549496	23736448	0	50016004	36128534	90140696	--	--	--	--	--	--	--
+1	132	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1406678	3529034	2230835	0	4700680	3395487	8471740	--	--	--	--	--	--	--
+1	133	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1479514	3711764	2346345	0	4944076	3571301	8910398	--	--	--	--	--	--	--
+1	134	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1311234	3289588	2079472	0	4381737	3165102	7896929	--	--	--	--	--	--	--
+1	135	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1356277	3402589	2150904	0	4532255	3273827	8168198	--	--	--	--	--	--	--
+1	136	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14551042	36505244	23076336	0	48625060	35123802	87633880	--	--	--	--	--	--	--
+1	137	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13841422	34724972	21950960	0	46253732	33410894	83360192	--	--	--	--	--	--	--
+1	138	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15463813	38795180	24523890	0	51675256	37327075	93131064	--	--	--	--	--	--	--
+1	139	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1372183	3442494	2176129	0	4585409	3312221	8263994	--	--	--	--	--	--	--
+1	140	Officer Ability	Alannon007	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	The Winning Gambit	Masriad Vael	--	--	--
+1	141	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Maquis Strike	Chakotay	--	--	--
+1	142	Officer Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.85	Creating Opportunities	Gorkon	--	--	--
+1	143	Charging Weapons	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	144	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	278127680	697758912	183196832	0	929416256	278838496	1809661184	--	--	--	--	--	--	--
+1	145	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	19225916	48233440	12663705	0	64247036	19275049	125095048	--	--	--	--	--	--	--
+1	146	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	251329840	630529216	165545664	0	839866176	251972080	1635298816	--	--	--	--	--	--	--
+1	147	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	20011842	50205144	13181378	0	66873356	20062984	130208736	--	--	--	--	--	--	--
+1	148	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	18255308	45798404	12024386	0	61003564	18301958	118779704	--	--	--	--	--	--	--
+1	149	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	277403264	695941504	182719664	0	926995456	278112176	1804947712	--	--	--	--	--	--	--
+1	150	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	244461920	613299200	161021904	0	816915712	245086640	1590612096	--	--	--	--	--	--	--
+1	151	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	269314432	675648448	177391728	0	899965056	270002608	1752317056	--	--	--	--	--	--	--
+1	152	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	19996200	50165904	13171075	0	66821084	20047303	130106960	--	--	--	--	--	--	--
+1	153	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	263806416	661830144	173763728	0	881559040	264480608	1716478720	--	--	--	--	--	--	--
+1	154	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	251167888	630122944	165438992	0	839324992	251809696	1634245120	--	--	--	--	--	--	--
+1	155	Attack	Antag0niz3r	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	20560024	51580412	13542454	0	68705216	20612570	133775536	--	--	--	--	--	--	--
+1	156	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	32917382234112	82582205104128	5776840065024	0	109999665709056	8792760647680	222483332464640	--	--	--	--	--	--	--
+1	157	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	29948270084096	75133381246976	5255775387648	0	100077813104640	7999672287232	202415567536128	--	--	--	--	--	--	--
+1	158	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	32925393354752	82602304208896	5778246205440	0	110026433757184	8794904985600	222537472540672	--	--	--	--	--	--	--
+1	159	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	30687228854272	76987263614976	5385459073024	0	102547184418816	8197058330624	207410077630464	--	--	--	--	--	--	--
+1	160	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	31068948267008	77944907104256	5452448923648	0	103822764539904	8299007705088	209990061129728	--	--	--	--	--	--	--
+1	161	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	30376196046848	76206946910208	5330874400768	0	101507810721792	8113969168384	205307858911232	--	--	--	--	--	--	--
+1	162	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	33101805780992	83044878778368	5809205411840	0	110615943184384	8842020651008	223729812504576	--	--	--	--	--	--	--
+1	163	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	31869169041408	79952477159424	5592883658752	0	106496859832320	8512773554176	215398616137728	--	--	--	--	--	--	--
+1	164	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	32493040304128	81517632028672	5702370197504	0	108581647024128	8679422164992	219615267389440	--	--	--	--	--	--	--
+1	165	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	30715714469888	77058717777920	5390458159104	0	102642369953792	8204664176640	207602596184064	--	--	--	--	--	--	--
+1	166	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	27725056180224	69555841925120	4865612316672	0	92648517926912	7405806551040	187389221797888	--	--	--	--	--	--	--
+1	167	Attack	NWMaverick	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	33170296668160	83216711024640	5821225238528	0	110844826353664	8860329836544	224192729448448	--	--	--	--	--	--	--
+1	168	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10123000938496	25396301004800	4301859848192	0	33827921592320	6547748159488	67101335224320	--	--	--	--	--	--	--
+1	169	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10887127629824	27313320230912	4626582601728	0	36381397090304	7042004680704	72166422872064	--	--	--	--	--	--	--
+1	170	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10576241623040	26533378916352	4494468841472	0	35342509932544	6840913494016	70105685819392	--	--	--	--	--	--	--
+1	171	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	9922104262656	24892296658944	4216487149568	0	33156589682688	6417804689408	65769673064448	--	--	--	--	--	--	--
+1	172	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10407550910464	26110169448448	4422781894656	0	34778799669248	6731800772608	68987501150208	--	--	--	--	--	--	--
+1	173	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	541954277376	1359639609344	230308331520	0	1811042795520	350546444288	3592398569472	--	--	--	--	--	--	--
+1	174	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	621577633792	1559396614144	264145010688	0	2077119348736	402048221184	4120190386176	--	--	--	--	--	--	--
+1	175	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10436393041920	26182529581056	4435038699520	0	34875180580864	6750455988224	69178685915136	--	--	--	--	--	--	--
+1	176	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10146920005632	25456308912128	4312024743936	0	33907854540800	6563219898368	67259888304128	--	--	--	--	--	--	--
+1	177	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	10180728193024	25541126127616	4326391808000	0	34020830216192	6585090572288	67483985772544	--	--	--	--	--	--	--
+1	178	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11083836293120	27806817845248	4710175604736	0	37038736801792	7169235222528	73470331322368	--	--	--	--	--	--	--
+1	179	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	9959417839616	24985907232768	4232343977984	0	33281277952000	6441940025344	66017006977024	--	--	--	--	--	--	--
+1	180	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	626096537600	1570733424640	266065330176	0	2092220022784	404971307008	4150144008192	--	--	--	--	--	--	--
+1	181	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	11434448650240	28686424211456	4859171438592	0	38210373681152	7396014424064	75794403557376	--	--	--	--	--	--	--
+1	182	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13501245423616	33871546548224	4021293154304	0	45116966305792	6120688058368	90390363373568	--	--	--	--	--	--	--
+1	183	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	913638227968	2292110065664	272123576320	0	3053094961152	414191534080	6116775297024	--	--	--	--	--	--	--
+1	184	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15265951645696	38298789609472	4546903932928	0	51014065455104	6920705933312	102205004709888	--	--	--	--	--	--	--
+1	185	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14693171200000	36861816864768	4376303501312	0	49100011601920	6661041553408	98370261614592	--	--	--	--	--	--	--
+1	186	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13154737192960	33002235101184	3918087061504	0	43959040606208	5963606130688	88070493831168	--	--	--	--	--	--	--
+1	187	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13773890912256	34555551547392	4102499598336	0	46028061409280	6244295770112	92215707697152	--	--	--	--	--	--	--
+1	188	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14576757243904	36569759088640	4341629976576	0	48710989905920	6608268558336	97590867656704	--	--	--	--	--	--	--
+1	189	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	782642380800	1963471142912	233106964480	0	2615347511296	354805415936	5239762583552	--	--	--	--	--	--	--
+1	190	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	917310210048	2301322067968	273217241088	0	3065365397504	415855755264	6141359161344	--	--	--	--	--	--	--
+1	191	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13082492403712	32820990836736	3896569233408	0	43717624856576	5930853859328	87586823471104	--	--	--	--	--	--	--
+1	192	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13510422560768	33894569082880	4024026529792	0	45147635056640	6124851691520	90451801538560	--	--	--	--	--	--	--
+1	193	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	872389541888	2188626362368	259837804544	0	2915254665216	395491295232	5840617078784	--	--	--	--	--	--	--
+1	194	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	882135203840	2213076008960	262740508672	0	2947821600768	399909650432	5905863671808	--	--	--	--	--	--	--
+1	195	Attack	Alannon007	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15219050938368	38181126799360	4532934803456	0	50857336897536	6899447103488	101891002335232	--	--	--	--	--	--	--
+1	196	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	7123431849984	17871065317376	3880513437696	0	23804294201344	5906414698496	46772890107904	--	--	--	--	--	--	--
+1	197	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	458764222464	1150934843392	249913360384	0	1533047472128	380385738752	3012274159616	--	--	--	--	--	--	--
+1	198	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	442942783488	1111242440704	241294573568	0	1480177090560	367267250176	2908389638144	--	--	--	--	--	--	--
+1	199	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	426898161664	1070990098432	232554217472	0	1426560909312	353963655168	2803039731712	--	--	--	--	--	--	--
+1	200	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	408354422784	1024468123648	222452449280	0	1364593606656	338588205056	2681280397312	--	--	--	--	--	--	--
+1	201	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	424183627776	1064179990528	231075463168	0	1417489809408	351713116160	2785215774720	--	--	--	--	--	--	--
+1	202	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	403773063168	1012974551040	219956740096	0	1349284134912	334789640192	2651198849024	--	--	--	--	--	--	--
+1	203	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	6642498797568	16664515051520	3618523840512	0	22197166931968	5507647275008	43615057346560	--	--	--	--	--	--	--
+1	204	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	398946861056	1000866709504	217327648768	0	1333156380672	330788028416	2619509571584	--	--	--	--	--	--	--
+1	205	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	425125609472	1066543218688	231588610048	0	1420637634560	352494010368	2791401062400	--	--	--	--	--	--	--
+1	206	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	419164585984	1051588362240	228341334016	0	1400717836288	347551514624	2752260603904	--	--	--	--	--	--	--
+1	207	Attack	Toolowkeyathome	ThunderDome	SS REVENANT	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	419781738496	1053136584704	228677517312	0	1402780123136	348063399936	2756312563712	--	--	--	--	--	--	--
+1	208	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1468500	3684131	2328877	0	4907270	3544714	8844064	--	--	--	--	--	--	--
+1	209	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1393694	3496460	2210244	0	4657292	3364146	8393544	--	--	--	--	--	--	--
+1	210	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15185248	38096324	24082118	0	50744380	36654670	91453400	--	--	--	--	--	--	--
+1	211	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14641200	36731432	23219318	0	48926340	35341426	88176864	--	--	--	--	--	--	--
+1	212	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1337856	3356377	2121691	0	4470700	3229363	8057261	--	--	--	--	--	--	--
+1	213	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14031748	35202456	22252796	0	46889740	33870308	84506432	--	--	--	--	--	--	--
+1	214	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	14268731	35796992	22628624	0	47681664	34442347	85933664	--	--	--	--	--	--	--
+1	215	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15008372	37652584	23801612	0	50153316	36227724	90388160	--	--	--	--	--	--	--
+1	216	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	NO	1310439	3287591	2078209	0	4379078	3163180	7892137	--	--	--	--	--	--	--
+1	217	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	15115089	37920312	23970854	0	50509932	36485323	91030864	--	--	--	--	--	--	--
+1	218	Attack	DocChris	ThunderDome	ENTERPRISE NX-01	YES	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	--	--	YES	13114911	32902320	20798794	0	43825956	31657221	78984760	--	--	--	--	--	--	--
+1	219	Officer Ability	NWMaverick	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Maquis Strike	Chakotay	--	--	--
+1	220	Officer Ability	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.85	Creating Opportunities	Gorkon	--	--	--
+1	221	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	12865616	56678256	67249432	0	278175488	414968792	0	--	--	--	--	--	--	--
+1	222	Shield Depleted	DocChris	ThunderDome	ENTERPRISE NX-01	NO	Borg Polygon 1.2	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	223	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	69571504	0	67276152	0	278286016	415133672	0	--	--	--	--	--	--	--
+1	224	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	74059104	0	71615688	0	296236384	441911176	0	--	--	--	--	--	--	--
+1	225	Attack	Borg Polygon 1.2	--	Borg Polygon 1.2	NO	DocChris	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	73946672	0	71506976	0	295786688	441240336	0	--	--	--	--	--	--	--
+1	226	Combatant Destroyed	DocChris	ThunderDome	ENTERPRISE NX-01	NO	Borg Polygon 1.2	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	228	battle_action_type_{0}	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	--	--	57311150	--	--	--	--
+

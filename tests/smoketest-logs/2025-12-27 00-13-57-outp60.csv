@@ -1,0 +1,370 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Solo Outpost	60	DEFEAT	Borg Solo Outpost	60	103068590080	0	Assimilated Gul	--	--	163400602989	0	40850150747	0	Xandrel	12/27/2025 12:13:57 AM
+
+Reward Name	Count
+Solo Outpost Credits	3671
+<color=#fac710>Outpost</color> Strike	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1041722752	441422112	10154501120	True Aim	Quick Victory	Creating Opportunities	It's all we have to go on	Fear Is the True Enemy	40.5	937832960	4772333	4843165	67311957	0.22	3.45	36	3436251	81336490	3511681	40.5	9231822875	11077178987	212	1624	481.31	583270	0	1	NO	NO
+Player Fleet 2	687278336	369706144	7961591808	Anti-Tachyon Weaponry---Relative Growth	Weaponry is irrelevant	You will be assimilated	Savage Tenacity	Strengthen the Unimatrix	5	556991232	10403670	10558085	60897147	0.22	3.65	5	9212399	55472407	9256424	5	8207235873	7715946769	222	1889	487.05	56516070	0	1	NO	NO
+Enemy Fleet 1	813198656	130021424	102125371392	Isolytic Burst---Diverted Power	--	--	--	--	0	759738688	8909991	8909991	8909991	0.1	1.5	0	8668095	8668095	8668095	0	40850149376	163400597504	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Quick Victory	Gorkon	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	4	Forbidden Tech Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	5	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4434178	20903982	48219780	61561492	329391	67724410	67724413	--	--	--	--	--	--	--
+1	6	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4310392	20320418	46873656	59842912	320196	65833787	65833787	--	--	--	--	--	--	--
+1	7	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4214210	19866992	45827724	58507588	313051	64364782	64364783	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	576351168	1729053568	341932352	0	0	803440768	1843896320	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	114777048	344331168	68093880	0	0	160000656	367201440	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	146639408	439918240	62603676	0	0	229791628	419369696	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	143703904	431111680	61350440	0	0	225191496	410974528	--	--	--	--	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	15	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	11899194	56096200	77099376	110800016	883928	128389356	128389358	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	105480096	316440288	62578272	0	0	147040544	337458112	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	801356288	2404068864	475421344	0	0	1117100704	2563745792	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	214064992	642195008	91389184	0	0	335451040	612198144	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	216763888	650291648	92541400	0	0	339680328	619916608	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	222261392	666784192	94888408	0	0	348295208	635638784	--	--	--	--	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	23	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	12570489	59260876	81448952	117050816	933795	135632464	135632464	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	436254592	1308763776	258817136	0	0	608144368	1395691136	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	451120032	1353360128	267636368	0	0	628866992	1443249536	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	213814816	641444416	91282376	0	0	335058984	611482624	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	214989728	644969216	91783968	0	0	336900160	614842752	--	--	--	--	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	29	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4394255	20715772	47785628	61007216	326425	67114647	67114649	--	--	--	--	--	--	--
+1	30	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4280049	20177376	46543700	59421660	317942	65370364	65370363	--	--	--	--	--	--	--
+1	31	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4467279	21060032	48579744	62021048	331850	68229977	68229976	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	208971648	626914944	89214720	0	0	327469504	597631808	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	37178628	111535888	15872397	0	0	58260857	106326056	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	213539792	640619392	91164960	0	0	334628016	610696128	--	--	--	--	--	--	--
+2	36	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	2610036	--	--	--	--
+2	37	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	38	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	39	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	40	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+2	41	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4221153	19899720	46269472	59266516	313567	64985213	64985215	--	--	--	--	--	--	--
+2	42	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4237809	19978244	46452048	59500376	314804	65241641	65241640	--	--	--	--	--	--	--
+2	43	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4145089	19541136	45435712	58198552	307916	63814203	63814202	--	--	--	--	--	--	--
+2	44	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	45	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	294700032	884100160	91689552	0	0	336553616	933936128	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	48346588	145039760	15041997	0	0	55212809	153215536	--	--	--	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	48	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8809414	41530096	96562952	123687376	654404	135622120	135622122	--	--	--	--	--	--	--
+2	49	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	50	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	51	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	52	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	8570753	40404976	93946896	120336472	636676	131947887	131947886	--	--	--	--	--	--	--
+2	53	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	54	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	291145664	873436992	90583688	0	0	332494408	922671936	--	--	--	--	--	--	--
+2	55	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	299248864	897746560	93104816	0	0	341748368	948351872	--	--	--	--	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	57	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4421288	20843216	48463224	62076488	328434	68066325	68066325	--	--	--	--	--	--	--
+2	58	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	6494532	30617080	71188744	91185584	482444	99984191	99984193	--	--	--	--	--	--	--
+2	59	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4308961	20313676	47231972	60499380	320090	66337040	66337039	--	--	--	--	--	--	--
+2	60	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	62	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	4520900	--	--	--	--
+3	63	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	64	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	65	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	66	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+3	67	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+3	68	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4746866	18987466	46017544	59202344	308542	64631382	64631380	--	--	--	--	--	--	--
+3	69	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4684723	18738892	45415108	58427304	304502	63785263	63785266	--	--	--	--	--	--	--
+3	70	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4875304	19501216	47262656	60804204	316890	66380135	66380135	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	102665976	410663904	57198688	0	0	134400152	436128416	--	--	--	--	--	--	--
+3	72	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	755472576	3021890304	420899328	0	0	988989888	3209272320	--	--	--	--	--	--	--
+3	73	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	232315296	929261184	90349864	0	0	331636104	920290240	--	--	--	--	--	--	--
+3	74	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	216229472	864917888	84093912	0	0	308673144	856568128	--	--	--	--	--	--	--
+3	75	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	76	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	77	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	78	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13873027	55492104	80346856	115959240	901734	133286477	133286484	--	--	--	--	--	--	--
+3	79	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	107885792	431543168	60106828	0	0	141233388	458302400	--	--	--	--	--	--	--
+3	80	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	745366848	2981467392	415269120	0	0	975760448	3166342912	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	224081488	896325952	87147648	0	0	319882128	887672960	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	218214736	872858944	84866000	0	0	311507168	864432512	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	220783472	883133888	85865008	0	0	315174112	874608256	--	--	--	--	--	--	--
+3	84	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	86	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14098766	56395064	81654248	117846112	916407	135455297	135455300	--	--	--	--	--	--	--
+3	87	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	88	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	224583552	898334208	87342904	0	0	320598840	889661824	--	--	--	--	--	--	--
+3	89	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	215952672	863810688	83986264	0	0	308278008	855471616	--	--	--	--	--	--	--
+3	90	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6705471	26821882	38835324	56048424	435849	64423474	64423476	--	--	--	--	--	--	--
+3	91	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6902718	27610872	39977700	57697136	448670	66318549	66318547	--	--	--	--	--	--	--
+3	92	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6752289	27009156	39106480	56439760	438892	64873289	64873288	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	226651152	906604608	88147016	0	0	323550424	897852352	--	--	--	--	--	--	--
+3	94	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	228684320	914737280	88937736	0	0	326452840	905906496	--	--	--	--	--	--	--
+3	95	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	209322848	837291392	81407848	0	0	298813832	829208256	--	--	--	--	--	--	--
+4	97	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1430689	--	--	--	--
+4	98	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+4	99	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	100	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	101	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	7521159	30084636	72912368	93802992	488868	102405010	102405013	--	--	--	--	--	--	--
+4	102	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5000832	20003326	48479560	62369768	325049	68089268	68089267	--	--	--	--	--	--	--
+4	103	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4845046	19380184	46969324	60426828	314923	65968152	65968153	--	--	--	--	--	--	--
+4	104	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	105	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	217390816	869563264	84545576	0	0	310331016	861168640	--	--	--	--	--	--	--
+4	106	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	222743872	890975488	86627432	0	0	317972648	882374144	--	--	--	--	--	--	--
+4	107	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	108	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+4	109	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	14772100	59088400	144369424	186342000	960173	202766047	202766050	--	--	--	--	--	--	--
+4	110	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	111	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	112	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	113	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+4	114	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9562391	38249564	94220368	122010080	621547	132331976	132331974	--	--	--	--	--	--	--
+4	115	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3574743808	14298975232	1991610880	0	0	4679700736	15185629184	--	--	--	--	--	--	--
+4	116	Shield Depleted	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+4	117	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	2341698304	0	260927888	0	0	613103888	1989522304	--	--	--	--	--	--	--
+4	118	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1131864320	0	88038784	0	0	323153152	896749952	--	--	--	--	--	--	--
+4	119	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1146094976	0	89145672	0	0	327216072	908024576	--	--	--	--	--	--	--
+4	120	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	121	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	122	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	123	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6810533	27242130	39443800	56926596	442678	65432868	65432869	--	--	--	--	--	--	--
+4	124	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6909361	27637444	40016172	57752664	449102	66382371	66382372	--	--	--	--	--	--	--
+4	125	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6776000	27104000	39243800	56637952	440434	65101092	65101094	--	--	--	--	--	--	--
+4	126	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	128	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	4170153	--	--	--	--
+5	129	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	130	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	131	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4836441	19345766	47267100	61009080	314364	66386375	66386376	--	--	--	--	--	--	--
+5	132	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4995993	19983972	48826412	63021732	324735	68576422	68576422	--	--	--	--	--	--	--
+5	133	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4820400	19281602	47110328	60806728	313321	66166190	66166189	--	--	--	--	--	--	--
+5	134	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	495994752	0	59715484	0	0	140153916	415556320	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2951826688	0	355386336	0	0	834101728	2473111296	--	--	--	--	--	--	--
+5	136	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1094399360	0	85124680	0	0	312456712	867067328	--	--	--	--	--	--	--
+5	137	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1129649152	0	87866480	0	0	322520688	894994944	--	--	--	--	--	--	--
+5	138	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	139	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	140	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13488126	53952504	77481296	112252056	876716	129025346	129025352	--	--	--	--	--	--	--
+5	141	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	520349408	0	62647672	0	0	147035832	435961248	--	--	--	--	--	--	--
+5	142	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	555696512	0	66903300	0	0	157023908	465575904	--	--	--	--	--	--	--
+5	143	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1117441280	0	86916928	0	0	319035328	885322880	--	--	--	--	--	--	--
+5	144	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1105306880	0	85973096	0	0	315570856	875709120	--	--	--	--	--	--	--
+5	145	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1137891712	0	88507608	0	0	324874008	901525312	--	--	--	--	--	--	--
+5	146	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	147	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13608035	54432136	78170104	113249968	884510	130172377	130172376	--	--	--	--	--	--	--
+5	148	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+5	149	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1054803072	0	82044800	0	0	301151744	835696128	--	--	--	--	--	--	--
+5	150	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1047486784	0	81475720	0	0	299062920	829899584	--	--	--	--	--	--	--
+5	151	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6900484	27601936	39639196	57427808	448525	66008974	66008975	--	--	--	--	--	--	--
+5	152	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	10740175	42960700	61695944	89382816	698102	102738868	102738869	--	--	--	--	--	--	--
+5	153	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6646258	26585030	38178816	55312064	432001	63577084	63577085	--	--	--	--	--	--	--
+5	154	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1139445888	0	88628496	0	0	325317712	902756672	--	--	--	--	--	--	--
+5	155	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1068732864	0	83128288	0	0	305128800	846732352	--	--	--	--	--	--	--
+5	156	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1116789504	0	86866232	0	0	318849208	884806528	--	--	--	--	--	--	--
+6	158	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1465283	--	--	--	--
+6	159	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+6	160	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	161	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	162	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4882986	19531946	46833544	59989036	317389	65777449	65777452	--	--	--	--	--	--	--
+6	163	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5001128	20004512	47966664	61440448	325069	67368909	67368912	--	--	--	--	--	--	--
+6	164	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5030215	20120858	48245636	61797780	326959	67760724	67760724	--	--	--	--	--	--	--
+6	165	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	166	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1067366208	0	83021984	0	0	304738592	845649600	--	--	--	--	--	--	--
+6	167	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1099369984	0	85511312	0	0	313875792	871005504	--	--	--	--	--	--	--
+6	168	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	169	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	14398902	57595608	138102288	176895072	935916	193963890	193963896	--	--	--	--	--	--	--
+6	170	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	171	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	172	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	173	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+6	174	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9967174	39868696	96624776	124309400	647857	135708951	135708952	--	--	--	--	--	--	--
+6	175	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	176	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1097453440	0	85362240	0	0	313328640	869487040	--	--	--	--	--	--	--
+6	177	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1076381568	0	83723224	0	0	307312472	852792320	--	--	--	--	--	--	--
+6	178	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	179	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6851108	27404434	39678800	57265752	445316	65822706	65822704	--	--	--	--	--	--	--
+6	180	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6877923	27511690	39834096	57489884	447059	66080326	66080326	--	--	--	--	--	--	--
+6	181	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6684779	26739116	38715488	55875472	434504	64224679	64224680	--	--	--	--	--	--	--
+6	182	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	184	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	3928041	--	--	--	--
+7	185	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+7	186	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	187	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	188	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	7035764	28143056	39888952	57324672	457318	66424881	66424881	--	--	--	--	--	--	--
+7	189	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	10371133	41484528	58798680	84499960	674114	97914208	97914207	--	--	--	--	--	--	--
+7	190	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6828133	27312530	38711796	55632976	443822	64464627	64464630	--	--	--	--	--	--	--
+7	191	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2174012672	0	322444576	0	0	757650208	1738807040	--	--	--	--	--	--	--
+7	192	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	422038144	0	62595732	0	0	147081620	337552256	--	--	--	--	--	--	--
+7	193	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	540908032	0	57731460	0	0	211907812	386731680	--	--	--	--	--	--	--
+7	194	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	519201280	0	55414688	0	0	203403872	371212096	--	--	--	--	--	--	--
+7	195	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	196	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	197	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10013747	40054992	96299656	123485376	650884	135252327	135252328	--	--	--	--	--	--	--
+7	198	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	438262784	0	65002136	0	0	152735960	350528960	--	--	--	--	--	--	--
+7	199	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	2900675584	0	430221568	0	0	1010894592	2320002560	--	--	--	--	--	--	--
+7	200	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	811992448	0	86664480	0	0	318108640	580548288	--	--	--	--	--	--	--
+7	201	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	781817152	0	83443856	0	0	306287056	558973952	--	--	--	--	--	--	--
+7	202	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	825491968	0	88105288	0	0	323397256	590200000	--	--	--	--	--	--	--
+7	203	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	204	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	205	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	206	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	9971761	39887048	95895888	122967616	648155	134685237	134685231	--	--	--	--	--	--	--
+7	207	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	12544443392	0	1860563200	0	0	4371777792	10033228800	--	--	--	--	--	--	--
+7	208	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	1922600960	0	285155776	0	0	670032448	1537724288	--	--	--	--	--	--	--
+7	209	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	792307584	0	84563504	0	0	310396848	566474240	--	--	--	--	--	--	--
+7	210	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	834687296	0	89086712	0	0	326999672	596774336	--	--	--	--	--	--	--
+7	211	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	212	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+7	213	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+7	214	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4708246	18832984	45278004	58060136	306031	63592700	63592701	--	--	--	--	--	--	--
+7	215	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4896363	19585452	47087072	60379912	318259	66133529	66133529	--	--	--	--	--	--	--
+7	216	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4893833	19575334	47062748	60348720	318094	66099364	66099365	--	--	--	--	--	--	--
+7	217	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	767134720	0	81876784	0	0	300535024	548476480	--	--	--	--	--	--	--
+7	218	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	812788288	0	86749424	0	0	318420400	581117312	--	--	--	--	--	--	--
+7	219	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	791104512	0	84435096	0	0	309925528	565614080	--	--	--	--	--	--	--
+8	221	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	3448395	--	--	--	--
+8	222	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	223	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	224	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	225	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+8	226	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6751080	27004320	39099476	56429656	438814	64861673	64861673	--	--	--	--	--	--	--
+8	227	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6621670	26486680	38349988	55347968	430402	63618354	63618354	--	--	--	--	--	--	--
+8	228	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6896225	27584898	39940096	57642864	448248	66256166	66256165	--	--	--	--	--	--	--
+8	229	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	230	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1061389376	0	82557096	0	0	303032168	840914304	--	--	--	--	--	--	--
+8	231	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1130718720	0	87949680	0	0	322826032	895842368	--	--	--	--	--	--	--
+8	232	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13971943	55887772	80919736	116786040	908164	134236827	134236828	--	--	--	--	--	--	--
+8	233	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	234	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	235	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14246867	56987468	82511984	119084024	926034	136878189	136878188	--	--	--	--	--	--	--
+8	236	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+8	237	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1104124160	0	85881096	0	0	315233224	874772032	--	--	--	--	--	--	--
+8	238	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1053245376	0	81923640	0	0	300707000	834462016	--	--	--	--	--	--	--
+8	239	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6645625	26582500	38488724	55548200	431959	63848502	63848506	--	--	--	--	--	--	--
+8	240	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6626064	26504256	38375432	55384696	430688	63660566	63660570	--	--	--	--	--	--	--
+8	241	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	9997276	39989104	57900104	83563344	649814	96049821	96049821	--	--	--	--	--	--	--
+8	242	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	244	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+9	245	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	246	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+9	247	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4716116	18864464	45233064	57938984	306543	63529583	63529588	--	--	--	--	--	--	--
+9	248	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	5043251	20173004	48370672	61957940	327806	67936335	67936338	--	--	--	--	--	--	--
+9	249	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4903559	19614236	47030860	60241776	318727	66054579	66054579	--	--	--	--	--	--	--
+9	250	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4184815872	0	466300512	0	0	1095669344	3555447040	--	--	--	--	--	--	--
+9	251	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4462375936	0	497228128	0	0	1168340320	3791263744	--	--	--	--	--	--	--
+9	252	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1108668288	0	86234552	0	0	316530552	878372288	--	--	--	--	--	--	--
+9	253	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1086972800	0	84547032	0	0	310336344	861183488	--	--	--	--	--	--	--
+9	254	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	255	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	256	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	257	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	10198128	40792512	97811960	125287232	662869	137376350	137376351	--	--	--	--	--	--	--
+9	258	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3938421504	0	438845568	0	0	1031158400	3346108672	--	--	--	--	--	--	--
+9	259	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	553518144	0	61676744	0	0	144922216	470272672	--	--	--	--	--	--	--
+9	260	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1139371264	0	88622696	0	0	325296360	902697600	--	--	--	--	--	--	--
+9	261	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1061309824	0	82550912	0	0	303009472	840851264	--	--	--	--	--	--	--
+9	262	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1077067136	0	83776544	0	0	307508256	853335424	--	--	--	--	--	--	--
+9	263	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	264	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+9	265	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+9	266	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13194220	52776880	76415488	110285360	857612	126764779	126764781	--	--	--	--	--	--	--
+9	267	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	268	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1130998528	0	87971440	0	0	322905968	896064000	--	--	--	--	--	--	--
+9	269	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1100042496	0	85563616	0	0	314067808	871538304	--	--	--	--	--	--	--
+9	270	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4782289	19129156	45867744	58751940	310844	64420986	64420987	--	--	--	--	--	--	--
+9	271	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4770669	19082676	45756292	58609184	310089	64264454	64264456	--	--	--	--	--	--	--
+9	272	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4710567	18842266	45179840	57870804	306182	63454830	63454829	--	--	--	--	--	--	--
+9	273	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1092991744	0	85015192	0	0	312054808	865952128	--	--	--	--	--	--	--
+9	274	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1097910912	0	85397824	0	0	313459264	869849472	--	--	--	--	--	--	--
+9	275	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1125195264	0	87520048	0	0	321249136	891466176	--	--	--	--	--	--	--
+10	277	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	3912458	--	--	--	--
+10	278	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+10	279	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	280	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+10	281	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+10	282	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6691361	26765444	38753608	55930488	434932	64287916	64287917	--	--	--	--	--	--	--
+10	283	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6699442	26797768	38800412	55998036	435457	64365557	64365558	--	--	--	--	--	--	--
+10	284	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6837674	27350696	39600992	57153460	444442	65693632	65693632	--	--	--	--	--	--	--
+10	285	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	286	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1079134208	0	83937320	0	0	308098472	854973056	--	--	--	--	--	--	--
+10	287	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1114900224	0	86719288	0	0	318309752	883309760	--	--	--	--	--	--	--
+10	288	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14259998	57039992	82588032	119193776	926887	137004345	137004340	--	--	--	--	--	--	--
+10	289	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	290	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	291	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14283171	57132684	82722248	119387480	928393	137226988	137226988	--	--	--	--	--	--	--
+10	292	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	19066226688	0	2124488192	0	0	4991922688	16198792192	--	--	--	--	--	--	--
+10	293	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	19387394048	0	2160274688	0	0	5076010240	16471658496	--	--	--	--	--	--	--
+10	294	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1060739584	0	82506552	0	0	302846648	840399488	--	--	--	--	--	--	--
+10	295	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1135865472	0	88350008	0	0	324295480	899920000	--	--	--	--	--	--	--
+10	296	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+10	297	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+10	298	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4940740	19762960	47387468	60698556	321143	66555433	66555434	--	--	--	--	--	--	--
+10	299	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4950447	19801788	47480572	60817812	321774	66686196	66686197	--	--	--	--	--	--	--
+10	300	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	7597988	30391952	72873584	93343696	493862	102350539	102350543	--	--	--	--	--	--	--
+10	301	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	303	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1748918	--	--	--	--
+11	304	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	305	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	306	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+11	307	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+11	308	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.5	--	Tothian Mines	--	--	--
+11	309	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6651890	26607560	38525008	55600564	432367	63908695	63908694	--	--	--	--	--	--	--
+11	310	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6806172	27224688	39418548	56890152	442395	65390976	65390979	--	--	--	--	--	--	--
+11	311	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	10362018	41448072	60012540	86612080	673522	99554117	99554115	--	--	--	--	--	--	--
+11	312	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	513511712	0	57218952	0	0	134447752	436282912	--	--	--	--	--	--	--
+11	313	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	529944000	0	59049948	0	0	138750044	450243904	--	--	--	--	--	--	--
+11	314	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1130669568	0	87945856	0	0	322812032	895803392	--	--	--	--	--	--	--
+11	315	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1159536000	0	90191144	0	0	331053544	918673600	--	--	--	--	--	--	--
+11	316	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	317	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13597968	54391872	78753832	113660136	883856	130643830	130643834	--	--	--	--	--	--	--
+11	318	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	600211456	0	66879624	0	0	157147496	509943584	--	--	--	--	--	--	--
+11	319	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	4153089280	0	462765344	0	0	1087362592	3528492032	--	--	--	--	--	--	--
+11	320	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1114537600	0	86691072	0	0	318206272	883022400	--	--	--	--	--	--	--
+11	321	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1148136960	0	89304504	0	0	327799032	909642432	--	--	--	--	--	--	--
+11	322	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1131903616	0	88041840	0	0	323164336	896781120	--	--	--	--	--	--	--
+11	323	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+11	324	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.04	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+11	325	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	14004587	56018348	81108800	117058904	910286	134550461	134550464	--	--	--	--	--	--	--
+11	326	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+11	327	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1069851328	0	83215280	0	0	305448112	847618496	--	--	--	--	--	--	--
+11	328	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1139102080	0	88601752	0	0	325219608	902484224	--	--	--	--	--	--	--
+11	329	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4870469	19481874	47215780	60743900	316576	66314298	66314301	--	--	--	--	--	--	--
+11	330	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4700131	18800524	45564480	58619468	305504	63995054	63995053	--	--	--	--	--	--	--
+11	331	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	4909727	19638906	47596360	61233520	319127	66848819	66848821	--	--	--	--	--	--	--
+11	332	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1065566592	0	82882008	0	0	304224792	844223808	--	--	--	--	--	--	--
+11	333	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1076826752	0	83757848	0	0	307439640	853144960	--	--	--	--	--	--	--
+11	334	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1064144768	0	82771416	0	0	303818840	843097344	--	--	--	--	--	--	--
+12	336	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	1448033	--	--	--	--
+12	337	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	338	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	339	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+12	340	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	It's all we have to go on	TOS James T. Kirk	--	--	--
+12	341	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6907761	27631044	40006904	57739288	448998	66366997	66366998	--	--	--	--	--	--	--
+12	342	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6676335	26705342	38666588	55804896	433956	64143559	64143558	--	--	--	--	--	--	--
+12	343	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	YES	10393836	41575344	60196816	86878032	675590	99859811	99859807	--	--	--	--	--	--	--
+12	344	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	345	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1155256576	0	89858288	0	0	329831728	915283136	--	--	--	--	--	--	--
+12	346	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1145890048	0	89129736	0	0	327157576	907862208	--	--	--	--	--	--	--
+12	347	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13290946	53163784	76975688	111093856	863900	127694087	127694087	--	--	--	--	--	--	--
+12	348	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	349	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	350	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	13580203	54320812	78650944	113511640	882701	130473150	130473150	--	--	--	--	--	--	--
+12	351	Charging Weapons	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	352	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1114671488	0	86701496	0	0	318244472	883128512	--	--	--	--	--	--	--
+12	353	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1070966592	0	83302032	0	0	305766544	848502080	--	--	--	--	--	--	--
+12	354	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	7160853	28643412	41472712	59854788	465449	68798607	68798607	--	--	--	--	--	--	--
+12	355	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	7064856	28259422	40916736	59052384	459209	67876304	67876303	--	--	--	--	--	--	--
+12	356	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	7018180	28072720	40646412	58662244	456175	67427865	67427866	--	--	--	--	--	--	--
+12	357	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	359	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	360	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	Weaponry is irrelevant	Five of Eleven	--	--	--
+13	361	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6740532	26962130	38720368	56096644	438128	64478901	64478901	--	--	--	--	--	--	--
+13	362	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	7141466	28565866	41023496	59433332	464189	68314174	68314175	--	--	--	--	--	--	--
+13	363	Attack	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	KOS'KARII	NO	--	--	NO	6976755	27907020	40077328	58062560	453483	66738572	66738574	--	--	--	--	--	--	--
+13	364	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	NO	504304352	0	60715920	0	0	142501968	422518304	--	--	--	--	--	--	--
+13	365	Attack	XanOfHanoi	ThunderDome	KOS'KARII	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	3010688000	0	362472960	0	0	850734336	2522426624	--	--	--	--	--	--	--
+13	366	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1129630592	0	87865048	0	0	322515352	894980288	--	--	--	--	--	--	--
+13	367	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	Borg Solo Outpost	--	Borg Solo Outpost	NO	--	--	YES	1075587840	0	83661480	0	0	307085992	852163328	--	--	--	--	--	--	--
+13	368	Combatant Destroyed	Borg Solo Outpost	--	Borg Solo Outpost	NO	XanOfHanoi	ThunderDome	Borg Solo Outpost	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

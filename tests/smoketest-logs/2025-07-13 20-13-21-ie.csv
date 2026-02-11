@@ -1,0 +1,88 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	59	DEFEAT	SANCTUS	40	911879616	0	Dajash Tolra	Toli	Gwen DeMarco	940410854	0	481835905	0	W'jeff	7/13/2025 8:13:21 PM
+Hurak Vanguard	55	VICTORY	Hurak Vanguard	55	7668175872	0	Hurak Warrior	--	--	3848000000	2896157496	2960000000	0	W'jeff	7/13/2025 8:13:21 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	142938928	50171636	718769024	Drain of the Empire	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	6	131014360	16234589	1805110	1339028	0.22	3.4	6	869025	324120	8841182	6	481835905	955702088	204	607	172.42	2742270	0	1	NO	NO
+Enemy Fleet 1	1008176000	3256000000	3404000000	ship_ability_name_{0}	--	--	--	--	0	617456000	65120000	65120000	65120000	0.3	2	0	236800000	236800000	177600000	0	2960000000	3848000000	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	3	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	7	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	10268494	45236880	15556852	170275648	530944	48373764	193495054	--	--	--	--	--	--	--
+1	8	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	11237263	49504700	17024546	186340112	581035	52937528	211750128	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10693934	40229564	20793578	54908780	9140121	28522265	107243712	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10379467	39046568	20182120	53294128	8871346	27683537	104090092	--	--	--	--	--	--	--
+1	11	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	10405059	45838500	15763749	172540208	538005	49017103	196068418	--	--	--	--	--	--	--
+1	12	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	9251295	40755704	14015788	153408112	478348	43581847	174327400	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	96939248	364676224	188491392	497741632	82854112	258550992	972151616	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10301148	38751936	20029842	52891996	8804406	27474648	103304680	--	--	--	--	--	--	--
+1	15	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	12047541	53074300	13089156	187496912	622931	53266168	213064672	--	--	--	--	--	--	--
+1	16	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	12116038	53376056	13163575	188562944	626473	53569014	214276072	--	--	--	--	--	--	--
+1	17	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	12449725	54846088	13526113	193756144	643727	55044361	220177436	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	11352744	42707940	22074586	58291488	9703206	30279404	113850560	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10831685	40747768	21061424	55616068	9257856	28889665	108625136	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10611511	39919496	20633312	54485572	9069674	28302429	106417136	--	--	--	--	--	--	--
+1	21	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	12402582	54638404	13474894	193022448	641289	54835925	219343692	--	--	--	--	--	--	--
+1	22	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	12420093	54715544	13493918	193294976	642195	54913344	219653382	--	--	--	--	--	--	--
+1	23	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	12756106	56195820	13858983	198524384	659568	56398971	225595890	--	--	--	--	--	--	--
+1	24	Shield Depleted	XanOfHanoi	ThunderDome	SANCTUS	NO	Hurak Vanguard	--	SANCTUS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	26	battle_action_type_{0}	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	--	--	10381880	--	--	--	--
+2	27	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	28	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+2	29	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+2	30	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	54622888	0	15309513	167568416	522502	47604663	190418656	--	--	--	--	--	--	--
+2	31	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	49003316	0	13734479	150329072	468747	42707122	170828492	--	--	--	--	--	--	--
+2	32	Charging Weapons	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	33	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	50023640	0	14020452	153459168	478507	43596351	174385416	--	--	--	--	--	--	--
+2	34	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	59316720	0	16625084	181967840	567402	51695410	206781636	--	--	--	--	--	--	--
+2	35	Charging Weapons	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	36	Charging Weapons	Hurak Vanguard	--	Hurak Vanguard	NO	Hurak Vanguard	--	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	37	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10657606	40092896	20722940	54722248	9109071	28425369	106879392	--	--	--	--	--	--	--
+2	38	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	11417102	42950048	22199724	58621936	9758213	30451055	114495968	--	--	--	--	--	--	--
+2	39	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10875227	40911568	21146090	55839644	9295072	29005797	109061804	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	104621328	393575456	203428560	537185792	89419992	279040152	1049190976	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10527656	39604040	20470262	54055016	8998003	28078777	105576200	--	--	--	--	--	--	--
+2	42	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	99055936	372639008	192607072	508609888	84663248	264196464	993378688	--	--	--	--	--	--	--
+2	43	Charging Weapons	Hurak Vanguard	--	Hurak Vanguard	NO	Hurak Vanguard	--	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	45	battle_action_type_{0}	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	--	--	19166990	--	--	--	--
+3	46	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	47	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+3	48	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	53520860	0	15000640	164187696	511960	46644228	186576928	--	--	--	--	--	--	--
+3	49	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	53992944	0	15132954	165635920	516476	47055658	188222636	--	--	--	--	--	--	--
+3	50	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	9496161	37984644	19387824	51196664	8522201	26594010	99993484	--	--	--	--	--	--	--
+3	51	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	84836320	339345280	173205952	457378144	76135208	237584232	893316672	--	--	--	--	--	--	--
+3	52	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10292793	41171172	21014268	55491548	9237128	28824981	108381928	--	--	--	--	--	--	--
+3	53	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	90641136	362564544	185057360	488673664	81344664	253840600	954440768	--	--	--	--	--	--	--
+3	54	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	51742176	0	14502117	158731168	494946	45094079	180376328	--	--	--	--	--	--	--
+3	55	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	47570808	0	13332980	145934512	455044	41458670	165834674	--	--	--	--	--	--	--
+3	56	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	8823218	35292872	18013918	47568628	7918277	24709437	92907476	--	--	--	--	--	--	--
+3	57	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	9750823	39003292	19907762	52569628	8750744	27307197	102675052	--	--	--	--	--	--	--
+3	58	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	9340745	37362984	19070528	50358776	8382726	26158775	98356984	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	9603229	38412916	19606428	51773904	8618288	26893861	101120904	--	--	--	--	--	--	--
+3	60	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	67601352	0	13587524	194635840	646649	55294273	221177092	--	--	--	--	--	--	--
+3	61	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	75667280	0	15208734	217859024	723805	61891771	247567072	--	--	--	--	--	--	--
+3	62	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	61448048	0	12350742	176919424	587789	50261203	201044800	--	--	--	--	--	--	--
+3	63	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10158431	40633728	20739948	54767160	9116547	28448702	106967112	--	--	--	--	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	10689291	42757164	21823776	57629188	9592960	29935371	112557008	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	96421968	385687872	196859776	519839872	86532600	270029832	1015312256	--	--	--	--	--	--	--
+3	66	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	93918432	375673728	191748432	506342528	84285832	263018680	988950272	--	--	--	--	--	--	--
+3	67	Shield Depleted	Hurak Vanguard	--	Hurak Vanguard	YES	XanOfHanoi	ThunderDome	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	49770416	0	20322740	53665460	8933158	27876422	104815352	--	--	--	--	--	--	--
+3	69	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	49834948	0	20349090	53735040	8944740	27912566	104951252	--	--	--	--	--	--	--
+3	70	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	78527712	0	15783667	226094704	751167	64231450	256925800	--	--	--	--	--	--	--
+3	71	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	58674000	0	11793172	168932464	561254	47992180	191968710	--	--	--	--	--	--	--
+3	72	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	78059008	0	15689461	224745232	746684	63848075	255392310	--	--	--	--	--	--	--
+4	74	battle_action_type_{0}	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	--	--	56412380	--	--	--	--
+4	75	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	76	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+4	77	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	49633624	0	13911140	152262688	474777	43256445	173025784	--	--	--	--	--	--	--
+4	78	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	52799908	0	14798574	161976000	505064	46015910	184063636	--	--	--	--	--	--	--
+4	79	Combatant Destroyed	XanOfHanoi	ThunderDome	SANCTUS	NO	Hurak Vanguard	--	SANCTUS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

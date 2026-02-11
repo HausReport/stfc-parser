@@ -1,0 +1,959 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Krenim Warships	48	VICTORY	Static Krenim Warships	48	5299699200	0	Krenim Captain	--	--	3891888000	355069032	3891888000	0	Lyssara	4/7/2025 7:54:39 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	10099217	8925085	65911000	Deep Vengeance	Safe Cracker	No Locked Doors	The Looking Glass	Time is Patient	4.5	8831440	1880239	209165	155970	0.12	2.4	4.5	162225	54607	1568185	4.5	52179553	79642451	197	247	79.53	846400	0	1	NO	NO
+Player Fleet 2	7972410	8402375	33838880	Anti-Tachyon Weaponry	Teaching Moments	Advanced Training	I Have One Job!	Savage Tenacity	5	4150751	295321	304659	1780094	0.12	2.4	5	204010	1286681	189784	5	30970668	36707097	179	252	93.78	4390080	0	1	NO	NO
+Enemy Fleet 1	21811222	1386000000	3891888128	ship_ability_name_{0}	--	--	--	--	0	10091002	1953370	1953370	1953370	0.1	1.5	0	92400000	92400000	92400000	0	3891888128	3891888128	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	2	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.4	Teaching Moments	Christopher Pike	--	--	--
+1	4	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	5	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	6	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+1	7	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159088	636350	1084610	1057752	238631	1588215	1588216	--	--	--	--	--	--	--
+1	8	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	158427	633706	1080105	1053358	237639	1581617	1581618	--	--	--	--	--	--	--
+1	9	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	773292	3093166	4868889	2853154	1528597	7410790	5706308	--	--	--	--	--	--	--
+1	10	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	792403	3169612	4989220	2923668	1566375	7593942	5847336	--	--	--	--	--	--	--
+1	11	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	728497	2913989	4586849	2687879	1440050	6981505	5375759	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	749986	2999943	4722148	2767164	1482528	7187440	5534329	--	--	--	--	--	--	--
+1	13	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3259136	13036544	9573190	17740272	6442469	14571067	35480544	--	--	--	--	--	--	--
+1	14	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3224765	12899059	9472230	17553182	6374526	14417398	35106364	--	--	--	--	--	--	--
+1	15	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	16	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	227333	909333	362458	856028	340999	1348075	1348076	--	--	--	--	--	--	--
+1	17	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	229306	917224	365603	863457	343958	1359773	1359775	--	--	--	--	--	--	--
+1	18	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	738078	2952311	4647172	2723228	1458989	7073321	5446457	--	--	--	--	--	--	--
+1	19	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	657638	2630550	4140695	2426435	1299979	6302427	4852870	--	--	--	--	--	--	--
+1	20	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	711110	2844442	4477376	2623728	1405681	6814880	5247457	--	--	--	--	--	--	--
+1	21	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	726096	2904382	4571728	2679018	1435303	6958490	5358037	--	--	--	--	--	--	--
+1	22	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3227611	12910443	9480590	17568674	6380152	14430122	35137348	--	--	--	--	--	--	--
+1	23	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3114499	12457998	9148344	16952982	6156560	13924421	33905962	--	--	--	--	--	--	--
+1	24	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3146168	12584671	9241365	17125360	6219160	14066004	34250720	--	--	--	--	--	--	--
+1	25	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	26	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	153395	613581	1045801	1019904	230092	1531386	1531387	--	--	--	--	--	--	--
+1	27	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	147035	588140	1002440	977616	220552	1467891	1467892	--	--	--	--	--	--	--
+1	28	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	667336	2669342	4201757	2462217	1319150	6395368	4924434	--	--	--	--	--	--	--
+1	29	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	651190	2604761	4100099	2402646	1287234	6240638	4805292	--	--	--	--	--	--	--
+1	30	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	698447	2793789	4397645	2577006	1380649	6693523	5154013	--	--	--	--	--	--	--
+1	31	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2125915	8503661	13385437	7843825	4202384	20373572	15687650	--	--	--	--	--	--	--
+1	32	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	670074	2680296	4218998	2472320	1324562	6421610	4944640	--	--	--	--	--	--	--
+1	33	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2141635	8566541	13484415	7901826	4233459	20524224	15803652	--	--	--	--	--	--	--
+1	34	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4264164	17056654	12525298	23210884	8429149	19064381	46421768	--	--	--	--	--	--	--
+1	35	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4005632	16022530	11765905	21803636	7918099	17908530	43607272	--	--	--	--	--	--	--
+1	36	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+1	37	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140931	563723	960823	937030	211396	1406951	1406952	--	--	--	--	--	--	--
+1	38	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	149326	597304	1018059	992849	223988	1490762	1490764	--	--	--	--	--	--	--
+1	39	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3318867	13275466	9748640	18065402	6560541	14838114	36130802	--	--	--	--	--	--	--
+1	40	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9448513	37794052	27753496	51430564	18677268	42242765	102861128	--	--	--	--	--	--	--
+1	41	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3224789	12899156	9472301	17553314	6374574	14417506	35106628	--	--	--	--	--	--	--
+2	43	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+2	44	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+2	45	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	46	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	47	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3322708	13290832	9759923	18086310	6568134	14855285	36172622	--	--	--	--	--	--	--
+2	48	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3275538	13102154	9621370	17829556	6474892	14644398	35659112	--	--	--	--	--	--	--
+2	49	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	50	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	51	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	52	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	252655	1010620	402831	951379	378982	1498233	1498234	--	--	--	--	--	--	--
+2	53	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	231886	927543	369717	873171	347828	1375072	1375073	--	--	--	--	--	--	--
+2	54	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2254693	9018772	14196262	8318966	4456945	21607705	16637933	--	--	--	--	--	--	--
+2	55	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	669467	2677867	4215175	2470079	1323362	6415791	4940159	--	--	--	--	--	--	--
+2	56	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2167115	8668461	13644845	7995837	4283826	20768409	15991675	--	--	--	--	--	--	--
+2	57	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2121389	8485556	13356939	7827126	4193437	20330196	15654251	--	--	--	--	--	--	--
+2	58	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	682152	2728609	4295047	2516884	1348438	6537362	5033768	--	--	--	--	--	--	--
+2	59	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2170495	8681980	13666125	8008307	4290507	20800799	16016615	--	--	--	--	--	--	--
+2	60	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4142603	16570411	12168233	22549200	8188854	18520901	45098400	--	--	--	--	--	--	--
+2	61	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3861638	15446552	11342944	21019840	7633460	17264754	42039680	--	--	--	--	--	--	--
+2	62	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	63	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	262230	1048922	418098	987435	393345	1555015	1555015	--	--	--	--	--	--	--
+2	64	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	245858	983431	391994	925784	368786	1457926	1457927	--	--	--	--	--	--	--
+2	65	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	67	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	68	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+3	69	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+3	70	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	254652	1018609	406015	958899	381977	1510075	1510077	--	--	--	--	--	--	--
+3	71	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	249837	999348	398338	940766	374754	1481521	1481522	--	--	--	--	--	--	--
+3	72	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	725149	2900594	4565765	2675524	1433431	6949414	5351049	--	--	--	--	--	--	--
+3	73	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2412091	9648363	15187289	8899705	4768079	23116117	17799410	--	--	--	--	--	--	--
+3	74	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2437311	9749242	15346081	8992757	4817933	23357810	17985514	--	--	--	--	--	--	--
+3	75	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2570434	10281734	16184266	9483931	5081083	24633586	18967862	--	--	--	--	--	--	--
+3	76	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9656829	38627316	28365390	52564480	19089054	43174109	105128960	--	--	--	--	--	--	--
+3	77	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3189151	12756606	9367622	17359330	6304127	14258176	34718660	--	--	--	--	--	--	--
+3	78	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	79	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	234940	939762	374587	884673	352410	1393186	1393186	--	--	--	--	--	--	--
+3	80	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	251285	1005142	400647	946221	376927	1490110	1490112	--	--	--	--	--	--	--
+3	81	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	631684	2526735	3977281	2330674	1248675	6053700	4661349	--	--	--	--	--	--	--
+3	82	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	620015	2480059	3903810	2287620	1225609	5941872	4575241	--	--	--	--	--	--	--
+3	83	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	636201	2544802	4005721	2347340	1257604	6096988	4694680	--	--	--	--	--	--	--
+3	84	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	705238	2820952	4440402	2602062	1394073	6758603	5204124	--	--	--	--	--	--	--
+3	85	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9918379	39673516	29133652	53988160	19606070	44343457	107976320	--	--	--	--	--	--	--
+3	86	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3327255	13309018	9773278	18111060	6577122	14875613	36222120	--	--	--	--	--	--	--
+3	87	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10056978	40227912	29540764	54742588	19880044	44963114	109485172	--	--	--	--	--	--	--
+3	88	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	89	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	261692	1046766	417239	985406	392536	1551819	1551820	--	--	--	--	--	--	--
+3	90	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	225515	902058	359558	849180	338271	1337290	1337292	--	--	--	--	--	--	--
+3	91	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2234224	8936898	14067386	8243446	4416484	21411547	16486891	--	--	--	--	--	--	--
+3	92	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	658315	2633258	4144957	2428932	1301317	6308914	4857865	--	--	--	--	--	--	--
+3	93	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	682187	2728748	4295265	2517012	1348507	6537694	5034025	--	--	--	--	--	--	--
+3	94	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	676752	2707010	4261047	2496960	1337764	6485612	4993921	--	--	--	--	--	--	--
+3	95	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	686058	2744234	4319641	2531296	1356160	6574796	5062593	--	--	--	--	--	--	--
+3	96	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	651302	2605206	4100800	2403056	1287454	6241705	4806113	--	--	--	--	--	--	--
+3	97	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12154036	48616144	35700536	66157384	24025386	54338718	132314768	--	--	--	--	--	--	--
+3	98	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3822300	15289199	11227394	20805712	7555698	17088879	41611424	--	--	--	--	--	--	--
+3	99	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	100	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140492	561968	957831	934112	210737	1402569	1402571	--	--	--	--	--	--	--
+3	101	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	142689	570756	972810	948720	214033	1424504	1424504	--	--	--	--	--	--	--
+3	102	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9458649	37834596	27783268	51485736	18697302	42288079	102971472	--	--	--	--	--	--	--
+3	103	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9847709	39390836	28926070	53603488	19466374	44027501	107206976	--	--	--	--	--	--	--
+3	104	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3181048	12724190	9343819	17315220	6288108	14221945	34630440	--	--	--	--	--	--	--
+4	106	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+4	107	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+4	108	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	109	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	110	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9594990	38379960	28183748	52227876	18966814	42897636	104455752	--	--	--	--	--	--	--
+4	111	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3134048	12536193	9205765	17059390	6195203	14011819	34118780	--	--	--	--	--	--	--
+4	112	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	113	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	114	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	115	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	224823	899292	358456	846576	337234	1333190	1333191	--	--	--	--	--	--	--
+4	116	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	240977	963906	384211	907402	361464	1428980	1428980	--	--	--	--	--	--	--
+4	117	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	642248	2568992	4043797	2369652	1269558	6154942	4739305	--	--	--	--	--	--	--
+4	118	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2129061	8516243	13405242	7855431	4208602	20403717	15710862	--	--	--	--	--	--	--
+4	119	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	676043	2704170	4256578	2494341	1336361	6478810	4988683	--	--	--	--	--	--	--
+4	120	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2253222	9012888	14187001	8313539	4454037	21593609	16627078	--	--	--	--	--	--	--
+4	121	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2215301	8861204	13948238	8173625	4379077	21230195	16347250	--	--	--	--	--	--	--
+4	122	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	684950	2739800	4312662	2527207	1353969	6564174	5054414	--	--	--	--	--	--	--
+4	123	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4065046	16260185	11940422	22127038	8035545	18174158	44254078	--	--	--	--	--	--	--
+4	124	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12240252	48961008	35953784	66626684	24195814	54724174	133253368	--	--	--	--	--	--	--
+4	125	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	126	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	151698	606792	1034230	1008619	227546	1514442	1514443	--	--	--	--	--	--	--
+4	127	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	137917	551669	940276	916992	206875	1376864	1376865	--	--	--	--	--	--	--
+4	128	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	130	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+5	131	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+5	132	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	234930	939718	374570	884632	352393	1393121	1393122	--	--	--	--	--	--	--
+5	133	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	231964	927855	369841	873465	347945	1375535	1375535	--	--	--	--	--	--	--
+5	134	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	742430	2969720	4674574	2739286	1467592	7115029	5478573	--	--	--	--	--	--	--
+5	135	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2588716	10354863	16299377	9551386	5117222	24808793	19102771	--	--	--	--	--	--	--
+5	136	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3063867	12255469	8999620	16677379	6056473	13698051	33354757	--	--	--	--	--	--	--
+5	137	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3347091	13388363	9831544	18219032	6616333	14964299	36438064	--	--	--	--	--	--	--
+5	138	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	139	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	256389	1025556	408784	965438	384582	1520374	1520375	--	--	--	--	--	--	--
+5	140	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	231047	924190	368380	870014	346570	1370100	1370101	--	--	--	--	--	--	--
+5	141	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	622698	2490794	3920706	2297521	1230913	5967589	4595043	--	--	--	--	--	--	--
+5	142	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	670171	2680683	4219608	2472677	1324754	6422538	4945355	--	--	--	--	--	--	--
+5	143	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3167436	12669746	9303837	17241130	6261202	14161091	34482260	--	--	--	--	--	--	--
+5	144	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3160459	12641834	9283342	17203148	6247409	14129896	34406296	--	--	--	--	--	--	--
+5	145	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3083320	12333278	9056758	16783262	6094925	13785019	33566524	--	--	--	--	--	--	--
+5	146	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	147	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159802	639210	1089484	1062504	239703	1595351	1595352	--	--	--	--	--	--	--
+5	148	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140764	563055	959685	935920	211145	1405284	1405285	--	--	--	--	--	--	--
+5	149	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2134328	8537311	13438406	7874865	4219014	20454194	15749730	--	--	--	--	--	--	--
+5	150	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2263503	9054014	14251736	8351473	4474361	21692140	16702947	--	--	--	--	--	--	--
+5	151	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2210117	8840468	13915598	8154498	4368829	21180514	16308996	--	--	--	--	--	--	--
+5	152	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11572643	46290572	33992788	62992724	22876124	51739403	125985448	--	--	--	--	--	--	--
+5	153	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12380294	49521176	36365132	67388968	24472640	55350274	134777936	--	--	--	--	--	--	--
+5	154	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+5	155	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	138691	554765	945553	922138	208036	1384591	1384592	--	--	--	--	--	--	--
+5	156	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	141384	565534	963910	940040	212075	1411471	1411472	--	--	--	--	--	--	--
+5	157	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3299777	13199106	9692566	17961490	6522805	14752764	35922980	--	--	--	--	--	--	--
+5	158	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9280851	37123400	27261014	50517936	18345842	41493171	101035872	--	--	--	--	--	--	--
+5	159	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10074354	40297416	29591804	54837168	19914392	45040798	109674336	--	--	--	--	--	--	--
+6	161	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+6	162	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+6	163	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	164	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	165	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9590718	38362872	28171198	52204620	18958368	42878536	104409240	--	--	--	--	--	--	--
+6	166	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9540493	38161972	28023672	51931232	18859088	42653993	103862464	--	--	--	--	--	--	--
+6	167	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	168	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	169	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	170	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159020	636080	1084149	1057302	238529	1587539	1587541	--	--	--	--	--	--	--
+6	171	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	235451	941805	1605233	1565481	353176	2350573	2350573	--	--	--	--	--	--	--
+6	172	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	696878	2787513	4387766	2571217	1377548	6678487	5142435	--	--	--	--	--	--	--
+6	173	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	698091	2792365	4395403	2575693	1379945	6690111	5151386	--	--	--	--	--	--	--
+6	174	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	673575	2694302	4241044	2485239	1331484	6455166	4970478	--	--	--	--	--	--	--
+6	175	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3836255	15345018	11268384	20881672	7583283	17151268	41763344	--	--	--	--	--	--	--
+6	176	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3850993	15403974	11311677	20961898	7612418	17217164	41923796	--	--	--	--	--	--	--
+6	177	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+6	178	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	143532	574129	978558	954326	215298	1432921	1432922	--	--	--	--	--	--	--
+6	179	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140694	562775	959207	935454	211040	1404585	1404585	--	--	--	--	--	--	--
+6	180	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	182	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+7	183	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+7	184	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+7	185	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	238296	953182	379936	897308	357442	1413081	1413083	--	--	--	--	--	--	--
+7	186	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	243211	972844	387773	915817	364816	1442230	1442231	--	--	--	--	--	--	--
+7	187	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	787098	3148394	4955820	2904095	1555889	7543105	5808191	--	--	--	--	--	--	--
+7	188	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2283152	9132609	14375451	8423970	4513201	21880442	16847941	--	--	--	--	--	--	--
+7	189	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	727689	2910757	4581763	2684899	1438453	6973763	5369798	--	--	--	--	--	--	--
+7	190	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2383168	9532670	15005180	8792989	4710906	22838934	17585979	--	--	--	--	--	--	--
+7	191	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3196202	12784806	9388331	17397706	6318064	14289697	34795412	--	--	--	--	--	--	--
+7	192	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9943496	39773984	29207430	54124880	19655720	44455750	108249760	--	--	--	--	--	--	--
+7	193	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	194	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	243956	975824	388961	918622	365933	1446647	1446649	--	--	--	--	--	--	--
+7	195	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	236277	945110	376718	889707	354415	1401113	1401114	--	--	--	--	--	--	--
+7	196	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	637671	2550683	4014978	2352765	1260510	6111077	4705530	--	--	--	--	--	--	--
+7	197	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	622928	2491713	3922153	2298369	1231367	5969791	4596739	--	--	--	--	--	--	--
+7	198	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	683084	2732334	4300911	2520320	1350279	6546287	5040641	--	--	--	--	--	--	--
+7	199	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	723501	2894004	4555392	2669446	1430174	6933625	5338892	--	--	--	--	--	--	--
+7	200	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9679625	38718504	28432352	52688564	19134116	43276029	105377132	--	--	--	--	--	--	--
+7	201	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9805835	39223340	28803072	53375556	19383600	43840291	106751112	--	--	--	--	--	--	--
+7	202	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10141575	40566300	29789254	55203072	20047272	45341329	110406144	--	--	--	--	--	--	--
+7	203	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	204	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	155017	620070	1056860	1030689	232525	1547580	1547581	--	--	--	--	--	--	--
+7	205	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	155356	621422	1059166	1032937	233033	1550957	1550957	--	--	--	--	--	--	--
+7	206	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	675662	2702648	4254182	2492938	1335609	6475163	4985876	--	--	--	--	--	--	--
+7	207	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2220114	8880454	13978540	8191381	4388590	21276316	16382763	--	--	--	--	--	--	--
+7	208	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	655832	2623330	4129329	2419774	1296411	6285128	4839548	--	--	--	--	--	--	--
+7	209	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2212972	8851889	13933576	8165033	4374474	21207878	16330066	--	--	--	--	--	--	--
+7	210	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2190079	8760316	13789433	8080565	4329220	20988482	16161131	--	--	--	--	--	--	--
+7	211	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2312512	9250046	14560307	8532295	4571237	22161806	17064591	--	--	--	--	--	--	--
+7	212	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	4111939	16447755	12078163	22382288	8128239	18383808	44764576	--	--	--	--	--	--	--
+7	213	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12604968	50419872	37025076	68611920	24916762	56354758	137223840	--	--	--	--	--	--	--
+7	214	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+7	215	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	354078	1416313	564539	1333289	531116	2099667	2099668	--	--	--	--	--	--	--
+7	216	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	262635	1050538	418742	988957	393951	1557411	1557412	--	--	--	--	--	--	--
+7	217	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3172552	12690207	9318863	17268974	6271314	14183962	34537948	--	--	--	--	--	--	--
+7	218	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9392058	37568232	27587670	51123268	18565670	41990362	102246536	--	--	--	--	--	--	--
+7	219	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9999821	39999280	29372874	54431468	19767060	44707571	108862932	--	--	--	--	--	--	--
+8	221	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	222	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+8	223	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	224	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	225	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3107854	12431416	9128824	16916808	6143423	13894709	33833616	--	--	--	--	--	--	--
+8	226	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3345069	13380275	9825605	18208026	6612336	14955257	36416054	--	--	--	--	--	--	--
+8	227	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	228	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	229	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	230	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	395212	1580849	630123	1488180	592817	2343590	2343591	--	--	--	--	--	--	--
+8	231	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	230875	923499	368105	869365	346311	1369077	1369078	--	--	--	--	--	--	--
+8	232	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2275883	9103531	14329680	8397149	4498831	21810776	16794298	--	--	--	--	--	--	--
+8	233	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2228742	8914967	14032866	8223216	4405646	21359004	16446433	--	--	--	--	--	--	--
+8	234	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	661868	2647474	4167333	2442044	1308342	6342972	4884089	--	--	--	--	--	--	--
+8	235	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2315570	9262280	14579563	8543579	4577283	22191116	17087159	--	--	--	--	--	--	--
+8	236	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2122712	8490848	13365269	7832007	4196053	20342875	15664014	--	--	--	--	--	--	--
+8	237	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2213782	8855126	13938671	8168018	4376073	21215633	16336037	--	--	--	--	--	--	--
+8	238	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12872449	51489796	37810760	70067888	25445504	57550621	140135776	--	--	--	--	--	--	--
+8	239	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12190133	48760528	35806564	66353868	24096740	54500097	132707736	--	--	--	--	--	--	--
+8	240	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	241	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	136806	547225	932703	909606	205209	1365774	1365775	--	--	--	--	--	--	--
+8	242	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134986	539945	920294	897504	202478	1347603	1347604	--	--	--	--	--	--	--
+8	243	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	245	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+9	246	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+9	247	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+9	248	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	148470	593882	1012226	987160	222705	1482221	1482222	--	--	--	--	--	--	--
+9	249	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	146619	586477	999604	974850	219928	1463739	1463739	--	--	--	--	--	--	--
+9	250	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	759242	3036970	4780430	2801317	1500825	7276149	5602635	--	--	--	--	--	--	--
+9	251	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	756580	3026322	4763670	2791496	1495563	7250639	5582992	--	--	--	--	--	--	--
+9	252	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	725268	2901074	4566520	2675967	1433668	6950563	5351934	--	--	--	--	--	--	--
+9	253	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	665184	2660738	4188212	2454279	1314897	6374751	4908559	--	--	--	--	--	--	--
+9	254	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9629878	38519512	28286226	52417776	19035778	43053618	104835552	--	--	--	--	--	--	--
+9	255	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10128024	40512096	29749452	55129312	20020486	45280746	110258624	--	--	--	--	--	--	--
+9	256	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+9	257	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	356231	1424922	567971	1341394	534345	2112431	2112432	--	--	--	--	--	--	--
+9	258	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	264578	1058313	421841	996275	396866	1568936	1568937	--	--	--	--	--	--	--
+9	259	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2169752	8679006	13661444	8005564	4289037	20793674	16011129	--	--	--	--	--	--	--
+9	260	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	637324	2549296	4012793	2351484	1259824	6107752	4702969	--	--	--	--	--	--	--
+9	261	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	703102	2812408	4426952	2594180	1389850	6738131	5188361	--	--	--	--	--	--	--
+9	262	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2250967	9003869	14172803	8305219	4449580	21571999	16610439	--	--	--	--	--	--	--
+9	263	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9390489	37561952	27583058	51114724	18562568	41983343	102229448	--	--	--	--	--	--	--
+9	264	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9606219	38424880	28216732	52289000	18989012	42947843	104578000	--	--	--	--	--	--	--
+9	265	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9903083	39612332	29088722	53904900	19575834	44275071	107809800	--	--	--	--	--	--	--
+9	266	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	267	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	257327	1029307	410280	968970	385989	1525936	1525937	--	--	--	--	--	--	--
+9	268	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	225071	900282	358851	847508	337605	1334658	1334659	--	--	--	--	--	--	--
+9	269	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2306118	9224470	14520048	8508704	4558598	22100530	17017408	--	--	--	--	--	--	--
+9	270	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	638220	2552880	4018434	2354790	1261595	6116338	4709581	--	--	--	--	--	--	--
+9	271	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2271878	9087513	14304467	8382374	4490916	21772400	16764748	--	--	--	--	--	--	--
+9	272	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	692163	2768653	4358079	2553820	1368227	6633301	5107641	--	--	--	--	--	--	--
+9	273	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	655756	2623025	4128849	2419493	1296260	6284397	4838986	--	--	--	--	--	--	--
+9	274	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2151335	8605341	13545489	7937615	4252633	20617182	15875231	--	--	--	--	--	--	--
+9	275	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12852842	51411368	37753168	69961160	25406746	57462964	139922320	--	--	--	--	--	--	--
+9	276	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11310734	45242936	33223472	61567088	22358396	50568450	123134176	--	--	--	--	--	--	--
+9	277	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+9	278	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140115	560461	955262	931607	210172	1398808	1398809	--	--	--	--	--	--	--
+9	279	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	133737	534947	911777	889199	200605	1335132	1335133	--	--	--	--	--	--	--
+9	280	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9680329	38721312	28434416	52692392	19135506	43279171	105384784	--	--	--	--	--	--	--
+9	281	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10101750	40407000	29672274	54986292	19968548	45163280	109972584	--	--	--	--	--	--	--
+9	282	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9828031	39312124	28868268	53496372	19427476	43939527	106992744	--	--	--	--	--	--	--
+10	284	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+10	285	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+10	286	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+10	287	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	288	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	289	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9372097	37488388	27529036	51014612	18526212	41901121	102029224	--	--	--	--	--	--	--
+10	290	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9642779	38571116	28324120	52488000	19061280	43111295	104976000	--	--	--	--	--	--	--
+10	291	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	292	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	293	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	294	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	156734	626936	1068565	1042104	235100	1564719	1564720	--	--	--	--	--	--	--
+10	295	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134644	538575	917960	895228	201965	1344186	1344186	--	--	--	--	--	--	--
+10	296	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2205202	8820808	13884653	8136364	4359114	21133413	16272728	--	--	--	--	--	--	--
+10	297	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2205179	8820714	13884504	8136277	4359068	21133188	16272554	--	--	--	--	--	--	--
+10	298	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2192589	8770354	13805234	8089825	4334180	21012532	16179650	--	--	--	--	--	--	--
+10	299	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2323521	9294085	14629627	8572917	4593000	22267316	17145834	--	--	--	--	--	--	--
+10	300	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	698722	2794889	4399376	2578021	1381193	6696159	5156042	--	--	--	--	--	--	--
+10	301	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	691623	2766491	4354676	2551827	1367159	6628122	5103654	--	--	--	--	--	--	--
+10	302	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	644871	2579486	4060314	2379332	1274743	6180082	4758664	--	--	--	--	--	--	--
+10	303	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2174951	8699806	13694185	8024750	4299316	20843507	16049501	--	--	--	--	--	--	--
+10	304	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	663156	2652626	4175443	2446797	1310888	6355316	4893594	--	--	--	--	--	--	--
+10	305	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11936126	47744504	35060464	64971252	23594636	53364478	129942504	--	--	--	--	--	--	--
+10	306	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11086529	44346112	32564904	60346684	21915200	49566061	120693368	--	--	--	--	--	--	--
+10	307	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+10	308	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	144414	577654	984568	960187	216620	1441721	1441722	--	--	--	--	--	--	--
+10	309	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	146697	586786	1000132	975365	220044	1464512	1464512	--	--	--	--	--	--	--
+10	310	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	312	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+11	313	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+11	314	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+11	315	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	253201	1012802	403701	953433	379800	1501468	1501469	--	--	--	--	--	--	--
+11	316	Shield Depleted	SubspaceEddie	ThunderDome	USS RELATIVITY	NO	Static Krenim Warships	--	USS RELATIVITY	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+11	317	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1161368	0	370335	874632	348410	1377372	1377373	--	--	--	--	--	--	--
+11	318	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	748065	2992259	4710054	2760077	1478730	7169031	5520154	--	--	--	--	--	--	--
+11	319	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	721176	2884704	4540753	2660868	1425578	6911344	5321735	--	--	--	--	--	--	--
+11	320	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	733278	2933113	4616952	2705520	1449501	7027324	5411040	--	--	--	--	--	--	--
+11	321	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	668643	2674570	4209986	2467039	1321733	6407893	4934078	--	--	--	--	--	--	--
+11	322	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	751590	3006358	4732247	2773082	1485698	7202811	5546164	--	--	--	--	--	--	--
+11	323	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2628733	10514934	16551341	9699036	5196326	25192299	19398071	--	--	--	--	--	--	--
+11	324	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9413849	37655396	27651676	51241880	18608746	42087787	102483760	--	--	--	--	--	--	--
+11	325	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9518240	38072960	27958308	51810108	18815100	42554500	103620216	--	--	--	--	--	--	--
+11	326	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	327	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1138147	0	362930	857143	341443	1349831	1349832	--	--	--	--	--	--	--
+11	328	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1267796	0	404272	954783	380338	1503594	1503595	--	--	--	--	--	--	--
+11	329	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	712361	2849446	4485253	2628345	1408154	6826869	5256690	--	--	--	--	--	--	--
+11	330	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	714517	2858070	4498828	2636299	1412416	6847531	5272599	--	--	--	--	--	--	--
+11	331	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2217133	8868533	13959775	8180386	4382699	21247755	16360771	--	--	--	--	--	--	--
+11	332	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	697772	2791088	4393394	2574515	1379314	6687053	5149030	--	--	--	--	--	--	--
+11	333	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2414652	9658609	15203417	8909157	4773143	23140665	17818313	--	--	--	--	--	--	--
+11	334	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	728742	2914968	4588391	2688783	1440534	6983852	5377566	--	--	--	--	--	--	--
+11	335	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9724164	38896656	28563176	52931000	19222158	43475154	105862000	--	--	--	--	--	--	--
+11	336	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10057573	40230292	29542512	54745824	19881220	44965773	109491648	--	--	--	--	--	--	--
+11	337	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9431770	37727080	27704316	51339432	18644172	42167906	102678864	--	--	--	--	--	--	--
+11	338	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+11	339	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	149320	597281	1018019	992810	223979	1490704	1490705	--	--	--	--	--	--	--
+11	340	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	138799	555194	946287	922854	208197	1385665	1385666	--	--	--	--	--	--	--
+11	341	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	691109	2764438	4351443	2549932	1366144	6623201	5099865	--	--	--	--	--	--	--
+11	342	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	645687	2582748	4065450	2382341	1276356	6187899	4764683	--	--	--	--	--	--	--
+11	343	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	644970	2579879	4060934	2379695	1274938	6181026	4759390	--	--	--	--	--	--	--
+11	344	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	648509	2594038	4083221	2392755	1281935	6214948	4785510	--	--	--	--	--	--	--
+11	345	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2303770	9215081	14505268	8500043	4553958	22078034	17000086	--	--	--	--	--	--	--
+11	346	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2213931	8855725	13939613	8168571	4376369	21217067	16337142	--	--	--	--	--	--	--
+11	347	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2123108	8492431	13367760	7833466	4196835	20346667	15666933	--	--	--	--	--	--	--
+11	348	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	669618	2678471	4216126	2470637	1323661	6417239	4941274	--	--	--	--	--	--	--
+11	349	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2207355	8829422	13898211	8144310	4363371	21154050	16288619	--	--	--	--	--	--	--
+11	350	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11446469	45785880	33622172	62305928	22626710	51175303	124611856	--	--	--	--	--	--	--
+11	351	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11795590	47182360	34647656	64206276	23316830	52736160	128412552	--	--	--	--	--	--	--
+11	352	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+11	353	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	135671	542685	924964	902059	203506	1354442	1354443	--	--	--	--	--	--	--
+11	354	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	135731	542923	925370	902455	203595	1355036	1355038	--	--	--	--	--	--	--
+11	355	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9848246	39392984	28927646	53606408	19467436	44029904	107212816	--	--	--	--	--	--	--
+11	356	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9943810	39775240	29208350	54126584	19656340	44457156	108253168	--	--	--	--	--	--	--
+11	357	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9592342	38369368	28175970	52213460	18961580	42885800	104426920	--	--	--	--	--	--	--
+12	359	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+12	360	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+12	361	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	362	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	363	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9855475	39421896	28948880	53645756	19481726	44062221	107291512	--	--	--	--	--	--	--
+12	364	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9398006	37592024	27605140	51155644	18577428	42016954	102311288	--	--	--	--	--	--	--
+12	365	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	366	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	367	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	368	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1186384	0	378312	893472	355914	1407040	1407042	--	--	--	--	--	--	--
+12	369	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1277114	0	407244	961800	383133	1514645	1514646	--	--	--	--	--	--	--
+12	370	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	638474	2553898	4020037	2355729	1262098	6118777	4711459	--	--	--	--	--	--	--
+12	371	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2258303	9033214	14218995	8332288	4464082	21642306	16664576	--	--	--	--	--	--	--
+12	372	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2216188	8864751	13953822	8176897	4380830	21238694	16353794	--	--	--	--	--	--	--
+12	373	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2302982	9211926	14500303	8497133	4552399	22070476	16994267	--	--	--	--	--	--	--
+12	374	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	650472	2601890	4095580	2399997	1285815	6233759	4799995	--	--	--	--	--	--	--
+12	375	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2137097	8548386	13455838	7885080	4224487	20480728	15770160	--	--	--	--	--	--	--
+12	376	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	13143871	52575484	38608020	71545304	25982034	58764105	143090608	--	--	--	--	--	--	--
+12	377	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	13108590	52434360	38504384	71353256	25912292	58606370	142706512	--	--	--	--	--	--	--
+12	378	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+12	379	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	147693	590772	1006926	981991	221539	1474460	1474461	--	--	--	--	--	--	--
+12	380	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	135004	540017	920417	897625	202506	1347784	1347785	--	--	--	--	--	--	--
+12	381	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	383	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+13	384	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+13	385	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1263928	0	403039	951869	379177	1499006	1499007	--	--	--	--	--	--	--
+13	386	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	1819945	0	580341	1370608	545982	2158438	2158438	--	--	--	--	--	--	--
+13	387	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	756963	3027851	4766077	2792907	1496319	7254303	5585814	--	--	--	--	--	--	--
+13	388	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	665616	2662463	4190928	2455871	1315750	6378886	4911742	--	--	--	--	--	--	--
+13	389	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9981663	39926652	29319538	54332628	19731166	44626391	108665256	--	--	--	--	--	--	--
+13	390	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9617276	38469104	28249212	52349184	19010868	42997276	104698368	--	--	--	--	--	--	--
+13	391	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	392	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1281786	0	408734	965319	384535	1520187	1520187	--	--	--	--	--	--	--
+13	393	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1151941	0	367329	867533	345581	1366191	1366193	--	--	--	--	--	--	--
+13	394	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	668008	2672030	4205987	2464695	1320478	6401807	4929391	--	--	--	--	--	--	--
+13	395	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	666142	2664568	4194241	2457812	1316790	6383928	4915625	--	--	--	--	--	--	--
+13	396	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10052791	40211164	29528466	54719796	19871768	44944393	109439592	--	--	--	--	--	--	--
+13	397	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9696092	38784368	28480718	52778196	19166666	43349648	105556392	--	--	--	--	--	--	--
+13	398	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9906105	39624416	29097598	53921348	19581808	44288579	107842696	--	--	--	--	--	--	--
+13	399	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	400	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1279482	0	407999	963583	383844	1517454	1517454	--	--	--	--	--	--	--
+13	401	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1292229	0	412064	973184	387668	1532572	1532573	--	--	--	--	--	--	--
+13	402	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2313121	9252484	14564144	8534544	4572442	22167647	17069088	--	--	--	--	--	--	--
+13	403	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	643921	2575683	4054330	2375825	1272865	6170974	4751650	--	--	--	--	--	--	--
+13	404	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	676754	2707017	4261059	2496967	1337768	6485630	4993935	--	--	--	--	--	--	--
+13	405	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11306983	45227932	33212454	61546672	22350982	50551679	123093344	--	--	--	--	--	--	--
+13	406	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11705594	46822376	34383312	63716408	23138934	52333808	127432816	--	--	--	--	--	--	--
+13	407	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+13	408	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1230003	0	392221	926321	369000	1458772	1458773	--	--	--	--	--	--	--
+13	409	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1230411	0	392351	926628	369122	1459255	1459257	--	--	--	--	--	--	--
+13	410	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9854151	39416604	28944992	53638548	19479108	44056303	107277100	--	--	--	--	--	--	--
+13	411	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9824222	39296888	28857080	53475640	19419946	43922496	106951280	--	--	--	--	--	--	--
+13	412	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9742593	38970372	28617308	53031316	19258588	43557549	106062628	--	--	--	--	--	--	--
+14	414	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+14	415	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+14	416	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	417	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	418	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9832996	39331984	28882852	53523400	19437290	43961722	107046800	--	--	--	--	--	--	--
+14	419	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	9597887	38391548	28192258	52243644	18972542	42910591	104487288	--	--	--	--	--	--	--
+14	420	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	421	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	422	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	423	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1151989	0	367344	867568	345596	1366248	1366249	--	--	--	--	--	--	--
+14	424	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1231638	0	392742	927551	369490	1460710	1460711	--	--	--	--	--	--	--
+14	425	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	658977	2635907	4149127	2431375	1302626	6315261	4862751	--	--	--	--	--	--	--
+14	426	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	646458	2585832	4070304	2385186	1277880	6195288	4770372	--	--	--	--	--	--	--
+14	427	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2308000	9232002	14531903	8515651	4562320	22118574	17031302	--	--	--	--	--	--	--
+14	428	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12103151	48412604	35551072	65880408	23924800	54111219	131760816	--	--	--	--	--	--	--
+14	429	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12063547	48254184	35434740	65664832	23846512	53934151	131329664	--	--	--	--	--	--	--
+14	430	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+14	431	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	YES	1903805	0	607082	1433764	571140	2257895	2257896	--	--	--	--	--	--	--
+14	432	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1228596	0	391772	925261	368578	1457103	1457104	--	--	--	--	--	--	--
+14	433	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	435	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+15	436	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+15	437	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1264395	0	403188	952222	379318	1499561	1499562	--	--	--	--	--	--	--
+15	438	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1249696	0	398501	941152	374908	1482128	1482129	--	--	--	--	--	--	--
+15	439	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	741361	2965446	4667846	2735343	1465479	7104788	5470687	--	--	--	--	--	--	--
+15	440	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	2288782	9155126	14410896	8444742	4524329	21934392	16889483	--	--	--	--	--	--	--
+15	441	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10134060	40536240	29767182	55162168	20032416	45307730	110324336	--	--	--	--	--	--	--
+15	442	Shield Depleted	Static Krenim Warships	--	Static Krenim Warships	YES	SubspaceEddie	ThunderDome	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+15	443	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	47199992	0	27728486	51384216	18660436	42204698	102768432	--	--	--	--	--	--	--
+15	444	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+15	445	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	229175	916698	1562442	1523751	343761	2287913	2287914	--	--	--	--	--	--	--
+15	446	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	157478	629913	1073638	1047051	236217	1572148	1572149	--	--	--	--	--	--	--
+15	447	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3691456	0	4648516	2724016	1459410	7075366	5448032	--	--	--	--	--	--	--
+15	448	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12125382	0	15269051	8947618	4793749	23240565	17895235	--	--	--	--	--	--	--
+15	449	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	48159940	0	28292424	52429264	19039950	43063050	104858528	--	--	--	--	--	--	--
+15	450	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	48976192	0	28771944	53317872	19362652	43792916	106635744	--	--	--	--	--	--	--
+15	451	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	49651308	0	29168554	54052840	19629560	44396582	108105680	--	--	--	--	--	--	--
+15	452	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+15	453	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	199855	799418	1362546	1328804	299781	1995202	1995202	--	--	--	--	--	--	--
+15	454	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	145439	581756	991558	967003	218158	1451957	1451957	--	--	--	--	--	--	--
+15	455	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3452190	0	4347217	2547456	1364817	6616768	5094912	--	--	--	--	--	--	--
+15	456	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3463287	0	4361191	2555644	1369204	6638037	5111289	--	--	--	--	--	--	--
+15	457	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3383455	0	4260661	2496734	1337643	6485024	4993469	--	--	--	--	--	--	--
+15	458	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	62073884	0	36466420	67576664	24540804	55504444	135153328	--	--	--	--	--	--	--
+15	459	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	57412052	0	33727744	62501564	22697756	51335988	125003128	--	--	--	--	--	--	--
+15	460	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+15	461	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134526	538106	917160	894448	201789	1343014	1343015	--	--	--	--	--	--	--
+15	462	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	157028	628110	1070565	1044054	235540	1567648	1567649	--	--	--	--	--	--	--
+15	463	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	48905688	0	28730526	53241120	19334780	43729874	106482240	--	--	--	--	--	--	--
+15	464	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	49508100	0	29084424	53896936	19572942	44268530	107793872	--	--	--	--	--	--	--
+15	465	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	47286084	0	27779062	51477940	18694472	42281678	102955880	--	--	--	--	--	--	--
+16	467	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+16	468	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+16	469	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	470	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	471	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	48802104	0	28669676	53128356	19293830	43637254	106256712	--	--	--	--	--	--	--
+16	472	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	50058728	0	29407902	54496376	19790632	44760886	108992752	--	--	--	--	--	--	--
+16	473	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	474	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	475	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	476	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140742	562966	959532	935771	211112	1405061	1405062	--	--	--	--	--	--	--
+16	477	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134691	538763	918280	895540	202035	1344654	1344655	--	--	--	--	--	--	--
+16	478	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11502552	0	14484745	8488016	4547514	22046795	16976032	--	--	--	--	--	--	--
+16	479	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10707954	0	13484136	7901663	4233371	20523799	15803325	--	--	--	--	--	--	--
+16	480	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3190351	0	4017492	2354238	1261299	6114904	4708476	--	--	--	--	--	--	--
+16	481	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	55979352	0	32886078	60941860	22131342	50054916	121883716	--	--	--	--	--	--	--
+16	482	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	62467888	0	36697884	68005592	24696572	55856752	136011184	--	--	--	--	--	--	--
+16	483	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+16	484	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1258700	0	401372	947932	377609	1492806	1492807	--	--	--	--	--	--	--
+16	485	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1149143	0	366437	865425	344742	1362873	1362874	--	--	--	--	--	--	--
+16	486	Charging Weapons	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	488	Officer Ability	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	--	--	USS RELATIVITY	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+17	489	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+17	490	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	150254	601016	1024386	999019	225380	1500027	1500028	--	--	--	--	--	--	--
+17	491	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	145549	582195	992307	967734	218322	1453053	1453054	--	--	--	--	--	--	--
+17	492	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3595207	0	4527313	2652992	1421358	6890887	5305983	--	--	--	--	--	--	--
+17	493	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12068068	0	15196878	8905324	4771090	23130712	17810648	--	--	--	--	--	--	--
+17	494	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	50442404	0	29633298	54914064	19942318	45103956	109828128	--	--	--	--	--	--	--
+17	495	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	49265616	0	28941974	53632956	19477078	44051712	107265912	--	--	--	--	--	--	--
+17	496	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+17	497	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	224711	898843	1532008	1494070	337065	2243348	2243349	--	--	--	--	--	--	--
+17	498	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	151893	607572	1035560	1009916	227839	1516390	1516390	--	--	--	--	--	--	--
+17	499	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3279403	0	4129632	2419952	1296506	6285589	4839904	--	--	--	--	--	--	--
+17	500	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10905122	0	13732422	8047157	4311321	20901708	16094314	--	--	--	--	--	--	--
+17	501	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	46502400	0	27318672	50624784	18384644	41580932	101249568	--	--	--	--	--	--	--
+17	502	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	49327648	0	28978414	53700488	19501600	44107174	107400976	--	--	--	--	--	--	--
+17	503	Attack	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	46834324	0	27513666	50986132	18515870	41877728	101972264	--	--	--	--	--	--	--
+17	504	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+17	505	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1239356	0	395204	933365	371806	1469865	1469866	--	--	--	--	--	--	--
+17	506	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	USS RELATIVITY	YES	NO	1279639	0	408049	963702	383891	1517640	1517641	--	--	--	--	--	--	--
+17	507	Combatant Destroyed	SubspaceEddie	ThunderDome	USS RELATIVITY	NO	Static Krenim Warships	--	USS RELATIVITY	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+17	508	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11376904	0	14326520	8395297	4497839	21805966	16790594	--	--	--	--	--	--	--
+17	509	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3381520	0	4258224	2495306	1336878	6481315	4990613	--	--	--	--	--	--	--
+17	510	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3237824	0	4077273	2389270	1280068	6205895	4778540	--	--	--	--	--	--	--
+17	511	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	146249	584994	997078	972387	219372	1460040	1460040	--	--	--	--	--	--	--
+17	512	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	143106	572422	975650	951490	214658	1428663	1428663	--	--	--	--	--	--	--
+18	514	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+18	515	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+18	516	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+18	517	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	518	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	519	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	520	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	521	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	157320	629279	1072558	1045998	235979	1570567	1570567	--	--	--	--	--	--	--
+18	522	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	143917	575668	981181	956884	215875	1436762	1436763	--	--	--	--	--	--	--
+18	523	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3473757	0	4374375	2563370	1373344	6658105	5126741	--	--	--	--	--	--	--
+18	524	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3294536	0	4148689	2431119	1302489	6314595	4862238	--	--	--	--	--	--	--
+18	525	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3319481	0	4180101	2449526	1312351	6362406	4899053	--	--	--	--	--	--	--
+18	526	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10767236	0	13558786	7945407	4256808	20637422	15890815	--	--	--	--	--	--	--
+18	527	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11223837	0	14133768	8282344	4437324	21512584	16564689	--	--	--	--	--	--	--
+18	528	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3257951	0	4102618	2404121	1288025	6244472	4808243	--	--	--	--	--	--	--
+18	529	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+18	530	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159212	636848	1085459	1058579	238817	1589457	1589458	--	--	--	--	--	--	--
+18	531	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	152923	611693	1042583	1016765	229384	1526674	1526674	--	--	--	--	--	--	--
+19	533	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+19	534	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+19	535	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+19	536	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	211588	846353	1442543	1406820	317381	2112342	2112343	--	--	--	--	--	--	--
+19	537	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	143922	575686	981213	956915	215882	1436809	1436809	--	--	--	--	--	--	--
+19	538	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11189968	0	14091118	8257352	4423934	21447668	16514704	--	--	--	--	--	--	--
+19	539	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3593592	0	4525279	2651799	1420720	6887791	5303599	--	--	--	--	--	--	--
+19	540	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12594623	0	15859949	9293881	4979262	24139952	18587763	--	--	--	--	--	--	--
+19	541	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11568899	0	14568293	8536975	4573744	22173961	17073950	--	--	--	--	--	--	--
+19	542	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11602550	0	14610668	8561806	4587048	22238459	17123613	--	--	--	--	--	--	--
+19	543	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12642170	0	15919824	9328969	4998060	24231086	18657937	--	--	--	--	--	--	--
+19	544	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+19	545	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	145647	582587	992976	968387	218470	1454033	1454034	--	--	--	--	--	--	--
+19	546	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	137163	548650	935131	911974	205743	1369330	1369331	--	--	--	--	--	--	--
+19	547	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3360441	0	4231680	2479751	1328544	6440913	4959503	--	--	--	--	--	--	--
+19	548	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10866807	0	13684173	8018883	4296173	20828269	16037767	--	--	--	--	--	--	--
+19	549	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3351678	0	4220645	2473285	1325080	6424118	4946570	--	--	--	--	--	--	--
+19	550	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10352821	0	13036929	7639600	4092970	19843119	15279201	--	--	--	--	--	--	--
+19	551	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3454845	0	4350560	2549415	1365867	6621857	5098830	--	--	--	--	--	--	--
+19	552	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10945029	0	13782675	8076605	4327098	20978196	16153211	--	--	--	--	--	--	--
+19	553	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+19	554	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	151989	607958	1036217	1010556	227983	1517351	1517352	--	--	--	--	--	--	--
+19	555	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	158350	633402	1079585	1052851	237525	1580856	1580857	--	--	--	--	--	--	--
+19	556	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10789873	0	13587293	7962112	4265757	20680811	15924224	--	--	--	--	--	--	--
+19	557	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11579076	0	14581107	8544484	4577768	22193466	17088969	--	--	--	--	--	--	--
+19	558	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10642754	0	13402032	7853549	4207594	20398830	15707099	--	--	--	--	--	--	--
+19	559	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11390447	0	14343575	8405291	4503194	21831925	16810582	--	--	--	--	--	--	--
+19	560	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10777010	0	13571095	7952621	4260672	20656157	15905241	--	--	--	--	--	--	--
+19	561	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3442898	0	4335515	2540598	1361143	6598957	5081197	--	--	--	--	--	--	--
+19	562	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11257373	0	14175999	8307092	4450583	21576863	16614184	--	--	--	--	--	--	--
+19	563	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11243651	0	14158719	8296966	4445158	21550562	16593932	--	--	--	--	--	--	--
+19	564	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10722444	0	13502382	7912354	4239100	20551571	15824709	--	--	--	--	--	--	--
+19	565	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+19	566	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	142928	571713	974441	950311	214392	1426892	1426893	--	--	--	--	--	--	--
+19	567	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	155146	620586	1057740	1031547	232719	1548869	1548869	--	--	--	--	--	--	--
+20	569	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+20	570	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+20	571	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+20	572	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	573	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	574	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	575	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	576	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	148501	594006	1012437	987366	222751	1482530	1482531	--	--	--	--	--	--	--
+20	577	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	140923	563691	960768	936976	211383	1406870	1406871	--	--	--	--	--	--	--
+20	578	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11406616	0	14363934	8417222	4509586	21862914	16834444	--	--	--	--	--	--	--
+20	579	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10994437	0	13844893	8113065	4346631	21072896	16226130	--	--	--	--	--	--	--
+20	580	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3349245	0	4217582	2471490	1324118	6419455	4942980	--	--	--	--	--	--	--
+20	581	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3330758	0	4194302	2457849	1316809	6384021	4915697	--	--	--	--	--	--	--
+20	582	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3312361	0	4171135	2444272	1309536	6348759	4888545	--	--	--	--	--	--	--
+20	583	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10576012	0	13317986	7804299	4181208	20270907	15608598	--	--	--	--	--	--	--
+20	584	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3302088	0	4158199	2436692	1305474	6329069	4873384	--	--	--	--	--	--	--
+20	585	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3296821	0	4151566	2432805	1303392	6318974	4865610	--	--	--	--	--	--	--
+20	586	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3368497	0	4241825	2485696	1331729	6456354	4971393	--	--	--	--	--	--	--
+20	587	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+20	588	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	222906	891622	1519703	1482069	334358	2225329	2225329	--	--	--	--	--	--	--
+20	589	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159289	637155	1085982	1059090	238932	1590223	1590225	--	--	--	--	--	--	--
+21	591	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+21	592	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+21	593	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	154368	617470	1052431	1026369	231551	1541094	1541095	--	--	--	--	--	--	--
+21	594	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	157649	630594	1074800	1048185	236472	1573849	1573851	--	--	--	--	--	--	--
+21	595	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11635051	0	14651594	8585789	4599897	22300752	17171579	--	--	--	--	--	--	--
+21	596	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11857194	0	14931332	8749715	4687721	22726532	17499430	--	--	--	--	--	--	--
+21	597	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11671933	0	14698039	8613007	4614478	22371444	17226013	--	--	--	--	--	--	--
+21	598	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11073634	0	13944624	8171507	4377942	21224693	16343014	--	--	--	--	--	--	--
+21	599	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+21	600	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	157444	629778	1073407	1046826	236166	1571810	1571811	--	--	--	--	--	--	--
+21	601	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	148013	592051	1009105	984116	222018	1477651	1477652	--	--	--	--	--	--	--
+21	602	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11086056	0	13960265	8180673	4382853	21248501	16361346	--	--	--	--	--	--	--
+21	603	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12298201	0	15486675	9075144	4862072	23571803	18150289	--	--	--	--	--	--	--
+21	604	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10887443	0	13710160	8034112	4304332	20867823	16068224	--	--	--	--	--	--	--
+21	605	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11501753	0	14483737	8487425	4547198	22045262	16974851	--	--	--	--	--	--	--
+21	606	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+21	607	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134565	538259	917421	894703	201846	1343396	1343398	--	--	--	--	--	--	--
+21	608	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	134241	536964	915214	892551	201361	1340165	1340166	--	--	--	--	--	--	--
+21	609	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11255573	0	14173732	8305764	4449871	21573412	16611528	--	--	--	--	--	--	--
+21	610	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3209367	0	4041439	2368271	1268817	6151352	4736542	--	--	--	--	--	--	--
+21	611	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3224579	0	4060595	2379496	1274831	6180509	4758992	--	--	--	--	--	--	--
+21	612	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10733751	0	13516621	7920698	4243570	20573243	15841397	--	--	--	--	--	--	--
+21	613	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3394678	0	4274793	2505016	1342080	6506535	5010032	--	--	--	--	--	--	--
+21	614	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10739718	0	13524135	7925102	4245929	20584680	15850204	--	--	--	--	--	--	--
+21	615	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+21	616	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	150525	602101	1026234	1000822	225787	1502734	1502735	--	--	--	--	--	--	--
+21	617	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	159170	636679	1085170	1058297	238754	1589035	1589035	--	--	--	--	--	--	--
+22	619	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+22	620	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+22	621	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+22	622	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	623	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	624	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	625	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	626	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	158268	633074	1079025	1052305	237402	1580037	1580037	--	--	--	--	--	--	--
+22	627	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	141281	565122	963208	939356	211920	1410443	1410444	--	--	--	--	--	--	--
+22	628	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3251262	0	4094194	2399185	1285380	6231650	4798371	--	--	--	--	--	--	--
+22	629	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10856990	0	13671812	8011640	4292292	20809454	16023280	--	--	--	--	--	--	--
+22	630	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3299909	0	4155454	2435083	1304613	6324892	4870167	--	--	--	--	--	--	--
+22	631	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10926223	0	13758994	8062729	4319663	20942152	16125457	--	--	--	--	--	--	--
+22	632	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11435343	0	14400110	8438421	4520943	21917975	16876842	--	--	--	--	--	--	--
+22	633	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11096939	0	13973970	8188704	4387156	21269361	16377408	--	--	--	--	--	--	--
+22	634	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+22	635	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	203009	812034	1384050	1349775	304512	2026690	2026690	--	--	--	--	--	--	--
+22	636	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	145925	583698	994868	970232	218886	1456804	1456805	--	--	--	--	--	--	--
+23	638	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+23	639	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+23	640	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+23	641	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	151764	607055	1034679	1009057	227645	1515100	1515100	--	--	--	--	--	--	--
+23	642	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	141687	566748	965978	942057	212530	1414500	1414500	--	--	--	--	--	--	--
+23	643	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11854118	0	14927458	8747445	4686505	22720636	17494890	--	--	--	--	--	--	--
+23	644	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12423742	0	15644765	9167784	4911705	23812427	18335569	--	--	--	--	--	--	--
+23	645	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3604813	0	4539409	2660080	1425156	6909298	5320160	--	--	--	--	--	--	--
+23	646	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3331272	0	4194949	2458227	1317012	6385006	4916454	--	--	--	--	--	--	--
+23	647	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3607123	0	4542318	2661784	1426069	6913725	5323569	--	--	--	--	--	--	--
+23	648	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12454782	0	15683853	9190690	4923977	23871922	18381380	--	--	--	--	--	--	--
+23	649	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+23	650	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	138025	552099	941011	917709	207037	1377940	1377941	--	--	--	--	--	--	--
+23	651	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	138730	554921	945820	922399	208095	1384982	1384983	--	--	--	--	--	--	--
+23	652	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11736844	0	14779779	8660905	4640141	22495858	17321811	--	--	--	--	--	--	--
+23	653	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11343543	0	14284509	8370678	4484650	21742023	16741357	--	--	--	--	--	--	--
+23	654	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3151584	0	3968674	2325631	1245973	6040600	4651262	--	--	--	--	--	--	--
+23	655	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11790787	0	14847707	8700711	4661467	22599250	17401422	--	--	--	--	--	--	--
+23	656	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3668760	0	4619934	2707267	1450437	7031863	5414535	--	--	--	--	--	--	--
+23	657	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3467730	0	4366786	2558923	1370961	6646554	5117846	--	--	--	--	--	--	--
+23	658	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+23	659	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	155957	623828	1063267	1036937	233935	1556962	1556962	--	--	--	--	--	--	--
+23	660	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	139454	557817	950756	927212	209180	1392209	1392210	--	--	--	--	--	--	--
+23	661	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11358467	0	14303302	8381691	4490550	21770627	16763383	--	--	--	--	--	--	--
+23	662	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10915647	0	13745675	8054923	4315482	20921880	16109847	--	--	--	--	--	--	--
+23	663	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3323551	0	4185227	2452531	1313960	6370208	4905061	--	--	--	--	--	--	--
+23	664	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11101983	0	13980322	8192426	4389150	21279029	16384852	--	--	--	--	--	--	--
+23	665	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3279276	0	4129472	2419858	1296456	6285346	4839716	--	--	--	--	--	--	--
+23	666	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10760631	0	13550469	7940533	4254197	20624763	15881067	--	--	--	--	--	--	--
+23	667	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3263473	0	4109571	2408196	1290208	6255055	4816393	--	--	--	--	--	--	--
+23	668	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3469948	0	4369579	2560560	1371838	6650805	5121120	--	--	--	--	--	--	--
+23	669	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11600459	0	14608035	8560264	4586221	22234451	17120528	--	--	--	--	--	--	--
+23	670	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+23	671	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	148914	595656	1015250	990109	223370	1486649	1486650	--	--	--	--	--	--	--
+23	672	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	158436	633746	1080171	1053422	237654	1581714	1581715	--	--	--	--	--	--	--
+23	673	Shield Depleted	SubspaceEddie	ThunderDome	PILUM	NO	Static Krenim Warships	--	PILUM	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+24	675	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+24	676	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+24	677	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+24	678	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	679	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	680	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	681	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	682	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	770332	0	1050377	1024367	231099	1538087	1538088	--	--	--	--	--	--	--
+24	683	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	707167	0	964249	940371	212149	1411967	1411969	--	--	--	--	--	--	--
+24	684	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11616790	0	14628599	8572315	4592678	22265752	17144630	--	--	--	--	--	--	--
+24	685	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10686145	0	13456672	7885568	4224749	20481997	15771137	--	--	--	--	--	--	--
+24	686	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11543142	0	14535858	8517969	4563561	22124593	17035937	--	--	--	--	--	--	--
+24	687	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11322474	0	14257978	8355132	4476321	21701641	16710264	--	--	--	--	--	--	--
+24	688	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11328471	0	14265530	8359557	4478691	21713135	16719114	--	--	--	--	--	--	--
+24	689	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10855963	0	13670518	8010882	4291886	20807485	16021764	--	--	--	--	--	--	--
+24	690	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11518577	0	14504923	8499841	4553849	22077508	16999682	--	--	--	--	--	--	--
+24	691	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3451152	0	4345910	2546690	1364407	6614779	5093380	--	--	--	--	--	--	--
+24	692	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3209504	0	4041611	2368372	1268872	6151615	4736744	--	--	--	--	--	--	--
+24	693	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+24	694	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	712715	0	971814	947749	213814	1423046	1423046	--	--	--	--	--	--	--
+24	695	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	748981	0	1021265	995975	224694	1495457	1495458	--	--	--	--	--	--	--
+25	697	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+25	698	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+25	699	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1083805	0	1477810	1441214	325141	2163985	2163985	--	--	--	--	--	--	--
+25	700	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	683945	0	932585	909492	205183	1365602	1365603	--	--	--	--	--	--	--
+25	701	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3448074	0	4342034	2544418	1363190	6608879	5088837	--	--	--	--	--	--	--
+25	702	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3411537	0	4296024	2517457	1348745	6538849	5034914	--	--	--	--	--	--	--
+25	703	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3928717	0	4947291	2899097	1553211	7530122	5798194	--	--	--	--	--	--	--
+25	704	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3872592	0	4876614	2857681	1531022	7422547	5715362	--	--	--	--	--	--	--
+25	705	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+25	706	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	673766	0	918706	895956	202129	1345278	1345279	--	--	--	--	--	--	--
+25	707	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	773528	0	1054735	1028616	232058	1544468	1544469	--	--	--	--	--	--	--
+25	708	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11447254	0	14415108	8447209	4525652	21940804	16894419	--	--	--	--	--	--	--
+25	709	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11347508	0	14289502	8373604	4486217	21749622	16747209	--	--	--	--	--	--	--
+25	710	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3197954	0	4027066	2359848	1264305	6129476	4719697	--	--	--	--	--	--	--
+25	711	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3100117	0	3903864	2287652	1225626	5941954	4575305	--	--	--	--	--	--	--
+25	712	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+25	713	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	727219	0	991592	967037	218165	1452006	1452007	--	--	--	--	--	--	--
+25	714	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	696696	0	949972	926447	209008	1391061	1391062	--	--	--	--	--	--	--
+25	715	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10741099	0	13525874	7926120	4246475	20587327	15852241	--	--	--	--	--	--	--
+25	716	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3444058	0	4336977	2541456	1361602	6601182	5082911	--	--	--	--	--	--	--
+25	717	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11548877	0	14543080	8522201	4565828	22135585	17044401	--	--	--	--	--	--	--
+25	718	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10671787	0	13438591	7874973	4219072	20454476	15749947	--	--	--	--	--	--	--
+25	719	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10865190	0	13682138	8017691	4295534	20825171	16035382	--	--	--	--	--	--	--
+25	720	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10869867	0	13688027	8021142	4297383	20834135	16042284	--	--	--	--	--	--	--
+25	721	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+25	722	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	729094	0	994148	969530	218727	1455749	1455750	--	--	--	--	--	--	--
+25	723	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	716859	0	977465	953260	215057	1431320	1431321	--	--	--	--	--	--	--
+26	725	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+26	726	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+26	727	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	728	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	729	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	730	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	731	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1095371	0	1493580	1456594	328610	2187077	2187078	--	--	--	--	--	--	--
+26	732	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	744147	0	1014673	989546	223243	1485804	1485805	--	--	--	--	--	--	--
+26	733	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10941835	0	13778653	8074248	4325835	20972074	16148497	--	--	--	--	--	--	--
+26	734	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3432981	0	4323028	2533281	1357223	6579951	5066562	--	--	--	--	--	--	--
+26	735	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3364027	0	4236196	2482398	1329962	6447787	4964796	--	--	--	--	--	--	--
+26	736	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+26	737	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	686267	0	935751	912579	205879	1370237	1370239	--	--	--	--	--	--	--
+26	738	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	760455	0	1036910	1011232	228136	1518366	1518367	--	--	--	--	--	--	--
+27	740	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+27	741	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+27	742	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+27	743	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	718516	0	979725	955464	215554	1434629	1434630	--	--	--	--	--	--	--
+27	744	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	723139	0	986028	961611	216941	1443859	1443860	--	--	--	--	--	--	--
+27	745	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	13101256	0	16497933	9667738	5179559	25111009	19335477	--	--	--	--	--	--	--
+27	746	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11502850	0	14485120	8488236	4547632	22047366	16976472	--	--	--	--	--	--	--
+27	747	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12174339	0	15330701	8983745	4813104	23334400	17967489	--	--	--	--	--	--	--
+27	748	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3714673	0	4677752	2741148	1468589	7119866	5482296	--	--	--	--	--	--	--
+27	749	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+27	750	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	707552	0	964774	940884	212265	1412737	1412738	--	--	--	--	--	--	--
+27	751	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1119217	0	1526096	1488304	335764	2234690	2234691	--	--	--	--	--	--	--
+27	752	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3639491	0	4583079	2685670	1438866	6975766	5371340	--	--	--	--	--	--	--
+27	753	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3152993	0	3970449	2326671	1246530	6043301	4653342	--	--	--	--	--	--	--
+27	754	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11957786	0	15058003	8823944	4727490	22919335	17647888	--	--	--	--	--	--	--
+27	755	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3594551	0	4526487	2652507	1421099	6889629	5305015	--	--	--	--	--	--	--
+27	756	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+27	757	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	797128	0	1086914	1059998	239137	1591588	1591589	--	--	--	--	--	--	--
+27	758	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	739011	0	1007669	982716	221703	1475549	1475550	--	--	--	--	--	--	--
+27	759	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10714676	0	13492601	7906623	4236029	20536683	15813246	--	--	--	--	--	--	--
+27	760	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11457515	0	14428030	8454781	4529709	21960472	16909563	--	--	--	--	--	--	--
+27	761	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10782316	0	13577776	7956535	4262770	20666326	15913071	--	--	--	--	--	--	--
+27	762	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3311225	0	4169704	2443434	1309087	6346582	4886868	--	--	--	--	--	--	--
+27	763	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11144364	0	14033690	8223699	4405905	21360259	16447399	--	--	--	--	--	--	--
+27	764	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11001078	0	13853256	8117965	4349257	21085625	16235931	--	--	--	--	--	--	--
+27	765	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+27	766	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	740736	0	1010021	985010	222220	1478993	1478994	--	--	--	--	--	--	--
+27	767	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	781536	0	1065655	1039266	234460	1560458	1560459	--	--	--	--	--	--	--
+28	769	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+28	770	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+28	771	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+28	772	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+28	773	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+28	774	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+28	775	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	777319	0	1059904	1033657	233195	1552037	1552038	--	--	--	--	--	--	--
+28	776	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1148688	0	1566280	1527493	344606	2293533	2293534	--	--	--	--	--	--	--
+28	777	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3449564	0	4343910	2545518	1363779	6611735	5091036	--	--	--	--	--	--	--
+28	778	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3306755	0	4164075	2440135	1307320	6338014	4880271	--	--	--	--	--	--	--
+28	779	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11244656	0	14159984	8297707	4445555	21552487	16595415	--	--	--	--	--	--	--
+28	780	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11324473	0	14260496	8356607	4477111	21705473	16713214	--	--	--	--	--	--	--
+28	781	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11314584	0	14248043	8349309	4473201	21686518	16698619	--	--	--	--	--	--	--
+28	782	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3299288	0	4154673	2434626	1304368	6323703	4869252	--	--	--	--	--	--	--
+28	783	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+28	784	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	714266	0	973929	949811	214279	1426142	1426143	--	--	--	--	--	--	--
+28	785	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	712233	0	971156	947107	213669	1422082	1422083	--	--	--	--	--	--	--
+29	787	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+29	788	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+29	789	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	691967	0	943523	920158	207589	1381618	1381619	--	--	--	--	--	--	--
+29	790	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	729509	0	994713	970080	218852	1456577	1456577	--	--	--	--	--	--	--
+29	791	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3370866	0	4244808	2487445	1332666	6460895	4974890	--	--	--	--	--	--	--
+29	792	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3824268	0	4815760	2822021	1511917	7329924	5644042	--	--	--	--	--	--	--
+29	793	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+29	794	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	718172	0	979255	955005	215451	1433941	1433942	--	--	--	--	--	--	--
+29	795	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	706824	0	963782	939916	212047	1411284	1411285	--	--	--	--	--	--	--
+29	796	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12263253	0	15442667	9049355	4848256	23504820	18098711	--	--	--	--	--	--	--
+29	797	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11306898	0	14238365	8343639	4470163	21671788	16687277	--	--	--	--	--	--	--
+29	798	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+29	799	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	796027	0	1085414	1058536	238807	1589391	1589393	--	--	--	--	--	--	--
+29	800	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	712473	0	971485	947428	213741	1422563	1422564	--	--	--	--	--	--	--
+29	801	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11268864	0	14190469	8315571	4455126	21598887	16631143	--	--	--	--	--	--	--
+29	802	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3353138	0	4222485	2474363	1325657	6426917	4948726	--	--	--	--	--	--	--
+29	803	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10927515	0	13760621	8063682	4320174	20944628	16127364	--	--	--	--	--	--	--
+29	804	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+29	805	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	734252	0	1001180	976388	220275	1466047	1466048	--	--	--	--	--	--	--
+29	806	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	797236	0	1087061	1060141	239170	1591804	1591804	--	--	--	--	--	--	--
+30	808	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+30	809	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+30	810	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+30	811	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+30	812	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+30	813	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+30	814	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	714524	0	974281	950155	214357	1426658	1426659	--	--	--	--	--	--	--
+30	815	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	728258	0	993008	968418	218477	1454080	1454081	--	--	--	--	--	--	--
+30	816	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3195330	0	4023762	2357913	1263268	6124448	4715825	--	--	--	--	--	--	--
+30	817	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3262068	0	4107803	2407160	1289653	6252364	4814320	--	--	--	--	--	--	--
+30	818	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10711619	0	13488751	7904367	4234820	20530823	15808734	--	--	--	--	--	--	--
+30	819	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+30	820	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	674555	0	919782	897005	202366	1346854	1346854	--	--	--	--	--	--	--
+30	821	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	688944	0	939401	916138	206682	1375582	1375583	--	--	--	--	--	--	--
+31	823	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+31	824	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+31	825	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	765454	0	1043725	1017879	229635	1528346	1528347	--	--	--	--	--	--	--
+31	826	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	686299	0	935794	912621	205889	1370301	1370302	--	--	--	--	--	--	--
+31	827	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3363807	0	4235920	2482236	1329875	6447366	4964472	--	--	--	--	--	--	--
+31	828	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12336258	0	15534599	9103228	4877118	23644747	18206456	--	--	--	--	--	--	--
+31	829	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+31	830	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	724528	0	987922	963458	217358	1446633	1446633	--	--	--	--	--	--	--
+31	831	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	794621	0	1083496	1056665	238385	1586583	1586584	--	--	--	--	--	--	--
+31	832	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11722394	0	14761583	8650243	4634428	22468162	17300486	--	--	--	--	--	--	--
+31	833	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3612743	0	4549395	2665931	1428291	6924497	5331863	--	--	--	--	--	--	--
+31	834	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+31	835	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1040476	0	1418730	1383597	312142	2077472	2077473	--	--	--	--	--	--	--
+31	836	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	705608	0	962123	938298	211682	1408855	1408856	--	--	--	--	--	--	--
+31	837	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11154739	0	14046756	8231356	4410007	21380146	16462712	--	--	--	--	--	--	--
+31	838	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3383118	0	4260237	2496486	1337510	6484379	4992972	--	--	--	--	--	--	--
+31	839	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10657707	0	13420862	7864584	4213506	20427491	15729168	--	--	--	--	--	--	--
+31	840	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+31	841	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	792600	0	1080740	1053978	237779	1582548	1582549	--	--	--	--	--	--	--
+31	842	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	678527	0	925197	902286	203557	1354783	1354784	--	--	--	--	--	--	--
+32	844	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+32	845	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+32	846	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+32	847	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+32	848	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+32	849	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+32	850	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+32	851	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	717594	0	978466	954236	215277	1432786	1432787	--	--	--	--	--	--	--
+32	852	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	718330	0	979471	955216	215498	1434257	1434258	--	--	--	--	--	--	--
+32	853	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11109204	0	13989415	8197754	4392005	21292869	16395509	--	--	--	--	--	--	--
+32	854	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3363283	0	4235258	2481848	1329668	6446360	4963697	--	--	--	--	--	--	--
+32	855	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11148238	0	14038570	8226559	4407437	21367686	16453118	--	--	--	--	--	--	--
+32	856	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11456898	0	14427254	8454326	4529465	21959290	16908653	--	--	--	--	--	--	--
+32	857	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11039613	0	13901782	8146402	4364492	21159485	16292804	--	--	--	--	--	--	--
+32	858	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3317619	0	4177756	2448152	1311615	6358837	4896305	--	--	--	--	--	--	--
+32	859	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+32	860	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1129023	0	1539466	1501343	338706	2254269	2254269	--	--	--	--	--	--	--
+32	861	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	695905	0	948893	925395	208771	1389482	1389482	--	--	--	--	--	--	--
+33	863	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+33	864	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+33	865	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	716305	0	976710	952523	214891	1430214	1430215	--	--	--	--	--	--	--
+33	866	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	710057	0	968190	944215	213016	1417738	1417740	--	--	--	--	--	--	--
+33	867	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3747169	0	4718672	2765127	1481436	7182149	5530255	--	--	--	--	--	--	--
+33	868	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3698788	0	4657749	2729426	1462309	7089419	5458853	--	--	--	--	--	--	--
+33	869	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3674862	0	4627619	2711770	1452850	7043560	5423541	--	--	--	--	--	--	--
+33	870	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3825338	0	4817108	2822810	1512340	7331975	5645621	--	--	--	--	--	--	--
+33	871	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+33	872	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	769224	0	1048866	1022893	230766	1535874	1535875	--	--	--	--	--	--	--
+33	873	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	772384	0	1053175	1027095	231714	1542183	1542185	--	--	--	--	--	--	--
+33	874	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3212021	0	4044781	2370229	1269867	6156440	4740458	--	--	--	--	--	--	--
+33	875	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3295697	0	4150150	2431975	1302948	6316819	4863951	--	--	--	--	--	--	--
+33	876	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11006974	0	13860681	8122316	4351588	21096926	16244633	--	--	--	--	--	--	--
+33	877	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12013620	0	15128313	8865146	4749564	23026352	17730291	--	--	--	--	--	--	--
+33	878	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+33	879	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1168573	0	1593394	1553937	350571	2333237	2333238	--	--	--	--	--	--	--
+33	880	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	727867	0	992473	967896	218359	1453297	1453298	--	--	--	--	--	--	--
+33	881	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11125991	0	14010554	8210142	4398641	21325044	16420284	--	--	--	--	--	--	--
+33	882	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3317088	0	4177088	2447761	1311405	6357820	4895522	--	--	--	--	--	--	--
+33	883	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10993079	0	13843183	8112063	4346095	21070294	16224126	--	--	--	--	--	--	--
+33	884	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11159391	0	14052615	8234790	4411846	21389063	16469579	--	--	--	--	--	--	--
+33	885	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10575395	0	13317210	7803844	4180964	20269725	15607688	--	--	--	--	--	--	--
+33	886	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10801737	0	13602232	7970866	4270448	20703550	15941733	--	--	--	--	--	--	--
+33	887	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+33	888	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	740571	0	1009797	984792	222171	1478665	1478666	--	--	--	--	--	--	--
+33	889	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	734847	0	1001992	977180	220453	1467235	1467237	--	--	--	--	--	--	--
+34	891	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+34	892	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+34	893	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+34	894	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+34	895	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+34	896	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+34	897	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	738899	0	1007517	982568	221669	1475326	1475327	--	--	--	--	--	--	--
+34	898	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1186377	0	1617671	1577611	355912	2368785	2368786	--	--	--	--	--	--	--
+34	899	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10665449	0	13430610	7870296	4216567	20442329	15740593	--	--	--	--	--	--	--
+34	900	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10756584	0	13545374	7937547	4252597	20617007	15875095	--	--	--	--	--	--	--
+34	901	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10878753	0	13699217	8027699	4300896	20851167	16055398	--	--	--	--	--	--	--
+34	902	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+34	903	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	774726	0	1056369	1030209	232417	1546860	1546861	--	--	--	--	--	--	--
+34	904	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	677972	0	924441	901549	203391	1353676	1353677	--	--	--	--	--	--	--
+35	906	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+35	907	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+35	908	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	673825	0	918786	896034	202147	1345396	1345396	--	--	--	--	--	--	--
+35	909	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	786267	0	1072104	1045555	235879	1569902	1569903	--	--	--	--	--	--	--
+35	910	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3803812	0	4790001	2806926	1503830	7290717	5613852	--	--	--	--	--	--	--
+35	911	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	13139886	0	16546579	9696245	5194831	25185051	19392490	--	--	--	--	--	--	--
+35	912	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+35	913	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	753268	0	1027110	1001675	225980	1504016	1504017	--	--	--	--	--	--	--
+35	914	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1005347	0	1370830	1336884	301603	2007331	2007333	--	--	--	--	--	--	--
+35	915	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11084991	0	13958924	8179887	4382432	21246460	16359774	--	--	--	--	--	--	--
+35	916	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3693405	0	4650970	2725454	1460181	7079102	5450908	--	--	--	--	--	--	--
+35	917	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+35	918	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	791592	0	1079366	1052637	237477	1580536	1580536	--	--	--	--	--	--	--
+35	919	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	713933	0	973475	949368	214179	1425477	1425478	--	--	--	--	--	--	--
+35	920	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10905955	0	13733471	8047772	4311650	20903304	16095544	--	--	--	--	--	--	--
+35	921	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3426978	0	4315468	2528851	1354849	6568444	5057702	--	--	--	--	--	--	--
+35	922	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10752188	0	13539838	7934303	4250859	20608581	15868607	--	--	--	--	--	--	--
+35	923	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+35	924	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	685132	0	934205	911071	205539	1367973	1367974	--	--	--	--	--	--	--
+35	925	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	681232	0	928886	905884	204369	1360185	1360186	--	--	--	--	--	--	--
+36	927	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+36	928	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+36	929	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+36	930	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+36	931	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+36	932	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+36	933	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+36	934	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	796710	0	1086344	1059443	239012	1590754	1590755	--	--	--	--	--	--	--
+36	935	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	796435	0	1085970	1059078	238930	1590206	1590207	--	--	--	--	--	--	--
+36	936	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3404249	0	4286846	2512078	1345864	6524880	5024157	--	--	--	--	--	--	--
+36	937	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10720928	0	13500473	7911236	4238500	20548665	15822472	--	--	--	--	--	--	--
+36	938	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3411907	0	4296489	2517729	1348891	6539557	5035459	--	--	--	--	--	--	--
+36	939	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10685200	0	13455483	7884872	4224375	20480186	15769744	--	--	--	--	--	--	--
+36	940	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11286454	0	14212620	8328551	4462080	21632602	16657103	--	--	--	--	--	--	--
+36	941	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3224743	0	4060801	2379617	1274896	6180823	4759234	--	--	--	--	--	--	--
+36	942	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+36	943	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	673798	0	918749	895998	202139	1345342	1345342	--	--	--	--	--	--	--
+36	944	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	745116	0	1015994	990834	223534	1487739	1487739	--	--	--	--	--	--	--
+37	946	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+37	947	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+37	948	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	740958	0	1010324	985305	222286	1479436	1479437	--	--	--	--	--	--	--
+37	949	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	793746	0	1082304	1055502	238123	1584837	1584838	--	--	--	--	--	--	--
+37	950	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11127217	0	14012098	8211046	4399126	21327394	16422093	--	--	--	--	--	--	--
+37	951	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	13093987	0	16488781	9662375	5176685	25097078	19324750	--	--	--	--	--	--	--
+37	952	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3445437	0	4338713	2542472	1362147	6603824	5084945	--	--	--	--	--	--	--
+37	953	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3706524	0	4667490	2735135	1465367	7104246	5470270	--	--	--	--	--	--	--
+37	954	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+37	955	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	687962	0	938063	914834	206388	1373623	1373624	--	--	--	--	--	--	--
+37	956	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	675762	0	921427	898610	202728	1349263	1349264	--	--	--	--	--	--	--
+37	957	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11814178	0	14877163	8717972	4670715	22644084	17435944	--	--	--	--	--	--	--
+37	958	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3559529	0	4482385	2626664	1407253	6822503	5253328	--	--	--	--	--	--	--
+37	959	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3172161	0	3994587	2340815	1254108	6080040	4681631	--	--	--	--	--	--	--
+37	960	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	12323102	0	15518033	9093520	4871917	23619532	18187040	--	--	--	--	--	--	--
+37	961	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+37	962	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	696499	0	949703	926186	208949	1390668	1390669	--	--	--	--	--	--	--
+37	963	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	694725	0	947284	923827	208417	1387126	1387127	--	--	--	--	--	--	--
+37	964	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	NO	3205687	0	4036803	2365554	1267362	6144297	4731109	--	--	--	--	--	--	--
+37	965	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11004011	0	13856949	8120129	4350417	21091247	16240259	--	--	--	--	--	--	--
+37	966	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10906873	0	13734627	8048449	4312013	20905063	16096899	--	--	--	--	--	--	--
+37	967	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	10614253	0	13366141	7832518	4196326	20344202	15665036	--	--	--	--	--	--	--
+37	968	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11337336	0	14276693	8366099	4482196	21730126	16732198	--	--	--	--	--	--	--
+37	969	Attack	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	YES	11089582	0	13964706	8183276	4384247	21255260	16366551	--	--	--	--	--	--	--
+37	970	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+37	971	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	772785	0	1053721	1027627	231835	1542984	1542984	--	--	--	--	--	--	--
+37	972	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	YES	1044778	0	1424595	1389317	313433	2086061	2086062	--	--	--	--	--	--	--
+38	974	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.05	The Winning Gambit	Masriad Vael	--	--	--
+38	975	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+38	976	Officer Ability	SubspaceEddie	ThunderDome	PILUM	YES	--	--	PILUM	NO	--	--	--	--	--	--	--	--	Officer	2	The Looking Glass	Toli	--	--	--
+38	977	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+38	978	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+38	979	Charging Weapons	Static Krenim Warships	--	Static Krenim Warships	NO	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+38	980	Charging Weapons	SubspaceEddie	ThunderDome	PILUM	YES	Static Krenim Warships	--	Static Krenim Warships	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+38	981	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	683674	0	932216	909131	205102	1365061	1365062	--	--	--	--	--	--	--
+38	982	Combatant Destroyed	SubspaceEddie	ThunderDome	PILUM	NO	Static Krenim Warships	--	PILUM	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+38	983	Attack	Static Krenim Warships	--	Static Krenim Warships	NO	SubspaceEddie	ThunderDome	PILUM	YES	NO	780411	0	1064121	1037770	234123	1558212	1558213	--	--	--	--	--	--	--
+38	984	Combatant Destroyed	SubspaceEddie	ThunderDome	PILUM	NO	Static Krenim Warships	--	PILUM	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

@@ -1,0 +1,182 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	64	DEFEAT	GS-31	60	2742269440	0	James T. Kirk	Khan Noonien Singh	Annorax	1859031862	0	4515994937	0	Tigan Beta	10/31/2025 9:18:49 PM
+--	1	VICTORY	Romulan Warbird	1	104079417344	0	Romulan Captain	--	--	135742745810	70830476080	20100544134	0	Tigan Beta	10/31/2025 9:18:49 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	571879488	269692384	1900697600	Apex Shred---Marked for Disposal	Leader	Inspirational	Savage Tenacity	Time is Patient	5	551839552	23667680	1994425	1902734	0.22	3.4	5	11436321	11234903	31267252	5	1942363414	1859031862	232	1410	395.06	51084540	0	1	NO	YES
+Enemy Fleet 1	20875855872	5281917440	77921640448	Revolutionary Spirit	--	--	--	--	0	18366590976	120892720	120892720	1012848256	0.1	1.72	0	205237152	816009600	35136704	0	20100544512	135742742528	14	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.02	--	Chrono Deflector	--	--	--
+1	7	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	41129700	193897168	241481296	0	50060828	526568992	0	--	--	--	--	--	--	--
+1	8	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	37539508	176971968	220402496	0	45691040	480605012	0	--	--	--	--	--	--	--
+1	9	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	40016656	188649952	234946384	0	48706092	512319084	0	--	--	--	--	--	--	--
+1	10	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	38005412	179168368	223137920	0	46258112	486569812	0	--	--	--	--	--	--	--
+1	11	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	36461032	171887712	214070544	0	44378380	466797668	0	--	--	--	--	--	--	--
+1	12	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	38418640	181116448	225564064	0	46761072	491860224	0	--	--	--	--	--	--	--
+1	13	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	40016028	188646976	234942672	0	48705324	512311000	0	--	--	--	--	--	--	--
+1	14	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	36918108	174042512	216754128	0	44934704	472649452	0	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	1134134144	2153211136	738661568	0	0	1037630784	2988376064	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	1169544576	2220439552	761724352	0	0	1070027840	3081680640	--	--	--	--	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	20	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	22	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	17546988	82721520	122556320	0	44418884	267243712	0	--	--	--	--	--	--	--
+1	23	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	16140794	76092312	112734800	0	40859208	245827114	0	--	--	--	--	--	--	--
+1	24	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	15635338	73709448	109204464	0	39579684	238128934	0	--	--	--	--	--	--	--
+1	25	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	17645748	83187096	123246104	0	44668884	268747832	0	--	--	--	--	--	--	--
+1	26	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	15142332	71385280	105761080	0	38331676	230620368	0	--	--	--	--	--	--	--
+1	27	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	15804915	74508888	110388872	0	40008956	240711631	0	--	--	--	--	--	--	--
+1	28	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	15661419	73832408	109386632	0	39645708	238526167	0	--	--	--	--	--	--	--
+1	29	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	16627005	78384448	116130728	0	42090016	253232197	0	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	1212012032	2301066240	789383424	0	0	1108881920	3193579776	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	1065204416	2022344704	693767680	0	0	974566336	2806750464	--	--	--	--	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	35	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	36	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	37	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8625348	40662352	203601952	0	33170572	286060224	0	--	--	--	--	--	--	--
+1	38	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	10229351	48224084	241464576	0	39339100	339257111	0	--	--	--	--	--	--	--
+1	39	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	9379474	44217524	221403168	0	36070724	311070890	0	--	--	--	--	--	--	--
+1	40	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	3250207	15322407	76721384	0	12499350	107793348	0	--	--	--	--	--	--	--
+1	41	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8729736	41154468	206066048	0	33572020	289522272	0	--	--	--	--	--	--	--
+1	42	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8891230	41915800	209878144	0	34193080	294878254	0	--	--	--	--	--	--	--
+1	43	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	3587218	16911172	84676544	0	13795394	118970328	0	--	--	--	--	--	--	--
+1	44	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8786382	41421512	207403168	0	33789860	291400922	0	--	--	--	--	--	--	--
+1	45	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	2297137664	4361232384	1473825280	0	0	2095926272	6036269056	--	--	--	--	--	--	--
+1	46	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	2393892608	4544926720	1535902464	0	0	2184206848	6290514944	--	--	--	--	--	--	--
+1	47	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	48	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	49	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	50	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	51	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	52	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	13017364	61367576	119902680	0	67169616	261457236	0	--	--	--	--	--	--	--
+1	53	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	10735867	50611944	98887856	0	55397092	215632759	0	--	--	--	--	--	--	--
+1	54	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	12954309	61070312	119321880	0	66844252	260190753	0	--	--	--	--	--	--	--
+1	55	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	12575718	59285528	115834680	0	64890724	252586650	0	--	--	--	--	--	--	--
+1	56	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	12733702	60030308	117289872	0	65705920	255759802	0	--	--	--	--	--	--	--
+1	57	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	10754846	50701416	99062672	0	55495024	216013958	0	--	--	--	--	--	--	--
+1	58	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	12774680	60223488	117667312	0	65917368	256582848	0	--	--	--	--	--	--	--
+1	59	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	13415682	63245360	123571576	0	69224936	269457554	0	--	--	--	--	--	--	--
+1	60	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	2584632320	4907055616	1658279552	0	0	2358238848	6791728640	--	--	--	--	--	--	--
+1	61	Shield Depleted	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	Romulan Warbird	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	62	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	7326091776	0	1621624960	0	0	2306112640	6641604096	--	--	--	--	--	--	--
+2	64	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	191728200	--	--	--	--
+2	65	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+2	66	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	67	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	68	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	69	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	70	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	71	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	72	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+2	73	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3500467968	0	786549888	0	0	1104901504	3182116352	--	--	--	--	--	--	--
+2	74	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3833266176	0	861329152	0	0	1209947136	3484648192	--	--	--	--	--	--	--
+2	75	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	76	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11363379	53570216	117318240	0	73569832	255821667	0	--	--	--	--	--	--	--
+2	77	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11317030	53351712	116839728	0	73269760	254778230	0	--	--	--	--	--	--	--
+2	78	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	10834528	51077064	111858264	0	70145904	243915760	0	--	--	--	--	--	--	--
+2	79	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11659012	54963912	120370424	0	75483848	262477196	0	--	--	--	--	--	--	--
+2	80	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11498564	54207516	118713928	0	74445064	258865072	0	--	--	--	--	--	--	--
+2	81	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	10770827	50776760	111200600	0	69733488	242481675	0	--	--	--	--	--	--	--
+2	82	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11314005	53337452	116808496	0	73250176	254710129	0	--	--	--	--	--	--	--
+2	83	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11409165	53786064	117790952	0	73866264	256852445	0	--	--	--	--	--	--	--
+2	84	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3750481152	0	842727552	0	0	1183816576	3409392128	--	--	--	--	--	--	--
+2	85	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3538474752	0	795089984	0	0	1116898112	3216666624	--	--	--	--	--	--	--
+2	86	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	87	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	88	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	89	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	90	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	91	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6920668	32626004	230739120	0	53902084	324187876	0	--	--	--	--	--	--	--
+2	92	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6938072	32708052	231319392	0	54037636	325003152	0	--	--	--	--	--	--	--
+2	93	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6393964	30142972	213178496	0	49799812	299515244	0	--	--	--	--	--	--	--
+2	94	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6039542	28472126	201361872	0	47039376	282912916	0	--	--	--	--	--	--	--
+2	95	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6942763	32730166	231475776	0	54074172	325222877	0	--	--	--	--	--	--	--
+2	96	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6309402	29744320	210359152	0	49141196	295554070	0	--	--	--	--	--	--	--
+2	97	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6642912	31316588	221478608	0	51738768	311176876	0	--	--	--	--	--	--	--
+2	98	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6624845	31231412	220876208	0	51598048	310330513	0	--	--	--	--	--	--	--
+2	99	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	100	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	101	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	102	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	103	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8426609	39725440	105760128	0	76706112	230618289	0	--	--	--	--	--	--	--
+2	104	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8689642	40965456	109061392	0	79100464	237816954	0	--	--	--	--	--	--	--
+2	105	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	8478242	39968856	106408168	0	77176128	232031394	0	--	--	--	--	--	--	--
+2	106	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8182318	38573784	102694104	0	74482376	223932582	0	--	--	--	--	--	--	--
+2	107	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8202580	38669308	102948408	0	74666816	224487112	0	--	--	--	--	--	--	--
+2	108	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8209035	38699740	103029424	0	74725576	224663775	0	--	--	--	--	--	--	--
+2	109	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	9619607	45349576	120733128	0	87565784	263268095	0	--	--	--	--	--	--	--
+2	110	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	9040242	42618284	113461680	0	82291920	247412126	0	--	--	--	--	--	--	--
+3	112	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	67784620	--	--	--	--
+3	113	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+3	114	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	115	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	116	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	117	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	118	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	119	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+3	120	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	24318056	97272216	219682240	0	137761920	479034432	0	--	--	--	--	--	--	--
+3	121	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	25982180	103928720	234715472	0	147189200	511815572	0	--	--	--	--	--	--	--
+3	122	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	23995244	95980976	216766064	0	135933184	472675468	0	--	--	--	--	--	--	--
+3	123	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	27006428	108025720	243968240	0	152991584	531991972	0	--	--	--	--	--	--	--
+3	124	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	23223624	92894504	209795488	0	131561968	457475584	0	--	--	--	--	--	--	--
+3	125	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	27016672	108066688	244060768	0	153049600	532193728	0	--	--	--	--	--	--	--
+3	126	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	25769234	103076936	232791776	0	145982864	507620810	0	--	--	--	--	--	--	--
+3	127	Shield Depleted	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	128	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	113669168	0	205370848	0	128787304	447827320	0	--	--	--	--	--	--	--
+3	129	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3838007040	0	862394432	0	0	1211443776	3488957696	--	--	--	--	--	--	--
+3	130	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	4050331136	0	910103360	0	0	1278462528	3681971968	--	--	--	--	--	--	--
+3	131	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	132	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	133	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	134	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	135	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+3	136	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	51981536	0	104044168	0	70850792	226876496	0	--	--	--	--	--	--	--
+3	137	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	57163096	0	114415368	0	77913256	249491720	0	--	--	--	--	--	--	--
+3	138	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	57242748	0	114574792	0	78021824	249839364	0	--	--	--	--	--	--	--
+3	139	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	51911448	0	103903872	0	70755264	226570584	0	--	--	--	--	--	--	--
+3	140	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	51677868	0	103436352	0	70436888	225551108	0	--	--	--	--	--	--	--
+3	141	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	62029256	0	124155280	0	84545824	270730360	0	--	--	--	--	--	--	--
+3	142	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	61226484	0	122548480	0	83451648	267226612	0	--	--	--	--	--	--	--
+3	143	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	58482444	0	117056120	0	79711520	255250084	0	--	--	--	--	--	--	--
+3	144	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	4063439616	0	913048832	0	0	1282600192	3693888256	--	--	--	--	--	--	--
+3	145	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	3782081280	0	849827968	0	0	1193791104	3438118144	--	--	--	--	--	--	--
+3	146	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	147	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	148	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	149	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	150	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+3	151	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	37968156	0	243091264	0	60483188	341542608	0	--	--	--	--	--	--	--
+3	152	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	33732056	0	215969648	0	53735096	303436800	0	--	--	--	--	--	--	--
+3	153	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	37208332	0	238226512	0	59272796	334707640	0	--	--	--	--	--	--	--
+3	154	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	34991108	0	224030720	0	55740760	314762588	0	--	--	--	--	--	--	--
+3	155	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	34112544	0	218405696	0	54341208	306859448	0	--	--	--	--	--	--	--
+3	156	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	37371892	0	239273696	0	59533344	336178932	0	--	--	--	--	--	--	--
+3	157	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	33360610	0	213591440	0	53143380	300095430	0	--	--	--	--	--	--	--
+3	158	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	35430932	0	226846688	0	56441396	318719016	0	--	--	--	--	--	--	--
+3	159	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	7795500032	0	1725528192	0	0	2453873280	7067154944	--	--	--	--	--	--	--
+3	160	Attack	XanOfHanoi	ThunderDome	GS-31	NO	--	--	Romulan Warbird	NO	--	--	YES	7577570816	0	1677289728	0	0	2385273088	6869587456	--	--	--	--	--	--	--
+3	161	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	162	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	163	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	164	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	165	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+3	166	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	49168892	0	117572688	0	89634928	256376508	0	--	--	--	--	--	--	--
+3	167	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	44992112	0	107585168	0	82020648	234597928	0	--	--	--	--	--	--	--
+3	168	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	45726036	0	109340120	0	83358592	238424748	0	--	--	--	--	--	--	--
+3	169	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	48483928	0	115934792	0	88386232	252804952	0	--	--	--	--	--	--	--
+3	170	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	51027356	0	122016648	0	93022904	266066908	0	--	--	--	--	--	--	--
+3	171	Attack	--	--	Romulan Warbird	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	44537028	0	106496968	0	81191032	232225028	0	--	--	--	--	--	--	--
+3	172	Combatant Destroyed	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

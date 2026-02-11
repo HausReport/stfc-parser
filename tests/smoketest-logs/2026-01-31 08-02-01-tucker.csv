@@ -1,0 +1,1104 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfRangoon	68	VICTORY	BORG CUBE	75	14770620416	0	Annorax	Suder	Trip Tucker	12648084788	11547773415	40076979962	23406235784	Dae Mu	1/31/2026 8:02:01 AM
+V'ger Silent Enemy ▶	68	DEFEAT	V'ger Silent Enemy	68	1718841376768	0	Replicated Silent	--	--	1301509188000	0	2122025850000	0	Dae Mu	1/31/2026 8:02:01 AM
+
+Reward Name	Count
+6★ Broken Battleship Parts	84320
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1609379584	483833600	12677406720	Phase Discriminating Amplifier	Past, Present, and Future	Time is Patient	Silence Your Demons	Things Blow Up	40.5	1545230464	6391193	75769425	6391193	0.22	4.2	40.5	90825216	2990239	2951263	40.5	10657112866	14697701453	242	1641	604.95	2917470	0	1	NO	NO
+Enemy Fleet 1	990703168	6083140608	1711767552000	Replicated Ruthless Pursuit---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	536872576	21503196	183908896	21503196	0.1	1.5	0	1018572416	99027872	99027872	0	2122025795584	1301509177344	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	2	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	3	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+1	4	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	AGIMUS	--	--	--
+1	5	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	AGIMUS	--	--	--
+1	6	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.15	--	AGIMUS	--	--	--
+1	7	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+1	8	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14884756	70170992	16640366	932802944	6450061	28133759	1012815360	--	--	--	--	--	--	--
+1	9	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	136000672	641146048	152041520	8522936320	58933632	257055632	9254002560	--	--	--	--	--	--	--
+1	10	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	15082490	71103168	16861422	945194624	6535746	28507498	1026269952	--	--	--	--	--	--	--
+1	11	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2122824192	7311949824	844774016	0	0	1270020224	9009527808	--	--	--	--	--	--	--
+1	12	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	187937600	647340608	74789424	0	0	112437296	797630336	--	--	--	--	--	--	--
+1	13	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	188014544	647605632	74820048	0	0	112483360	797956864	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	15	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	16	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+1	17	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13715186	64657304	15906893	891686912	9099931	26893682	968172544	--	--	--	--	--	--	--
+1	18	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	109226920	514926912	126681552	7101341696	72471304	214179648	7710468736	--	--	--	--	--	--	--
+1	19	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	104316184	491776320	120986072	6782072320	69213072	204550400	7363813568	--	--	--	--	--	--	--
+1	20	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4146148608	14281178112	1649952256	0	0	2480512768	17596766208	--	--	--	--	--	--	--
+1	21	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4288718592	14772252672	1706687744	0	0	2565809152	18201849856	--	--	--	--	--	--	--
+1	22	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	NO	333402912	1148387712	132677072	0	0	199464688	1415003008	--	--	--	--	--	--	--
+1	23	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	24	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	25	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+1	26	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	78260984	368944640	94291256	5273864192	69937984	159062160	5726236896	--	--	--	--	--	--	--
+1	27	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	15786959	74424232	19020616	1063854208	14108027	32086322	1155107720	--	--	--	--	--	--	--
+1	28	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	77622120	365932864	93521536	5230812672	69367064	157763680	5679492576	--	--	--	--	--	--	--
+1	29	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2105621376	7252696064	837928192	0	0	1259729024	8936516608	--	--	--	--	--	--	--
+1	30	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2048038016	7054353408	815012992	0	0	1225278720	8692125696	--	--	--	--	--	--	--
+1	31	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2464492288	8488806912	980740224	0	0	1474430336	10459609088	--	--	--	--	--	--	--
+1	32	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	33	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	34	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+1	35	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	62787576	295998592	78283264	4378510848	70561072	132057896	4754083456	--	--	--	--	--	--	--
+1	36	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	67718800	319245760	84431480	4722391040	76102808	142429472	5127460416	--	--	--	--	--	--	--
+1	37	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	61699588	290869504	76926760	4302639616	69338384	129769564	4671704288	--	--	--	--	--	--	--
+1	38	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4363421184	15029562368	1736415488	0	0	2610502400	18518896640	--	--	--	--	--	--	--
+1	39	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4869744640	16773564416	1937905920	0	0	2913419520	20667795456	--	--	--	--	--	--	--
+1	40	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4274951936	14724834304	1701209344	0	0	2557573120	18143422464	--	--	--	--	--	--	--
+2	42	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	560255700	--	--	--	--
+2	43	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	44	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	45	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	46	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	47	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+2	48	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+2	49	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	50	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+2	51	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+2	52	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	37595112	177234096	48377688	2711890432	51200964	81791844	2944506448	--	--	--	--	--	--	--
+2	53	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12241322	57709088	15752230	883017024	16671515	26632195	958758984	--	--	--	--	--	--	--
+2	54	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12803226	60358064	16475293	923549504	17436776	27854671	1002768192	--	--	--	--	--	--	--
+2	55	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2145719040	7390810112	853884992	0	0	1283717952	9106696192	--	--	--	--	--	--	--
+2	56	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2114374912	7282846720	841411648	0	0	1264965952	8973667328	--	--	--	--	--	--	--
+2	57	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2384390912	8212902400	948864064	0	0	1426508096	10119649280	--	--	--	--	--	--	--
+2	58	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	59	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	60	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+2	61	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	17912012	84442344	23799004	1334092160	28516998	40236830	1448525688	--	--	--	--	--	--	--
+2	62	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12242013	57712344	16265494	911788928	19490020	27499967	989998832	--	--	--	--	--	--	--
+2	63	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11949799	56334764	15877241	890024704	19024798	26843546	966367760	--	--	--	--	--	--	--
+2	64	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	65	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	66	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	67	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+2	68	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4831509	22777112	6639160	371339136	8804082	11199755	403191244	--	--	--	--	--	--	--
+2	69	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4450810	20982392	6116028	342079456	8110364	10317272	371421778	--	--	--	--	--	--	--
+2	70	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5054000	23826000	6944894	388439328	9209510	11715504	421758228	--	--	--	--	--	--	--
+2	71	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2446413824	8426536448	973545920	0	0	1463614400	10382881792	--	--	--	--	--	--	--
+2	72	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2188887040	7539500032	871063616	0	0	1309544512	9289906176	--	--	--	--	--	--	--
+2	73	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2384650496	8213796352	948967296	0	0	1426664064	10120750080	--	--	--	--	--	--	--
+2	74	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	75	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	76	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+2	77	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11817392	55710564	16734646	935996160	24253784	28230066	1016282480	--	--	--	--	--	--	--
+2	78	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	3896858	18370904	5518353	308650528	7997835	9309040	335125438	--	--	--	--	--	--	--
+2	79	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4735052	22322388	6705322	375039648	9718128	11311366	407209172	--	--	--	--	--	--	--
+2	80	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	82	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	103251500	--	--	--	--
+3	83	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	84	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	85	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	86	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	87	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+3	88	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+3	89	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	90	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+3	91	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+3	92	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13563223	54252888	15785454	884879488	18988512	26688365	960781200	--	--	--	--	--	--	--
+3	93	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14383202	57532808	16739781	938375808	20136484	28301843	1018866240	--	--	--	--	--	--	--
+3	94	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20294004	81176016	23619024	1324003072	28411606	39932530	1437571192	--	--	--	--	--	--	--
+3	95	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1815644160	7262576640	812848832	0	0	1222024896	8669044736	--	--	--	--	--	--	--
+3	96	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1912987008	7651948032	856428416	0	0	1287541504	9133821952	--	--	--	--	--	--	--
+3	97	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2054507008	8218028032	919785728	0	0	1382791936	9809528832	--	--	--	--	--	--	--
+3	98	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	99	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	100	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+3	101	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4723243	18892972	5670091	317846240	7563764	9586386	345109924	--	--	--	--	--	--	--
+3	102	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13233129	52932516	15885917	890511104	21191428	26858222	966895872	--	--	--	--	--	--	--
+3	103	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13629858	54519432	16362177	917208576	21826746	27663429	995883360	--	--	--	--	--	--	--
+3	104	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3811857664	15247430656	1706537088	0	0	2565583232	18200242176	--	--	--	--	--	--	--
+3	105	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3793442560	15173770240	1698292736	0	0	2553188096	18112317440	--	--	--	--	--	--	--
+3	106	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3838215680	15352862720	1718337280	0	0	2583321856	18326093824	--	--	--	--	--	--	--
+3	107	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	108	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	109	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+3	110	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5109278	20437114	6337325	354456992	9210888	10690585	384861012	--	--	--	--	--	--	--
+3	111	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4892315	19569260	6068214	339405152	8819751	10236612	368518080	--	--	--	--	--	--	--
+3	112	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5326088	21304352	6606247	369498208	9601747	11144234	401192408	--	--	--	--	--	--	--
+3	113	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1789839616	7159358464	801296320	0	0	1204657344	8545837056	--	--	--	--	--	--	--
+3	114	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1913355648	7653422592	856593472	0	0	1287789504	9135582208	--	--	--	--	--	--	--
+3	115	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1992324096	7969296384	891946944	0	0	1340940224	9512627200	--	--	--	--	--	--	--
+3	116	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	117	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	118	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+3	119	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12858914	51435656	16421806	918498496	25771382	27702326	997283928	--	--	--	--	--	--	--
+3	120	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13566193	54264772	17325054	969018624	27188884	29226039	1052137488	--	--	--	--	--	--	--
+3	121	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12421528	49686112	15863230	887256448	24894788	26760058	963362048	--	--	--	--	--	--	--
+3	122	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4334205952	17336823808	1940388096	0	0	2917149952	20694267904	--	--	--	--	--	--	--
+3	123	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3745259776	14981039104	1676721664	0	0	2520759040	17882261504	--	--	--	--	--	--	--
+3	124	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4118781184	16475124736	1843944064	0	0	2772159360	19665690624	--	--	--	--	--	--	--
+4	126	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	99160720	--	--	--	--
+4	127	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	128	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	129	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	130	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	131	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+4	132	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+4	133	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	134	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+4	135	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+4	136	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20540220	82160872	23931524	1341520768	28898982	40460870	1456591496	--	--	--	--	--	--	--
+4	137	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19847620	79390480	23124574	1296285824	27924534	39096568	1407476464	--	--	--	--	--	--	--
+4	138	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20948748	83794992	24407504	1368202496	29473760	41265612	1485561888	--	--	--	--	--	--	--
+4	139	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1950996736	7803986944	890832832	0	0	1339265216	9306551296	--	--	--	--	--	--	--
+4	140	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1850903424	7403613696	845129792	0	0	1270555072	8829091840	--	--	--	--	--	--	--
+4	141	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2008156032	8032624128	916931968	0	0	1378502400	9579209728	--	--	--	--	--	--	--
+4	142	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	143	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	144	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+4	145	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14005679	56022716	16831024	943490624	22525852	28456103	1024419792	--	--	--	--	--	--	--
+4	146	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5004899	20019596	6014530	337154336	8049565	10168726	366074200	--	--	--	--	--	--	--
+4	147	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4872936	19491742	5855946	328264640	7837323	9900611	356421976	--	--	--	--	--	--	--
+4	148	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	149	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	150	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	151	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+4	152	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4329314	17317258	5375377	300653664	7834870	9067851	326442632	--	--	--	--	--	--	--
+4	153	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12472711	49890844	15486408	866180160	22572182	26124385	940477920	--	--	--	--	--	--	--
+4	154	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13586248	54344992	16869002	943510848	24587376	28456722	1024441744	--	--	--	--	--	--	--
+4	155	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1992944256	7971777024	909986176	0	0	1368059392	9506648064	--	--	--	--	--	--	--
+4	156	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1755046656	7020186624	801361216	0	0	1204755008	8371839488	--	--	--	--	--	--	--
+4	157	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1792489216	7169956864	818457664	0	0	1230457152	8550446592	--	--	--	--	--	--	--
+4	158	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	159	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	160	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+4	161	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13371662	53486648	17093552	956070400	26891862	28835516	1038078608	--	--	--	--	--	--	--
+4	162	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5420812	21683246	6929649	387586624	10901840	11689787	420832384	--	--	--	--	--	--	--
+4	163	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14487834	57951336	18520400	1035876352	29136604	31242502	1124730024	--	--	--	--	--	--	--
+4	164	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	166	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	110177600	--	--	--	--
+5	167	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	168	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+5	169	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	170	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	171	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+5	172	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+5	173	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	174	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+5	175	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+5	176	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14235113	56940452	16603388	930730048	20126898	28071243	1010564656	--	--	--	--	--	--	--
+5	177	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14452022	57808088	16856384	944912128	20433582	28498980	1025963224	--	--	--	--	--	--	--
+5	178	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20355596	81422376	23742124	1330903680	28780592	40140656	1445063712	--	--	--	--	--	--	--
+5	179	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1801624704	7206498816	822628928	0	0	1236728000	8594024448	--	--	--	--	--	--	--
+5	180	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2024390144	8097560576	924344512	0	0	1389645504	9656649728	--	--	--	--	--	--	--
+5	181	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1899476480	7597905920	867308416	0	0	1303898496	9060792320	--	--	--	--	--	--	--
+5	182	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	183	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	184	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+5	185	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13841812	55367248	16651576	933431360	22358392	28152708	1013497680	--	--	--	--	--	--	--
+5	186	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4807293	19229172	5783130	324182848	7765120	9777501	351990062	--	--	--	--	--	--	--
+5	187	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5026572	20106288	6046921	338970080	8119317	10223490	368045688	--	--	--	--	--	--	--
+5	188	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3887019520	15548078080	1774828416	0	0	2668251520	18541674496	--	--	--	--	--	--	--
+5	189	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3844706304	15378825216	1755507968	0	0	2639205632	18339833856	--	--	--	--	--	--	--
+5	190	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3601835008	14407340032	1644612096	0	0	2472486400	17181300736	--	--	--	--	--	--	--
+5	191	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	192	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	193	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+5	194	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5362222	21448888	6664649	372764736	9741386	11242753	404739128	--	--	--	--	--	--	--
+5	195	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13140191	52560760	16331804	913464576	23871388	27550503	991818216	--	--	--	--	--	--	--
+5	196	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14083460	56333840	17504184	979037632	25584996	29528224	1063015888	--	--	--	--	--	--	--
+5	197	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1796383488	7185533952	820235776	0	0	1233130240	8569022976	--	--	--	--	--	--	--
+5	198	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1775432832	7101731328	810669632	0	0	1218749120	8469084672	--	--	--	--	--	--	--
+5	199	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1780861056	7123444224	813148160	0	0	1222474880	8494978560	--	--	--	--	--	--	--
+5	200	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	201	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	202	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+5	203	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13620693	54482776	17429154	974841088	27487322	29401649	1058459384	--	--	--	--	--	--	--
+5	204	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4310546	17242184	5515810	308508320	8698923	9304751	334971032	--	--	--	--	--	--	--
+5	205	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13474204	53896816	17241704	964356800	27191700	29085440	1047075784	--	--	--	--	--	--	--
+5	206	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3823332096	15293328384	1745748480	0	0	2624532736	18237876224	--	--	--	--	--	--	--
+5	207	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4149315840	16597263360	1894594048	0	0	2848303872	19792869376	--	--	--	--	--	--	--
+5	208	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3985546496	15942185984	1819816320	0	0	2735884928	19011663872	--	--	--	--	--	--	--
+6	210	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	101165200	--	--	--	--
+6	211	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+6	212	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+6	213	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	214	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	215	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+6	216	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+6	217	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	218	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+6	219	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+6	220	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19927000	79708008	23242226	1302881024	28174606	39295488	1414637376	--	--	--	--	--	--	--
+6	221	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19730850	78923400	23013442	1290056192	27897270	38908682	1400712472	--	--	--	--	--	--	--
+6	222	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13815465	55261860	16113923	903292352	19533562	27243706	980773456	--	--	--	--	--	--	--
+6	223	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2112346368	8449385472	964505664	0	0	1450023232	10076214272	--	--	--	--	--	--	--
+6	224	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2095742208	8382968832	956924160	0	0	1438625280	9997009920	--	--	--	--	--	--	--
+6	225	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1769099136	7076396544	807777664	0	0	1214400768	8438872576	--	--	--	--	--	--	--
+6	226	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	227	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	228	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+6	229	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4718953	18875810	5676858	318225568	7622426	9597827	345521788	--	--	--	--	--	--	--
+6	230	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5002855	20011420	6018390	337370688	8081007	10175252	366309108	--	--	--	--	--	--	--
+6	231	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4793139	19172556	5766103	323228352	7742257	9748715	350953692	--	--	--	--	--	--	--
+6	232	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	233	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	234	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	235	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+6	236	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4687636	18750546	5826214	325869696	8515887	9828377	353821602	--	--	--	--	--	--	--
+6	237	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4627052	18508206	5750913	321658016	8405825	9701352	349248660	--	--	--	--	--	--	--
+6	238	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13240825	52963300	16456882	920460352	24054206	27761501	999414064	--	--	--	--	--	--	--
+6	239	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2011237632	8044950528	918339008	0	0	1380617920	9593909248	--	--	--	--	--	--	--
+6	240	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2032019712	8128078848	927828224	0	0	1394883072	9693043712	--	--	--	--	--	--	--
+6	241	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2058855040	8235420160	940081344	0	0	1413304640	9821051904	--	--	--	--	--	--	--
+6	242	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+6	243	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	244	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+6	245	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12798555	51194216	16377138	916000128	25828200	27626981	994571256	--	--	--	--	--	--	--
+6	246	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4369084	17476336	5590716	312697920	8817056	9431112	339520000	--	--	--	--	--	--	--
+6	247	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5004443	20017772	6403727	358170976	10099247	10802597	388893568	--	--	--	--	--	--	--
+6	248	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	250	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	83409740	--	--	--	--
+7	251	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+7	252	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+7	253	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	254	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	255	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+7	256	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+7	257	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	258	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+7	259	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+7	260	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14085562	56342248	16428956	920952000	19915448	27776326	999947888	--	--	--	--	--	--	--
+7	261	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19776460	79105840	23066640	1293038208	27961756	38998624	1403950280	--	--	--	--	--	--	--
+7	262	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20969196	83876792	24457812	1371022592	29648158	41350670	1488623880	--	--	--	--	--	--	--
+7	263	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1775778944	7103115776	810827648	0	0	1218986496	8470735872	--	--	--	--	--	--	--
+7	264	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2084094208	8336376832	951605632	0	0	1430630016	9941446656	--	--	--	--	--	--	--
+7	265	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1772390528	7089562112	809280512	0	0	1216660608	8454572544	--	--	--	--	--	--	--
+7	266	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	267	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	268	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+7	269	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13445649	53782596	16174995	906715840	21718478	27346958	984490600	--	--	--	--	--	--	--
+7	270	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4991971	19967884	6005296	336636704	8063426	10153117	365512164	--	--	--	--	--	--	--
+7	271	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13229155	52916620	15914555	892116416	21368778	26906636	968638888	--	--	--	--	--	--	--
+7	272	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4283712512	17134850048	1955960064	0	0	2940561664	20433960960	--	--	--	--	--	--	--
+7	273	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4111083776	16444335104	1877137024	0	0	2822058880	19610497024	--	--	--	--	--	--	--
+7	274	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4056396800	16225587200	1852166656	0	0	2784519680	19349630976	--	--	--	--	--	--	--
+7	275	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	276	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	277	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+7	278	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13178596	52714384	16379538	916134336	23941156	27631034	994716976	--	--	--	--	--	--	--
+7	279	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4654625	18618500	5785184	323574816	8455916	9759163	351329878	--	--	--	--	--	--	--
+7	280	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5020897	20083586	6240419	349036896	9121311	10527109	378976000	--	--	--	--	--	--	--
+7	281	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2099352064	8397408256	958572416	0	0	1441103232	10014229504	--	--	--	--	--	--	--
+7	282	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2108010496	8432041984	962525888	0	0	1447046848	10055531520	--	--	--	--	--	--	--
+7	283	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2095521792	8382087168	956823488	0	0	1438474176	9995958272	--	--	--	--	--	--	--
+7	284	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+7	285	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	286	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+7	287	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14199507	56798028	18169808	1016267136	28655400	30651079	1103438800	--	--	--	--	--	--	--
+7	288	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4568833	18275334	5846317	326994112	9220162	9862290	355042468	--	--	--	--	--	--	--
+7	289	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4622637	18490550	5915165	330844896	9328742	9978432	359223558	--	--	--	--	--	--	--
+7	290	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3959548672	15838194688	1807945472	0	0	2718039552	18887649280	--	--	--	--	--	--	--
+7	291	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3628444416	14513777664	1656762112	0	0	2490750464	17308233728	--	--	--	--	--	--	--
+7	292	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3882308352	15529233408	1772677248	0	0	2665017216	18519201792	--	--	--	--	--	--	--
+8	294	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	98229890	--	--	--	--
+8	295	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+8	296	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+8	297	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	298	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	299	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+8	300	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+8	301	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	302	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+8	303	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+8	304	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14016010	56064040	16347833	916404544	19817110	27639177	995010360	--	--	--	--	--	--	--
+8	305	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14117607	56470428	16466333	923047232	19960758	27839526	1002222832	--	--	--	--	--	--	--
+8	306	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20266084	81064336	23637722	1325051264	28654034	39964144	1438709296	--	--	--	--	--	--	--
+8	307	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1959770880	7839083520	894839104	0	0	1345288256	9348405248	--	--	--	--	--	--	--
+8	308	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1966982656	7867930624	898132032	0	0	1350238784	9382806528	--	--	--	--	--	--	--
+8	309	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1841380864	7365523456	840781760	0	0	1264018880	8783667200	--	--	--	--	--	--	--
+8	310	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	311	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	312	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+8	313	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13366155	53464620	16079365	901355136	21590072	27185276	978670072	--	--	--	--	--	--	--
+8	314	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4999682	19998730	6014573	337156736	8075883	10168800	366076804	--	--	--	--	--	--	--
+8	315	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13799098	55196392	16600191	930550912	22289396	28065837	1010370152	--	--	--	--	--	--	--
+8	316	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	317	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	318	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	319	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+8	320	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5147585	20590338	6397878	357843840	9351461	10792730	388538372	--	--	--	--	--	--	--
+8	321	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4602693	18410772	5720638	319964672	8361572	9650279	347410068	--	--	--	--	--	--	--
+8	322	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14948723	59794892	18579610	1039188032	27156892	31342381	1128325768	--	--	--	--	--	--	--
+8	323	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2096638464	8386553856	957333376	0	0	1439240576	10001285120	--	--	--	--	--	--	--
+8	324	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1954717952	7818871808	892531904	0	0	1341819328	9324302336	--	--	--	--	--	--	--
+8	325	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1875021824	7500087296	856142336	0	0	1287112192	8944139264	--	--	--	--	--	--	--
+8	326	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+8	327	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	328	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+8	329	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4886022	19544086	6252194	349695456	9860266	10546974	379691050	--	--	--	--	--	--	--
+8	330	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4916188	19664752	6290796	351854528	9921144	10612092	382035316	--	--	--	--	--	--	--
+8	331	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5281068	21124272	6757698	377969152	10657491	11399721	410389960	--	--	--	--	--	--	--
+8	332	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	334	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	89056720	--	--	--	--
+9	335	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+9	336	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+9	337	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	338	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	339	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+9	340	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+9	341	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	342	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+9	343	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+9	344	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20185948	80743792	23544254	1319811712	28540728	39806122	1433020312	--	--	--	--	--	--	--
+9	345	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19720012	78880048	23000800	1289347584	27881946	38887310	1399943080	--	--	--	--	--	--	--
+9	346	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13909269	55637072	16223333	909425472	19666188	27428678	987432656	--	--	--	--	--	--	--
+9	347	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1883865984	7535463936	860180672	0	0	1293182528	8986328064	--	--	--	--	--	--	--
+9	348	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2033819392	8135277568	928649920	0	0	1396118976	9701627904	--	--	--	--	--	--	--
+9	349	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1808269312	7233077248	825662848	0	0	1241289088	8625720320	--	--	--	--	--	--	--
+9	350	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	351	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	352	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+9	353	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5019061	20076242	6037885	338463520	8107184	10208212	367495680	--	--	--	--	--	--	--
+9	354	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14018512	56074048	16864144	945347200	22643810	28512098	1026435616	--	--	--	--	--	--	--
+9	355	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13163161	52652644	15835164	887666048	21262180	26772413	963806784	--	--	--	--	--	--	--
+9	356	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3718909440	14875637760	1698068736	0	0	2552850176	17739765760	--	--	--	--	--	--	--
+9	357	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4196032768	16784131072	1915925120	0	0	2880374656	20015714304	--	--	--	--	--	--	--
+9	358	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3802658304	15210633216	1736308736	0	0	2610341376	18139258880	--	--	--	--	--	--	--
+9	359	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	360	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	361	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+9	362	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14350676	57402704	17836304	997613696	26070438	30088482	1083185336	--	--	--	--	--	--	--
+9	363	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5202790	20811160	6466493	361681536	9451751	10908478	392705252	--	--	--	--	--	--	--
+9	364	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5537899	22151596	6882996	384977248	10060533	11611088	417999184	--	--	--	--	--	--	--
+9	365	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1925006080	7700024320	878965376	0	0	1321423232	9182572544	--	--	--	--	--	--	--
+9	366	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1833757568	7335030272	837300928	0	0	1258785856	8747302912	--	--	--	--	--	--	--
+9	367	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1961841920	7847367680	895784768	0	0	1346709568	9358284800	--	--	--	--	--	--	--
+9	368	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+9	369	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	370	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+9	371	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11913828	47655312	15245034	852679744	24042772	25717210	925819480	--	--	--	--	--	--	--
+9	372	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5157900	20631600	6600092	369153952	10408931	11133851	400818624	--	--	--	--	--	--	--
+9	373	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13190617	52762468	16878824	944060288	26619404	28473281	1025038320	--	--	--	--	--	--	--
+9	374	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4161547008	16646188032	1900178688	0	0	2856700928	19851212800	--	--	--	--	--	--	--
+9	375	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3609297920	14437191680	1648019712	0	0	2477608192	17216901120	--	--	--	--	--	--	--
+9	376	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3861111552	15444446208	1762998784	0	0	2650466560	18418089984	--	--	--	--	--	--	--
+10	378	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	104613600	--	--	--	--
+10	379	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+10	380	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+10	381	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	382	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	383	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+10	384	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+10	385	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	386	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+10	387	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+10	388	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20545476	82181896	23963594	1343318528	29049060	40515090	1458543464	--	--	--	--	--	--	--
+10	389	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20830112	83320448	24295586	1361928832	29451506	41076396	1478750088	--	--	--	--	--	--	--
+10	390	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19944974	79779896	23263190	1304056192	28200018	39330926	1415913344	--	--	--	--	--	--	--
+10	391	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1846084864	7384339456	842929664	0	0	1267247872	8806106112	--	--	--	--	--	--	--
+10	392	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2025021824	8100087296	924632960	0	0	1390079744	9659662336	--	--	--	--	--	--	--
+10	393	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2087892096	8351568384	953339776	0	0	1433236992	9959563264	--	--	--	--	--	--	--
+10	394	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	395	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	396	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+10	397	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4939463	19757852	5942129	333095808	7978611	10046319	361667544	--	--	--	--	--	--	--
+10	398	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4969865	19879460	5978703	335145984	8027719	10108155	363893576	--	--	--	--	--	--	--
+10	399	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4747996	18991986	5711797	320184128	7669339	9656898	347648348	--	--	--	--	--	--	--
+10	400	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	401	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	402	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	403	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+10	404	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14148320	56593280	17584798	983546496	25702824	29664214	1067911504	--	--	--	--	--	--	--
+10	405	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4331029	17324116	5382990	301079456	7868049	9080694	326904946	--	--	--	--	--	--	--
+10	406	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14659898	58639592	18220632	1019109824	26632192	30736818	1106525320	--	--	--	--	--	--	--
+10	407	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1950151168	7800604672	890446720	0	0	1338684800	9302517760	--	--	--	--	--	--	--
+10	408	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1880013184	7520052736	858421440	0	0	1290538048	8967949312	--	--	--	--	--	--	--
+10	409	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1833310848	7333243392	837096960	0	0	1258479232	8745171968	--	--	--	--	--	--	--
+10	410	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+10	411	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	412	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+10	413	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5357805	21431222	6855893	383461312	10812352	11565368	416353216	--	--	--	--	--	--	--
+10	414	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5260196	21040782	6730990	376475328	10615370	11354666	408768000	--	--	--	--	--	--	--
+10	415	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4927812	19711248	6305670	352686432	9944601	10637183	382938580	--	--	--	--	--	--	--
+10	416	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	418	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	92250580	--	--	--	--
+11	419	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+11	420	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+11	421	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	422	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	423	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+11	424	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+11	425	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	426	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+11	427	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+11	428	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20815934	83263736	24279050	1361001856	29431460	41048436	1477743600	--	--	--	--	--	--	--
+11	429	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19864392	79457576	23169202	1298787584	28086086	39172024	1410192816	--	--	--	--	--	--	--
+11	430	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20582722	82330888	24007038	1345753856	29101724	40588548	1461187680	--	--	--	--	--	--	--
+11	431	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2094356224	8377424896	956291328	0	0	1437674496	9990397952	--	--	--	--	--	--	--
+11	432	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2124142336	8496569344	969891776	0	0	1458120384	10132483072	--	--	--	--	--	--	--
+11	433	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2033893504	8135574016	928683776	0	0	1396169088	9701982208	--	--	--	--	--	--	--
+11	434	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	435	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	436	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+11	437	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4845714	19382856	5829350	326773792	7827181	9855645	354803248	--	--	--	--	--	--	--
+11	438	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13078647	52314588	15733495	881966784	21125666	26600524	957618656	--	--	--	--	--	--	--
+11	439	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13510291	54041164	16252759	911075008	21822892	27478434	989223680	--	--	--	--	--	--	--
+11	440	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3792817664	15171270656	1731815424	0	0	2603587072	18092316672	--	--	--	--	--	--	--
+11	441	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4131288576	16525154304	1886362624	0	0	2835929600	19706875904	--	--	--	--	--	--	--
+11	442	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4052343040	16209372160	1850315776	0	0	2781737216	19330293760	--	--	--	--	--	--	--
+11	443	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	444	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	445	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+11	446	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5208529	20834114	6473625	362080480	9462176	10920510	393138414	--	--	--	--	--	--	--
+11	447	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4274439	17097758	5312655	297145536	7765244	8962044	322633588	--	--	--	--	--	--	--
+11	448	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4953182	19812728	6156257	344329568	8998296	10385135	373864896	--	--	--	--	--	--	--
+11	449	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1837656320	7350625280	839081088	0	0	1261461888	8765900800	--	--	--	--	--	--	--
+11	450	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1832980736	7331922944	836946240	0	0	1258252864	8743597056	--	--	--	--	--	--	--
+11	451	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1918942464	7675769856	876196736	0	0	1317261440	9153647616	--	--	--	--	--	--	--
+11	452	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+11	453	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	454	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+11	455	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5098136	20392544	6523618	364876640	10288324	11004844	396174418	--	--	--	--	--	--	--
+11	456	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14142166	56568664	18096434	1012163200	28539684	30527300	1098982848	--	--	--	--	--	--	--
+11	457	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4747888	18991554	6075438	339809184	9581505	10248801	368956768	--	--	--	--	--	--	--
+11	458	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4207215360	16828861440	1921031040	0	0	2888049280	20069058560	--	--	--	--	--	--	--
+11	459	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3736187648	14944750592	1705958016	0	0	2564712832	17822183424	--	--	--	--	--	--	--
+11	460	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4010531328	16042125312	1831224448	0	0	2753035904	19130845184	--	--	--	--	--	--	--
+12	462	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	97030310	--	--	--	--
+12	463	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+12	464	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+12	465	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	466	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	467	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+12	468	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+12	469	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	470	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+12	471	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+12	472	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20014834	80059336	23344672	1308623744	28298792	39468690	1420872688	--	--	--	--	--	--	--
+12	473	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14203658	56814632	16566699	928673408	20082424	28009213	1008331608	--	--	--	--	--	--	--
+12	474	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20653096	82612384	24089120	1350355072	29201224	40727320	1466183576	--	--	--	--	--	--	--
+12	475	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2128778112	8515112448	972008512	0	0	1461302720	10154596352	--	--	--	--	--	--	--
+12	476	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2123662336	8494649344	969672576	0	0	1457791872	10130192384	--	--	--	--	--	--	--
+12	477	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2010665472	8042661888	918077760	0	0	1380224832	9591180288	--	--	--	--	--	--	--
+12	478	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	479	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	480	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+12	481	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4825392	19301568	5804903	325403360	7794355	9814310	353315268	--	--	--	--	--	--	--
+12	482	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4690499	18761996	5642628	316306784	7576465	9539954	343438418	--	--	--	--	--	--	--
+12	483	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4868057	19472228	5856229	328280512	7863271	9901089	356439208	--	--	--	--	--	--	--
+12	484	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	485	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	486	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	487	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+12	488	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12879875	51519500	16008261	895368256	23398480	27004708	972169664	--	--	--	--	--	--	--
+12	489	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5254269	21017076	6530476	365260224	9545272	11016413	396590904	--	--	--	--	--	--	--
+12	490	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12652188	50608752	15725271	879540160	22984848	26527331	954983888	--	--	--	--	--	--	--
+12	491	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1999313536	7997254144	912894400	0	0	1372431936	9537030144	--	--	--	--	--	--	--
+12	492	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2123789568	8495158272	969730688	0	0	1457878912	10130799616	--	--	--	--	--	--	--
+12	493	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1760103808	7040415232	803670336	0	0	1208225984	8395963392	--	--	--	--	--	--	--
+12	494	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+12	495	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	496	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+12	497	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5058557	20234226	6472971	362043904	10208451	10919409	393098700	--	--	--	--	--	--	--
+12	498	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4561207	18244828	5836558	326448256	9204771	9845828	354449792	--	--	--	--	--	--	--
+12	499	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4724012	18896050	6044886	338100384	9533322	10197262	367101392	--	--	--	--	--	--	--
+12	500	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	502	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	84645380	--	--	--	--
+13	503	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+13	504	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+13	505	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	506	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	507	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+13	508	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+13	509	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	510	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+13	511	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+13	512	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20975948	83903792	24465686	1371464064	29657704	41363978	1489103216	--	--	--	--	--	--	--
+13	513	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13498130	53992520	15743794	882544128	19084884	26617936	958245520	--	--	--	--	--	--	--
+13	514	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19726698	78906792	23008598	1289784704	27891400	38900496	1400417696	--	--	--	--	--	--	--
+13	515	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2061357312	8245429248	941223872	0	0	1415021760	9832988672	--	--	--	--	--	--	--
+13	516	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1767861376	7071445504	807212416	0	0	1213551616	8432967680	--	--	--	--	--	--	--
+13	517	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2027429504	8109718016	925732288	0	0	1391732288	9671147520	--	--	--	--	--	--	--
+13	518	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	519	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	520	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+13	521	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13099834	52399336	15758983	883395584	21159890	26643611	959170016	--	--	--	--	--	--	--
+13	522	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4997338	19989350	6011752	336998624	8072095	10164031	365905128	--	--	--	--	--	--	--
+13	523	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4704450	18817800	5659411	317247552	7599000	9568331	344459882	--	--	--	--	--	--	--
+13	524	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4109222656	16436890624	1876287232	0	0	2820783616	19601616896	--	--	--	--	--	--	--
+13	525	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4107939840	16431759360	1875701504	0	0	2819901184	19595499520	--	--	--	--	--	--	--
+13	526	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4256037632	17024150528	1943323648	0	0	2921562880	20301948928	--	--	--	--	--	--	--
+13	527	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	528	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	529	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+13	530	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5370043	21480172	6674369	373308416	9755594	11259150	405329444	--	--	--	--	--	--	--
+13	531	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4980992	19923970	6190823	346262880	9048818	10443445	375964038	--	--	--	--	--	--	--
+13	532	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4277146	17108584	5316020	297333696	7770162	8967720	322837888	--	--	--	--	--	--	--
+13	533	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2042209408	8168837632	932480896	0	0	1401878016	9741649920	--	--	--	--	--	--	--
+13	534	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1917818624	7671274496	875683520	0	0	1316489664	9148286976	--	--	--	--	--	--	--
+13	535	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2033015424	8132061696	928282880	0	0	1395566976	9697793024	--	--	--	--	--	--	--
+13	536	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+13	537	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	538	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+13	539	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4426011	17704042	5663560	316772224	8931938	9553993	343943782	--	--	--	--	--	--	--
+13	540	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5067412	20269646	6484302	362677664	10226321	10938523	393786822	--	--	--	--	--	--	--
+13	541	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5141983	20567934	6579725	368014816	10376811	11099493	399581776	--	--	--	--	--	--	--
+13	542	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4008532736	16034130944	1830311808	0	0	2751663744	19121311744	--	--	--	--	--	--	--
+13	543	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4182972160	16731888640	1909961600	0	0	2871408256	19953414144	--	--	--	--	--	--	--
+13	544	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3882297344	15529189376	1772672256	0	0	2665010432	18519148544	--	--	--	--	--	--	--
+14	546	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	78636830	--	--	--	--
+14	547	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+14	548	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+14	549	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	550	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	551	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+14	552	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+14	553	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+14	554	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+14	555	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+14	556	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20996104	83984416	24489196	1372781952	29686202	41403726	1490534144	--	--	--	--	--	--	--
+14	557	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19772528	79090104	23062052	1292781056	27956196	38990864	1403671072	--	--	--	--	--	--	--
+14	558	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20196952	80787800	23557088	1320531072	28556286	39827814	1433801384	--	--	--	--	--	--	--
+14	559	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1772742400	7090969600	809441216	0	0	1216901824	8456251392	--	--	--	--	--	--	--
+14	560	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2116133888	8464535552	966235072	0	0	1452623808	10094280704	--	--	--	--	--	--	--
+14	561	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1993181056	7972724224	910094336	0	0	1368222080	9507777536	--	--	--	--	--	--	--
+14	562	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	563	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	564	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+14	565	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13236664	52946656	15923588	892622784	21380908	26921912	969188688	--	--	--	--	--	--	--
+14	566	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5046990	20187962	6071484	340346976	8152298	10265018	369540692	--	--	--	--	--	--	--
+14	567	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4941761	19767044	5944894	333250752	7982323	10050994	361835780	--	--	--	--	--	--	--
+14	568	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	569	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	570	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	571	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+14	572	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5425433	21701732	6743213	377158976	9856220	11375284	409510290	--	--	--	--	--	--	--
+14	573	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5329830	21319320	6624389	370512960	9682541	11174838	402294202	--	--	--	--	--	--	--
+14	574	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12602995	50411980	15664129	876120384	22895480	26424192	951270776	--	--	--	--	--	--	--
+14	575	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2008957568	8035830272	917297920	0	0	1379052416	9583033344	--	--	--	--	--	--	--
+14	576	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1770921856	7083687424	808609856	0	0	1215652288	8447566848	--	--	--	--	--	--	--
+14	577	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1866188416	7464753664	852108992	0	0	1281048384	8902002688	--	--	--	--	--	--	--
+14	578	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+14	579	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	580	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+14	581	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4942597	19770388	6324588	353744608	9974438	10669099	384087520	--	--	--	--	--	--	--
+14	582	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5152152	20608608	6592737	368742592	10397332	11121443	400371978	--	--	--	--	--	--	--
+14	583	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13176192	52704768	16860366	943027840	26590294	28442148	1023917312	--	--	--	--	--	--	--
+14	584	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	586	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	96806940	--	--	--	--
+15	587	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+15	588	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+15	589	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+15	590	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	591	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+15	592	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+15	593	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+15	594	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+15	595	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+15	596	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13868410	55473640	16175677	906754048	19608420	27348115	984532080	--	--	--	--	--	--	--
+15	597	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20147404	80589616	23499298	1317291648	28486232	39730110	1430284088	--	--	--	--	--	--	--
+15	598	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13962388	55849552	16285289	912898560	19741294	27533435	991203648	--	--	--	--	--	--	--
+15	599	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2001642240	8006568448	913957696	0	0	1374029888	9548138496	--	--	--	--	--	--	--
+15	600	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1765584128	7062336512	806172672	0	0	1211987712	8422105600	--	--	--	--	--	--	--
+15	601	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2042883328	8171533312	932788544	0	0	1402340928	9744864256	--	--	--	--	--	--	--
+15	602	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+15	603	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	604	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+15	605	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4955192	19820768	5961051	334156512	8004018	10078309	362819232	--	--	--	--	--	--	--
+15	606	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5026085	20104340	6046335	338937216	8118531	10222499	368010008	--	--	--	--	--	--	--
+15	607	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4856512	19426048	5842340	327501952	7844622	9877606	355593868	--	--	--	--	--	--	--
+15	608	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4244089344	16976357376	1937867904	0	0	2913361536	20244953088	--	--	--	--	--	--	--
+15	609	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4186470912	16745883648	1911559168	0	0	2873810432	19970103296	--	--	--	--	--	--	--
+15	610	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3669953792	14679815168	1675715328	0	0	2519245824	17506238464	--	--	--	--	--	--	--
+15	611	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+15	612	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	613	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+15	614	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13913171	55652684	17292534	967199680	25275636	29171185	1050162520	--	--	--	--	--	--	--
+15	615	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4515831	18063324	5612679	313926336	8203774	9468160	340853784	--	--	--	--	--	--	--
+15	616	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5049824	20199296	6276373	351047840	9173863	10587760	381159436	--	--	--	--	--	--	--
+15	617	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2019912192	8079648768	922299840	0	0	1386571712	9635289088	--	--	--	--	--	--	--
+15	618	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2060846080	8243384320	940990464	0	0	1414671360	9830549504	--	--	--	--	--	--	--
+15	619	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1965787136	7863148544	897586176	0	0	1349417984	9377103872	--	--	--	--	--	--	--
+15	620	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+15	621	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	622	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+15	623	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12737677	50950704	16299238	911643072	25705346	27495565	989840472	--	--	--	--	--	--	--
+15	624	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4989888	19959552	6385102	357129248	10069874	10771180	387762484	--	--	--	--	--	--	--
+15	625	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12811531	51246124	16393743	916928896	25854388	27654994	995579688	--	--	--	--	--	--	--
+15	626	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3591657728	14366630912	1639965184	0	0	2465498880	17132754944	--	--	--	--	--	--	--
+15	627	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3603734528	14414938112	1645479296	0	0	2473788800	17190363136	--	--	--	--	--	--	--
+15	628	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4070386432	16281545728	1858554496	0	0	2794123648	19416363008	--	--	--	--	--	--	--
+16	630	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	86457100	--	--	--	--
+16	631	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+16	632	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+16	633	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+16	634	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	635	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+16	636	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+16	637	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+16	638	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+16	639	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+16	640	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	21168300	84673200	24690038	1384040576	29929668	41743286	1502758496	--	--	--	--	--	--	--
+16	641	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13949062	55796248	16269746	912027264	19722452	27507156	990257616	--	--	--	--	--	--	--
+16	642	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14052555	56210216	16390457	918793920	19868780	27711240	997604688	--	--	--	--	--	--	--
+16	643	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2038362752	8153451008	930724480	0	0	1399237376	9723300864	--	--	--	--	--	--	--
+16	644	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2095744384	8382977536	956925184	0	0	1438626944	9997020160	--	--	--	--	--	--	--
+16	645	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1925226112	7700904448	879065792	0	0	1321574208	9183622144	--	--	--	--	--	--	--
+16	646	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+16	647	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	648	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+16	649	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4726922	18907688	5686445	318762976	7635299	9614034	346105296	--	--	--	--	--	--	--
+16	650	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4976031	19904124	5986121	335561792	8037679	10120695	364345052	--	--	--	--	--	--	--
+16	651	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4952760	19811042	5958126	333992512	8000090	10073366	362641164	--	--	--	--	--	--	--
+16	652	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+16	653	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+16	654	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	655	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+16	656	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4262668	17050672	5298025	296327232	7743860	8937361	321745096	--	--	--	--	--	--	--
+16	657	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4675515	18702062	5811148	325027072	8493867	9802964	352906700	--	--	--	--	--	--	--
+16	658	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12554256	50217024	15603553	872732288	22806938	26322003	947592056	--	--	--	--	--	--	--
+16	659	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2095716992	8382867968	956912640	0	0	1438608512	9996889088	--	--	--	--	--	--	--
+16	660	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1768114816	7072459264	807328192	0	0	1213725248	8434177024	--	--	--	--	--	--	--
+16	661	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1900841216	7603364864	867931584	0	0	1304835776	9067301888	--	--	--	--	--	--	--
+16	662	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+16	663	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+16	664	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+16	665	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4441791	17767164	5683753	317901600	8963783	9588059	345170032	--	--	--	--	--	--	--
+16	666	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4513126	18052504	5775034	323007104	9107741	9742041	350713468	--	--	--	--	--	--	--
+16	667	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13037247	52148984	16682570	933083456	26309894	28142215	1013119936	--	--	--	--	--	--	--
+16	668	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+17	670	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	79409580	--	--	--	--
+17	671	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+17	672	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+17	673	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+17	674	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	675	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+17	676	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+17	677	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+17	678	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+17	679	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+17	680	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20387054	81548216	23778818	1332960512	28825072	40202696	1447296976	--	--	--	--	--	--	--
+17	681	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20519968	82079872	23933844	1341650816	29012996	40464800	1456732696	--	--	--	--	--	--	--
+17	682	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13539933	54159732	15792552	885277312	19143990	26700367	961213152	--	--	--	--	--	--	--
+17	683	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1932249216	7728996864	882272640	0	0	1326395392	9217123328	--	--	--	--	--	--	--
+17	684	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1889234304	7556937216	862631872	0	0	1296868160	9011935232	--	--	--	--	--	--	--
+17	685	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2065814912	8263259648	943259264	0	0	1418081792	9854252032	--	--	--	--	--	--	--
+17	686	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+17	687	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	688	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+17	689	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13789917	55159668	16589146	929931712	22274566	28047169	1009697840	--	--	--	--	--	--	--
+17	690	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13098149	52392596	15756956	883281920	21157168	26640189	959046600	--	--	--	--	--	--	--
+17	691	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13707630	54830520	16490156	924382656	22141650	27879804	1003672808	--	--	--	--	--	--	--
+17	692	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3684864768	14739459072	1682523776	0	0	2529482112	17577365504	--	--	--	--	--	--	--
+17	693	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3540253696	14161014784	1616493824	0	0	2430212352	16887549952	--	--	--	--	--	--	--
+17	694	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3775553280	15102213120	1723932544	0	0	2591734400	18009964544	--	--	--	--	--	--	--
+17	695	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+17	696	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	697	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+17	698	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13248191	52992764	16466037	920972416	24067588	27776948	999970048	--	--	--	--	--	--	--
+17	699	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5084614	20338456	6319613	353466304	9237064	10660703	383785348	--	--	--	--	--	--	--
+17	700	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4639584	18558336	5766490	322529216	8428592	9727630	350194588	--	--	--	--	--	--	--
+17	701	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1863228544	7452914176	850757504	0	0	1279016448	8887883776	--	--	--	--	--	--	--
+17	702	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1890325376	7561301504	863129984	0	0	1297616640	9017140224	--	--	--	--	--	--	--
+17	703	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1763351552	7053406208	805153216	0	0	1210456000	8411454976	--	--	--	--	--	--	--
+17	704	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+17	705	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+17	706	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+17	707	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4111301	16445205	5260855	294248256	8296836	8874661	319487792	--	--	--	--	--	--	--
+17	708	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13000918	52003672	16636084	930483456	26236582	28063800	1010296912	--	--	--	--	--	--	--
+17	709	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11424188	45696752	14618487	817635904	23054652	24660271	887769712	--	--	--	--	--	--	--
+17	710	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4027617280	16110469120	1839025920	0	0	2764764928	19212347392	--	--	--	--	--	--	--
+17	711	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3823378176	15293512704	1745769600	0	0	2624563072	18238097408	--	--	--	--	--	--	--
+17	712	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3541742336	14166969344	1617173504	0	0	2431234816	16894650368	--	--	--	--	--	--	--
+18	714	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	108448100	--	--	--	--
+18	715	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+18	716	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+18	717	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+18	718	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	719	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+18	720	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+18	721	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+18	722	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+18	723	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+18	724	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20624914	82499656	24056250	1348512512	29161378	40671750	1464182960	--	--	--	--	--	--	--
+18	725	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19988536	79954152	23314000	1306904448	28261612	39416836	1419005912	--	--	--	--	--	--	--
+18	726	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13587475	54349900	15848003	888385728	19211208	26794114	964588200	--	--	--	--	--	--	--
+18	727	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1882158336	7528633344	859400960	0	0	1292010496	8978182144	--	--	--	--	--	--	--
+18	728	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1851274880	7405099520	845299392	0	0	1270810432	8830863360	--	--	--	--	--	--	--
+18	729	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1972257792	7889031168	900540672	0	0	1353859328	9407970304	--	--	--	--	--	--	--
+18	730	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+18	731	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	732	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+18	733	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13111231	52444924	15772694	884164160	21178298	26666795	960004512	--	--	--	--	--	--	--
+18	734	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4695335	18781340	5648446	316632896	7584277	9549790	343792504	--	--	--	--	--	--	--
+18	735	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4782583	19130334	5753405	322516544	7725207	9727245	350180828	--	--	--	--	--	--	--
+18	736	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+18	737	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+18	738	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	739	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+18	740	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12818738	51274952	15932274	891118144	23287412	26876528	967554992	--	--	--	--	--	--	--
+18	741	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5002352	20009410	6217371	347747744	9087622	10488231	377576268	--	--	--	--	--	--	--
+18	742	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13324311	53297240	16560645	926264000	24205872	27936540	1005715528	--	--	--	--	--	--	--
+18	743	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2098417024	8393668096	958145472	0	0	1440461632	10009768960	--	--	--	--	--	--	--
+18	744	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2025354368	8101417472	924784768	0	0	1390308096	9661248512	--	--	--	--	--	--	--
+18	745	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2072414592	8289658368	946272640	0	0	1422612736	9885732864	--	--	--	--	--	--	--
+18	746	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+18	747	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+18	748	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+18	749	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4356463	17425852	5574566	311794656	8791586	9403867	338539256	--	--	--	--	--	--	--
+18	750	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14282563	57130248	18276086	1022211456	28823012	30830357	1109893008	--	--	--	--	--	--	--
+18	751	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11942389	47769556	15281581	854723904	24100410	25778856	928038984	--	--	--	--	--	--	--
+18	752	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+19	754	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	102502500	--	--	--	--
+19	755	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+19	756	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+19	757	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+19	758	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+19	759	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+19	760	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+19	761	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+19	762	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+19	763	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+19	764	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13984763	55939048	16311387	914361472	19772930	27577552	992792048	--	--	--	--	--	--	--
+19	765	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20501732	82006928	23912576	1340458496	28987214	40428834	1455438112	--	--	--	--	--	--	--
+19	766	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19711778	78847112	22991196	1288809216	27870304	38871070	1399358536	--	--	--	--	--	--	--
+19	767	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1855189504	7420758016	847086848	0	0	1273498368	8849536000	--	--	--	--	--	--	--
+19	768	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1774871808	7099487232	810413440	0	0	1218364032	8466408448	--	--	--	--	--	--	--
+19	769	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1935708544	7742834176	883852160	0	0	1328770816	9233624064	--	--	--	--	--	--	--
+19	770	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+19	771	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+19	772	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+19	773	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4872690	19490760	5861802	328592928	7870754	9910512	356778422	--	--	--	--	--	--	--
+19	774	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4942149	19768596	5945361	333276928	7982950	10051784	361864200	--	--	--	--	--	--	--
+19	775	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13343241	53372968	16051800	899809920	21553060	27138677	976992312	--	--	--	--	--	--	--
+19	776	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3680201728	14720806912	1680394624	0	0	2526279040	17555124224	--	--	--	--	--	--	--
+19	777	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4086194944	16344779776	1865772672	0	0	2804974976	19491772416	--	--	--	--	--	--	--
+19	778	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4152786688	16611146752	1896178816	0	0	2850686848	19809425408	--	--	--	--	--	--	--
+19	779	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+19	780	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+19	781	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+19	782	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4539633	18158534	5642262	315580992	8247015	9518064	342650372	--	--	--	--	--	--	--
+19	783	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5142019	20568074	6390960	357456896	9341350	10781063	388118236	--	--	--	--	--	--	--
+19	784	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5361462	21445848	6663704	372711904	9740006	11241160	404681764	--	--	--	--	--	--	--
+19	785	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2075542528	8302170112	947700864	0	0	1424759936	9900653568	--	--	--	--	--	--	--
+19	786	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2036455936	8145823744	929853760	0	0	1397928768	9714204672	--	--	--	--	--	--	--
+19	787	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2071284992	8285139968	945756928	0	0	1421836288	9880345600	--	--	--	--	--	--	--
+19	788	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+19	789	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+19	790	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+19	791	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4202865	16811460	5378021	300801536	8481617	9072311	326603188	--	--	--	--	--	--	--
+19	792	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14556995	58227984	18627254	1041852800	29376832	31422753	1131219112	--	--	--	--	--	--	--
+19	793	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13519184	54076736	17299262	967576000	27282472	29182534	1050571120	--	--	--	--	--	--	--
+19	794	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4115735808	16462943232	1879261184	0	0	2825253120	19632687104	--	--	--	--	--	--	--
+19	795	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3855557632	15422230528	1760462848	0	0	2646653952	18391597056	--	--	--	--	--	--	--
+19	796	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3554172672	14216690688	1622849280	0	0	2439767552	16953945088	--	--	--	--	--	--	--
+20	798	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	92262100	--	--	--	--
+20	799	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+20	800	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+20	801	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+20	802	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+20	803	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+20	804	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+20	805	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+20	806	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+20	807	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+20	808	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	21071956	84287824	24577666	1377741312	29793448	41553302	1495918904	--	--	--	--	--	--	--
+20	809	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20775216	83100864	24231558	1358339712	29373890	40968136	1474853104	--	--	--	--	--	--	--
+20	810	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14169081	56676324	16526369	926412672	20033534	27941028	1005876952	--	--	--	--	--	--	--
+20	811	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2060564480	8242257920	940861888	0	0	1414478272	9829206016	--	--	--	--	--	--	--
+20	812	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1793802368	7175209472	819057280	0	0	1231358208	8556710912	--	--	--	--	--	--	--
+20	813	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2003684864	8014739456	914890432	0	0	1375432896	9557881856	--	--	--	--	--	--	--
+20	814	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+20	815	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+20	816	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+20	817	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4812652	19250610	5789577	324544256	7773777	9788400	352382472	--	--	--	--	--	--	--
+20	818	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4819111	19276446	5797347	324979808	7784210	9801538	352855384	--	--	--	--	--	--	--
+20	819	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4948103	19792410	5952523	333678432	7992567	10063893	362300142	--	--	--	--	--	--	--
+20	820	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+20	821	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+20	822	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+20	823	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+20	824	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11914090	47656360	14807897	828229888	21643966	24979793	899272408	--	--	--	--	--	--	--
+20	825	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13236212	52944848	16451148	920139648	24045826	27751834	999065848	--	--	--	--	--	--	--
+20	826	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4705841	18823364	5848840	327135200	8548959	9866546	355195658	--	--	--	--	--	--	--
+20	827	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1884343808	7537375232	860398784	0	0	1293511360	8988606464	--	--	--	--	--	--	--
+20	828	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1989543040	7958172160	908433216	0	0	1365725632	9490422784	--	--	--	--	--	--	--
+20	829	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1758994944	7035979776	803164032	0	0	1207464832	8390673920	--	--	--	--	--	--	--
+20	830	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+20	831	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+20	832	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+20	833	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4870052	19480210	6231760	348552544	9828039	10512503	378450102	--	--	--	--	--	--	--
+20	834	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4972157	19888630	6362414	355860256	10034092	10732905	386384644	--	--	--	--	--	--	--
+20	835	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4733629	18934516	6057191	338788640	9552729	10218017	367848688	--	--	--	--	--	--	--
+20	836	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+21	838	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	85120790	--	--	--	--
+21	839	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+21	840	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+21	841	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+21	842	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+21	843	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+21	844	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+21	845	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+21	846	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+21	847	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+21	848	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14291060	57164240	16668642	934388032	20206000	28181566	1014536408	--	--	--	--	--	--	--
+21	849	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20125324	80501296	23473544	1315847936	28455014	39686570	1428716544	--	--	--	--	--	--	--
+21	850	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19823628	79294512	23121656	1296122240	28028448	39091636	1407298848	--	--	--	--	--	--	--
+21	851	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1787432064	7149728256	816148480	0	0	1226986112	8526322688	--	--	--	--	--	--	--
+21	852	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1828896128	7315584512	835081152	0	0	1255449408	8724112384	--	--	--	--	--	--	--
+21	853	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1885249024	7540996096	860812160	0	0	1294132608	8992924672	--	--	--	--	--	--	--
+21	854	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+21	855	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+21	856	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+21	857	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4694003	18776014	5646844	316543072	7582126	9547083	343694976	--	--	--	--	--	--	--
+21	858	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4981312	19925248	5992474	335917952	8046210	10131436	364731760	--	--	--	--	--	--	--
+21	859	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4820734	19282936	5799299	325089216	7786831	9804840	352974176	--	--	--	--	--	--	--
+21	860	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3960051968	15840207872	1808175360	0	0	2718383616	18890051584	--	--	--	--	--	--	--
+21	861	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4213571328	16854285312	1923933312	0	0	2892412800	20099377152	--	--	--	--	--	--	--
+21	862	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3681074688	14724298752	1680793216	0	0	2526878848	17559287808	--	--	--	--	--	--	--
+21	863	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+21	864	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+21	865	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+21	866	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14112107	56448428	17539790	981029120	25637038	29588283	1065178200	--	--	--	--	--	--	--
+21	867	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4390881	17563526	5457380	305240224	7976781	9206184	331422608	--	--	--	--	--	--	--
+21	868	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4977696	19910784	6186726	346033728	9042830	10436534	375715230	--	--	--	--	--	--	--
+21	869	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1869589504	7478358016	853661952	0	0	1283382528	8918226944	--	--	--	--	--	--	--
+21	870	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1983432576	7933730304	905643136	0	0	1361530368	9461275648	--	--	--	--	--	--	--
+21	871	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2118946816	8475787264	967519488	0	0	1454554368	10107699200	--	--	--	--	--	--	--
+21	872	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+21	873	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+21	874	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+21	875	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5153519	20614076	6594486	368840416	10400090	11124395	400478192	--	--	--	--	--	--	--
+21	876	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13206094	52824376	16898630	945168000	26650638	28506698	1026241040	--	--	--	--	--	--	--
+21	877	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14762913	59051652	18890748	1056590464	29792386	31867251	1147220912	--	--	--	--	--	--	--
+21	878	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3701376000	14805504000	1690062848	0	0	2540815360	17656127488	--	--	--	--	--	--	--
+21	879	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3999187456	15996749824	1826044672	0	0	2745249024	19076732928	--	--	--	--	--	--	--
+21	880	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4137287168	16549148672	1889101568	0	0	2840046848	19735490560	--	--	--	--	--	--	--
+22	882	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	92751060	--	--	--	--
+22	883	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+22	884	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+22	885	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+22	886	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+22	887	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+22	888	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+22	889	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+22	890	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+22	891	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+22	892	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20281696	81126784	23655932	1326072064	28676108	39994928	1439817656	--	--	--	--	--	--	--
+22	893	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13908633	55634532	16222591	909383872	19665290	27427430	987387488	--	--	--	--	--	--	--
+22	894	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	21128436	84513744	24643542	1381434112	29873306	41664676	1499928464	--	--	--	--	--	--	--
+22	895	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2058316800	8233267200	939835520	0	0	1412934784	9818484736	--	--	--	--	--	--	--
+22	896	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1839932160	7359728640	840120320	0	0	1263023872	8776757248	--	--	--	--	--	--	--
+22	897	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1855355648	7421422592	847162752	0	0	1273611392	8850329600	--	--	--	--	--	--	--
+22	898	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+22	899	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+22	900	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+22	901	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4861352	19445408	5848162	327828320	7852440	9887450	355948232	--	--	--	--	--	--	--
+22	902	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4885581	19542324	5877310	329462240	7891577	9936732	357722300	--	--	--	--	--	--	--
+22	903	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5029255	20117022	6050149	339151008	8123651	10228949	368242136	--	--	--	--	--	--	--
+22	904	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+22	905	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+22	906	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+22	907	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+22	908	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12034749	48138996	14957863	836617728	21863164	25232772	908379728	--	--	--	--	--	--	--
+22	909	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11725518	46902072	14573523	815121024	21301394	24584419	885039112	--	--	--	--	--	--	--
+22	910	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4683417	18733668	5820969	325576352	8508222	9819532	353503096	--	--	--	--	--	--	--
+22	911	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2021520512	8086082048	923034240	0	0	1387675904	9642960896	--	--	--	--	--	--	--
+22	912	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1941795200	7767180800	886631360	0	0	1332948800	9262658560	--	--	--	--	--	--	--
+22	913	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2019219328	8076877312	921983488	0	0	1386096512	9631983616	--	--	--	--	--	--	--
+22	914	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+22	915	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+22	916	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+22	917	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4500559	18002234	5758952	322107648	9082379	9714912	349736860	--	--	--	--	--	--	--
+22	918	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4365945	17463778	5586699	312473248	8810721	9424335	339276056	--	--	--	--	--	--	--
+22	919	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14223576	56894304	18200606	1017989760	28703974	30703036	1105309184	--	--	--	--	--	--	--
+22	920	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+23	922	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	90005250	--	--	--	--
+23	923	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+23	924	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+23	925	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+23	926	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+23	927	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+23	928	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+23	929	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+23	930	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+23	931	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+23	932	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13666625	54666496	15940321	893560768	19323116	26950198	970207128	--	--	--	--	--	--	--
+23	933	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20387888	81551552	23779790	1333015040	28826250	40204344	1447356176	--	--	--	--	--	--	--
+23	934	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19968956	79875832	23291162	1305624320	28233928	39378222	1417615976	--	--	--	--	--	--	--
+23	935	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1819526784	7278107136	830803072	0	0	1249017088	8679419904	--	--	--	--	--	--	--
+23	936	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1966336896	7865347584	897837184	0	0	1349795328	9379726336	--	--	--	--	--	--	--
+23	937	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1822349056	7289396224	832091776	0	0	1250954624	8692882432	--	--	--	--	--	--	--
+23	938	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+23	939	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+23	940	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+23	941	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13438156	53752624	16165981	906210560	21706374	27331719	983941976	--	--	--	--	--	--	--
+23	942	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13890098	55560392	16709663	936687488	22436386	28250923	1017033104	--	--	--	--	--	--	--
+23	943	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4741503	18966012	5703985	319746240	7658851	9643691	347172900	--	--	--	--	--	--	--
+23	944	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3609055232	14436220928	1647908864	0	0	2477441024	17215744000	--	--	--	--	--	--	--
+23	945	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	3913770752	15655083008	1787043200	0	0	2686613632	18669283328	--	--	--	--	--	--	--
+23	946	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	4256426496	17025705984	1943501056	0	0	2921831168	20303802368	--	--	--	--	--	--	--
+23	947	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+23	948	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+23	949	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+23	950	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4995135	19980538	6208400	347245984	9074510	10473097	377031470	--	--	--	--	--	--	--
+23	951	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4748977	18995908	5902453	330133920	8627323	9956985	358451596	--	--	--	--	--	--	--
+23	952	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13000019	52000076	16157587	903720320	23616742	27256616	981238128	--	--	--	--	--	--	--
+23	953	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1908275328	7633101312	871326080	0	0	1309938688	9102764032	--	--	--	--	--	--	--
+23	954	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	2088158976	8352635904	953461632	0	0	1433420416	9960836096	--	--	--	--	--	--	--
+23	955	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	1924523648	7698094592	878745088	0	0	1321091712	9180271616	--	--	--	--	--	--	--
+23	956	Shield Depleted	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+23	957	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+23	958	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+23	959	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+23	960	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12992743	51970972	16625623	929898368	26220084	28046158	1009661632	--	--	--	--	--	--	--
+23	961	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12063449	48253796	15436491	863388224	24344716	26040180	937446496	--	--	--	--	--	--	--
+23	962	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4098122	16392487	5243991	293305024	8270239	8846211	318463652	--	--	--	--	--	--	--
+23	963	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	19053058048	0	1739940224	0	0	2615800192	18177198080	--	--	--	--	--	--	--
+23	964	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	17780459520	0	1623725568	0	0	2441085440	16963099648	--	--	--	--	--	--	--
+23	965	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20854978560	0	1904493184	0	0	2863186560	19896285184	--	--	--	--	--	--	--
+24	967	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	102113800	--	--	--	--
+24	968	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+24	969	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+24	970	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+24	971	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+24	972	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+24	973	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+24	974	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+24	975	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+24	976	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+24	977	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13933385	55733540	16251462	911002304	19700288	27476243	989144736	--	--	--	--	--	--	--
+24	978	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20942716	83770864	24426924	1369291136	29610716	41298452	1486743904	--	--	--	--	--	--	--
+24	979	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13655242	54620968	15927044	892816576	19307024	26927750	969399104	--	--	--	--	--	--	--
+24	980	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9841592320	0	898742016	0	0	1351155456	9389178880	--	--	--	--	--	--	--
+24	981	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9165250560	0	836977856	0	0	1258300608	8743927808	--	--	--	--	--	--	--
+24	982	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10150310912	0	926934400	0	0	1393539456	9683705856	--	--	--	--	--	--	--
+24	983	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+24	984	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+24	985	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+24	986	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5043738	20174952	6067571	340127648	8147044	10258405	369302548	--	--	--	--	--	--	--
+24	987	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4870445	19481780	5859101	328441536	7867128	9905946	356614044	--	--	--	--	--	--	--
+24	988	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5021271	20085084	6040544	338612576	8110754	10212709	367657520	--	--	--	--	--	--	--
+24	989	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+24	990	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+24	991	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+24	992	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+24	993	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5142317	20569268	6391331	357477632	9341892	10781688	388140752	--	--	--	--	--	--	--
+24	994	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14945270	59781080	18575318	1038948032	27150620	31335144	1128065176	--	--	--	--	--	--	--
+24	995	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5001911	20007644	6216822	347717024	9086820	10487305	377542916	--	--	--	--	--	--	--
+24	996	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10176791552	0	929352576	0	0	1397175168	9708968960	--	--	--	--	--	--	--
+24	997	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	8735948800	0	797773760	0	0	1199360960	8334361600	--	--	--	--	--	--	--
+24	998	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9461539840	0	864035264	0	0	1298977216	9026597888	--	--	--	--	--	--	--
+24	999	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+24	1000	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+24	1001	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+24	1002	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4347897	17391588	5563605	311181568	8774300	9385378	337873580	--	--	--	--	--	--	--
+24	1003	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4914950	19659800	6289211	351765888	9918645	10609418	381939076	--	--	--	--	--	--	--
+24	1004	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	11502009	46008036	14718067	823205632	23211700	24828252	893817192	--	--	--	--	--	--	--
+24	1005	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+25	1007	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	80897650	--	--	--	--
+25	1008	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+25	1009	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+25	1010	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+25	1011	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+25	1012	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+25	1013	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+25	1014	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+25	1015	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+25	1016	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+25	1017	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13999725	55998900	16328839	915339776	19794084	27607060	993854264	--	--	--	--	--	--	--
+25	1018	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	19988994	79955976	23314532	1306934272	28262258	39417736	1419038296	--	--	--	--	--	--	--
+25	1019	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20034140	80136552	23367188	1309885952	28326088	39506752	1422243168	--	--	--	--	--	--	--
+25	1020	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	8963296256	0	818535296	0	0	1230573952	8551257600	--	--	--	--	--	--	--
+25	1021	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10477340672	0	956798976	0	0	1438437376	9995702272	--	--	--	--	--	--	--
+25	1022	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9597181952	0	876422208	0	0	1317600320	9156003840	--	--	--	--	--	--	--
+25	1023	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+25	1024	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+25	1025	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+25	1026	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4991936	19967744	6005254	336634368	8063370	10153044	365509628	--	--	--	--	--	--	--
+25	1027	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4954104	19816416	5959742	334083104	8002261	10076099	362739528	--	--	--	--	--	--	--
+25	1028	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13560249	54240996	16312858	914443968	21903588	27580043	992881616	--	--	--	--	--	--	--
+25	1029	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	18615433216	0	1699975936	0	0	2555720448	17759688704	--	--	--	--	--	--	--
+25	1030	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20044029952	0	1830436608	0	0	2751850240	19122616320	--	--	--	--	--	--	--
+25	1031	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	19287947264	0	1761390464	0	0	2648049536	18401288192	--	--	--	--	--	--	--
+25	1032	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+25	1033	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+25	1034	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+25	1035	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14076359	56305440	17495358	978544064	25572096	29513333	1062479984	--	--	--	--	--	--	--
+25	1036	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12783605	51134420	15888608	888675840	23223588	26802869	964903192	--	--	--	--	--	--	--
+25	1037	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12978907	51915628	16131347	902252672	23578388	27212350	979644592	--	--	--	--	--	--	--
+25	1038	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9331704832	0	852178624	0	0	1281152704	8902730752	--	--	--	--	--	--	--
+25	1039	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10306650112	0	941211392	0	0	1415003904	9832857600	--	--	--	--	--	--	--
+25	1040	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9183056896	0	838603968	0	0	1260744896	8760915968	--	--	--	--	--	--	--
+25	1041	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+25	1042	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+25	1043	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+25	1044	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13644504	54578016	17459622	976545280	27535374	29453044	1060309752	--	--	--	--	--	--	--
+25	1045	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4765051	19060204	6097399	341037536	9616140	10285846	370290484	--	--	--	--	--	--	--
+25	1046	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4224969	16899876	5406306	302383552	8526224	9120025	328320902	--	--	--	--	--	--	--
+25	1047	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20110366720	0	1836494592	0	0	2760957696	19185903616	--	--	--	--	--	--	--
+25	1048	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20183214080	0	1843147008	0	0	2770960640	19255400448	--	--	--	--	--	--	--
+25	1049	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	17863770112	0	1631333504	0	0	2452523136	17042580480	--	--	--	--	--	--	--
+26	1051	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	103601900	--	--	--	--
+26	1052	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+26	1053	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+26	1054	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+26	1055	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+26	1056	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+26	1057	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+26	1058	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+26	1059	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+26	1060	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+26	1061	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14318732	57274928	16700918	936197312	20245126	28236136	1016500880	--	--	--	--	--	--	--
+26	1062	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20219582	80878328	23583484	1322010752	28588284	39872446	1435407984	--	--	--	--	--	--	--
+26	1063	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20371244	81484976	23760378	1331926912	28802718	40171516	1446174712	--	--	--	--	--	--	--
+26	1064	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9733368832	0	888858944	0	0	1336297792	9285929984	--	--	--	--	--	--	--
+26	1065	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9005400064	0	822380288	0	0	1236353792	8591426560	--	--	--	--	--	--	--
+26	1066	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	8927329280	0	815250752	0	0	1225636160	8516943872	--	--	--	--	--	--	--
+26	1067	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+26	1068	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+26	1069	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+26	1070	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4978615	19914460	5989229	335736032	8041853	10125953	364534236	--	--	--	--	--	--	--
+26	1071	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4778066	19112264	5747970	322211904	7717910	9718058	349850056	--	--	--	--	--	--	--
+26	1072	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13097958	52391832	15756726	883269056	21156858	26639798	959032632	--	--	--	--	--	--	--
+26	1073	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+26	1074	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+26	1075	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+26	1076	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+26	1077	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5227043	20908174	6496637	363367552	9495812	10959330	394535888	--	--	--	--	--	--	--
+26	1078	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	12687024	50748096	15768568	881961856	23048132	26600372	957613304	--	--	--	--	--	--	--
+26	1079	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5216429	20865716	6483445	362629696	9476529	10937075	393734740	--	--	--	--	--	--	--
+26	1080	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9531255808	0	870401792	0	0	1308548864	9093108736	--	--	--	--	--	--	--
+26	1081	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10049405952	0	917719680	0	0	1379686016	9587439616	--	--	--	--	--	--	--
+26	1082	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9157781504	0	836295872	0	0	1257274560	8736802816	--	--	--	--	--	--	--
+26	1083	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+26	1084	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+26	1085	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+26	1086	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	5164879	20659516	6609022	369653472	10423015	11148916	401360988	--	--	--	--	--	--	--
+26	1087	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4108187	16432746	5256870	294025344	8290551	8867938	319245760	--	--	--	--	--	--	--
+26	1088	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4699069	18796276	6012968	336315168	9482985	10143418	365163048	--	--	--	--	--	--	--
+26	1089	Charging Weapons	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+27	1091	battle_action_type_{0}	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	85001460	--	--	--	--
+27	1092	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+27	1093	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+27	1094	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+27	1095	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+27	1096	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+27	1097	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.24	Silence Your Demons	Suder	--	--	--
+27	1098	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+27	1099	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+27	1100	Forbidden Tech Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+27	1101	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20885618	83542472	24360326	1365558016	29529986	41185850	1482690568	--	--	--	--	--	--	--
+27	1102	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	14140912	56563648	16493514	924570944	19993708	27885478	1003877248	--	--	--	--	--	--	--
+27	1103	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	20956348	83825392	24442826	1370182528	29629992	41325326	1487711760	--	--	--	--	--	--	--
+27	1104	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	9126550528	0	833443840	0	0	1252986880	8707007488	--	--	--	--	--	--	--
+27	1105	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10301251584	0	940718464	0	0	1414262144	9827707904	--	--	--	--	--	--	--
+27	1106	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	10122690560	0	924412096	0	0	1389747392	9657355264	--	--	--	--	--	--	--
+27	1107	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+27	1108	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+27	1109	Officer Ability	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.8	Things Blow Up	Trip Tucker	--	--	--
+27	1110	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	NO	13231731	52926924	15917654	892290112	21372940	26911873	968827488	--	--	--	--	--	--	--
+27	1111	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4802554	19210216	5777429	323863264	7757465	9767860	351643068	--	--	--	--	--	--	--
+27	1112	Attack	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	BORG CUBE	NO	--	--	YES	4823798	19295190	5802985	325295840	7791780	9811069	353198524	--	--	--	--	--	--	--
+27	1113	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20669814784	0	1887583744	0	0	2837765632	19719632896	--	--	--	--	--	--	--
+27	1114	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20300996608	0	1853902976	0	0	2787131520	19367768064	--	--	--	--	--	--	--
+27	1115	Attack	XanOfRangoon	ThunderDome	BORG CUBE	NO	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	--	--	YES	20085610496	0	1834233856	0	0	2757560320	19162284032	--	--	--	--	--	--	--
+27	1116	Combatant Destroyed	V'ger Silent Enemy ▶	--	V'ger Silent Enemy	NO	XanOfRangoon	ThunderDome	V'ger Silent Enemy	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

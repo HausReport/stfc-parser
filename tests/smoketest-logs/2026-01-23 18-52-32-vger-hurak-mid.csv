@@ -1,0 +1,554 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	BORG CUBE	75	14913672192	0	Kathryn Janeway	The Doctor	Annorax	5059479370	3066619990	10780040775	0	Fiavoli	1/23/2026 6:52:32 PM
+V'ger Hurak Honorguard ▶	67	DEFEAT	V'ger Hurak Honorguard	67	173570162688	0	Replicated Hurak Commander	--	--	178362164781	0	166061325830	0	Fiavoli	1/23/2026 6:52:32 PM
+
+Reward Name	Count
+6★ Broken Interceptor Parts	53660
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1580051584	481992800	12851628032	Phase Discriminating Amplifier	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	40.5	1515902464	6391193	75769425	6391193	0.22	4.2	40.5	90502272	2967633	2928657	45	10780040775	14923215172	242	1641	604.95	2443470	0	1	NO	NO
+Enemy Fleet 1	810102528	548309888	172211748864	Replicated Honorguard Apex---Replicated Counter-Intel---ship_ability_name_{0}	--	--	--	--	0	757946944	16606133	4735823	4735823	0.15	1.5	0	18451258	8180058	83030664	0	166061326336	178362171392	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	Protocol 12	SNW Nurse Chapel	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	4	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	AGIMUS	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.8	--	AGIMUS	--	--	--
+1	6	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.15	--	AGIMUS	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+1	8	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21657696	102100560	28941352	1400477312	10553696	43125496	1520605120	--	--	--	--	--	--	--
+1	9	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21506690	101388680	28739562	1390712704	10480112	42824812	1510002936	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	461986144	1591285632	732498880	8567884288	482655392	1179737920	10656572416	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	480778880	1656016128	762295552	8916409344	502288928	1227727520	11090061312	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	38414640	132317088	60908060	712428672	40133312	98096460	886105312	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	14	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	15	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	18	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	4859139	103121728	28534458	1301462272	15195815	40076484	1413096928	--	--	--	--	--	--	--
+1	19	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	5232118	111037168	30724712	1401360128	16362218	43152688	1521563656	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	76067296	262009584	120607976	1410725888	79470552	194247120	1754634176	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	77651984	267467936	123120552	1440114944	81126128	198293800	1791187744	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	962160832	3314109440	1525547392	17844002816	1005207936	2456994752	22194033664	--	--	--	--	--	--	--
+1	23	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	24	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	26	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	27	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	28	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	368113888	102004328	4652437504	72215304	143264528	5051506496	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	454752704	1566370432	721029952	8433734656	475098336	1161266400	10489719680	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	506254560	1743765632	802688384	9388875776	528904384	1292782752	11677705984	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	462357568	1592564992	733087808	8574772224	483043456	1180686464	10665139584	--	--	--	--	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+1	35	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	330102912	95711664	4365427712	83062320	134426496	4739878112	--	--	--	--	--	--	--
+1	36	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	86253392	297095008	136758464	1599634688	90112368	220258528	1989595392	--	--	--	--	--	--	--
+1	37	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	916810112	3157901568	1453641856	17002940416	957828224	2341186432	21147935744	--	--	--	--	--	--	--
+1	38	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1041518912	3587454208	1651373056	19315759104	1088116480	2659645760	24024576000	--	--	--	--	--	--	--
+2	40	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	22367370	--	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	43	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	44	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	45	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	46	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+2	47	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	16759971	79011296	29040990	1324565248	29591998	40787911	1438181592	--	--	--	--	--	--	--
+2	48	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	17410764	82079320	30168656	1375998336	30741062	42371714	1494026424	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	37319708	128545656	59172000	692122304	38989392	95300420	860848640	--	--	--	--	--	--	--
+2	50	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	511876032	1763128576	811601472	9493130240	534777376	1307137824	11807375872	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	NO	39707240	136769376	62957532	736400896	41483740	101397264	915921520	--	--	--	--	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	53	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	54	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	57	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	4194651	89019808	29463022	1343814272	33970628	41380653	1459081728	--	--	--	--	--	--	--
+2	58	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	4234020	89855304	29739550	1356426752	34289460	41769030	1472776056	--	--	--	--	--	--	--
+2	59	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	60	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	61	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	64	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	312186432	102685368	4683500032	131082648	144221008	5085233472	--	--	--	--	--	--	--
+2	65	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	520737760	1793652224	825652096	9657477120	544035584	1329767264	12011787520	--	--	--	--	--	--	--
+2	66	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	505275776	1740394368	801136512	9370723328	527881824	1290283232	11655128576	--	--	--	--	--	--	--
+2	67	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	509054784	1753410944	807128256	9440807936	531829920	1299933472	11742298368	--	--	--	--	--	--	--
+2	68	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+2	69	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	70	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+2	71	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	278758016	95270672	4345313792	132503528	133807128	4718038880	--	--	--	--	--	--	--
+2	72	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	74	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	17891750	--	--	--	--
+3	75	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	76	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	77	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	78	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	79	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+3	80	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18856944	75427768	29843084	1361148928	34541012	41914448	1477903288	--	--	--	--	--	--	--
+3	81	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18263280	73053120	28903552	1318296704	33453576	40594880	1431375352	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	510242048	2040968192	910137088	10645680128	599704064	1465835776	13240895744	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	488583584	1954334336	871504000	10193798144	574248128	1403614816	12678853376	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	444497120	1777988480	792865408	9273978880	522431904	1276962176	11534799616	--	--	--	--	--	--	--
+3	85	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	86	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	87	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	88	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	89	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	90	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6326407	84050832	29767200	1357687808	38120904	41807863	1474145288	--	--	--	--	--	--	--
+3	91	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	3176725	42205064	14947223	681745792	19141930	20993290	740223444	--	--	--	--	--	--	--
+3	92	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1040416640	4161666560	1855828480	21707233280	1222835584	2988934400	26999046144	--	--	--	--	--	--	--
+3	93	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	896928512	3587714048	1599883520	18713497600	1054189248	2576718528	23275494400	--	--	--	--	--	--	--
+3	94	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1015366144	4061464576	1811145088	21184579584	1193392896	2916968576	26348979712	--	--	--	--	--	--	--
+3	95	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	96	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+3	97	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	98	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	99	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	100	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	286235008	97952808	4467646976	136604720	137574168	4850865344	--	--	--	--	--	--	--
+3	101	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	489027008	1956108032	872294976	10203048960	574769344	1404888768	12690359552	--	--	--	--	--	--	--
+3	102	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	451291552	1805166208	804984960	9415738368	530417632	1296481408	11711117312	--	--	--	--	--	--	--
+3	103	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	527220640	2108882560	940422336	10999920640	619659584	1514612256	13681493504	--	--	--	--	--	--	--
+3	104	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+3	105	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	106	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+3	107	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	274950400	97622864	4452598272	146465040	137110784	4834525792	--	--	--	--	--	--	--
+3	108	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	910426368	3641705472	1623960064	18995116032	1070053696	2615495232	23625766400	--	--	--	--	--	--	--
+3	109	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	942390336	3769561344	1680975360	19662012416	1107622016	2707322304	24455239168	--	--	--	--	--	--	--
+3	110	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1082636544	4330546176	1931137536	22588106752	1272457856	3110224768	28094660096	--	--	--	--	--	--	--
+4	112	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	19581810	--	--	--	--
+4	113	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	114	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	115	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	116	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	117	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	118	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+4	119	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18802384	75209544	29798394	1359110528	34620876	41851678	1475690048	--	--	--	--	--	--	--
+4	120	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18639498	74557992	29540246	1347336448	34320952	41489112	1462906024	--	--	--	--	--	--	--
+4	121	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	513023200	2052092800	931663168	10662216704	602972864	1500505184	13261463552	--	--	--	--	--	--	--
+4	122	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	541853952	2167415808	984020544	11261410304	636858560	1584829952	14006729216	--	--	--	--	--	--	--
+4	123	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	473114368	1892457472	859187648	9832786944	556066688	1383778624	12229834496	--	--	--	--	--	--	--
+4	124	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	125	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	126	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	127	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	128	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	129	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6490803	86234960	30581770	1394840448	39288688	42951917	1514484752	--	--	--	--	--	--	--
+4	130	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6043756	80295608	28475478	1298772224	36582720	39993650	1410176136	--	--	--	--	--	--	--
+4	131	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	132	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	133	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+4	134	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	135	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	136	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	291627136	99927224	4557700096	139735664	140347208	4948642912	--	--	--	--	--	--	--
+4	137	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	497953440	1991813760	904296064	10349020160	585260864	1456428512	12871915776	--	--	--	--	--	--	--
+4	138	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	539430464	2157721856	979619392	11211041792	634010112	1577741952	13944081664	--	--	--	--	--	--	--
+4	139	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	485335712	1941342848	881381952	10086785024	570430848	1419524064	12545752320	--	--	--	--	--	--	--
+4	140	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+4	141	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+4	142	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+4	143	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	274367520	97537456	4448702464	146679200	136990800	4830295840	--	--	--	--	--	--	--
+4	144	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	146	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	20990110	--	--	--	--
+5	147	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+5	148	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	149	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	150	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	151	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+5	152	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18284664	73138656	29018398	1323534848	33842416	40756174	1437062808	--	--	--	--	--	--	--
+5	153	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18296004	73184016	29036394	1324355584	33863408	40781454	1437953952	--	--	--	--	--	--	--
+5	154	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	440694080	1762776320	800311616	9158992896	517962080	1288954848	11391782144	--	--	--	--	--	--	--
+5	155	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	495563936	1982255744	899956672	10299359232	582452416	1449439648	12810148352	--	--	--	--	--	--	--
+5	156	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	469823808	1879295232	853211968	9764399104	552199168	1374154368	12144774912	--	--	--	--	--	--	--
+5	157	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	158	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	159	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	160	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	161	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	162	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6159906	81838752	29061744	1325511808	37454200	40817058	1439209352	--	--	--	--	--	--	--
+5	163	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6109975	81175384	28826176	1314767488	37150604	40486203	1427543424	--	--	--	--	--	--	--
+5	164	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	988669056	3954676224	1795448064	20547616768	1162014848	2891687936	25556737024	--	--	--	--	--	--	--
+5	165	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	986631488	3946525952	1791747712	20505268224	1159620096	2885728448	25504065024	--	--	--	--	--	--	--
+5	166	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	923302592	3693210368	1676740992	19189098496	1085187584	2700502336	23867037696	--	--	--	--	--	--	--
+5	167	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	168	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+5	169	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	170	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	171	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	172	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	284887008	97743904	4458118656	137050928	137280752	4840519744	--	--	--	--	--	--	--
+5	173	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	455273344	1821093376	826787968	9461995520	535097568	1331596512	11768651264	--	--	--	--	--	--	--
+5	174	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	540612096	2162448384	981765248	11235599360	635398976	1581198016	13974626048	--	--	--	--	--	--	--
+5	175	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	547048320	2188193280	993453568	11369364480	642963648	1600022848	14141000448	--	--	--	--	--	--	--
+5	176	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+5	177	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+5	178	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+5	179	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	278165728	99010936	4515908608	149241696	139060312	4903266656	--	--	--	--	--	--	--
+5	180	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1070435328	4281741312	1943937664	22246973440	1258117376	3130839936	27670365184	--	--	--	--	--	--	--
+5	181	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	940303232	3761212928	1707614464	19542423552	1105168896	2750226048	24306497024	--	--	--	--	--	--	--
+5	182	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	991611328	3966445312	1800791296	20608765952	1165473024	2900293312	25632793600	--	--	--	--	--	--	--
+6	184	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	20517230	--	--	--	--
+6	185	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+6	186	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	187	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	188	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	189	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+6	190	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+6	191	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	19072396	76289592	30268558	1380554880	35300404	42512022	1498973808	--	--	--	--	--	--	--
+6	192	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18526812	74107248	29402694	1341062656	34290600	41295922	1456094088	--	--	--	--	--	--	--
+6	193	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	495775040	1983100160	900340032	10303746048	582700544	1450057088	12815604736	--	--	--	--	--	--	--
+6	194	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	511456672	2045826688	928818304	10629659648	601131648	1495923232	13220969728	--	--	--	--	--	--	--
+6	195	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	500505440	2002021760	908930560	10402059264	588260288	1463892640	12937884672	--	--	--	--	--	--	--
+6	196	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	197	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	198	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	199	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	200	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	201	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6436771	85517104	30367962	1385088768	39137628	42651633	1503896600	--	--	--	--	--	--	--
+6	202	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6475205	86027728	30549292	1393359232	39371324	42906309	1512876472	--	--	--	--	--	--	--
+6	203	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	204	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	205	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+6	206	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	207	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	208	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	278849440	95672432	4363638272	134146424	134371400	4737935168	--	--	--	--	--	--	--
+6	209	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	518736576	2074946304	942038720	10780958720	609687936	1517215744	13409152512	--	--	--	--	--	--	--
+6	210	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	464662944	1858651776	843839680	9657140224	546133504	1359059680	12011368448	--	--	--	--	--	--	--
+6	211	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	510725344	2042901376	927490176	10614460416	600272128	1493784288	13202065152	--	--	--	--	--	--	--
+6	212	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+6	213	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+6	214	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+6	215	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	288901376	102832216	4690197504	155001600	144427256	5092505440	--	--	--	--	--	--	--
+6	216	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	218	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	21214700	--	--	--	--
+7	219	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+7	220	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	221	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	222	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+7	223	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+7	224	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18156280	72625120	28814648	1314241664	33604796	40470012	1426972496	--	--	--	--	--	--	--
+7	225	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	9664732	38658928	15338266	699581312	17888100	21542506	759588832	--	--	--	--	--	--	--
+7	226	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	445894304	1783577216	809755392	9267069952	524074080	1304164480	11526206464	--	--	--	--	--	--	--
+7	227	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	440899008	1763596032	800683776	9163251712	518202944	1289554176	11397079296	--	--	--	--	--	--	--
+7	228	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	508376736	2033506944	923225088	10565649408	597511744	1486914912	13141355008	--	--	--	--	--	--	--
+7	229	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	230	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	231	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	232	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	233	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	234	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6314321	83890272	29790258	1358739584	38393096	41840251	1475287280	--	--	--	--	--	--	--
+7	235	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6273080	83342344	29595686	1349865088	38142336	41566974	1465651560	--	--	--	--	--	--	--
+7	236	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	950640832	3802563328	1726387840	19757271040	1117319040	2780461504	24573720576	--	--	--	--	--	--	--
+7	237	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1036923264	4147693056	1883078912	21550489600	1218729600	3032823040	26804091392	--	--	--	--	--	--	--
+7	238	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	934735616	3738942464	1697503616	19426711552	1098625152	2733941504	24162576896	--	--	--	--	--	--	--
+7	239	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+7	240	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+7	241	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	242	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	243	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	244	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	282189312	96818336	4415903232	135753136	135980816	4794683200	--	--	--	--	--	--	--
+7	245	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	458032352	1832129408	831798400	9519336448	538340352	1339666144	11839970816	--	--	--	--	--	--	--
+7	246	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	541104000	2164416000	982658560	11245822976	635977152	1582636608	13987342080	--	--	--	--	--	--	--
+7	247	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	534527360	2138109440	970715264	11109140480	628247360	1563401024	13817338880	--	--	--	--	--	--	--
+7	248	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+7	249	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+7	250	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+7	251	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	271765504	96732832	4412003328	145807840	135860704	4790448800	--	--	--	--	--	--	--
+7	252	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1081017856	4324071424	1963155840	22466912256	1270555520	3161792256	27943920640	--	--	--	--	--	--	--
+7	253	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1096978048	4387912192	1992139904	22798614528	1289313920	3208472960	28356485632	--	--	--	--	--	--	--
+7	254	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1031080896	4124323584	1872468992	21429065728	1211862912	3015735360	26653066752	--	--	--	--	--	--	--
+8	256	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	16971530	--	--	--	--
+8	257	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+8	258	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	259	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	260	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	261	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+8	262	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+8	263	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18046736	72186944	28640798	1306312448	33402048	40225838	1418363136	--	--	--	--	--	--	--
+8	264	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18106666	72426664	28735908	1310650496	33512968	40359422	1423073280	--	--	--	--	--	--	--
+8	265	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	458647776	1834591104	832916032	9532127232	539063680	1341466400	11855879424	--	--	--	--	--	--	--
+8	266	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	537188544	2148754176	975548032	11164447744	631375168	1571184512	13886129152	--	--	--	--	--	--	--
+8	267	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	498397216	1993588864	905101952	10358243328	585782464	1457726688	12883387136	--	--	--	--	--	--	--
+8	268	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	269	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	270	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	271	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	272	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	273	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6363091	84538200	30020348	1369233920	38689628	42163403	1486681784	--	--	--	--	--	--	--
+8	274	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	3252692	43214336	15345835	699926592	19777408	21553139	759963724	--	--	--	--	--	--	--
+8	275	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	276	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+8	277	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+8	278	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	279	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	280	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	279499552	95895488	4373812224	134459184	134684688	4748981760	--	--	--	--	--	--	--
+8	281	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	475342400	1901369600	863233856	9879093248	558685376	1390295104	12287429376	--	--	--	--	--	--	--
+8	282	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	529718464	2118873856	961982144	11009196032	622595328	1549335936	13693029888	--	--	--	--	--	--	--
+8	283	Shield Depleted	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+8	284	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2425034240	0	880784768	10079949824	570044352	1418562112	12537251072	--	--	--	--	--	--	--
+8	285	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+8	286	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+8	287	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+8	288	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	278112544	98992008	4515044864	149213152	139033736	4902328832	--	--	--	--	--	--	--
+8	289	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	291	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	19223060	--	--	--	--
+9	292	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+9	293	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	294	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	295	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+9	296	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+9	297	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18372064	73488256	29157104	1329861248	34004184	40950984	1443931872	--	--	--	--	--	--	--
+9	298	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18866248	75464992	29941392	1365632768	34918852	42052516	1482771736	--	--	--	--	--	--	--
+9	299	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2478390784	0	900164096	10301732864	582586624	1449773824	12813100544	--	--	--	--	--	--	--
+9	300	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2496400384	0	906705280	10376592384	586820096	1460308864	12906209280	--	--	--	--	--	--	--
+9	301	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2372001024	0	861522752	9859511296	557577984	1387539520	12263073536	--	--	--	--	--	--	--
+9	302	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	303	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	304	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	305	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	306	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	307	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6359131	84485600	30001668	1368381952	38665556	42137171	1485756736	--	--	--	--	--	--	--
+9	308	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6296012	83647008	29703876	1354799616	38281768	41718920	1471009360	--	--	--	--	--	--	--
+9	309	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4749703680	0	1725116416	19742722048	1116496256	2778413952	24555624448	--	--	--	--	--	--	--
+9	310	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	5040883712	0	1830874624	20953047040	1184942976	2948744576	26061003776	--	--	--	--	--	--	--
+9	311	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4622674432	0	1678978944	19214710784	1086635904	2704106240	23898893824	--	--	--	--	--	--	--
+9	312	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+9	313	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+9	314	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	315	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	316	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	317	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	288421024	98956424	4513421824	138751040	138983720	4900566592	--	--	--	--	--	--	--
+9	318	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2502865664	0	909053504	10403465216	588339840	1464090816	12939633408	--	--	--	--	--	--	--
+9	319	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2518185984	0	914617920	10467146752	591941184	1473052800	13018839040	--	--	--	--	--	--	--
+9	320	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2537392640	0	921593920	10546981888	596456000	1484287872	13118136576	--	--	--	--	--	--	--
+9	321	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+9	322	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+9	323	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+9	324	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	278344864	99074704	4518816768	149337808	139149856	4906424288	--	--	--	--	--	--	--
+9	325	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	5250839552	0	1907131520	21825753088	1234296448	3071561472	27146459136	--	--	--	--	--	--	--
+9	326	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4955776000	0	1799962880	20599285760	1164936832	2898959232	25621002240	--	--	--	--	--	--	--
+9	327	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	4672057344	0	1696914944	19419975680	1098244096	2732993536	24154198528	--	--	--	--	--	--	--
+10	329	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	20955250	--	--	--	--
+10	330	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+10	331	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	332	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	333	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	334	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+10	335	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+10	336	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18190292	72761176	28868628	1316703744	33667752	40545832	1429645760	--	--	--	--	--	--	--
+10	337	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18526136	74104544	29401622	1341013760	34289348	41294410	1456041000	--	--	--	--	--	--	--
+10	338	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1617207168	0	922792128	10560694272	1520716032	1486217792	13135191808	--	--	--	--	--	--	--
+10	339	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1488852864	0	849552064	9722514432	1400020096	1368259776	12092679680	--	--	--	--	--	--	--
+10	340	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1495676800	0	853445824	9767075840	1406436736	1374531008	12148104192	--	--	--	--	--	--	--
+10	341	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	342	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	343	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	344	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	345	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	346	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6256418	83120984	29517080	1346279808	38041028	41456566	1461758752	--	--	--	--	--	--	--
+10	347	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6376111	84711192	30081776	1372035712	38768796	42249683	1489723904	--	--	--	--	--	--	--
+10	348	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+10	349	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+10	350	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+10	351	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	352	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	353	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	299706560	102828448	4690025984	144180176	144421968	5092319200	--	--	--	--	--	--	--
+10	354	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1544566400	0	881342720	10086335488	1452409472	1419460608	12545193472	--	--	--	--	--	--	--
+10	355	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1543483264	0	880724608	10079262720	1451390848	1418465152	12536396288	--	--	--	--	--	--	--
+10	356	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1490019456	0	850217664	9730131968	1401116928	1369331776	12102154240	--	--	--	--	--	--	--
+10	357	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+10	358	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+10	359	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+10	360	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	273832832	97468680	4445565952	146917008	136894200	4826890272	--	--	--	--	--	--	--
+10	361	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	363	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	20726560	--	--	--	--
+11	364	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+11	365	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	366	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	367	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+11	368	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+11	369	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18926928	75707712	30037692	1370025088	35031160	42187764	1487540816	--	--	--	--	--	--	--
+11	370	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18355900	73423592	29131450	1328691072	33974264	40914958	1442661320	--	--	--	--	--	--	--
+11	371	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1130894720	0	879848704	10069237760	1861001088	1417054720	12523927552	--	--	--	--	--	--	--
+11	372	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1216605952	0	946533056	10832392192	2002047488	1524454080	13473124608	--	--	--	--	--	--	--
+11	373	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1115871104	0	868160192	9935471616	1836278144	1398229440	12357551616	--	--	--	--	--	--	--
+11	374	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	375	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	376	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	377	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	378	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	379	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6072786	80681296	28650722	1306765056	36924484	40239784	1418854560	--	--	--	--	--	--	--
+11	380	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6153322	81751272	29030680	1324095104	37414168	40773426	1437671120	--	--	--	--	--	--	--
+11	381	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2495594496	0	1941600384	22220224512	4106751744	3127075712	27637095424	--	--	--	--	--	--	--
+11	382	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2219713792	0	1726962176	19763845120	3652762368	2781386752	24581896704	--	--	--	--	--	--	--
+11	383	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2192009728	0	1705408128	19517173760	3607172608	2746672256	24275091968	--	--	--	--	--	--	--
+11	384	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+11	385	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+11	386	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	387	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	388	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	389	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	288331264	98925616	4512016896	138707856	138940480	4899041152	--	--	--	--	--	--	--
+11	390	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1169458304	0	909851648	10412600320	1924461440	1465376256	12950995456	--	--	--	--	--	--	--
+11	391	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1271361024	0	989133056	11319919616	2092152448	1593064320	14079501824	--	--	--	--	--	--	--
+11	392	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1130244224	0	879342656	10063447040	1859930624	1416239552	12516724992	--	--	--	--	--	--	--
+11	393	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+11	394	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+11	395	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+11	396	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	279193216	99376672	4532589568	149792976	139573968	4921378464	--	--	--	--	--	--	--
+11	397	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2203001344	0	1713959680	19615039488	3625260288	2760445440	24396815360	--	--	--	--	--	--	--
+11	398	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2593993984	0	2018156416	23096352768	4268678144	3250374272	28726807040	--	--	--	--	--	--	--
+11	399	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	2327591936	0	1810892544	20724367360	3830286592	2916561920	25776576512	--	--	--	--	--	--	--
+12	401	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	20793750	--	--	--	--
+12	402	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+12	403	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	404	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	405	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	406	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+12	407	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+12	408	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	9472077	37888308	15032516	685636032	17531522	21113083	744447372	--	--	--	--	--	--	--
+12	409	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18931420	75725680	30044822	1370350336	35039476	42197782	1487893952	--	--	--	--	--	--	--
+12	410	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	891743424	0	878737152	10056517632	2096372480	1415264192	12508106496	--	--	--	--	--	--	--
+12	411	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	978396480	0	964126400	11033735168	2300082432	1552789248	13723551232	--	--	--	--	--	--	--
+12	412	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	846631936	0	834283648	9547778048	1990321280	1343668992	11875345920	--	--	--	--	--	--	--
+12	413	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	414	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	415	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	416	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	417	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	418	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6360070	84498080	30006098	1368584064	38671264	42143400	1485976176	--	--	--	--	--	--	--
+12	419	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	3286347	43661460	15504614	707168512	19982040	21776141	767826832	--	--	--	--	--	--	--
+12	420	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+12	421	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+12	422	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+12	423	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	424	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	425	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	292727808	100434056	4580817408	140822896	141059064	4973743104	--	--	--	--	--	--	--
+12	426	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	991229952	0	976772672	11178463232	2330252288	1573156928	13903561216	--	--	--	--	--	--	--
+12	427	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1012948416	0	998174336	11423389696	2381309440	1607625792	14208196096	--	--	--	--	--	--	--
+12	428	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	934098432	0	920474432	10534170624	2195943680	1482485056	13102202112	--	--	--	--	--	--	--
+12	429	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+12	430	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+12	431	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+12	432	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	0	275377184	98018384	4470638080	147745600	137666256	4854112992	--	--	--	--	--	--	--
+12	433	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+13	435	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	15980960	--	--	--	--
+13	436	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+13	437	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	438	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	439	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+13	440	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+13	441	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	17912518	71650072	28427788	1296596992	33153626	39926668	1407814328	--	--	--	--	--	--	--
+13	442	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	9628229	38512916	15280334	696939072	17820538	21461145	756719944	--	--	--	--	--	--	--
+13	443	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	709803392	0	846666240	9689488384	2169256448	1363612032	12051602432	--	--	--	--	--	--	--
+13	444	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	803314048	0	958207424	10965997568	2455037696	1543256384	13639300352	--	--	--	--	--	--	--
+13	445	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	762227328	0	909198464	10405124096	2329470976	1464324096	12941696768	--	--	--	--	--	--	--
+13	446	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	447	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	448	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	449	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	450	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	451	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	3310203	43978412	15617166	712302016	20127096	21934221	773400672	--	--	--	--	--	--	--
+13	452	Shield Depleted	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+13	453	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	86564976	0	28588268	1303916544	36843996	40152064	1415761720	--	--	--	--	--	--	--
+13	454	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1536711040	0	1833016448	20977559552	4696399360	2952194048	26091492352	--	--	--	--	--	--	--
+13	455	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1456207104	0	1736990080	19878606848	4450368512	2797537408	24724635136	--	--	--	--	--	--	--
+13	456	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1439707264	0	1717308672	19653367808	4399942656	2765839232	24444487168	--	--	--	--	--	--	--
+13	457	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	458	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	459	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	460	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	461	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	462	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	300250272	0	103015000	4698534400	144441760	144683992	5101557440	--	--	--	--	--	--	--
+13	463	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	822372288	0	980940416	11226160128	2513282304	1579869504	13962885632	--	--	--	--	--	--	--
+13	464	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	787229504	0	939021504	10746428416	2405881088	1512356096	13366204416	--	--	--	--	--	--	--
+13	465	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	773592448	0	922755008	10560269312	2364204544	1486157888	13134663424	--	--	--	--	--	--	--
+13	466	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+13	467	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+13	468	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+13	469	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+13	470	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+13	471	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	142538048	0	50735312	2314047744	76474624	71257472	2512538256	--	--	--	--	--	--	--
+13	472	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1641756160	0	1958316160	22411526144	5017431552	3153997440	27875032576	--	--	--	--	--	--	--
+13	473	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1595394432	0	1903015168	21778644992	4875743744	3064931456	27087866880	--	--	--	--	--	--	--
+13	474	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1444347520	0	1722843648	19716712448	4414124032	2774753920	24523273728	--	--	--	--	--	--	--
+14	476	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	235285800	--	--	--	--
+14	477	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+14	478	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	479	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	480	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	481	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	482	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	483	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+14	484	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+14	485	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	93044400	0	29532940	1347003264	34442500	41478848	1462544256	--	--	--	--	--	--	--
+14	486	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	94758808	0	30077104	1371822592	35077124	42243124	1489492504	--	--	--	--	--	--	--
+14	487	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	694841024	0	972931392	11134502912	2613579008	1566970368	13848883968	--	--	--	--	--	--	--
+14	488	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	600582976	0	840949248	9624061952	2259036416	1354404416	11970226176	--	--	--	--	--	--	--
+14	489	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	617792064	0	865045760	9899828224	2323766784	1393213504	12313219328	--	--	--	--	--	--	--
+14	490	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	491	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	492	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	493	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	494	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	495	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	91766432	0	30306062	1382265472	39057852	42564690	1500831128	--	--	--	--	--	--	--
+14	496	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	91125960	0	30094544	1372618112	38785252	42267612	1490356256	--	--	--	--	--	--	--
+14	497	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+14	498	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	499	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	500	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	501	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	502	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	291959104	0	100170320	4568787968	140453104	140688672	4960681824	--	--	--	--	--	--	--
+14	503	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	679344896	0	951233344	10886183936	2555291904	1532024384	13540029696	--	--	--	--	--	--	--
+14	504	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	709148480	0	992964992	11363772416	2667395328	1599235776	14134045440	--	--	--	--	--	--	--
+14	505	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	700784576	0	981253696	11229745152	2635935232	1580374016	13967344640	--	--	--	--	--	--	--
+14	506	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+14	507	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+14	508	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+14	509	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+14	510	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+14	511	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	276765888	0	98512680	4493182464	148490656	138360520	4878591168	--	--	--	--	--	--	--
+14	512	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+15	514	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	394556600	--	--	--	--
+15	515	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+15	516	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	517	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	518	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	519	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	520	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+15	521	Forbidden Tech Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	100	--	Thought Maker	--	--	--
+15	522	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	96802064	0	30725648	1401402752	35833480	43154000	1521609944	--	--	--	--	--	--	--
+15	523	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	97062960	0	30808458	1405179904	35930060	43270310	1525711072	--	--	--	--	--	--	--
+15	524	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	583381824	0	937857024	10733101056	2605769216	1510480960	13349628160	--	--	--	--	--	--	--
+15	525	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	547548224	0	880250176	10073832448	2445712640	1417700992	12529642496	--	--	--	--	--	--	--
+15	526	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	521324288	0	838092032	9591362560	2328579072	1349802496	11929555456	--	--	--	--	--	--	--
+15	527	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	528	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	529	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	530	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	531	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	532	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	93071952	0	30737210	1401930240	39613508	43170238	1522182672	--	--	--	--	--	--	--
+15	533	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	89186080	0	29453894	1343397888	37959596	41367826	1458629632	--	--	--	--	--	--	--
+15	534	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1168994432	0	1879300352	21507246080	5221502464	3026737536	26750305792	--	--	--	--	--	--	--
+15	535	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1125478272	0	1809342848	20706631680	5027130368	2914066176	25754516992	--	--	--	--	--	--	--
+15	536	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1042468736	0	1675894912	19179415552	4656354816	2699139584	23854994432	--	--	--	--	--	--	--
+15	537	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	538	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	539	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	540	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	541	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	542	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	283299200	0	97199136	4433271808	136287072	136515648	4813541568	--	--	--	--	--	--	--
+15	543	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	521474240	0	838333120	9594121216	2329249024	1350190976	11932986624	--	--	--	--	--	--	--
+15	544	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	572999360	0	921166016	10542085120	2559394304	1483598720	13112046080	--	--	--	--	--	--	--
+15	545	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	584251328	0	939254912	10749099008	2609652992	1512731968	13369526272	--	--	--	--	--	--	--
+15	546	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+15	547	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+15	548	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	2900	Time is Patient	Annorax	--	--	--
+15	549	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+15	550	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Treacherous Ideals	Seska	--	--	--
+15	551	Attack	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	YES	136073376	0	48434264	2209096448	73006192	68025656	2398584624	--	--	--	--	--	--	--
+15	552	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1074604672	0	1727557376	19770656768	4799895552	2782345600	24590368768	--	--	--	--	--	--	--
+15	553	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1206235392	0	1939169664	22192406528	5387845120	3123160704	27602496000	--	--	--	--	--	--	--
+15	554	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	--	--	YES	1206204928	0	1939120768	22191847424	5387709440	3123082368	27601800192	--	--	--	--	--	--	--
+15	555	Combatant Destroyed	V'ger Hurak Honorguard ▶	--	V'ger Hurak Honorguard	NO	XanOfHanoi	ThunderDome	V'ger Hurak Honorguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

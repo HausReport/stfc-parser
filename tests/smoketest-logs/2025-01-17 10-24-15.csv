@@ -1,0 +1,106 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Obsidian Order Station	33	DEFEAT	Obsidian Order Station	33	15012938	0	Cardassian Gul	--	--	13864715	0	5545886	0	Valo	1/17/2025 10:24:15 AM
+
+Reward Name	Count
+Rare Armada Credit	1519
+Superior Cardassian Loot	810
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	4639848	3684445	24086408	Empire Tax	Vibrant Authority	The Icarus Factor	Unshakeable Moral Code	Critical Avoidance	4	3950350	31607	37935	436172	0.12	2.4	4	48450	660245	28194	4	17938651	30234162	123	175	47.53	292110	0	1	NO	NO
+Player Fleet 2	1921740	1840390	9762708	Optimized Crew Interface	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	3	1407930	22209	25380	327715	0.12	2.4	3	14318	341232	12528	3	10413280	9112136	108	90	48.96	331760	0	1	NO	NO
+Player Fleet 3	1199390	1362265	6997546	Obliterate	Safe Cracker	No Locked Doors	The Looking Glass	Honor Among Thieves	3	986389	16388	209911	14340	0.09	1.49	3	255863	7742	8848	3	4484054	9511038	92	75	24.09	279560	0	1	NO	NO
+Player Fleet 4	662421	494455	1285723	Secret Weapon	Hot Pursuit	Critical Strike	Problem Solver	Target That Signal	2.69	538155	87290	8722	7908	0.12	2.1	3	3364	2421	93106	3	1090178	1481268	144	50	14.09	58358	0	1	NO	NO
+Player Fleet 5	482292	288385	866755	Master Thief	Discipline	Watch the World burn	Feel the Heat	Bolstered	3	450519	6299	35445	6299	0.07	2.04	3	42091	7793	7793	3	613990	1119519	131	58	40.02	202725	0	1	NO	NO
+Enemy Fleet 1	2695102	2612535	9705301	ship_ability_name_{0}	--	--	--	--	0	1853654	112193	112193	112193	0.2	3.75	0	174169	174169	174169	0	5545886	13864715	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.5	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	2	Officer Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.3	Critical Avoidance	Gaila	--	--	--
+1	3	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	4	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	2.5	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.2	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	6	Officer Ability	donnyChop	F around Find out	GLADIUS	YES	--	--	GLADIUS	NO	--	--	--	--	--	--	--	--	Officer	0.15	Problem Solver	Lucia Gonzales	--	--	--
+1	7	Officer Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Vibrant Authority	William T. Riker	--	--	--
+1	8	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	9	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	10	Officer Ability	Jeepster1	F around Find out	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.15	Discipline	Kumak	--	--	--
+1	11	Forbidden Tech Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.05	--	Interphasic Mirror	--	--	--
+1	12	Forbidden Tech Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	7	--	S31 Torpedo Pods	--	--	--
+1	13	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	TheEsteemedMadOne	F around Find out	VALDORE	YES	YES	33358	133432	412341	0	0	579131	0	--	--	--	--	--	--	--
+1	14	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	126491	505963	249606	0	0	610422	271638	--	--	--	--	--	--	--
+1	15	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	118064	472255	232977	0	0	569755	253541	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	YES	211108	844432	692747	0	0	1319462	428825	--	--	--	--	--	--	--
+1	17	Charging Weapons	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	18	Attack	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	43399	173594	258766	0	0	446722	29037	--	--	--	--	--	--	--
+1	19	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	28707	114826	95421	0	0	148881	90073	--	--	--	--	--	--	--
+1	20	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	33548	134193	111514	0	0	173990	105265	--	--	--	--	--	--	--
+1	21	Forbidden Tech Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Interphasic Mirror	--	--	--
+1	22	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	Rareplayer	F around Find out	AUGUR	YES	YES	33297	133187	411584	0	0	578068	0	--	--	--	--	--	--	--
+1	23	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	119578	478312	226562	0	0	554067	270385	--	--	--	--	--	--	--
+1	24	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	115117	460468	218110	0	0	533397	260298	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	74961	299844	245983	0	0	468519	152269	--	--	--	--	--	--	--
+1	26	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	14659	58634	80919	0	0	146869	7343	--	--	--	--	--	--	--
+1	27	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	15389	61558	84952	0	0	154189	7710	--	--	--	--	--	--	--
+1	28	Attack	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	YES	90577	362310	540072	0	0	932356	60603	--	--	--	--	--	--	--
+1	29	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	28978	115914	95822	0	0	149977	90737	--	--	--	--	--	--	--
+1	30	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	Jeepster1	F around Find out	STELLA	YES	NO	28623	114490	39671	0	0	182784	0	--	--	--	--	--	--	--
+1	31	Charging Weapons	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	32	Charging Weapons	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	33	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	17098	68391	94384	0	0	171308	8565	--	--	--	--	--	--	--
+1	34	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	15502	62007	85573	0	0	155316	7766	--	--	--	--	--	--	--
+1	35	Attack	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	18753	75014	111818	0	0	193038	12547	--	--	--	--	--	--	--
+1	36	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	32331	129322	106907	0	0	167327	101233	--	--	--	--	--	--	--
+1	37	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	TheEsteemedMadOne	F around Find out	VALDORE	YES	YES	99656	398622	1231852	0	0	1730130	0	--	--	--	--	--	--	--
+1	38	Forbidden Tech Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Interphasic Mirror	--	--	--
+1	39	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	Jeepster1	F around Find out	STELLA	YES	NO	75569	302278	104739	0	0	482586	0	--	--	--	--	--	--	--
+2	41	Officer Ability	Jeepster1	F around Find out	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.15	Discipline	Kumak	--	--	--
+2	42	Officer Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Vibrant Authority	William T. Riker	--	--	--
+2	43	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+2	44	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	45	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	46	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	donnyChop	F around Find out	GLADIUS	YES	NO	26419	105676	53161	0	0	185256	0	--	--	--	--	--	--	--
+2	47	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	146879	587514	177572	0	0	631117	280848	--	--	--	--	--	--	--
+2	48	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	138425	553702	167353	0	0	594796	264684	--	--	--	--	--	--	--
+2	49	Shield Depleted	Obsidian Order Station	--	Obsidian Order Station	YES	TheEsteemedMadOne	F around Find out	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	50	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	401807	0	182449	0	0	440948	143308	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	431087	0	195744	0	0	473080	153751	--	--	--	--	--	--	--
+2	52	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	784875	0	753654	0	0	1465266	73263	--	--	--	--	--	--	--
+2	53	Charging Weapons	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	54	Charging Weapons	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	55	Officer Ability	donnyChop	F around Find out	GLADIUS	YES	--	--	GLADIUS	NO	--	--	--	--	--	--	--	--	Officer	0.04	The Winning Gambit	Masriad Vael	--	--	--
+2	56	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	Jeepster1	F around Find out	STELLA	YES	YES	94484	377938	130955	0	0	603377	0	--	--	--	--	--	--	--
+2	57	Shield Depleted	Jeepster1	F around Find out	STELLA	NO	Obsidian Order Station	--	STELLA	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	58	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	703174	0	170024	0	0	604289	268909	--	--	--	--	--	--	--
+2	59	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	YES	2088143	0	504903	0	0	1794495	798551	--	--	--	--	--	--	--
+2	60	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	439792	0	199697	0	0	482633	156856	--	--	--	--	--	--	--
+2	61	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	470754	0	213756	0	0	516611	167899	--	--	--	--	--	--	--
+2	62	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	89334	0	85780	0	0	166775	8339	--	--	--	--	--	--	--
+2	63	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	90911	0	87294	0	0	169719	8486	--	--	--	--	--	--	--
+2	64	Charging Weapons	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	65	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	172400	0	101335	0	0	170551	103184	--	--	--	--	--	--	--
+2	66	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	TheEsteemedMadOne	F around Find out	VALDORE	YES	NO	10462	41849	129324	0	0	181635	0	--	--	--	--	--	--	--
+2	67	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	1203575	0	291018	0	0	1034320	460273	--	--	--	--	--	--	--
+2	68	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	1277425	0	308875	0	0	1097785	488515	--	--	--	--	--	--	--
+2	69	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	1195966	0	289179	0	0	1027782	457363	--	--	--	--	--	--	--
+2	70	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	600166	0	221278	0	0	619958	201486	--	--	--	--	--	--	--
+2	71	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	569095	0	209822	0	0	587862	191055	--	--	--	--	--	--	--
+2	72	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	595066	0	219397	0	0	614689	199774	--	--	--	--	--	--	--
+2	73	Attack	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	585969	0	216043	0	0	605292	196720	--	--	--	--	--	--	--
+2	74	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	82125	0	78858	0	0	153317	7666	--	--	--	--	--	--	--
+2	75	Attack	Rareplayer	F around Find out	AUGUR	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	83381	0	80064	0	0	155662	7783	--	--	--	--	--	--	--
+2	76	Attack	donnyChop	F around Find out	GLADIUS	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	89497	0	97173	0	0	175277	11393	--	--	--	--	--	--	--
+2	77	Attack	Jeepster1	F around Find out	STELLA	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	187311	0	110100	0	0	185303	112108	--	--	--	--	--	--	--
+2	78	Forbidden Tech Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Interphasic Mirror	--	--	--
+2	79	Charging Weapons	Obsidian Order Station	--	Obsidian Order Station	NO	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	80	Charging Weapons	Obsidian Order Station	--	Obsidian Order Station	NO	Obsidian Order Station	--	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	82	Officer Ability	Jeepster1	F around Find out	STELLA	YES	--	--	STELLA	NO	--	--	--	--	--	--	--	--	Officer	0.15	Discipline	Kumak	--	--	--
+3	83	Officer Ability	TheEsteemedMadOne	F around Find out	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Vibrant Authority	William T. Riker	--	--	--
+3	84	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	85	Officer Ability	XanOfHanoi	F around Find out	USS ENTERPRISE	YES	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	86	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	87	Officer Ability	Rareplayer	F around Find out	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	88	Attack	Obsidian Order Station	--	Obsidian Order Station	NO	Rareplayer	F around Find out	AUGUR	YES	NO	10605	42418	131084	0	0	184107	0	--	--	--	--	--	--	--
+3	89	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	766078	0	95999	0	0	596593	265484	--	--	--	--	--	--	--
+3	90	Attack	TheEsteemedMadOne	F around Find out	VALDORE	YES	Obsidian Order Station	--	Obsidian Order Station	NO	NO	840500	0	105325	0	0	654550	291275	--	--	--	--	--	--	--
+3	91	Combatant Destroyed	Obsidian Order Station	--	Obsidian Order Station	YES	TheEsteemedMadOne	F around Find out	Obsidian Order Station	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

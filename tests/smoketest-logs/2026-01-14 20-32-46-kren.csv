@@ -1,0 +1,335 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Static Temporal Dreadnought	63	DEFEAT	Static Temporal Dreadnought	63	665039994880	0	Krenim Commander	--	--	740000000000	0	580000000000	0	Eryndor Veil	1/14/2026 8:32:46 PM
+
+Formation Armada Results	Leader	Alliance Tag
+VICTORY	insidiousrootbeer	TD
+VICTORY	XanOfHanoi	TD
+VICTORY	ArchieAngel	TD
+
+Reward Name	Count
+Encrypted Intelligence	265540380
+Krenim Temporal Wreckage	51324
+Mega Chest	1
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	868430016	741097920	17397454848	Anti-Tachyon Weaponry---Relative Growth	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	5	671106240	15756681	15990547	92230588	0.22	3.45	5	18476998	111265590	18476998	5	17188783609	17606126251	222	1889	561	56516070	0	1	NO	NO
+Player Fleet 2	705126080	305961984	7405932032	Radiation Resistance	Safe Cracker	No Locked Doors	The Looking Glass	Excessive Measures	30	642700416	2935252	2990400	40596844	0.22	4.15	30	2341320	56533700	2317374	30	6928159635	7883704336	197	1547	678.95	442112	0	1	NO	NO
+Player Fleet 3	421229536	267566368	5614388224	Anti-Tachyon Weaponry---Relative Growth	Defensive Measures	Persistence Is Key	Know Your Enemy	Luck Of The Irish	5	328167360	7431193	7541489	43497953	0.22	3.4	5	5452004	42609262	5452004	5	6048759439	5180017807	222	1382	405.24	32517480	0	1	NO	NO
+Player Fleet 4	493677120	218145088	5443905536	Anti-Tachyon Weaponry---Relative Growth	Safe Cracker	No Locked Doors	Excessive Measures	The Looking Glass	5	409052576	6587429	6697725	39279135	0.22	4.2	5	5387812	32853393	5387812	5	5704759644	5183051834	222	1351	684	43263600	0	1	NO	NO
+Enemy Fleet 1	2090000000	2950000128	660000014336	Static Collider Cannon---Temporal Core Overcharge---Neutralised Shift---Temporal Cascade	--	--	--	--	0	1470000000	150000000	60000000	100000000	0.15	1.5	0	220000000	70000000	300000000	0	580000022528	740000006144	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.45	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	4	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	14	Defensive Measures	Benjamin Sisko	--	--	--
+1	5	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	6	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	6	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	9	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	11	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	12	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+1	13	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	14	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	15	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+1	16	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+1	17	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	18	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+1	19	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	20	Forbidden Tech Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	2.1	--	Chrono Deflector	--	--	--
+1	21	Forbidden Tech Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.16	--	Chrono Deflector	--	--	--
+1	22	Forbidden Tech Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	6	--	Control Seeker Probes	--	--	--
+1	23	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	14282356	176149056	229936944	651316416	0	334901492	736783280	--	--	--	--	--	--	--
+1	24	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	11162957	137676480	179716592	509062880	0	261755921	575862988	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	243659424	626552832	124461456	616241472	132085848	247269256	1495731776	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	4147566592	10665170944	2118580864	10489652224	2248363008	4209012352	25460321280	--	--	--	--	--	--	--
+1	27	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3942966784	10139057152	2449339136	10437426176	2137451136	3772681088	25333559296	--	--	--	--	--	--	--
+1	28	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3805611008	9785857024	2364014848	10073831424	2062991616	3641258496	24451047424	--	--	--	--	--	--	--
+1	29	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	247766048	637112704	153910272	655861440	134312016	237065776	1591896704	--	--	--	--	--	--	--
+1	30	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3556691200	9145777152	2209387776	9414916096	1928054144	3403087744	22851738624	--	--	--	--	--	--	--
+1	31	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2346346240	6033461760	1504857088	6167693824	1271935744	2354163712	14970130944	--	--	--	--	--	--	--
+1	32	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	127952480	329020672	82063848	336340704	69362032	128378808	816360928	--	--	--	--	--	--	--
+1	33	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2308480768	5936093184	1480571520	6068158976	1251409152	2316172928	14728540672	--	--	--	--	--	--	--
+1	34	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2259365120	5809795584	1449070592	5939051520	1224783872	2266893056	14415173632	--	--	--	--	--	--	--
+1	35	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	85747800	220494352	51882536	227133904	46483204	80445908	551295888	--	--	--	--	--	--	--
+1	36	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1590737408	4090467584	962491008	4213640192	862326208	1492379968	10227282432	--	--	--	--	--	--	--
+1	37	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+1	38	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	39	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+1	40	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	12444026	153476320	216143904	590264064	0	303852594	668475720	--	--	--	--	--	--	--
+1	41	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	13735844	169408736	238581856	651539520	0	335395604	737870352	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2737997312	7040564224	1750216192	7117015552	1484246656	2855729792	17274310144	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2887111680	7424001536	1845535104	7504616960	1565080448	3011256064	18215089664	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2759160064	7094982656	1763744128	7172025344	1495718784	2877803008	17407827968	--	--	--	--	--	--	--
+1	45	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3633324032	9342833664	2256823296	9617677312	1969596288	3476378496	23343876096	--	--	--	--	--	--	--
+1	46	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3504313088	9011091456	2176688640	9276175360	1899660416	3352939904	22514989056	--	--	--	--	--	--	--
+1	47	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3735172096	9604727808	2320085504	9887276032	2024807168	3573825792	23998242816	--	--	--	--	--	--	--
+1	48	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	251676384	647167872	156327680	666205952	136431776	240804864	1617004800	--	--	--	--	--	--	--
+1	49	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1718480896	4418950656	1101487488	4516887040	931574912	1724063232	10963317760	--	--	--	--	--	--	--
+1	50	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	136528448	351073152	87510072	358853888	74010992	136971944	871004608	--	--	--	--	--	--	--
+1	51	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2427017728	6240902656	1555635328	6379217920	1315667072	2434901248	15483539456	--	--	--	--	--	--	--
+1	52	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2176534528	5596803072	1395084160	5720843264	1179882112	2183604736	13885542400	--	--	--	--	--	--	--
+1	53	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	93842496	241309280	60149836	246657360	50871276	94147320	598682928	--	--	--	--	--	--	--
+1	54	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	91563792	235449760	58689264	240667984	49636008	91861224	584145584	--	--	--	--	--	--	--
+1	55	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	102878960	264545888	62220752	272496672	55769868	96512428	661399712	--	--	--	--	--	--	--
+1	56	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2643459584	6797467136	1598752896	7001761792	1432998528	2479872768	16994567168	--	--	--	--	--	--	--
+1	57	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	155156064	398972704	93837720	410963648	84108872	145554464	997484544	--	--	--	--	--	--	--
+1	58	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	59	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+1	60	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	13731118	169350464	238499792	651315392	0	335280238	737616528	--	--	--	--	--	--	--
+1	61	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	10950480	135055920	190202064	519419872	0	267383856	588244480	--	--	--	--	--	--	--
+1	62	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2829282304	7275297280	1806730624	7353292288	1533731456	2950536704	17847797248	--	--	--	--	--	--	--
+1	63	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	162466800	417771776	103748488	422250528	88071968	169429592	1024879968	--	--	--	--	--	--	--
+1	64	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	990480448	2546949888	615185920	2621848832	536931648	947686016	6363710720	--	--	--	--	--	--	--
+1	65	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	15459379200	39752691712	9601797120	40921710592	8380407296	14791442944	99324542976	--	--	--	--	--	--	--
+1	66	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	15443549184	39711981568	9591964672	40879808512	8371825664	14776294400	99222835200	--	--	--	--	--	--	--
+1	67	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	15247666176	39208284160	9470302208	40361295872	8265638912	14588876800	97964310528	--	--	--	--	--	--	--
+1	68	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	74629872	191905392	47805004	196141856	40456264	74865940	476072448	--	--	--	--	--	--	--
+1	69	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2268076288	5832196608	1452841856	5960946688	1229506304	2275250560	14468317184	--	--	--	--	--	--	--
+1	70	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2307308800	5933080064	1477972736	6064057344	1250773888	2314606976	14718585856	--	--	--	--	--	--	--
+1	71	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1978555520	5087714304	1267385984	5200029184	1072559296	1984814016	12621430272	--	--	--	--	--	--	--
+1	72	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2019539456	5193101312	1220861824	5348870656	1094776320	1894454144	12982695424	--	--	--	--	--	--	--
+1	73	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	104232872	268027376	63011364	276066976	56503816	97776932	670065472	--	--	--	--	--	--	--
+1	74	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	75	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+1	76	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Alannon007	ThunderDome	MINERVA	YES	--	--	NO	44315872	195229392	99645632	612256192	0	297327224	654119864	--	--	--	--	--	--	--
+1	77	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Alannon007	ThunderDome	MINERVA	YES	--	--	NO	44896728	197788304	100951704	620281152	0	301224348	662693540	--	--	--	--	--	--	--
+1	78	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3716259072	9556094976	1891098880	9394906112	2014554624	3769742336	22803171328	--	--	--	--	--	--	--
+1	79	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3804790528	9783746560	1936150144	9618718720	2062546816	3859547392	23346405376	--	--	--	--	--	--	--
+1	80	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	217172368	558443264	110512872	549023680	117727424	220297848	1332581760	--	--	--	--	--	--	--
+1	81	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	94966704	244200096	60792748	249569312	51480700	95258808	605750752	--	--	--	--	--	--	--
+1	82	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1221680000	3141462784	782056064	3210534144	662263040	1225437696	7792558336	--	--	--	--	--	--	--
+1	83	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	108616432	279299392	69530600	285440352	58880112	108950504	692816384	--	--	--	--	--	--	--
+1	84	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	117087448	301082016	74953296	307701888	63472180	117447612	746849216	--	--	--	--	--	--	--
+1	85	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	124814160	320950688	79899536	328007424	67660768	125198080	796134496	--	--	--	--	--	--	--
+1	86	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	114423496	294231840	73247976	300701088	62028072	114775448	729857024	--	--	--	--	--	--	--
+1	87	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	80889240	208000912	48877080	214227344	43849420	75874700	519969296	--	--	--	--	--	--	--
+1	88	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	101849344	261898304	61542156	269738144	55211724	95535416	654704256	--	--	--	--	--	--	--
+1	89	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2483368704	6385805312	1500568064	6576962560	1346214528	2329417600	15963501568	--	--	--	--	--	--	--
+2	91	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	10172290	--	--	--	--
+2	92	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	93	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Excessive Measures	Byr Ch'Kelrer	--	--	--
+2	94	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	The Winning Gambit	Masriad Vael	--	--	--
+2	95	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+2	96	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	97	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	98	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	99	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	100	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	101	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	102	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+2	103	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+2	104	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+2	105	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	106	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Reclaiming Lives	PIC Hugh	--	--	--
+2	107	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+2	108	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+2	109	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	110	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	243064272	625022400	108761728	606316096	131763216	243286688	1471641024	--	--	--	--	--	--	--
+2	111	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3964041984	10193250304	1773753344	9888177152	2148875776	3967668480	24000430080	--	--	--	--	--	--	--
+2	112	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	113	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	84162824	216418688	45969140	216805568	45624000	82753116	526227104	--	--	--	--	--	--	--
+2	114	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1517316480	3901670912	828747584	3908645632	822525248	1491901952	9487003904	--	--	--	--	--	--	--
+2	115	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	125478072	322657888	68535240	323234688	68020672	123376352	784550208	--	--	--	--	--	--	--
+2	116	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1450241280	3729191680	792111552	3735858176	786164288	1425950208	9067616768	--	--	--	--	--	--	--
+2	117	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	134197800	345080064	69463720	348884064	72747568	123567232	846805984	--	--	--	--	--	--	--
+2	118	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1630742784	4193338368	844108160	4239564288	884012736	1501561664	10290204672	--	--	--	--	--	--	--
+2	119	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2238645248	5756516352	1158771840	5819974144	1213551872	2061308800	14126150656	--	--	--	--	--	--	--
+2	120	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	154528192	397358208	79987176	401738528	83768512	142287080	975093536	--	--	--	--	--	--	--
+2	121	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+2	122	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	123	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	124	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	125	Charging Weapons	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	126	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	127	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	128	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2968577536	7633485312	1594241792	7550458368	1609242496	3029650048	18326355456	--	--	--	--	--	--	--
+2	129	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	167493168	430696704	89950352	426012160	90796720	170938992	1034010112	--	--	--	--	--	--	--
+2	130	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	131	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	73220944	188282432	39908912	188572656	39692496	71976816	457700624	--	--	--	--	--	--	--
+2	132	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2134452096	5488590848	1163378304	5497051136	1157069568	2098184960	13342356992	--	--	--	--	--	--	--
+2	133	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	101185536	260191392	55150948	260592448	54851880	99466252	632505952	--	--	--	--	--	--	--
+2	134	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	108145376	278088128	58944392	278516768	58624756	106307836	676011584	--	--	--	--	--	--	--
+2	135	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1582868864	4070234368	817370560	4114004224	858060736	1457091584	9985447168	--	--	--	--	--	--	--
+2	136	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1800205312	4629099008	929599936	4678879232	975877056	1657157504	11356503040	--	--	--	--	--	--	--
+2	137	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2216895488	5700588032	1144772736	5761890816	1201761536	2040737152	13985171456	--	--	--	--	--	--	--
+2	138	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2341735680	6021605888	1209238400	6086360576	1269436416	2155657856	14772719104	--	--	--	--	--	--	--
+2	139	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+2	140	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	141	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	142	Charging Weapons	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	143	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	145	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	146	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	147	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	148	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+3	149	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+3	150	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	151	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+3	152	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+3	153	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	154	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+3	155	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+3	156	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	157	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Reclaiming Lives	PIC Hugh	--	--	--
+3	158	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+3	159	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+3	160	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	18705076	168345680	225854960	639753856	0	328956116	723703456	--	--	--	--	--	--	--
+3	161	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	17903168	161128528	216172320	612326912	0	314853424	692677504	--	--	--	--	--	--	--
+3	162	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3014445312	12057781248	1696174848	10422091776	2287749888	4181904128	25296338944	--	--	--	--	--	--	--
+3	163	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2639112192	10556448768	1484981504	9124420608	2002898560	3661209472	22146652160	--	--	--	--	--	--	--
+3	164	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	176446320	705785280	99283208	610042496	133910216	244781888	1480685632	--	--	--	--	--	--	--
+3	165	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2824450048	11297800192	1589267840	9765204992	2143556992	3918325504	23701954560	--	--	--	--	--	--	--
+3	166	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2848709120	11394836480	1779338496	10166850560	2161967616	3674881280	24676820992	--	--	--	--	--	--	--
+3	167	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2622340352	10489361408	1637945856	9358955520	1990169856	3382861824	22715911168	--	--	--	--	--	--	--
+3	168	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	176993664	707974656	110552408	631678464	134325616	228324680	1533200128	--	--	--	--	--	--	--
+3	169	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	186403264	745613056	116429752	665260672	141466832	240463240	1614710336	--	--	--	--	--	--	--
+3	170	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	161302416	645209664	100751464	575677440	122417072	208082728	1397275328	--	--	--	--	--	--	--
+3	171	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2795324160	11181296640	1745993600	9976323072	2121452288	3606013312	24214376448	--	--	--	--	--	--	--
+3	172	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	920156736	3680626944	618029760	3271171072	698333568	1248582528	7939735552	--	--	--	--	--	--	--
+3	173	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1052059520	4208238080	706623168	3740087296	798438400	1427564608	9077881856	--	--	--	--	--	--	--
+3	174	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1650555392	6602221568	1108607104	5867749376	1252654208	2239677184	14242110464	--	--	--	--	--	--	--
+3	175	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	61072008	244288032	41019444	217111904	46349312	82870044	526970656	--	--	--	--	--	--	--
+3	176	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	59834688	239338752	37667760	214583728	45410276	76000916	520834288	--	--	--	--	--	--	--
+3	177	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	76213504	304854016	47978724	273322688	57840632	96804988	663404576	--	--	--	--	--	--	--
+3	178	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1154880512	4619522048	727032448	4141720576	876472192	1466908160	10052719616	--	--	--	--	--	--	--
+3	179	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1901313152	7605252608	1196934656	6818634240	1442961536	2415013120	16550083072	--	--	--	--	--	--	--
+3	180	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1911456128	7645824512	1203319936	6855009792	1450659328	2427896320	16638373376	--	--	--	--	--	--	--
+3	181	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	101630160	406520640	63979284	364473856	77130072	129088764	884645248	--	--	--	--	--	--	--
+3	182	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.17	Excessive Measures	Byr Ch'Kelrer	--	--	--
+3	183	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	184	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+3	185	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	14168689	127518200	222639216	636397952	0	312726269	687997788	--	--	--	--	--	--	--
+3	186	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	13634706	122712352	214248480	612413696	0	300940374	662068860	--	--	--	--	--	--	--
+3	187	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	116712648	466850592	77071400	409754720	88576608	164415664	994550304	--	--	--	--	--	--	--
+3	188	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2113235968	8452943872	1395479040	7419148288	1603795968	2976962048	18007641088	--	--	--	--	--	--	--
+3	189	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	127633992	510535968	84283328	448097376	96865128	179800784	1087615008	--	--	--	--	--	--	--
+3	190	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	118132848	472531392	78009224	414740768	89654432	166416344	1006652320	--	--	--	--	--	--	--
+3	191	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1960214016	7840856064	1294430720	6881918976	1487663104	2761396224	16703686656	--	--	--	--	--	--	--
+3	192	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	122405816	489623264	80830888	429742304	92897312	172435744	1043063840	--	--	--	--	--	--	--
+3	193	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	171595968	686383808	107143824	612393664	130229136	221354016	1486392384	--	--	--	--	--	--	--
+3	194	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2847620608	11390482432	1778042752	10162621440	2161141760	3673351552	24666557440	--	--	--	--	--	--	--
+3	195	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2695126016	10780504064	1682825728	9618397184	2045409024	3476637952	23345624064	--	--	--	--	--	--	--
+3	196	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2729519104	10918076416	1704300672	9741139968	2071511040	3521003648	23643543552	--	--	--	--	--	--	--
+3	197	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	2829318144	11317272576	1766614784	10097303552	2147251328	3649742720	24508017664	--	--	--	--	--	--	--
+3	198	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	3044297472	12177189888	1900846976	10864524288	2310405376	3927059328	26370204672	--	--	--	--	--	--	--
+3	199	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	91076248	364304992	61139080	323759232	69120400	123576560	785823392	--	--	--	--	--	--	--
+3	200	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1748339968	6993359872	1173652864	6215025664	1326865792	2372230144	15085014016	--	--	--	--	--	--	--
+3	201	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1339476608	5357906432	899184640	4761591808	1016567552	1817465216	11557261824	--	--	--	--	--	--	--
+3	202	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	1187226752	4748907008	796979968	4220371456	901020672	1610885504	10243620352	--	--	--	--	--	--	--
+3	203	Shield Depleted	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	insidiousrootbeer	ThunderDome	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	204	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	5356759040	0	719193664	3808457728	813079872	1453661056	9243829248	--	--	--	--	--	--	--
+3	205	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	6010158592	0	806918528	4273000704	912256640	1630973440	10371361024	--	--	--	--	--	--	--
+3	206	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9585916928	0	1206333696	6875216896	1455005824	2435053952	16687419392	--	--	--	--	--	--	--
+3	207	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	7741734400	0	974253760	5552531456	1175085184	1966586688	13477018112	--	--	--	--	--	--	--
+3	208	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	382707456	0	48161584	274485696	58089556	97216900	666227392	--	--	--	--	--	--	--
+3	209	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9510449152	0	1196836608	6821090304	1443550976	2415882752	16556044288	--	--	--	--	--	--	--
+3	210	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	8381196288	0	1054726400	6011166720	1272146432	2129025280	14590210560	--	--	--	--	--	--	--
+3	211	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	380427808	0	47874700	272850688	57743536	96637788	662258944	--	--	--	--	--	--	--
+3	212	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	387373664	0	48748800	277832384	58797816	98402232	674350432	--	--	--	--	--	--	--
+3	213	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	330398400	0	41578780	236968528	50149780	83929136	575166352	--	--	--	--	--	--	--
+3	214	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	521256064	0	65597148	373855616	79119264	132411580	907416512	--	--	--	--	--	--	--
+3	215	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+3	216	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Alannon007	ThunderDome	MINERVA	YES	--	--	NO	52469352	209877408	109130552	670534784	0	325628780	716383316	--	--	--	--	--	--	--
+3	217	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Alannon007	ThunderDome	MINERVA	YES	--	--	NO	51739560	206958240	107612672	661208384	0	321099640	706419216	--	--	--	--	--	--	--
+3	218	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	631264192	0	83311184	443215584	95816936	177841912	1075765984	--	--	--	--	--	--	--
+3	219	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	588565376	0	77676000	413236384	89335856	165812688	1003000928	--	--	--	--	--	--	--
+3	220	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	10685872128	0	1410269568	7502635008	1621963520	3010460800	18210279424	--	--	--	--	--	--	--
+3	221	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	10458193920	0	1380221568	7342779904	1587405184	2946319360	17822281216	--	--	--	--	--	--	--
+3	222	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	223	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	350240800	0	46998036	248994448	53161572	95039384	604355472	--	--	--	--	--	--	--
+3	224	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	6995848192	0	938757440	4973513728	1061870336	1898354240	12071635456	--	--	--	--	--	--	--
+3	225	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	5190148096	0	696454464	3689798912	787790720	1408369856	8955822336	--	--	--	--	--	--	--
+3	226	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	316924736	0	42527428	225309280	48104668	85998944	546867168	--	--	--	--	--	--	--
+3	227	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	469994880	0	59117652	337073984	71338544	119384324	818140736	--	--	--	--	--	--	--
+3	228	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9174880256	0	1154049664	6580100608	1392616448	2330529408	15971117568	--	--	--	--	--	--	--
+3	229	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	5981504000	0	752375168	4289853952	907907264	1519373888	10412266496	--	--	--	--	--	--	--
+3	230	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	483714080	0	60843304	346913216	73420920	122869184	842022336	--	--	--	--	--	--	--
+3	231	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	427008992	0	53710736	306245088	64813896	108465400	743313312	--	--	--	--	--	--	--
+3	232	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	8521043968	0	1071807680	6111177728	1293373312	2164447296	14832955392	--	--	--	--	--	--	--
+3	233	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.25	Excessive Measures	Byr Ch'Kelrer	--	--	--
+3	234	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	The Winning Gambit	Masriad Vael	--	--	--
+3	235	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+3	236	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	14077405	126696640	221204832	632297856	0	310711485	683565248	--	--	--	--	--	--	--
+3	237	Attack	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	13954002	125586016	219265744	626755136	0	307987778	677573120	--	--	--	--	--	--	--
+3	238	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	15004178432	0	1683776128	10372445184	2277421056	4161983104	25175837696	--	--	--	--	--	--	--
+3	239	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	764725376	0	85817856	528657536	116074448	212125840	1283149376	--	--	--	--	--	--	--
+3	240	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	801855680	0	89984632	554325824	121710296	222425360	1345451072	--	--	--	--	--	--	--
+3	241	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	850312512	0	95422480	587824256	129065352	235866712	1426757888	--	--	--	--	--	--	--
+3	242	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	13398906880	0	1503631872	9262714880	2033763712	3716700032	22482317312	--	--	--	--	--	--	--
+3	243	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	14932354048	0	1675715968	10322792448	2266519040	4142060416	25055321088	--	--	--	--	--	--	--
+3	244	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	8369182720	0	1122453248	5949523968	1270322944	2270890496	14440592384	--	--	--	--	--	--	--
+3	245	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	5905013760	0	791965184	4197783808	896297152	1602264256	10188795648	--	--	--	--	--	--	--
+3	246	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	319386784	0	42835332	227047184	48478376	86662284	551085392	--	--	--	--	--	--	--
+3	247	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	285544320	0	38296468	202989104	43341572	77479448	492692016	--	--	--	--	--	--	--
+3	248	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	446093888	0	59828964	317121344	67710712	121042908	769712000	--	--	--	--	--	--	--
+3	249	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	4709806592	0	631667136	3348129536	714881728	1277956736	8126528256	--	--	--	--	--	--	--
+3	250	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	377129216	0	47414108	270459328	57242856	95790852	656454656	--	--	--	--	--	--	--
+3	251	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	287213376	0	36109552	205975904	43594908	72952204	499941536	--	--	--	--	--	--	--
+3	252	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9104252928	0	1144621056	6529141760	1381896192	2312480768	15847431168	--	--	--	--	--	--	--
+3	253	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	5161021440	0	648863104	3701241600	783369728	1310899584	8983596288	--	--	--	--	--	--	--
+3	254	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	401746240	0	50509052	288113472	60979368	102043588	699304544	--	--	--	--	--	--	--
+3	255	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	496969696	0	62480908	356403264	75432936	126230324	865056480	--	--	--	--	--	--	--
+3	256	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9258587136	0	1164024576	6639822848	1405321984	2351681024	16116075520	--	--	--	--	--	--	--
+3	257	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9000207360	0	1131540096	6454524928	1366103552	2286053504	15666322432	--	--	--	--	--	--	--
+3	258	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	533486304	0	67071912	382591264	80975632	135505560	928619552	--	--	--	--	--	--	--
+4	260	battle_action_type_{0}	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	8905860	--	--	--	--
+4	261	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	262	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	263	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	264	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+4	265	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+4	266	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	267	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+4	268	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+4	269	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Persistence Is Key	Benjamin Sisko	--	--	--
+4	270	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	Luck Of The Irish	Miles O'Brien	--	--	--
+4	271	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	272	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Reclaiming Lives	PIC Hugh	--	--	--
+4	273	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+4	274	Officer Ability	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+4	275	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	276	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	No Locked Doors	Dajash Tolra	--	--	--
+4	277	Officer Ability	Alannon007	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+4	278	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	279	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	890541248	0	90395784	610416320	135171504	244931832	1481593024	--	--	--	--	--	--	--
+4	280	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	852285056	0	86512528	584193856	129364760	234409960	1417946240	--	--	--	--	--	--	--
+4	281	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	13373922304	0	1357540864	9167076352	2029971200	3678324992	22250185728	--	--	--	--	--	--	--
+4	282	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	13180077056	0	1337864320	9034207232	2000548352	3625009792	21927687168	--	--	--	--	--	--	--
+4	283	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	14636450816	0	1485695744	10032468992	2221605120	4025567232	24350653440	--	--	--	--	--	--	--
+4	284	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	15444998144	0	1567768576	10586683392	2344331008	4247948032	25695833088	--	--	--	--	--	--	--
+4	285	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	286	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	6797820928	0	877314048	4813454336	1031812608	1837260800	11683141120	--	--	--	--	--	--	--
+4	287	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	7048501760	0	909666432	4990958080	1069862400	1905012864	12113975808	--	--	--	--	--	--	--
+4	288	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	296255040	0	38234120	209774592	44967304	80069424	509161632	--	--	--	--	--	--	--
+4	289	Attack	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	6333004800	0	817325696	4484323328	961260096	1711634112	10884279808	--	--	--	--	--	--	--
+4	290	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9522139136	0	1156525440	6806019072	1445325312	2410545024	16519463936	--	--	--	--	--	--	--
+4	291	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	7282051072	0	884452224	5204899840	1105311872	1843463168	12633251840	--	--	--	--	--	--	--
+4	292	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	10485948416	0	1273586304	7494909440	1591617920	2654534656	18191527424	--	--	--	--	--	--	--
+4	293	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	499546368	0	60673140	357054464	75824040	126460956	866637056	--	--	--	--	--	--	--
+4	294	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	435171712	0	52854424	311042208	66052884	110164428	754956800	--	--	--	--	--	--	--
+4	295	Attack	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	6174209536	0	749897728	4413061632	937157248	1563011200	10711314944	--	--	--	--	--	--	--
+4	296	Officer Ability	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Know Your Enemy	Changeling Kira	--	--	--
+4	297	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	298	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	299	Charging Weapons	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	300	Charging Weapons	insidiousrootbeer	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	301	Charging Weapons	ArchieAngel	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	302	Charging Weapons	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	303	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	638445504	0	79643424	445733312	96906952	178852264	1081876928	--	--	--	--	--	--	--
+4	304	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	10033448960	0	1251631104	7004893184	1522934912	2810740864	17002167296	--	--	--	--	--	--	--
+4	305	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	594556160	0	74168416	415091808	90245176	166557144	1007504416	--	--	--	--	--	--	--
+4	306	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	9990877184	0	1246320512	6975171584	1516473216	2798813952	16930028544	--	--	--	--	--	--	--
+4	307	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	10040345600	0	1252491392	7009708032	1523981696	2812672512	17013854208	--	--	--	--	--	--	--
+4	308	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	612876288	0	76453768	427882048	93025904	171689336	1038548672	--	--	--	--	--	--	--
+4	309	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	NO	3343605248	0	403886816	2378902272	507511744	859871392	5774034688	--	--	--	--	--	--	--
+4	310	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	59745832960	0	7216927232	42507862016	9068568576	15364768256	103174422528	--	--	--	--	--	--	--
+4	311	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	58751946752	0	7096871424	41800732672	8917709824	15109172736	101458087936	--	--	--	--	--	--	--
+4	312	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	66393456640	0	8019918848	47237500928	10077583360	17074329600	114654130176	--	--	--	--	--	--	--
+4	313	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	60444110848	0	7301274624	43004669952	9174556672	15544343552	104380268544	--	--	--	--	--	--	--
+4	314	Attack	Alannon007	ThunderDome	MINERVA	YES	Static Temporal Dreadnought	--	Static Temporal Dreadnought	NO	--	--	YES	56384598016	0	6810910720	40116416512	8558380544	14500365824	97369939968	--	--	--	--	--	--	--
+4	315	Combatant Destroyed	Static Temporal Dreadnought	--	Static Temporal Dreadnought	YES	Alannon007	ThunderDome	Static Temporal Dreadnought	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

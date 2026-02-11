@@ -1,0 +1,115 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	44	VICTORY	USS KELVIN	25	23234076	0	Gabriel Lorca	Honorguard Worf	Captain Tilly	14915842	13006521	16906616	9269338	Perim Alpha	1/22/2025 6:04:50 PM
+FluffysSSGT2w171	43	DEFEAT	USS ENTERPRISE	45	11639079	0	Mirror Picard	Mirror Data	Khan Noonien Singh	7737275	0	9072400	0	Perim Alpha	1/22/2025 6:04:50 PM
+
+Reward Name	Count
+PvP chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	3750186	3480145	16003744	Open the wound	Manipulation	Quick Thinking	Rage of Khitomer	Sadistic	4	3388413	438715	34094	40919	0.12	2.4	4	29960	61229	604840	4	15369651	16637836	108	165	47.3	205920	0	1	NO	NO
+Enemy Fleet 1	1662601	1571640	8404838	Optimized Crew Interface	Take the Shot	Anticollective	Reflections	Savage Tenacity	3	1225854	17643	20162	276339	0.12	2.1	3	11870	292072	10386	3	9072400	7737275	107	75	36.76	308560	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.45	Rage of Khitomer	Honorguard Worf	--	--	--
+1	2	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+1	3	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+1	4	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+1	5	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	65259	261037	187278	177717	105230	302860	493661	--	--	--	--	--	--	--
+1	6	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	YES	57919	231675	166213	157728	93394	268794	438135	--	--	--	--	--	--	--
+1	7	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	84570	338279	816954	213390	496847	1392886	557154	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	33244	132975	321139	83882	195307	547533	219014	--	--	--	--	--	--	--
+2	10	battle_action_type_{0}	FluffysSSGT2w171	Continuum	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	5890.7	--	--	--
+2	11	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+2	12	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	13	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.05	Always Suffering	French Marshal Q	--	--	--
+2	14	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+2	15	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+2	16	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	122054	488216	1179057	307972	717068	2010262	804105	--	--	--	--	--	--	--
+2	17	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	127141	508564	1228197	320808	746953	2094045	837618	--	--	--	--	--	--	--
+2	18	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	111595	446379	1078019	281580	655620	1837995	735198	--	--	--	--	--	--	--
+2	19	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	106213	424854	191622	328541	171268	309884	912614	--	--	--	--	--	--	--
+2	20	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	21	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	112279	449114	1086741	283566	659637	1850955	740382	--	--	--	--	--	--	--
+2	22	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	45022	180088	435765	113705	264503	742202	296881	--	--	--	--	--	--	--
+2	23	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	103811	415242	1004779	262180	609887	1711356	684543	--	--	--	--	--	--	--
+2	24	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	YES	90994	363974	164163	281462	146726	265479	781840	--	--	--	--	--	--	--
+2	25	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	26	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	83687	334750	808430	211164	491663	1378353	551341	--	--	--	--	--	--	--
+2	27	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	73036	292144	705535	184287	429086	1202920	481168	--	--	--	--	--	--	--
+2	28	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	148146	592582	256980	454462	238884	428657	1262397	--	--	--	--	--	--	--
+2	29	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	132701	530805	230190	407084	213980	383969	1130791	--	--	--	--	--	--	--
+3	31	battle_action_type_{0}	FluffysSSGT2w171	Continuum	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	38931.25	--	--	--
+3	32	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	33	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.05	Always Suffering	French Marshal Q	--	--	--
+3	34	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+3	35	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+3	36	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.5	Quick Thinking	Gabriel Lorca	--	--	--
+3	37	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1.5	Manipulation	Gabriel Lorca	--	--	--
+3	38	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.6	Sadistic	Captain Tilly	--	--	--
+3	39	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	98466	393864	211705	317094	158776	299088	880817	--	--	--	--	--	--	--
+3	40	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	84795	339178	182311	273067	136730	257561	758520	--	--	--	--	--	--	--
+3	41	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	134136	536545	1199386	380638	788050	2044922	993833	--	--	--	--	--	--	--
+3	42	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	125782	503127	1124685	356931	738968	1917559	931934	--	--	--	--	--	--	--
+4	44	battle_action_type_{0}	FluffysSSGT2w171	Continuum	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	12995.9	--	--	--
+4	45	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+4	46	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	47	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.05	Always Suffering	French Marshal Q	--	--	--
+4	48	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+4	49	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+4	50	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.5	Quick Thinking	Gabriel Lorca	--	--	--
+4	51	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1.5	Manipulation	Gabriel Lorca	--	--	--
+4	52	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.6	Sadistic	Captain Tilly	--	--	--
+4	53	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	52145	208578	466254	147970	306350	794951	386346	--	--	--	--	--	--	--
+4	54	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	56247	224990	502939	159613	330453	857498	416744	--	--	--	--	--	--	--
+4	55	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	52785	211140	471978	149787	310111	804711	391090	--	--	--	--	--	--	--
+4	56	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	95352	381408	206518	307620	153754	290152	854500	--	--	--	--	--	--	--
+4	57	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	58	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	47311	189245	423831	134369	277952	721876	350832	--	--	--	--	--	--	--
+4	59	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	161983	647931	1451103	460048	951648	2471543	1201170	--	--	--	--	--	--	--
+4	60	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	50040	200159	448275	142117	293983	763509	371065	--	--	--	--	--	--	--
+4	61	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	83742	334966	181371	270163	135033	254822	750453	--	--	--	--	--	--	--
+4	62	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	63	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	131359	525434	1174549	372755	771732	2002577	973252	--	--	--	--	--	--	--
+4	64	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	32142	128566	287395	91207	188831	490001	238140	--	--	--	--	--	--	--
+4	65	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	114357	457429	247680	368933	184400	347984	1024815	--	--	--	--	--	--	--
+4	66	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	123402	493608	267269	398114	198985	375507	1105871	--	--	--	--	--	--	--
+5	68	battle_action_type_{0}	FluffysSSGT2w171	Continuum	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	29200.6	--	--	--
+5	69	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	70	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.05	Always Suffering	French Marshal Q	--	--	--
+5	71	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+5	72	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+5	73	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1.5	Manipulation	Gabriel Lorca	--	--	--
+5	74	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.6	Sadistic	Captain Tilly	--	--	--
+5	75	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	YES	27912	111648	60479	90057	45008	84944	250160	--	--	--	--	--	--	--
+5	76	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	93533	374131	202664	301782	150821	284646	838285	--	--	--	--	--	--	--
+5	77	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	36479	145917	326179	103516	214314	556127	270278	--	--	--	--	--	--	--
+5	78	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	134072	536288	1198811	380455	787672	2043942	993356	--	--	--	--	--	--	--
+6	80	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	81	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+6	82	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	208727	834909	1089281	284522	182635	1857196	742878	--	--	--	--	--	--	--
+6	83	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	237762	951049	1240806	324101	208041	2115542	846217	--	--	--	--	--	--	--
+6	84	Shield Depleted	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+6	85	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	465999	0	486379	127043	81549	829264	331706	--	--	--	--	--	--	--
+6	86	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	109828	439310	237977	354359	177096	334237	984333	--	--	--	--	--	--	--
+6	87	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	88	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	1025852	0	1072807	279930	179523	1827223	730889	--	--	--	--	--	--	--
+6	89	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	439306	0	459414	119875	76878	782481	312992	--	--	--	--	--	--	--
+6	90	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	1102615	0	1153084	300877	192957	1963952	785581	--	--	--	--	--	--	--
+6	91	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	YES	83246	332986	180380	268595	134234	253343	746098	--	--	--	--	--	--	--
+6	92	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	93	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	722041	0	753621	196847	126356	1284904	513961	--	--	--	--	--	--	--
+6	94	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	697612	0	728123	190187	122081	1241431	496572	--	--	--	--	--	--	--
+6	95	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	122353	489411	265117	394773	197293	372356	1096591	--	--	--	--	--	--	--
+6	96	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	144661	578646	313456	466752	233266	440248	1296533	--	--	--	--	--	--	--
+7	98	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	99	Officer Ability	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+7	100	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.5	Quick Thinking	Gabriel Lorca	--	--	--
+7	101	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1.5	Manipulation	Gabriel Lorca	--	--	--
+7	102	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	NO	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	0.6	Sadistic	Captain Tilly	--	--	--
+7	103	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	NO	94658	378631	205107	305415	152635	288071	848375	--	--	--	--	--	--	--
+7	104	Attack	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS KELVIN	NO	YES	31784	127135	68870	102550	51251	96727	284863	--	--	--	--	--	--	--
+7	105	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	YES	1163267	0	1123830	356659	203571	1916102	931225	--	--	--	--	--	--	--
+7	106	Combatant Destroyed	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+7	107	Attack	XanOfHanoi	F around Find out	USS KELVIN	NO	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	NO	342872	0	331248	105125	60002	564769	274478	--	--	--	--	--	--	--
+7	108	Combatant Destroyed	FluffysSSGT2w171	Continuum	USS ENTERPRISE	NO	XanOfHanoi	F around Find out	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

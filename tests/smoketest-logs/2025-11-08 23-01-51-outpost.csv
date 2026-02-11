@@ -1,0 +1,231 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Assimilated Galor-Class	56	DEFEAT	Assimilated Galor-Class	56	20343150592	0	Assimilated Gul	--	--	32162620163	0	8040655041	0	Helanelas	11/8/2025 11:01:51 PM
+
+Reward Name	Count
+Solo Outpost Credits	32
+Outpost Retaliation Medal	16
+Common Solo Outpost Components	13
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	430680448	183952784	2310485504	Bird of Prey	Glorious Gaze	Wartime Chancellor	Quick Thinking	Sadistic	6.5	394931744	42525875	3680937	3626505	0.22	3.4	6.5	2443776	2450693	31896089	6.5	2183729508	2437241866	247	1184	289.8	4169120	0	1	NO	NO
+Player Fleet 2	498201632	188454128	2681893376	Galaxy Class	Weaponry is irrelevant	You will be assimilated	Creating Opportunities	Savage Tenacity	6.5	433086048	3565270	3619701	41913502	0.22	3.6	6.5	2589975	32498296	2602554	6.5	2457076944	2906709411	237	1184	309.12	4169120	0	1	NO	NO
+Enemy Fleet 1	215315360	26199064	20101636096	Isolytic Burst---Diverted Power	--	--	--	--	0	207076672	654476	1308950	3529034	0.1	1.5	0	156596	4803618	279599	0	8040654848	32162619392	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	Wartime Chancellor	Gowron	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+1	5	Forbidden Tech Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	6	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1616219	7619317	19363908	12075246	120060	27196500	13598250	--	--	--	--	--	--	--
+1	7	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1598517	7535865	19151824	11942991	118745	26898628	13449314	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	21225214	63675640	12710237	0	0	34613863	62997228	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	23933990	71801968	14332325	0	0	39031307	71036976	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	147516576	442549760	88336952	0	0	240568536	437834752	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	23465712	70397136	14051907	0	0	38267651	69647104	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	22212368	66637104	13301372	0	0	36223704	65927140	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	24409304	73227912	14616956	0	0	39806444	72447728	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	136704048	410112160	59530484	0	0	163435780	442910912	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	152760368	458281088	66522520	0	0	182631816	494932160	--	--	--	--	--	--	--
+1	16	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4112031	19385288	49266220	30722194	305461	69194129	34597065	--	--	--	--	--	--	--
+1	17	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	18	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	23498876	70496632	10233051	0	0	28093951	76134608	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	146181184	438543584	63657492	0	0	174766100	473616160	--	--	--	--	--	--	--
+1	20	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1549789	7306151	18568018	11578933	115125	26078677	13039339	--	--	--	--	--	--	--
+1	21	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1577080	7434804	18894984	11782828	117152	26537898	13268950	--	--	--	--	--	--	--
+1	22	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	23	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	24	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	26	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+2	27	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	28	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	29	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+2	30	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1582943	7462448	18965236	11826636	117588	26636567	13318284	--	--	--	--	--	--	--
+2	31	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1668845	7867410	19994418	12468430	123969	28082047	14041025	--	--	--	--	--	--	--
+2	32	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	33	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	22158482	66475444	9649349	0	0	26491451	71791824	--	--	--	--	--	--	--
+2	34	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	22095460	66286384	9621906	0	0	26416102	71587648	--	--	--	--	--	--	--
+2	35	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4420062	20837436	52956736	33023584	328343	74377440	37188721	--	--	--	--	--	--	--
+2	36	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	192300464	576901440	84243496	0	0	229420824	624024576	--	--	--	--	--	--	--
+2	37	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	29853062	89559184	13078107	0	0	35615681	96874672	--	--	--	--	--	--	--
+2	38	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	28147408	84442224	12330889	0	0	33580793	91339728	--	--	--	--	--	--	--
+2	39	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	31479904	94439712	13790798	0	0	37556566	102153848	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	202547600	607642816	88732584	0	0	241646008	657276992	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	33473044	100419128	14663958	0	0	39934442	108621688	--	--	--	--	--	--	--
+2	42	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	20254464	60763392	8820207	0	0	24215111	65622952	--	--	--	--	--	--	--
+2	43	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	23444388	70333160	10209323	0	0	28028807	75958064	--	--	--	--	--	--	--
+2	44	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+2	45	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1589204	7491961	19040242	11873410	118053	26741913	13370957	--	--	--	--	--	--	--
+2	46	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1666360	7855697	19964652	12449868	123785	28040241	14020121	--	--	--	--	--	--	--
+2	47	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	894848512	2684545536	392017568	0	0	1067583904	2903827712	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	770346368	2311039232	337475360	0	0	919048608	2499812352	--	--	--	--	--	--	--
+2	49	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	50	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	146721648	0	15973211	0	0	43853067	118841792	--	--	--	--	--	--	--
+2	51	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	146524320	0	15951729	0	0	43794081	118681968	--	--	--	--	--	--	--
+2	52	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	981780672	0	106883952	0	0	293440560	795224064	--	--	--	--	--	--	--
+2	53	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1011786944	0	110150664	0	0	302409032	819528576	--	--	--	--	--	--	--
+2	54	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	930219712	0	101270640	0	0	278029744	753460608	--	--	--	--	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+2	56	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	58	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+3	59	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	60	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	61	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+3	62	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1886482	7545930	19776694	12332658	122619	27776255	13888128	--	--	--	--	--	--	--
+3	63	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1813280	7253120	19009288	11854106	117861	26698437	13349218	--	--	--	--	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	134261152	0	14704369	0	0	40044489	108921032	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	126828312	0	13890320	0	0	37827584	102891048	--	--	--	--	--	--	--
+3	66	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	134108328	0	14687632	0	0	39998912	108797048	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	127790288	0	13995676	0	0	38114508	103671456	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	119224216	0	13057514	0	0	35559610	96722120	--	--	--	--	--	--	--
+3	69	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	668247808	0	73186936	0	0	199310456	542124288	--	--	--	--	--	--	--
+3	70	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	636245696	0	69266448	0	0	190164976	515347168	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	84632912	0	9213769	0	0	25295601	68551080	--	--	--	--	--	--	--
+3	72	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+3	73	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	5090563	20362252	53366256	33278958	330882	74952607	37476304	--	--	--	--	--	--	--
+3	74	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	75	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	87472896	0	9522951	0	0	26144431	70851416	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	522337696	0	56865572	0	0	156119492	423083776	--	--	--	--	--	--	--
+3	77	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1895515	7582059	19871384	12391706	123206	27909246	13954624	--	--	--	--	--	--	--
+3	78	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	YES	2745373	10981494	28780766	17947556	178446	40422423	20211212	--	--	--	--	--	--	--
+3	79	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	80	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	81	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	155461424	0	16924688	0	0	46465256	125920856	--	--	--	--	--	--	--
+3	82	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	995172096	0	108341848	0	0	297443096	806070848	--	--	--	--	--	--	--
+3	83	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	148713136	0	16190020	0	0	44448284	120454872	--	--	--	--	--	--	--
+3	84	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	144430416	0	15723770	0	0	43168250	116985936	--	--	--	--	--	--	--
+3	85	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	147636528	0	16072813	0	0	44126501	119582840	--	--	--	--	--	--	--
+4	87	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+4	88	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	89	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	90	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+4	91	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	YES	2709639	10838558	28406154	17713950	176124	39896283	19948142	--	--	--	--	--	--	--
+4	92	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1772716	7090865	18584042	11588925	115225	26101182	13050591	--	--	--	--	--	--	--
+4	93	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	94	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	89172640	0	9707998	0	0	26652462	72228176	--	--	--	--	--	--	--
+4	95	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	87857696	0	9564843	0	0	26259443	71163096	--	--	--	--	--	--	--
+4	96	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4913374	19653498	51508724	32120608	319365	72343713	36171856	--	--	--	--	--	--	--
+4	97	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	121917056	0	13352436	0	0	36362764	98906728	--	--	--	--	--	--	--
+4	98	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	748796416	0	82008672	0	0	223334752	607470336	--	--	--	--	--	--	--
+4	99	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	116053464	0	12710251	0	0	34613899	94149816	--	--	--	--	--	--	--
+4	100	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	130256056	0	14265729	0	0	38849937	105671848	--	--	--	--	--	--	--
+4	101	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	115411448	0	12639937	0	0	34422417	93628968	--	--	--	--	--	--	--
+4	102	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	113493448	0	12429877	0	0	33850357	92072968	--	--	--	--	--	--	--
+4	103	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	83112320	0	9048226	0	0	24841122	67319424	--	--	--	--	--	--	--
+4	104	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	609596416	0	66365204	0	0	182199892	493761728	--	--	--	--	--	--	--
+4	105	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+4	106	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	YES	2716540	10866160	28478494	17759060	176572	39997884	19998942	--	--	--	--	--	--	--
+4	107	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1890603	7562413	19819894	12359597	122887	27836929	13918465	--	--	--	--	--	--	--
+4	108	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	109	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	110	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+5	112	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+5	113	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	114	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	115	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+5	116	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1766511	7066042	18518984	11548356	114821	26009809	13004905	--	--	--	--	--	--	--
+5	117	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1841006	7364026	19299950	12035362	119663	27106671	13553336	--	--	--	--	--	--	--
+5	118	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	131069384	0	14354804	0	0	39092524	106331664	--	--	--	--	--	--	--
+5	119	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	669128192	0	73283360	0	0	199573024	542838528	--	--	--	--	--	--	--
+5	120	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	122564144	0	13423306	0	0	36555762	99431688	--	--	--	--	--	--	--
+5	121	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	113478344	0	12428222	0	0	33845854	92060712	--	--	--	--	--	--	--
+5	122	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	112370840	0	12306927	0	0	33515527	91162240	--	--	--	--	--	--	--
+5	123	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	124175584	0	13599791	0	0	37036391	100738984	--	--	--	--	--	--	--
+5	124	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	102127896	0	11118404	0	0	30524604	82721696	--	--	--	--	--	--	--
+5	125	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	83975896	0	9142242	0	0	25099226	68018912	--	--	--	--	--	--	--
+5	126	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+5	127	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4923743	19694972	51617420	32188392	320039	72496377	36248189	--	--	--	--	--	--	--
+5	128	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	129	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	86286032	0	9393740	0	0	25789692	69890080	--	--	--	--	--	--	--
+5	130	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	101954144	0	11099487	0	0	30472679	82580952	--	--	--	--	--	--	--
+5	131	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1851272	7405086	19407564	12102470	120331	27257815	13628908	--	--	--	--	--	--	--
+5	132	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1868402	7473608	19587150	12214460	121444	27510042	13755022	--	--	--	--	--	--	--
+5	133	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	550600896	0	60302168	0	0	164221272	446681792	--	--	--	--	--	--	--
+5	134	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	574508736	0	62920576	0	0	171351936	466077376	--	--	--	--	--	--	--
+5	135	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	154316080	0	16799998	0	0	46122926	124993152	--	--	--	--	--	--	--
+5	136	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	152874544	0	16643061	0	0	45692077	123825528	--	--	--	--	--	--	--
+5	137	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	148619088	0	16179781	0	0	44420173	120378696	--	--	--	--	--	--	--
+5	138	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	151828784	0	16529213	0	0	45379509	122978488	--	--	--	--	--	--	--
+5	139	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	148145952	0	16128272	0	0	44278760	119995464	--	--	--	--	--	--	--
+5	140	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	142	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+6	143	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	144	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+6	145	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+6	146	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1854780	7419118	19444342	12125405	120559	27309469	13654735	--	--	--	--	--	--	--
+6	147	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1776679	7106714	18625582	11614829	115482	26159524	13079762	--	--	--	--	--	--	--
+6	148	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	149	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	83893392	0	9133259	0	0	25074571	67952080	--	--	--	--	--	--	--
+6	150	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	81188768	0	8838814	0	0	24266194	65761388	--	--	--	--	--	--	--
+6	151	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4864010	19456040	50991216	31797892	316156	71616877	35808437	--	--	--	--	--	--	--
+6	152	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	113328752	0	12411839	0	0	33801231	91939360	--	--	--	--	--	--	--
+6	153	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	671700160	0	73565040	0	0	200340144	544925056	--	--	--	--	--	--	--
+6	154	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	123956248	0	13575769	0	0	36970977	100561040	--	--	--	--	--	--	--
+6	155	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	131730792	0	14427242	0	0	39289794	106868240	--	--	--	--	--	--	--
+6	156	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	119688376	0	13108349	0	0	35698045	97098680	--	--	--	--	--	--	--
+6	157	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	126183304	0	13819678	0	0	37635214	102367768	--	--	--	--	--	--	--
+6	158	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	93522176	0	10181521	0	0	27952473	75751224	--	--	--	--	--	--	--
+6	159	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	93139544	0	10139864	0	0	27838112	75441296	--	--	--	--	--	--	--
+6	160	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+6	161	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1907829	7631318	20000482	12472210	124007	28090564	14045282	--	--	--	--	--	--	--
+6	162	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1814869	7259477	19025946	11864494	117964	26721833	13360917	--	--	--	--	--	--	--
+6	163	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	164	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	165	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	154204672	0	16787870	0	0	46089630	124902912	--	--	--	--	--	--	--
+6	166	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	147078768	0	16012090	0	0	43959802	119131056	--	--	--	--	--	--	--
+6	167	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1125912576	0	122575232	0	0	336519616	911968192	--	--	--	--	--	--	--
+6	168	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1061340864	0	115545472	0	0	317220032	859666304	--	--	--	--	--	--	--
+6	169	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1132415616	0	123283192	0	0	338463288	917235520	--	--	--	--	--	--	--
+7	171	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+7	172	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	173	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+7	174	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+7	175	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1903919	7615676	19959488	12446648	123753	28032989	14016495	--	--	--	--	--	--	--
+7	176	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1882032	7528129	19730042	12303565	122330	27710732	13855366	--	--	--	--	--	--	--
+7	177	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	114601056	0	12551182	0	0	34180710	92971528	--	--	--	--	--	--	--
+7	178	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	122648448	0	13432538	0	0	36580914	99500072	--	--	--	--	--	--	--
+7	179	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	119597424	0	13098388	0	0	35670916	97024896	--	--	--	--	--	--	--
+7	180	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	113524504	0	12433278	0	0	33859622	92098160	--	--	--	--	--	--	--
+7	181	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	116067640	0	12711803	0	0	34618131	94161312	--	--	--	--	--	--	--
+7	182	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	124817744	0	13670121	0	0	37227921	101259944	--	--	--	--	--	--	--
+7	183	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	83608760	0	9102272	0	0	24989496	67721536	--	--	--	--	--	--	--
+7	184	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	697000000	0	75880616	0	0	208323624	564556992	--	--	--	--	--	--	--
+7	185	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	5052304	20209216	52965176	33028844	328395	74389291	37194644	--	--	--	--	--	--	--
+7	186	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	187	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	694165760	0	75572048	0	0	207476496	562261312	--	--	--	--	--	--	--
+7	188	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	98044152	0	10673817	0	0	29304033	79413936	--	--	--	--	--	--	--
+7	189	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1855719	7422877	19454192	12131547	120620	27323303	13661652	--	--	--	--	--	--	--
+7	190	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	YES	2663542	10654169	27922898	17412594	173127	39217553	19608777	--	--	--	--	--	--	--
+7	191	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	192	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	193	Charging Weapons	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+8	195	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.05	Reclaiming Lives	PIC Hugh	--	--	--
+8	196	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	197	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+8	198	Officer Ability	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	ROTARRAN	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Sadistic	Captain Tilly	--	--	--
+8	199	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1870412	7481648	19608222	12227598	121575	27539637	13769818	--	--	--	--	--	--	--
+8	200	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1835034	7340136	19237340	11996320	119275	27018736	13509369	--	--	--	--	--	--	--
+8	201	Charging Weapons	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	202	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	83597544	0	9101051	0	0	24986139	67712456	--	--	--	--	--	--	--
+8	203	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	700238592	0	76233184	0	0	209291616	567180160	--	--	--	--	--	--	--
+8	204	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	4848243	19392972	50825928	31694820	315131	71384729	35692365	--	--	--	--	--	--	--
+8	205	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	764222528	0	83698144	0	0	227935712	619984960	--	--	--	--	--	--	--
+8	206	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	767667776	0	84075472	0	0	228963216	622780032	--	--	--	--	--	--	--
+8	207	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	117410800	0	12858907	0	0	35018739	95250968	--	--	--	--	--	--	--
+8	208	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	115635776	0	12664506	0	0	34489322	93810960	--	--	--	--	--	--	--
+8	209	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	116299280	0	12737173	0	0	34687221	94349232	--	--	--	--	--	--	--
+8	210	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	121684968	0	13327017	0	0	36293545	98718440	--	--	--	--	--	--	--
+8	211	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	686558336	0	74743848	0	0	205202728	556099456	--	--	--	--	--	--	--
+8	212	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	90690224	0	9873213	0	0	27106045	73457392	--	--	--	--	--	--	--
+8	213	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	--	--	U.S.S. ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+8	214	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1906884	7627535	19990570	12466029	123945	28076642	14038321	--	--	--	--	--	--	--
+8	215	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	ROTARRAN	NO	--	--	NO	1817297	7269190	19051402	11880368	118122	26757586	13378793	--	--	--	--	--	--	--
+8	216	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3038690560	0	332799360	0	0	906314624	2465175296	--	--	--	--	--	--	--
+8	217	Attack	XanOfHanoi	ThunderDome	U.S.S. ENTERPRISE-D	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	530204672	0	58068364	0	0	158137900	430135136	--	--	--	--	--	--	--
+8	218	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	148482592	0	16164920	0	0	44379384	120268128	--	--	--	--	--	--	--
+8	219	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1120775552	0	122015968	0	0	334984288	907807232	--	--	--	--	--	--	--
+8	220	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	154626288	0	16833770	0	0	46215642	125244416	--	--	--	--	--	--	--
+8	221	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1125334912	0	122512336	0	0	336346960	911500288	--	--	--	--	--	--	--
+8	222	Attack	XanOfHanoi	ThunderDome	ROTARRAN	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	152594080	0	16612527	0	0	45608255	123598352	--	--	--	--	--	--	--
+8	223	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

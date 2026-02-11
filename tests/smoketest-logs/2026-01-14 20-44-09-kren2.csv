@@ -1,0 +1,64 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Charged Temporal Dreadnought	63	DEFEAT	Charged Temporal Dreadnought	63	554343989248	0	Krenim Commander	--	--	690000000000	0	410000000000	0	Eryndor Veil	1/14/2026 8:44:09 PM
+
+Formation Armada Results	Leader	Alliance Tag
+VICTORY	XanOfHanoi	TD
+VICTORY	insidiousrootbeer	TD
+VICTORY	ArchieAngel	TD
+
+Reward Name	Count
+Encrypted Intelligence	35282603
+Krenim Temporal Wreckage	4735
+Mega Chest	1
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	711862848	275109024	6531704832	Radiation Resistance	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	27	630977280	3715597	3770745	52407137	0.22	3.4	30	2264094	50719003	2038705	27	6329574362	6733834810	242	1495	428.65	271560	0	1	NO	NO
+Player Fleet 2	1241550336	474057792	10236520448	True Aim	Leader	Inspirational	Illogical	I Have One Job!	36	1128310528	5201835	5279042	73369998	0.22	3.65	40.5	3567834	87617222	3626502	36	9548271613	10924768677	242	1647	561	595680	0	1	NO	NO
+Player Fleet 3	558527488	280787168	6165453824	Anti-Tachyon Weaponry---Relative Growth	Visionary	Maquis Strike	Over My Dead Program	Fun Will Now Commence	5	487055744	5870505	5980801	33695404	0.22	4.15	5	7116528	43456908	5583995	5	6066792367	6264114627	237	1409	683.1	34052640	0	1	NO	NO
+Player Fleet 4	28815232	21163884	124786320	Learning The Hard Way---Polarized Hull	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	5	25026972	155698	211338	1816139	0.22	4.2	5	107739	3963396	161642	5	666200	248906446	254	1481	374.46	19569600	0	1	NO	NO
+Enemy Fleet 1	1894000000	2449999872	550000001024	Charged Quantum Hull Repair---Temporal Core Overcharge---Neutralised Shift---Temporal Cascade	--	--	--	--	0	1274000000	100000000	150000000	60000000	0.15	1.5	0	220000000	70000000	200000000	0	409999998976	689999970304	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.3	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.65	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	3	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	YES	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	5	Officer Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Visionary	Chakotay	--	--	--
+1	6	Officer Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.3	Fun Will Now Commence	Seven of Nine	--	--	--
+1	7	Officer Ability	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.45	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	8	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	9	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+1	10	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	YES	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+1	11	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	YES	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	Leader	James T. Kirk	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	KOS'KARII	YES	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+1	13	Officer Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	14	Officer Ability	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	15	Officer Ability	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	16	Officer Ability	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	Officer	7	The Looking Glass	Toli	--	--	--
+1	17	Forbidden Tech Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	18	Forbidden Tech Ability	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	ENTERPRISE NX-01	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.45	--	Temporal Conduit	--	--	--
+1	19	Attack	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	25009040	269214944	64842656	593049088	0	297536160	654579568	--	--	--	--	--	--	--
+1	20	Attack	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	NO	21825936	234949792	56589612	517566944	0	259666340	571265944	--	--	--	--	--	--	--
+1	21	Attack	insidiousrootbeer	ThunderDome	MINERVA	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	337796256	961420096	122459888	1002162880	204506272	195911280	2432434112	--	--	--	--	--	--	--
+1	22	Attack	insidiousrootbeer	ThunderDome	MINERVA	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	364100544	1036286208	131995880	1080201600	220431248	211166904	2621848576	--	--	--	--	--	--	--
+1	23	Attack	insidiousrootbeer	ThunderDome	MINERVA	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	363031904	1033244672	131608472	1077031168	219784272	210547144	2614153344	--	--	--	--	--	--	--
+1	24	Attack	insidiousrootbeer	ThunderDome	MINERVA	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	5698234368	16218051584	2065757568	16905334784	3449785600	3304797824	41032366080	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	KOS'KARII	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	7609975296	21659160576	3589053440	21980092416	4607178752	6095721984	53349738496	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	KOS'KARII	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	449434784	1279160576	211964624	1298114432	272093728	360005008	3150763136	--	--	--	--	--	--	--
+1	27	Attack	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	150141360	427325440	87316024	433587840	90897552	136870584	1052397632	--	--	--	--	--	--	--
+1	28	Attack	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	3349506304	9533210624	1947934720	9672918016	2027835008	3053448064	23477956608	--	--	--	--	--	--	--
+1	29	Attack	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	3415501824	9721042944	1986315008	9863503872	2067789568	3113609728	23940543488	--	--	--	--	--	--	--
+1	30	Attack	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	1869732864	5321547264	1087359488	5399534080	1131960832	1704469504	13105665024	--	--	--	--	--	--	--
+1	31	Attack	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	YES	61976852	176395648	87867768	161171152	37521596	133740888	391192128	--	--	--	--	--	--	--
+1	32	Attack	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	--	--	NO	4620200	13149800	6550295	12014856	2797129	9970008	29162272	--	--	--	--	--	--	--
+1	33	Officer Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	12.5	Over My Dead Program	The Doctor	--	--	--
+1	34	Officer Ability	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.16	Maquis Strike	Chakotay	--	--	--
+1	35	Attack	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	57094728	243403856	48266556	584541824	0	291658420	641648544	--	--	--	--	--	--	--
+1	36	Shield Depleted	Kleps8340016	ThunderDome	ENTERPRISE NX-01	NO	Charged Temporal Dreadnought	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	37	Attack	Charged Temporal Dreadnought	--	Charged Temporal Dreadnought	NO	Kleps8340016	ThunderDome	ENTERPRISE NX-01	YES	--	--	NO	248754880	0	39955400	483887904	0	241436928	531161256	--	--	--	--	--	--	--
+1	38	Combatant Destroyed	Kleps8340016	ThunderDome	ENTERPRISE NX-01	NO	Charged Temporal Dreadnought	--	ENTERPRISE NX-01	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	40	battle_action_type_{0}	XanOfHanoi	ThunderDome	KOS'KARII	YES	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	--	--	16110510	--	--	--	--
+3	42	Officer Ability	insidiousrootbeer	ThunderDome	MINERVA	YES	--	--	MINERVA	NO	--	--	--	--	--	--	--	--	--	--	Officer	4	The Looking Glass	Toli	--	--	--
+4	44	battle_action_type_{0}	Alannon007	ThunderDome	U.S.S. RELATIVITY	YES	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	9366995	--	--	--	--
+

@@ -1,0 +1,126 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	63	VICTORY	GS-31	60	2459726592	0	SNW Christopher Pike	SNW Nyota Uhura	SNW M'Benga	1642958142	1398431749	3290750638	89368231	Laochra	10/19/2025 8:28:55 PM
+Suliban Runner ⇂	62	DEFEAT	Suliban Runner	62	17158001664	0	Suliban Smuggler	--	--	20528836364	0	6842945455	0	Laochra	10/19/2025 8:28:55 PM
+
+Reward Name	Count
+6⇵ Transogen Containment	526
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	463456640	260693488	1735576448	Apex Shred---Marked for Disposal	Prepared For Anything	Quick Thinker	Pre-emptive Maneuvers	Fight for Peace	5	445843904	20475077	1717462	1636406	0.22	3.4	5	11036927	10859558	30242214	5	1828194799	1642958142	232	1410	432.68	51084540	0	1	NO	NO
+Enemy Fleet 1	1077079552	2395031040	13685891072	Transogen Charged---Red Mist!---Apex Shred---ship_ability_name_{0}	--	--	--	--	0	919691840	51322092	17107364	10264418	0.1	2	0	171073632	205288368	102644184	0	6842945536	20528836608	60	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.11	Prepared For Anything	SNW Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Quick Thinker	SNW Christopher Pike	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	18	Pre-emptive Maneuvers	SNW Nyota Uhura	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	3.75	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	2000	Chaos Tamed	Rachel Garrett	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	8	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fight for Peace	SNW M'Benga	--	--	--
+1	9	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4442256	63900152	27221822	621006208	2590321	38232899	680927860	--	--	--	--	--	--	--
+1	10	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4406546	63386464	27002988	616014016	2569498	37925544	675453968	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	539914048	399066912	677171136	1396870656	214088016	851480368	2375630400	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	NO	39128032	28920716	49075164	101232400	15515140	61707508	172163944	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	14	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4532797	65202536	27776646	633663296	2643116	39012143	694806248	--	--	--	--	--	--	--
+1	15	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4557683	65560520	27929148	637142336	2657627	39226330	698620984	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	545178880	402958272	683774336	1410491776	216175616	859783360	2398795520	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	NO	37770208	27917108	47372156	97719424	14976732	59566132	166189496	--	--	--	--	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	19	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	13799229	198496608	84560664	1929066368	8046460	118764977	2115204352	--	--	--	--	--	--	--
+1	20	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	21	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	22	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11756416	169111520	72042456	1643490816	6855276	101183220	1802073264	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	820360128	606353152	1021582528	2116849152	325291168	1290352544	3600083584	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	849801728	628114304	1058245696	2192819968	336965408	1336661472	3729285632	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	26	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8547214	122948384	52376700	1194859648	4983960	73562786	1310153120	--	--	--	--	--	--	--
+1	27	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	9599991	138092176	58828044	1342032896	5597845	82623656	1471527296	--	--	--	--	--	--	--
+1	28	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8880215	127738472	54417308	1241411584	5178136	76428803	1361196912	--	--	--	--	--	--	--
+1	29	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	8694133	125061760	53277008	1215398272	5069630	74827259	1332673544	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	940774720	695355200	1171533056	2427565824	373038240	1479753760	4128513280	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	911730304	673887616	1135364480	2352619776	361521472	1434069568	4001054080	--	--	--	--	--	--	--
+2	33	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	13466800	--	--	--	--
+2	34	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	35	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	36	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	37	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fight for Peace	SNW M'Benga	--	--	--
+2	38	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	3921752	56412888	24032208	548242176	2286810	33753098	601142736	--	--	--	--	--	--	--
+2	39	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4465244	64230824	27362692	624219840	2603726	38430746	684451580	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	509340416	376468992	638825024	1317770240	201964880	803263760	2241105792	--	--	--	--	--	--	--
+2	41	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	535688544	395943712	671871360	1385938304	212412496	844816464	2357037952	--	--	--	--	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	43	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	3957431	56926120	24250848	553229952	2307615	34060178	606611788	--	--	--	--	--	--	--
+2	44	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	4403767	63346504	26985964	615625664	2567878	37901637	675028140	--	--	--	--	--	--	--
+2	45	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	530956576	392446176	665936448	1373695744	210536176	837353840	2336217280	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	553748608	409292448	694522688	1432663552	219573728	873298368	2436502656	--	--	--	--	--	--	--
+2	47	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	48	Charging Weapons	Suliban Runner ⇂	--	Suliban Runner	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	49	Charging Weapons	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	50	Charging Weapons	Suliban Runner ⇂	--	Suliban Runner	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	51	Charging Weapons	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	53	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	2847193	--	--	--	--
+3	54	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	55	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	56	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fight for Peace	SNW M'Benga	--	--	--
+3	57	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6557397	66302568	29021236	662055872	2761546	40760159	725938460	--	--	--	--	--	--	--
+3	58	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6808475	68841248	30132438	687405568	2867284	42320837	753734176	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	480350784	393014272	629850496	1299257472	199127568	791979024	2209621568	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	477692608	390839424	626364992	1292067584	198025632	787596384	2197393856	--	--	--	--	--	--	--
+3	61	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	62	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6816310	68920464	30167112	688196544	2870583	42369537	754601476	--	--	--	--	--	--	--
+3	63	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6207083	62760504	27470842	626687040	2614017	38582642	687156844	--	--	--	--	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	477477408	390663328	626082816	1291485568	197936416	787241568	2196403968	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	514476992	420935712	674597760	1391562368	213274448	848244656	2366602624	--	--	--	--	--	--	--
+3	66	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	67	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	16975384	171640000	75128384	1713889408	7148921	105517393	1879264704	--	--	--	--	--	--	--
+3	68	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	13820006	139735616	61163544	1395312256	5820082	85903856	1529947648	--	--	--	--	--	--	--
+3	69	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	14971567	151379184	66260040	1511577600	6305044	93061851	1657431584	--	--	--	--	--	--	--
+3	70	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	17604896	178005072	77914432	1777447040	7414030	109430382	1948955088	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	800585280	655024320	1042273408	2159723264	331879520	1316487008	3672998784	--	--	--	--	--	--	--
+3	72	Shield Depleted	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	73	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	1594110208	0	1141445248	2365220096	363457728	1441750208	4022483072	--	--	--	--	--	--	--
+3	74	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	75	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	12320638	124575344	54527756	1243931264	5188646	76583928	1363959720	--	--	--	--	--	--	--
+3	76	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	12207835	123434784	54028520	1232542336	5141141	75882760	1351471856	--	--	--	--	--	--	--
+3	77	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	11653323	117828048	51574404	1176556928	4907617	72435968	1290084352	--	--	--	--	--	--	--
+3	78	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	18951508	191620784	83874152	1913405056	7981134	117800778	2098031856	--	--	--	--	--	--	--
+3	79	Shield Depleted	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	80	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	1508515072	0	1080155776	2238220544	343942016	1364335872	3806497536	--	--	--	--	--	--	--
+3	81	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	1401291392	0	1003379456	2079129984	319494944	1267360416	3535935360	--	--	--	--	--	--	--
+4	83	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	24632050	--	--	--	--
+4	84	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	85	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	86	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	87	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fight for Peace	SNW M'Benga	--	--	--
+4	88	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6611249	66847076	29259570	667492992	2784225	41094904	731900208	--	--	--	--	--	--	--
+4	89	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6807601	68832408	30128568	687317248	2866915	42315404	753637336	--	--	--	--	--	--	--
+4	90	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	925788928	0	688607552	1369549056	211080224	865860640	2329165120	--	--	--	--	--	--	--
+4	91	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	923756992	0	687096128	1366543104	210616928	863960224	2324052928	--	--	--	--	--	--	--
+4	92	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	93	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6396013	64670800	28306994	645762048	2693582	39757013	708072424	--	--	--	--	--	--	--
+4	94	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6110976	61788760	27045500	616983808	2573543	37985251	676517336	--	--	--	--	--	--	--
+4	95	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	920455616	0	684640576	1361659392	209864224	860872544	2315747264	--	--	--	--	--	--	--
+4	96	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	931759488	0	693048512	1378381568	212441520	871444720	2344186368	--	--	--	--	--	--	--
+4	97	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	98	Charging Weapons	Suliban Runner ⇂	--	Suliban Runner	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	99	Charging Weapons	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	100	Charging Weapons	Suliban Runner ⇂	--	Suliban Runner	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	101	Charging Weapons	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	103	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	4407393	--	--	--	--
+5	104	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	105	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	106	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fight for Peace	SNW M'Benga	--	--	--
+5	107	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	5429172	54894960	24028020	548146624	2286411	33747219	601037968	--	--	--	--	--	--	--
+5	108	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	5659441	57223236	25047130	571395392	2383386	35178553	626530032	--	--	--	--	--	--	--
+5	109	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	883096896	0	656852928	1306393344	201346416	825932144	2221757440	--	--	--	--	--	--	--
+5	110	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	932891456	0	693890432	1380056064	212699600	872503376	2347034176	--	--	--	--	--	--	--
+5	111	Officer Ability	XanOfHanoi	ThunderDome	GS-31	NO	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+5	112	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	6300235	63702376	27883108	636092032	2653246	39161665	697469332	--	--	--	--	--	--	--
+5	113	Attack	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	GS-31	NO	--	--	NO	5706048	57694488	25253400	576100992	2403014	35468258	631689684	--	--	--	--	--	--	--
+5	114	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	840384896	0	625083456	1243208192	191608064	785984960	2114299648	--	--	--	--	--	--	--
+5	115	Attack	XanOfHanoi	ThunderDome	GS-31	NO	Suliban Runner ⇂	--	Suliban Runner	NO	--	--	YES	834210176	0	620490688	1234073728	190200224	780210016	2098764800	--	--	--	--	--	--	--
+5	116	Combatant Destroyed	Suliban Runner ⇂	--	Suliban Runner	NO	XanOfHanoi	ThunderDome	Suliban Runner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

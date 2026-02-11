@@ -1,0 +1,276 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Expansion Cube	42	VICTORY	Borg Expansion Cube	42	3786385152	0	Borg Drone	--	--	3735331038	3492598175	3735331038	2764399585	Lymari	2/25/2025 4:24:30 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	3853035	1882290	14849838	Collective Severance	Borg Polarization	Adapt & Overcome	Strengthen the Unimatrix	Defenses are irrelevant	5	3406815	590990	40198	35600	0.18	2.48	5	45468	64988	266002	5	18383172	11316503	216	120	51.94	5527200	0	1	NO	NO
+Player Fleet 2	2421705	671300	4005675	Collective Severance	Vibrant Authority	The Icarus Factor	Illogical	Inspirational	5	2154611	295811	19060	11563	0.18	2.28	5	24610	27820	81830	5	4699180	3312169	137	80	44.94	2645500	0	1	NO	NO
+Player Fleet 3	1389664	440020	2806325	Collective Severance	Weaponry is irrelevant	You will be assimilated	Strengthen the Unimatrix	Cybernetic Enhancements	2	1143984	205313	11957	7253	0.18	2.17	2	17204	19448	51352	2	2874888	2737761	131	80	21.57	2164500	0	1	NO	NO
+Player Fleet 4	379967	337885	857042	Cybernetic Augmentation	Resistance is Futile	Strengthen the Unimatrix	Adapt & Overcome	Cybernetic Enhancements	2.79	305880	58255	5221	4053	0.12	1.93	2.79	657	657	66263	2.79	843396	870688	120	41	20.28	385000	0	1	NO	NO
+Enemy Fleet 1	13170517	37883676	3735331072	Gravimetric Torpedoes	--	--	--	--	0	10530257	301740	326888	251459	0.1	1.5	0	3030694	2348788	2197253	0	3735331072	3735331072	0	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.25	Borg Polarization	Nine of Eleven	--	--	--
+1	2	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	2.5	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+1	4	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+1	5	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+1	6	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	7	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Interphasic Mirror	--	--	--
+1	8	Forbidden Tech Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	7	--	Dual Photon Warheads	--	--	--
+1	9	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	195332	781327	256786	0	0	1233445	0	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2003870	8015482	6977197	0	0	10622843	6373706	--	--	--	--	--	--	--
+1	11	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	748096	2992384	4744155	0	0	7220966	1263669	--	--	--	--	--	--	--
+1	12	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	711515	2846061	5461044	0	0	8312092	706528	--	--	--	--	--	--	--
+1	13	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	374965	1499858	2844708	0	0	4329845	389686	--	--	--	--	--	--	--
+1	14	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+1	15	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+1	16	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	215690	862760	283549	0	0	1361999	0	--	--	--	--	--	--	--
+1	17	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	18	Charging Weapons	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	19	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	20	Charging Weapons	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	21	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+1	22	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	137733	550932	342284	0	0	1030949	0	--	--	--	--	--	--	--
+1	23	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	24	Charging Weapons	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	25	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	26	Charging Weapons	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	27	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	58224	232895	709975	0	0	1001094	0	--	--	--	--	--	--	--
+1	28	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	52310	209240	637863	0	0	899413	0	--	--	--	--	--	--	--
+1	29	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	123753	495010	307541	0	0	926304	0	--	--	--	--	--	--	--
+2	31	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+2	32	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+2	33	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+2	34	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	35	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	Killrlips	F around Find out	VI'DAR	YES	NO	156764	627057	186789	0	0	970610	0	--	--	--	--	--	--	--
+2	36	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2237054	8948214	7782108	0	0	11854610	7112766	--	--	--	--	--	--	--
+2	37	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	838518	3354071	5317579	0	0	8093760	1416408	--	--	--	--	--	--	--
+2	38	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	683671	2734683	5247332	0	0	7986807	678879	--	--	--	--	--	--	--
+2	39	Charging Weapons	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	40	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	41	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	132844	531377	330135	0	0	994356	0	--	--	--	--	--	--	--
+2	42	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	9486117	37944468	32591966	0	0	50014095	30008456	--	--	--	--	--	--	--
+2	43	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	3412501	13650005	21609402	0	0	32912262	5759646	--	--	--	--	--	--	--
+2	44	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	2504508	10018031	19222682	0	0	29258268	2486953	--	--	--	--	--	--	--
+2	45	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	328261	1313046	2490389	0	0	3790547	341149	--	--	--	--	--	--	--
+2	46	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+2	47	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	65762	263050	801901	0	0	1130713	0	--	--	--	--	--	--	--
+2	48	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	49	Charging Weapons	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	50	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	51	Charging Weapons	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	52	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	151040	604162	198560	0	0	953762	0	--	--	--	--	--	--	--
+2	53	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+2	54	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	46725	186898	569755	0	0	803378	0	--	--	--	--	--	--	--
+2	55	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	57402	229606	699950	0	0	986958	0	--	--	--	--	--	--	--
+3	57	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+3	58	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+3	59	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+3	60	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	61	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	168865	675460	419651	0	0	1263976	0	--	--	--	--	--	--	--
+3	62	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1998114	7992458	6919782	0	0	10568971	6341383	--	--	--	--	--	--	--
+3	63	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	894976	3579906	5675618	0	0	8638723	1511777	--	--	--	--	--	--	--
+3	64	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	725147	2900586	5565669	0	0	8471338	720064	--	--	--	--	--	--	--
+3	65	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	338220	1352882	2565945	0	0	3905548	351499	--	--	--	--	--	--	--
+3	66	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	67	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	181124	724495	450116	0	0	1355735	0	--	--	--	--	--	--	--
+3	68	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	8137170	32548680	27587426	0	0	42670798	25602478	--	--	--	--	--	--	--
+3	69	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1408334	5633335	8918166	0	0	13582838	2376997	--	--	--	--	--	--	--
+3	70	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1117206	4468822	8574814	0	0	13051467	1109375	--	--	--	--	--	--	--
+3	71	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	313286	1253143	2376774	0	0	3617617	325586	--	--	--	--	--	--	--
+3	72	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	73	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	160680	642719	399310	0	0	1202709	0	--	--	--	--	--	--	--
+3	74	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	5730898	22923594	18114654	0	0	29230716	17538430	--	--	--	--	--	--	--
+3	75	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	6150965	24603862	19442434	0	0	31373289	18823972	--	--	--	--	--	--	--
+3	76	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2261285	9045140	14094264	0	0	21617608	3783081	--	--	--	--	--	--	--
+3	77	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2265089	9060355	14117973	0	0	21653972	3789445	--	--	--	--	--	--	--
+3	78	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1908939	7635758	14651105	0	0	22300278	1895524	--	--	--	--	--	--	--
+3	79	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1833089	7332354	14068951	0	0	21414188	1820206	--	--	--	--	--	--	--
+3	80	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1056792	4227169	8017465	0	0	12203143	1098283	--	--	--	--	--	--	--
+3	81	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+3	82	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	214093	856372	281450	0	0	1351915	0	--	--	--	--	--	--	--
+3	83	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+3	84	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	Killrlips	F around Find out	VI'DAR	YES	NO	127803	511213	152281	0	0	791297	0	--	--	--	--	--	--	--
+3	85	Shield Depleted	Killrlips	F around Find out	VI'DAR	NO	Borg Expansion Cube	--	VI'DAR	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	86	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	109951	439806	273243	0	0	823000	0	--	--	--	--	--	--	--
+4	88	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+4	89	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+4	90	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+4	91	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+4	92	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	216345	865382	284411	0	0	1366138	0	--	--	--	--	--	--	--
+4	93	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1737325	6949299	5909288	0	0	9122445	5473467	--	--	--	--	--	--	--
+4	94	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	914605	3658418	5800094	0	0	8828185	1544932	--	--	--	--	--	--	--
+4	95	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	1479267	5917066	11353717	0	0	17281152	1468898	--	--	--	--	--	--	--
+4	96	Charging Weapons	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	97	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	98	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+4	99	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	172170	688680	226337	0	0	1087187	0	--	--	--	--	--	--	--
+4	100	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2968275	11873099	9743890	0	0	15365790	9219474	--	--	--	--	--	--	--
+4	101	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1901426	7605703	9823602	0	0	14961866	4368865	--	--	--	--	--	--	--
+4	102	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1177417	4709668	9036949	0	0	13754870	1169164	--	--	--	--	--	--	--
+4	103	Attack	Killrlips	F around Find out	VI'DAR	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	273092	1092368	2071840	0	0	3153486	283814	--	--	--	--	--	--	--
+4	104	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+4	105	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+4	106	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	Killrlips	F around Find out	VI'DAR	YES	NO	1083425	0	258187	0	0	1341612	0	--	--	--	--	--	--	--
+4	107	Combatant Destroyed	Killrlips	F around Find out	VI'DAR	NO	Borg Expansion Cube	--	VI'DAR	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	108	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	109	Charging Weapons	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	110	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	111	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	65594	262374	799842	0	0	1127810	0	--	--	--	--	--	--	--
+4	112	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	165142	660566	217098	0	0	1042806	0	--	--	--	--	--	--	--
+4	113	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+4	114	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	150852	603410	198313	0	0	952575	0	--	--	--	--	--	--	--
+5	116	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+5	117	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+5	118	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+5	119	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+5	120	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	121	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	150724	602894	198143	0	0	951761	0	--	--	--	--	--	--	--
+5	122	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1657294	6629177	5491103	0	0	8610984	5166590	--	--	--	--	--	--	--
+5	123	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	930308	3721234	4812658	0	0	7325232	2138968	--	--	--	--	--	--	--
+5	124	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	612540	2450158	4701385	0	0	7155837	608246	--	--	--	--	--	--	--
+5	125	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	126	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	127	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	182037	728150	239309	0	0	1149496	0	--	--	--	--	--	--	--
+5	128	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	9877766	39511064	31259722	0	0	50405344	30243208	--	--	--	--	--	--	--
+5	129	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1953210	7812841	8510685	0	0	12962224	5314512	--	--	--	--	--	--	--
+5	130	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1194385	4777539	9167182	0	0	13953093	1186013	--	--	--	--	--	--	--
+5	131	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+5	132	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	133	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	179379	717517	235815	0	0	1132711	0	--	--	--	--	--	--	--
+5	134	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	135	Charging Weapons	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	136	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	137	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	138	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	208451	833803	274033	0	0	1316287	0	--	--	--	--	--	--	--
+5	139	Shield Depleted	OutDamnedSpot	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	140	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	141	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	850075	0	223504	0	0	1073579	0	--	--	--	--	--	--	--
+5	142	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+5	143	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	44277	177106	539905	0	0	761288	0	--	--	--	--	--	--	--
+6	145	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.8	Inspirational	James T. Kirk	--	--	--
+6	146	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	Vibrant Authority	William T. Riker	--	--	--
+6	147	Officer Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	7.5	Illogical	Spock	--	--	--
+6	148	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+6	149	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	153939	615757	202371	0	0	972067	0	--	--	--	--	--	--	--
+6	150	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1677179	6708717	5327802	0	0	8571061	5142637	--	--	--	--	--	--	--
+6	151	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	1878061	7512246	11909991	0	0	18127913	3172385	--	--	--	--	--	--	--
+6	152	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	596053	2384213	4574848	0	0	6963239	591875	--	--	--	--	--	--	--
+6	153	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	154	Forbidden Tech Ability	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.1	--	Interphasic Mirror	--	--	--
+6	155	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	81025	324100	988011	0	0	1393136	0	--	--	--	--	--	--	--
+6	156	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	3664347	14657388	11015572	0	0	18335817	11001490	--	--	--	--	--	--	--
+6	157	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1787266	7149065	9233805	0	0	14063573	4106563	--	--	--	--	--	--	--
+6	158	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1021569	4086277	7840781	0	0	11934218	1014409	--	--	--	--	--	--	--
+6	159	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	160	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	57306	229222	698780	0	0	985308	0	--	--	--	--	--	--	--
+6	161	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	6235757	24943028	17080808	0	0	30162245	18097348	--	--	--	--	--	--	--
+6	162	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	5888826	23555306	16130506	0	0	28484150	17090488	--	--	--	--	--	--	--
+6	163	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2776120	11104478	14140016	0	0	21687782	6332832	--	--	--	--	--	--	--
+6	164	Attack	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2922942	11691766	14887846	0	0	22834794	6667760	--	--	--	--	--	--	--
+6	165	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1799250	7196999	13809239	0	0	21018883	1786605	--	--	--	--	--	--	--
+6	166	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1905073	7620294	14621434	0	0	22255116	1891685	--	--	--	--	--	--	--
+6	167	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+6	168	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	OutDamnedSpot	F around Find out	VI'DAR TALIOS	YES	NO	162035	648140	213014	0	0	1023189	0	--	--	--	--	--	--	--
+6	169	Combatant Destroyed	OutDamnedSpot	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	170	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	113269	453078	281489	0	0	847836	0	--	--	--	--	--	--	--
+6	171	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	139070	556279	345606	0	0	1040955	0	--	--	--	--	--	--	--
+7	173	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+7	174	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	65806	263224	802433	0	0	1131463	0	--	--	--	--	--	--	--
+7	175	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2253615	9014461	6542817	0	0	11131808	6679085	--	--	--	--	--	--	--
+7	176	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	651440	2605762	4999957	0	0	7610285	646874	--	--	--	--	--	--	--
+7	177	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+7	178	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	178139	712555	442698	0	0	1333392	0	--	--	--	--	--	--	--
+7	179	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	9258529	37034116	25215490	0	0	44692583	26815552	--	--	--	--	--	--	--
+7	180	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1220624	4882495	9368571	0	0	14259622	1212068	--	--	--	--	--	--	--
+7	181	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+7	182	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	131146	524583	325914	0	0	981643	0	--	--	--	--	--	--	--
+7	183	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+7	184	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+7	185	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	78408	313634	956105	0	0	1348147	0	--	--	--	--	--	--	--
+7	186	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	46142	184569	562654	0	0	793365	0	--	--	--	--	--	--	--
+7	187	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	55434	221738	675962	0	0	953134	0	--	--	--	--	--	--	--
+8	189	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+8	190	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	78495	313980	957161	0	0	1349636	0	--	--	--	--	--	--	--
+8	191	Shield Depleted	ScatterBrains	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+8	192	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	4853620	19414480	13118761	0	0	23366788	14020073	--	--	--	--	--	--	--
+8	193	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	688518	2754070	5284533	0	0	8043429	683692	--	--	--	--	--	--	--
+8	194	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+8	195	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	126899	507598	315361	0	0	949858	0	--	--	--	--	--	--	--
+8	196	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	8670018	34680072	21937304	0	0	40804622	24482772	--	--	--	--	--	--	--
+8	197	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1180055	4720218	9057194	0	0	13785684	1171783	--	--	--	--	--	--	--
+8	198	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+8	199	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	162091	648366	402818	0	0	1213275	0	--	--	--	--	--	--	--
+8	200	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	201	Charging Weapons	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	202	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	355747	0	867589	0	0	1223336	0	--	--	--	--	--	--	--
+8	203	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	230638	0	562476	0	0	793114	0	--	--	--	--	--	--	--
+8	204	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	270000	0	658472	0	0	928472	0	--	--	--	--	--	--	--
+9	206	Officer Ability	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+9	207	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	363605	0	886754	0	0	1250359	0	--	--	--	--	--	--	--
+9	208	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1940752	7763007	4865264	0	0	9105639	5463384	--	--	--	--	--	--	--
+9	209	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	718595	2874379	5515382	0	0	8394798	713558	--	--	--	--	--	--	--
+9	210	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	211	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	142265	569060	353547	0	0	1064872	0	--	--	--	--	--	--	--
+9	212	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	3587177	14348706	8420685	0	0	16472855	9883713	--	--	--	--	--	--	--
+9	213	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1233874	4935498	9470273	0	0	14414419	1225226	--	--	--	--	--	--	--
+9	214	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	215	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	173248	692991	430543	0	0	1296782	0	--	--	--	--	--	--	--
+9	216	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	5673492	22693968	12135198	0	0	25314161	15188497	--	--	--	--	--	--	--
+9	217	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	6201581	24806322	13264742	0	0	27670403	16602242	--	--	--	--	--	--	--
+9	218	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2011899	8047594	15441317	0	0	23503051	1997759	--	--	--	--	--	--	--
+9	219	Attack	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	5032795	20131182	38626696	0	0	58793247	4997426	--	--	--	--	--	--	--
+9	220	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+9	221	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	333123	0	812414	0	0	1145537	0	--	--	--	--	--	--	--
+9	222	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	104476	417905	259637	0	0	782018	0	--	--	--	--	--	--	--
+9	223	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	ScatterBrains	F around Find out	VI'DAR TALIOS	YES	NO	257009	0	626788	0	0	883797	0	--	--	--	--	--	--	--
+9	224	Combatant Destroyed	ScatterBrains	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+10	226	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	186660	746638	463873	0	0	1397171	0	--	--	--	--	--	--	--
+10	227	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	1979950	7919802	4435493	0	0	8959528	5375717	--	--	--	--	--	--	--
+10	228	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+10	229	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	183105	732421	455040	0	0	1370566	0	--	--	--	--	--	--	--
+10	230	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	10257256	41029024	21586688	0	0	45545604	27327364	--	--	--	--	--	--	--
+10	231	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+10	232	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	178366	713464	443262	0	0	1335092	0	--	--	--	--	--	--	--
+10	233	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+10	234	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	134614	538454	334532	0	0	1007600	0	--	--	--	--	--	--	--
+10	235	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	125689	502758	312354	0	0	940801	0	--	--	--	--	--	--	--
+10	236	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	119763	479052	297626	0	0	896441	0	--	--	--	--	--	--	--
+11	238	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	175847	703389	437003	0	0	1316239	0	--	--	--	--	--	--	--
+11	239	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	6350341	25401366	13242618	0	0	28121453	16872872	--	--	--	--	--	--	--
+11	240	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+11	241	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	172226	688904	428004	0	0	1289134	0	--	--	--	--	--	--	--
+11	242	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	3824225	15296898	7515601	0	0	16647952	9988772	--	--	--	--	--	--	--
+11	243	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+11	244	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	158986	635945	395101	0	0	1190032	0	--	--	--	--	--	--	--
+11	245	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+11	246	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	186230	744921	462806	0	0	1393957	0	--	--	--	--	--	--	--
+11	247	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	126178	504712	313568	0	0	944458	0	--	--	--	--	--	--	--
+11	248	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	104317	417268	259241	0	0	780826	0	--	--	--	--	--	--	--
+12	250	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	179190	716758	445309	0	0	1341257	0	--	--	--	--	--	--	--
+12	251	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2180070	8720282	4248638	0	0	9468119	5680871	--	--	--	--	--	--	--
+12	252	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	253	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	184259	737034	457906	0	0	1379199	0	--	--	--	--	--	--	--
+12	254	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	3856025	15424100	7106901	0	0	16491891	9895135	--	--	--	--	--	--	--
+12	255	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	256	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	165711	662842	411812	0	0	1240365	0	--	--	--	--	--	--	--
+12	257	Shield Depleted	XanOfHanoi	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+12	258	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	6809815	27239260	11621425	0	0	28544064	17126436	--	--	--	--	--	--	--
+12	259	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	20342552	81370208	34715988	0	0	85267964	51160784	--	--	--	--	--	--	--
+12	260	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+12	261	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	838881	0	416945	0	0	1255826	0	--	--	--	--	--	--	--
+12	262	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	716944	0	356340	0	0	1073284	0	--	--	--	--	--	--	--
+12	263	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	506568	0	251777	0	0	758345	0	--	--	--	--	--	--	--
+13	265	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	798625	0	396937	0	0	1195562	0	--	--	--	--	--	--	--
+13	266	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	NO	2779090	11116362	4933446	0	0	11768061	7060837	--	--	--	--	--	--	--
+13	267	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+13	268	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	868424	0	431629	0	0	1300053	0	--	--	--	--	--	--	--
+13	269	Attack	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	YES	10879015	43516060	18361734	0	0	45473005	27283804	--	--	--	--	--	--	--
+13	270	Officer Ability	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.05	Defenses are irrelevant	Six of Eleven	--	--	--
+13	271	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	929077	0	461775	0	0	1390852	0	--	--	--	--	--	--	--
+13	272	Charging Weapons	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	Borg Expansion Cube	--	Borg Expansion Cube	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+13	273	Attack	Borg Expansion Cube	--	Borg Expansion Cube	NO	XanOfHanoi	F around Find out	VI'DAR TALIOS	YES	NO	832203	0	413626	0	0	1245829	0	--	--	--	--	--	--	--
+13	274	Combatant Destroyed	XanOfHanoi	F around Find out	VI'DAR TALIOS	NO	Borg Expansion Cube	--	VI'DAR TALIOS	YES	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

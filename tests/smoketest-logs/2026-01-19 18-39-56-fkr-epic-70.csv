@@ -1,0 +1,81 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	GS-31	75	7542894592	0	Dajash Tolra	Toli	Gwen DeMarco	3820637259	3214554744	12733151052	8348011993	Kro'vaz	1/19/2026 6:39:56 PM
+Klingon War Forge	70	DEFEAT	Klingon War Forge	70	519758118912	0	Klingon Brigadier	--	--	504932976570	0	504932976570	0	Kro'vaz	1/19/2026 6:39:56 PM
+
+Reward Name	Count
+Epic G6 Solo Armada Credits	42883
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1804101888	627829248	5110963200	Apex Shred---Marked for Disposal	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	1759704064	53839476	4561269	4354190	0.22	3.45	5	26818894	26621628	72125327	5	5093260654	5128665291	262	2171	779	88934060	0	1	NO	YES
+Enemy Fleet 1	12040996864	2784140288	504932990976	Isolytic Mastery---Isolytic Countermeasures	--	--	--	--	0	9780893696	251122560	251122560	251122560	0.1	1.5	0	185609360	185609360	185609360	0	504932990976	504932990976	90	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	3.5	--	Chrono Deflector	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Chrono Deflector	--	--	--
+1	10	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	45766472	215756224	260094864	639596928	0	464485808	696728680	--	--	--	--	--	--	--
+1	11	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	45556964	214768544	258904224	636669056	0	462359512	693539276	--	--	--	--	--	--	--
+1	12	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46694884	220133024	265371120	652571712	0	473908308	710862432	--	--	--	--	--	--	--
+1	13	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	NO	390576224	1345318016	168852784	818718592	0	264851216	2458614400	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	NO	382041216	1315919744	165162960	800827648	0	259063632	2404887936	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	8019248640	27621855232	3466858496	16809799680	0	5437883904	50479878144	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	8064033792	27776116736	3486220032	16903677952	0	5468252928	50761795584	--	--	--	--	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	18	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46110600	217378544	262050592	644406272	0	467978392	701967616	--	--	--	--	--	--	--
+1	19	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46666508	219999264	265209872	652175232	0	473620344	710430532	--	--	--	--	--	--	--
+1	20	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	47303520	223002304	268830048	661077568	0	480085368	720128072	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	7998378496	27549970432	3457836032	16766052352	0	5423732224	50348505088	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	8378630656	28859727872	3622225664	17563129856	0	5681580288	52742133760	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	8665139200	29846589440	3746087936	18163701760	0	5875866624	54545651712	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	8234093056	28361875456	3559739392	17260152832	0	5583571456	51832289280	--	--	--	--	--	--	--
+1	25	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	26	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46649516	219919152	265113296	651937728	0	473447876	710171816	--	--	--	--	--	--	--
+1	27	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	47338980	223169472	269031584	661573120	0	480445268	720667888	--	--	--	--	--	--	--
+1	28	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46254076	218054928	262865984	646411392	0	469434540	704151840	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	16236869632	55926996992	6520711680	33821038592	0	10940936704	101564680192	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	16773172224	57774260224	6736090112	34938146816	0	11302313984	104919355392	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	15985172480	55060037632	6419630080	33296760832	0	10771331072	99990269952	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	16697459712	57513472000	6705684480	34780438528	0	11251291136	104445763584	--	--	--	--	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	34	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46201856	217808752	262569216	645681600	0	468904560	703356864	--	--	--	--	--	--	--
+1	35	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	45840920	216107184	260517968	640637376	0	465241380	697862068	--	--	--	--	--	--	--
+1	36	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	47543584	224134032	270194368	664432512	0	482521804	723782692	--	--	--	--	--	--	--
+1	37	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	16001207296	55115272192	6426070016	33330159616	0	10782136320	100090572800	--	--	--	--	--	--	--
+1	38	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	17752975360	61149138944	7129578496	36979052544	0	11962536960	111048208384	--	--	--	--	--	--	--
+1	39	Shield Depleted	Klingon War Forge	--	Klingon War Forge	YES	XanOfHanoi	ThunderDome	Klingon War Forge	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	40	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	79980126208	0	7226987008	37484285952	0	12125975040	112565424128	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	74378936320	0	6720864768	34859175936	0	11276763648	104682213376	--	--	--	--	--	--	--
+1	42	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	43	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46648024	219912112	265104816	651916864	0	473432724	710149092	--	--	--	--	--	--	--
+1	44	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46098776	217322800	261983392	644240960	0	467858388	701787540	--	--	--	--	--	--	--
+1	45	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	47359212	223264864	269146560	661855872	0	480650612	720975896	--	--	--	--	--	--	--
+1	46	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	47	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	47067368	221889008	267487984	657777280	0	477688656	716532984	--	--	--	--	--	--	--
+1	48	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	49	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	45382884	213947872	257914912	634236224	0	460592760	690889132	--	--	--	--	--	--	--
+2	51	battle_action_type_{0}	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	--	--	324098500	--	--	--	--
+2	52	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	53	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	54	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	55	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	56	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	57	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+2	58	Officer Ability	XanOfHanoi	ThunderDome	GS-31	YES	--	--	GS-31	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	59	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46173860	217676768	262410096	645290304	0	468620412	702930616	--	--	--	--	--	--	--
+2	60	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46867504	220946800	266352144	654984128	0	475660240	713490336	--	--	--	--	--	--	--
+2	61	Attack	Klingon War Forge	--	Klingon War Forge	NO	XanOfHanoi	ThunderDome	GS-31	YES	--	--	NO	46655508	219947392	265147360	652021440	0	473508692	710263008	--	--	--	--	--	--	--
+2	62	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	38348042240	0	3705049856	18075705344	0	5847401216	54281396224	--	--	--	--	--	--	--
+2	63	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	34968137728	0	3378495488	16482556928	0	5332023296	49497166848	--	--	--	--	--	--	--
+2	64	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	38770679808	0	3745883648	18274920448	0	5911844352	54879639552	--	--	--	--	--	--	--
+2	65	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	38913740800	0	3759705856	18342354944	0	5933657856	55082143744	--	--	--	--	--	--	--
+2	66	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	35598659584	0	3439414272	16779758592	0	5428167680	50389664768	--	--	--	--	--	--	--
+2	67	Attack	XanOfHanoi	ThunderDome	GS-31	YES	Klingon War Forge	--	Klingon War Forge	NO	--	--	YES	35463163904	0	3426323456	16715892736	0	5407505408	50197874688	--	--	--	--	--	--	--
+2	68	Combatant Destroyed	Klingon War Forge	--	Klingon War Forge	YES	XanOfHanoi	ThunderDome	Klingon War Forge	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

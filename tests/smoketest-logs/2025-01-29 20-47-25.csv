@@ -1,0 +1,60 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Federation Outpost	35	DEFEAT	FEDERATION OUTPOST	35	11740079	0	Federation Lt. Commander	--	--	11286000	0	7722000	0	Sirius	1/29/2025 8:47:25 PM
+
+Reward Name	Count
+Uncommon Armada Credit	10641
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	291892	317290	764287	Klingon Pursuer	Leader	Inspirational	Target That Signal	Born Engineer	2.69	202992	3911	4470	53717	0.12	1.91	3	1141	61322	995	2.69	777203	751370	100	50	24.69	136500	0	1	NO	NO
+Player Fleet 2	30206210	12609335	98520840	Just Reprisal	Defensive Measures	Persistence Is Key	Creating Opportunities	See the Flaws	5.5	26768412	3737677	256152	266137	0.22	2.9	5.5	142484	262443	2116940	5.5	118279360	78762319	127	360	48.54	542080	0	1	NO	NO
+Player Fleet 3	4036102	3580180	19695494	Open the wound	Safe Cracker	No Locked Doors	The Looking Glass	You will be assimilated	4	3650113	468936	36075	43298	0.12	2.4	4	30843	62954	622239	4	17054579	22336409	141	165	42.24	240160	0	1	NO	NO
+Player Fleet 4	224361	234355	507600	Klingon Pursuer	Teaching Moments	Advanced Training	No Fear	Energy Absorber	2.4	161879	3069	3508	36105	0.12	1.63	2.4	777	45416	678	2.4	532825	482375	118	50	8.85	108420	0	1	NO	NO
+Player Fleet 5	208062	194045	368779	Shield Disruptor	Leader	Inspirational	Fight or Flight	Warp Theory	3	175100	2933	22234	2933	0.12	1.91	3	37461	674	674	3	280648	456910	85	40	9.27	72943	0	1	NO	NO
+Enemy Fleet 1	867329	1368750	9504000	ship_ability_name_{0}	--	--	--	--	0	538829	37800	43200	50400	0.1	1.5	0	90000	105000	78750	0	7722000	11286000	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	4	Defensive Measures	Benjamin Sisko	--	--	--
+1	2	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	YES	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	HuskerJ	F around Find out	USS MAYFLOWER	YES	--	--	USS MAYFLOWER	NO	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	4	Officer Ability	HuskerJ	F around Find out	USS MAYFLOWER	YES	--	--	USS MAYFLOWER	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	Vladok9	F around Find out	KUMARI	YES	--	--	KUMARI	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	6	Officer Ability	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+1	7	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	YES	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	8	Officer Ability	Vladok9	F around Find out	KUMARI	YES	--	--	KUMARI	NO	--	--	--	--	--	--	--	--	Officer	0.6	Inspirational	James T. Kirk	--	--	--
+1	9	Officer Ability	Vladok9	F around Find out	KUMARI	YES	--	--	KUMARI	NO	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+1	10	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	XanOfHanoi	F around Find out	USS KELVIN	YES	NO	5107	20426	63122	0	0	88655	0	--	--	--	--	--	--	--
+1	11	Attack	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	5498	21994	34453	0	0	58164	3781	--	--	--	--	--	--	--
+1	12	Attack	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	YES	3580200	14320802	2044714	0	0	11529315	8416401	--	--	--	--	--	--	--
+1	13	Shield Depleted	Federation Outpost	--	FEDERATION OUTPOST	YES	IxAMxRABID	F around Find out	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	14	Attack	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	5730794	0	654591	0	0	3690974	2694411	--	--	--	--	--	--	--
+1	15	Charging Weapons	XanOfHanoi	F around Find out	USS KELVIN	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	16	Attack	HuskerJ	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	YES	34253	0	53237	0	0	84942	2548	--	--	--	--	--	--	--
+1	17	Attack	Vladok9	F around Find out	KUMARI	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	25497	0	37637	0	0	57657	5477	--	--	--	--	--	--	--
+1	18	Officer Ability	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.9	Creating Opportunities	Gorkon	--	--	--
+1	19	Officer Ability	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+1	20	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	HuskerJ	F around Find out	USS MAYFLOWER	YES	NO	5563	22252	68739	0	0	96554	0	--	--	--	--	--	--	--
+1	21	Attack	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	YES	92324	0	115705	0	0	195332	12697	--	--	--	--	--	--	--
+1	22	Charging Weapons	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	23	Charging Weapons	XanOfHanoi	F around Find out	USS KELVIN	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	24	Attack	HuskerJ	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	18139	0	28192	0	0	44982	1349	--	--	--	--	--	--	--
+1	25	Attack	Vladok9	F around Find out	KUMARI	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	25212	0	37217	0	0	57013	5416	--	--	--	--	--	--	--
+1	26	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	NO	11355	45420	35234	0	0	92009	0	--	--	--	--	--	--	--
+1	27	Charging Weapons	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	28	Charging Weapons	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	29	Attack	XanOfHanoi	F around Find out	USS KELVIN	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	531506	0	193188	0	0	492989	231705	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	F around Find out	USS KELVIN	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	575197	0	209069	0	0	533514	250752	--	--	--	--	--	--	--
+1	31	Charging Weapons	HuskerJ	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	32	Attack	Vladok9	F around Find out	KUMARI	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	54747	0	80815	0	0	123801	11761	--	--	--	--	--	--	--
+1	33	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	NO	23325	93300	72376	0	0	189001	0	--	--	--	--	--	--	--
+1	34	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	NO	22927	91708	71141	0	0	185776	0	--	--	--	--	--	--	--
+2	36	Officer Ability	XanOfHanoi	F around Find out	USS KELVIN	YES	--	--	USS KELVIN	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	37	Officer Ability	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	--	--	USS MAYFLOWER	NO	--	--	--	--	--	--	--	--	Officer	0.6	Inspirational	James T. Kirk	--	--	--
+2	38	Officer Ability	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	--	--	USS MAYFLOWER	NO	--	--	--	--	--	--	--	--	Officer	0.7	Leader	James T. Kirk	--	--	--
+2	39	Officer Ability	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	--	--	USS NORTHCUTT	NO	--	--	--	--	--	--	--	--	Officer	0.08	Persistence Is Key	Benjamin Sisko	--	--	--
+2	40	Officer Ability	Vladok9	F around Find out	KUMARI	YES	--	--	KUMARI	NO	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+2	41	Attack	Federation Outpost	--	FEDERATION OUTPOST	NO	Vladok9	F around Find out	KUMARI	YES	NO	5341	21366	66023	0	0	92730	0	--	--	--	--	--	--	--
+2	42	Attack	KillrlipsSmurfette	F around Find out	USS MAYFLOWER	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	40289	0	39995	0	0	68913	11371	--	--	--	--	--	--	--
+2	43	Attack	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	YES	32407906	0	3195616	0	0	18258216	17345306	--	--	--	--	--	--	--
+2	44	Attack	IxAMxRABID	F around Find out	USS NORTHCUTT	YES	Federation Outpost	--	FEDERATION OUTPOST	NO	NO	5869409	0	578759	0	0	3306753	3141415	--	--	--	--	--	--	--
+2	45	Combatant Destroyed	Federation Outpost	--	FEDERATION OUTPOST	YES	IxAMxRABID	F around Find out	FEDERATION OUTPOST	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

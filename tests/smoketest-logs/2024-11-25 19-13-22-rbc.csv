@@ -1,0 +1,83 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Tactical Cube	30	DEFEAT	BORG TACTICAL CUBE	30	48565128	0	Borg Tactical Cube	--	--	47414762	0	47414761	0	Udarian	11/25/2024 7:13:22 PM
+
+Reward Name	Count
+Active Nanoprobe	1248
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1492857	487400	1866757	Collective Severance	Safe Cracker	No Locked Doors	The Looking Glass	Savage Tenacity	3.5	1294432	164057	10560	5867	0.18	2.26	3.5	18262	18262	60956	3	1990709	1742805	158	60	24.34	1567800	0	1	NO	NO
+Player Fleet 2	551815	458510	1054123	Protector	Weaponry is irrelevant	You will be assimilated	Adapt & Overcome	Cybernetic Enhancements	3	491422	57466	4613	5381	0.12	1.68	3	1190	1418	89094	3	1014590	1093655	115	60	10.32	128000	0	1	NO	NO
+Player Fleet 3	267496	223985	447263	Cybernetic Augmentation	Resistance is Futile	Strengthen the Unimatrix	Cybernetic Enhancements	Adapt & Overcome	2.45	224495	29917	2901	2386	0.12	1.92	2.45	538	538	43721	2.79	448331	446195	120	37	13.8	186000	0	1	NO	NO
+Player Fleet 4	186866	170890	350813	Pinpoint Targeting	Joy In Vengeance	See the Flaws	Powered Armor	Sturdy Companion	3	152161	2748	2748	19169	0.12	1.89	3	549	33080	549	3	365210	336415	100	30	9.19	87000	0	1	NO	NO
+Enemy Fleet 1	947489	202880	47414760	ship_ability_name_{0}	--	--	--	--	0	752489	12188	73125	12188	0.3	3	0	28984	5796	5796	0	47414760	47414760	2	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	3	Officer Ability	OilWorker76	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	4	Forbidden Tech Ability	OilWorker76	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Transphasic Torpedoes	--	--	--
+1	5	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	NO	1570	6279	18497	0	0	26346	0	--	--	--	--	--	--	--
+1	6	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	NO	1656	6622	19508	0	0	27786	0	--	--	--	--	--	--	--
+1	7	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	YES	2615273	10461093	1816280	0	0	14116252	776394	--	--	--	--	--	--	--
+1	8	Attack	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	135114	540455	93025	0	0	742603	25991	--	--	--	--	--	--	--
+1	9	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	601737	2406946	426606	0	0	3287358	147931	--	--	--	--	--	--	--
+1	10	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	6200	24798	15093	0	0	44532	1559	--	--	--	--	--	--	--
+1	11	Charging Weapons	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	12	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	13	Attack	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	48402	193608	33324	0	0	266023	9311	--	--	--	--	--	--	--
+1	14	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	15	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	6456	25822	15716	0	0	46371	1623	--	--	--	--	--	--	--
+1	16	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	NO	2402	9607	16456	0	0	28465	0	--	--	--	--	--	--	--
+1	17	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	NO	2394	9574	16400	0	0	28368	0	--	--	--	--	--	--	--
+1	18	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	19	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	20	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	7292	29169	17753	0	0	52381	1833	--	--	--	--	--	--	--
+1	21	Officer Ability	Biggk81	Continuum	VAHKLAS	YES	--	--	VAHKLAS	NO	--	--	--	--	--	--	--	--	Officer	0.25	See the Flaws	Nero	--	--	--
+1	22	Charging Weapons	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	24	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	25	Officer Ability	OilWorker76	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	26	Officer Ability	Biggk81	Continuum	VAHKLAS	YES	--	--	VAHKLAS	NO	--	--	--	--	--	--	--	--	Officer	0.7	Joy In Vengeance	Nero	--	--	--
+2	27	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Biggk81	Continuum	VAHKLAS	YES	NO	4428	17710	5421	0	0	27559	0	--	--	--	--	--	--	--
+2	28	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Biggk81	Continuum	VAHKLAS	YES	NO	4971	19884	6087	0	0	30942	0	--	--	--	--	--	--	--
+2	29	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	1619726	6478906	601394	0	0	7802714	897312	--	--	--	--	--	--	--
+2	30	Charging Weapons	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+2	31	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	32	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	7567	30266	15266	0	0	48939	4160	--	--	--	--	--	--	--
+2	33	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	YES	36998	147994	254967	0	0	439959	0	--	--	--	--	--	--	--
+2	34	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	NO	12333	49331	84989	0	0	146653	0	--	--	--	--	--	--	--
+2	35	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	2805021	11220086	1139161	0	0	13600240	1564028	--	--	--	--	--	--	--
+2	36	Attack	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	51337	205346	18078	0	0	253236	21525	--	--	--	--	--	--	--
+2	37	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	460043	1840170	181632	0	0	2374971	106874	--	--	--	--	--	--	--
+2	38	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	YES	14959	59838	30183	0	0	96756	8224	--	--	--	--	--	--	--
+2	39	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	YES	4886	19546	60336	0	0	84768	0	--	--	--	--	--	--	--
+2	40	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	YES	4735	18938	58463	0	0	82136	0	--	--	--	--	--	--	--
+2	41	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	42	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	43	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	7973	31891	16086	0	0	51567	4383	--	--	--	--	--	--	--
+2	44	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	3829	15317	46153	0	0	65299	0	--	--	--	--	--	--	--
+2	45	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	3891	15565	46900	0	0	66356	0	--	--	--	--	--	--	--
+2	46	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	4241	16964	51115	0	0	72320	0	--	--	--	--	--	--	--
+2	47	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	4182	16730	50410	0	0	71322	0	--	--	--	--	--	--	--
+3	49	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	50	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	51	Officer Ability	OilWorker76	Continuum	USS SALADIN	YES	--	--	USS SALADIN	NO	--	--	--	--	--	--	--	--	Officer	8	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	52	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Biggk81	Continuum	VAHKLAS	YES	YES	14270	57082	17475	0	0	88827	0	--	--	--	--	--	--	--
+3	53	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Biggk81	Continuum	VAHKLAS	YES	NO	4601	18405	5634	0	0	28640	0	--	--	--	--	--	--	--
+3	54	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	1261499	5045995	374649	0	0	6333785	348358	--	--	--	--	--	--	--
+3	55	Charging Weapons	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	56	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	678279	2713115	195555	0	0	3432487	154462	--	--	--	--	--	--	--
+3	57	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	9152	36607	5949	0	0	49959	1749	--	--	--	--	--	--	--
+3	58	Charging Weapons	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	59	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	YES	5539503	22158014	1866124	0	0	28022409	1541232	--	--	--	--	--	--	--
+3	60	Shield Depleted	Borg Tactical Cube	--	BORG TACTICAL CUBE	YES	SubspaceEddie	Continuum	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	61	Attack	OilWorker76	Continuum	USS SALADIN	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	266153	0	15290	0	0	271926	9517	--	--	--	--	--	--	--
+3	62	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	2406322	0	138963	0	0	2435679	109606	--	--	--	--	--	--	--
+3	63	Attack	Biggk81	Continuum	VAHKLAS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	45867	0	5963	0	0	50077	1753	--	--	--	--	--	--	--
+3	64	Officer Ability	Biggk81	Continuum	VAHKLAS	YES	--	--	VAHKLAS	NO	--	--	--	--	--	--	--	--	Officer	0.25	See the Flaws	Nero	--	--	--
+3	65	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	NO	1813	7251	22365	0	0	31429	0	--	--	--	--	--	--	--
+3	66	Attack	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	OilWorker76	Continuum	USS SALADIN	YES	NO	1836	7345	22652	0	0	31833	0	--	--	--	--	--	--	--
+3	67	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	22380266	0	1484426	0	0	22620561	1244131	--	--	--	--	--	--	--
+3	68	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Tactical Cube	--	BORG TACTICAL CUBE	NO	NO	19162296	0	1270987	0	0	19368041	1065242	--	--	--	--	--	--	--
+3	69	Combatant Destroyed	Borg Tactical Cube	--	BORG TACTICAL CUBE	YES	SubspaceEddie	Continuum	BORG TACTICAL CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,168 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	65	DEFEAT	U.S.S. RELATIVITY	60	6199386112	0	Christopher Pike	Marlena Moreau	T'Laan	5271991460	0	13218251533	0	Anzat Alpha	11/13/2025 7:46:05 PM
+--	1	VICTORY	Klingon Bird-of-Prey	1	246416211968	0	Klingon Strike Force	--	--	167828000000	150640209953	167828000000	134207514539	Anzat Alpha	11/13/2025 7:46:05 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	388725632	301132096	5509528576	Anti-Tachyon Weaponry---Relative Growth	Teaching Moments	Advanced Training	No Fear	Objective Defense	5	296352800	7362258	7472554	43153279	0.22	3.4	5	7500053	45189255	7537109	5	5747065683	5271991460	222	1607	401.36	38937240	0	1	NO	YES
+Enemy Fleet 1	64434372608	14153834496	167827996672	ship_ability_name_{0}	--	--	--	--	0	60213772288	175858368	1342740480	591701632	0.1	1.5	0	1054859328	1054859328	721048256	0	167827996672	167827996672	103	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.6	No Fear	Marlena Moreau	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+1	6	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	7	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	33795700	159322592	507509376	0	12166402	712794070	0	--	--	--	--	--	--	--
+1	8	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	37220948	175470192	558946240	0	13399487	785036867	0	--	--	--	--	--	--	--
+1	9	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	34279048	161601232	514767808	0	12340407	722988495	0	--	--	--	--	--	--	--
+1	10	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	32776544	154518000	492204736	0	11799508	691298788	0	--	--	--	--	--	--	--
+1	11	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35016224	165076480	525837952	0	12605789	738536445	0	--	--	--	--	--	--	--
+1	12	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	33102512	156054704	497099776	0	11916856	698173848	0	--	--	--	--	--	--	--
+1	13	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35286528	166350784	529897152	0	12703099	744237563	0	--	--	--	--	--	--	--
+1	14	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	753783168	1431095552	384484576	0	0	540009056	2029354240	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1099837056	2088096512	560997376	0	0	787921536	2961009408	--	--	--	--	--	--	--
+1	16	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	19	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	20	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	25400144	216505984	635722432	0	15240024	892868584	0	--	--	--	--	--	--	--
+1	21	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	26444200	225405328	661853376	0	15866455	929569359	0	--	--	--	--	--	--	--
+1	22	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	23	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	28355196	241694288	709682368	0	17013048	996744900	0	--	--	--	--	--	--	--
+1	24	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24065740	205131792	602324608	0	14439386	845961526	0	--	--	--	--	--	--	--
+1	25	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23489308	200218400	587897472	0	14093528	825698708	0	--	--	--	--	--	--	--
+1	26	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	26173768	223100224	655084992	0	15704197	920063181	0	--	--	--	--	--	--	--
+1	27	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	28380168	241907136	710307392	0	17028032	997622728	0	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	908481152	1724797440	463391872	0	0	650834432	2445836032	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	967242432	1836358784	493364448	0	0	692930848	2604034816	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	662698688	1258167040	338024832	0	0	474756288	1784134272	--	--	--	--	--	--	--
+1	31	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+1	32	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	33	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	34	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	35	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6990581	192740320	524887104	0	12582995	737201000	0	--	--	--	--	--	--	--
+1	36	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7751831	213729056	582045504	0	13953239	817479630	0	--	--	--	--	--	--	--
+1	37	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7679746	211741568	576632960	0	13823486	809877760	0	--	--	--	--	--	--	--
+1	38	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6748825	186074752	506734880	0	12147836	711706293	0	--	--	--	--	--	--	--
+1	39	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7866987	216904064	590691904	0	14160518	829623473	0	--	--	--	--	--	--	--
+1	40	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	41	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7774506	214354240	583748032	0	13994054	819870832	0	--	--	--	--	--	--	--
+1	42	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7919999	218365680	594672320	0	14255939	835213938	0	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	875551104	1662278144	446595136	0	0	627243456	2357180928	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	880605248	1671873792	449173120	0	0	630864320	2370787840	--	--	--	--	--	--	--
+1	45	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+1	46	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	47	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+1	48	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+1	49	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	271227712	712778688	0	17087276	1001093676	0	--	--	--	--	--	--	--
+1	50	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	308231296	810023104	0	19418492	1137672892	0	--	--	--	--	--	--	--
+1	51	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	294527744	774010560	0	18555172	1087093476	0	--	--	--	--	--	--	--
+1	52	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	297379808	781505664	0	18734852	1097620324	0	--	--	--	--	--	--	--
+1	53	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	319927648	840760704	0	20155358	1180843710	0	--	--	--	--	--	--	--
+1	54	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	55	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	291011808	764770752	0	18333670	1074116230	0	--	--	--	--	--	--	--
+1	56	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	292913728	769768960	0	18453490	1081136178	0	--	--	--	--	--	--	--
+1	57	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	984301824	1868746880	502065952	0	0	705152416	2649962240	--	--	--	--	--	--	--
+1	58	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	823877056	1564172416	420237600	0	0	590224224	2218062848	--	--	--	--	--	--	--
+1	59	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	857701056	1628388992	437490336	0	0	614455776	2309124608	--	--	--	--	--	--	--
+2	61	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	152485900	--	--	--	--
+2	62	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	63	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	64	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	65	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	66	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+2	67	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	33419536	157549248	501860544	0	12030984	704860312	0	--	--	--	--	--	--	--
+2	68	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	34198364	161220864	513556192	0	12311361	721286781	0	--	--	--	--	--	--	--
+2	69	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	70	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	36368904	171453408	546151168	0	13092753	767066233	0	--	--	--	--	--	--	--
+2	71	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	38431352	181176368	577122880	0	13835230	810565830	0	--	--	--	--	--	--	--
+2	72	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	34476640	162532736	517735072	0	12411540	727155988	0	--	--	--	--	--	--	--
+2	73	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	35493744	167327648	533008864	0	12777696	748607952	0	--	--	--	--	--	--	--
+2	74	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	38038792	179325744	571227840	0	13693910	802286286	0	--	--	--	--	--	--	--
+2	75	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	991495168	1882403840	505735104	0	0	710305728	2669328384	--	--	--	--	--	--	--
+2	76	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	999657984	1897901440	509898752	0	0	716153472	2691304704	--	--	--	--	--	--	--
+2	77	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+2	78	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	79	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	80	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	81	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	27977500	238474880	700229312	0	16786432	983468124	0	--	--	--	--	--	--	--
+2	82	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24415560	208113584	611080000	0	14649276	858258420	0	--	--	--	--	--	--	--
+2	83	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	28304004	241257952	708401152	0	16982334	994945442	0	--	--	--	--	--	--	--
+2	84	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	23569380	200900896	589901504	0	14141570	828513350	0	--	--	--	--	--	--	--
+2	85	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	27610532	235346928	691044736	0	16566252	970568448	0	--	--	--	--	--	--	--
+2	86	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	26354080	224637168	659597888	0	15812384	926401520	0	--	--	--	--	--	--	--
+2	87	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	24333668	207415536	609030336	0	14600141	855379681	0	--	--	--	--	--	--	--
+2	88	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	28568932	243516128	715031808	0	17141288	1004258156	0	--	--	--	--	--	--	--
+2	89	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+2	90	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	91	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	92	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7054791	194510672	529708320	0	12698572	743972355	0	--	--	--	--	--	--	--
+2	93	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7899130	217790288	593105344	0	14218375	833013137	0	--	--	--	--	--	--	--
+2	94	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6769631	186648384	508297056	0	12185286	713900357	0	--	--	--	--	--	--	--
+2	95	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6828591	188274000	512724064	0	12291413	720118068	0	--	--	--	--	--	--	--
+2	96	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	97	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	98	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	7210483	198803328	541398464	0	12978817	760391092	0	--	--	--	--	--	--	--
+2	99	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	6580955	181446336	494130368	0	11845671	694003330	0	--	--	--	--	--	--	--
+2	100	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1208631168	2294647552	616490368	0	0	865861376	3253907712	--	--	--	--	--	--	--
+2	101	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	808294912	1534588800	412289568	0	0	579061152	2176112128	--	--	--	--	--	--	--
+2	102	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+2	103	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	104	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+2	105	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+2	106	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	299166752	786201728	0	18847430	1104215910	0	--	--	--	--	--	--	--
+2	107	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	275474784	723939968	0	17354842	1016769594	0	--	--	--	--	--	--	--
+2	108	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	292700288	769208064	0	18440044	1080348396	0	--	--	--	--	--	--	--
+2	109	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	324173056	851917568	0	20422818	1196513442	0	--	--	--	--	--	--	--
+2	110	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	289503424	760806784	0	18238642	1068548850	0	--	--	--	--	--	--	--
+2	111	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	291769376	766761664	0	18381396	1076912436	0	--	--	--	--	--	--	--
+2	112	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	273597664	719006912	0	17236584	1009841160	0	--	--	--	--	--	--	--
+2	113	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	0	325690880	855906368	0	20518442	1202115690	0	--	--	--	--	--	--	--
+2	114	Shield Depleted	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	116	battle_action_type_{0}	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	161249500	--	--	--	--
+3	117	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	118	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	119	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	120	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.2	By The Book	WOK Saavik	--	--	--
+3	121	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	37802848	151211392	496724064	0	11907849	697646153	0	--	--	--	--	--	--	--
+3	122	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	42511608	170046432	558596480	0	13391102	784545622	0	--	--	--	--	--	--	--
+3	123	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	44026952	176107808	578507904	0	13868434	812511098	0	--	--	--	--	--	--	--
+3	124	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	43153572	172614288	567031808	0	13593320	796392988	0	--	--	--	--	--	--	--
+3	125	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	199466896	0	524193312	0	12566363	736226571	0	--	--	--	--	--	--	--
+3	126	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	211078528	0	554708352	0	13297893	779084773	0	--	--	--	--	--	--	--
+3	127	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	224164352	0	589097536	0	14122296	827384184	0	--	--	--	--	--	--	--
+3	128	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	215358096	0	565954944	0	13567505	794880545	0	--	--	--	--	--	--	--
+3	129	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	755286528	1604983808	415349152	0	0	583358368	2192261120	--	--	--	--	--	--	--
+3	130	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	604535424	1284637824	332447744	0	0	466923264	1754697728	--	--	--	--	--	--	--
+3	131	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+3	132	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	133	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	134	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+3	135	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	270549312	0	710995968	0	17044538	998589818	0	--	--	--	--	--	--	--
+3	136	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	253932512	0	667327424	0	15997683	937257619	0	--	--	--	--	--	--	--
+3	137	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	267855952	0	703917824	0	16874856	988648632	0	--	--	--	--	--	--	--
+3	138	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	231381520	0	608064064	0	14576976	854022560	0	--	--	--	--	--	--	--
+3	139	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	251702496	0	661467008	0	15857192	929026696	0	--	--	--	--	--	--	--
+3	140	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	247861696	0	651373504	0	15615224	914850424	0	--	--	--	--	--	--	--
+3	141	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	254753040	0	669483776	0	16049376	940286192	0	--	--	--	--	--	--	--
+3	142	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	233495088	0	613618432	0	14710130	861823650	0	--	--	--	--	--	--	--
+3	143	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1033812288	2196851200	568516800	0	0	798482688	3000697600	--	--	--	--	--	--	--
+3	144	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	1020732736	2169057024	561324096	0	0	788380288	2962733568	--	--	--	--	--	--	--
+3	145	Attack	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	Klingon Bird-of-Prey	NO	--	--	YES	951265024	2021438208	523122208	0	0	734725664	2761099776	--	--	--	--	--	--	--
+3	146	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.07	Null Hypothesis	WOK Carol Marcus	--	--	--
+3	147	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	148	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	The Winning Gambit	Masriad Vael	--	--	--
+3	149	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.22	Treacherous Ideals	Seska	--	--	--
+3	150	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	208855168	0	548865408	0	13157821	770878397	0	--	--	--	--	--	--	--
+3	151	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	206666816	0	543114496	0	13019956	762801268	0	--	--	--	--	--	--	--
+3	152	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	195355024	0	513387456	0	12307317	721049797	0	--	--	--	--	--	--	--
+3	153	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	192016976	0	504615168	0	12097020	708729164	0	--	--	--	--	--	--	--
+3	154	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	207336992	0	544875712	0	13062177	765274881	0	--	--	--	--	--	--	--
+3	155	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	219178608	0	575995136	0	13808196	808981940	0	--	--	--	--	--	--	--
+3	156	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	210687296	0	553680256	0	13273245	777640797	0	--	--	--	--	--	--	--
+3	157	Attack	--	--	Klingon Bird-of-Prey	NO	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	NO	211649280	0	556208256	0	13333850	781191386	0	--	--	--	--	--	--	--
+3	158	Combatant Destroyed	XanOfHanoi	ThunderDome	U.S.S. RELATIVITY	NO	--	--	U.S.S. RELATIVITY	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

@@ -1,5 +1,29 @@
+from stfc_parser.Combatants import Combatants
 from stfc_parser.ShipSpecifier import ShipSpecifier
 import pandas as pd
+
+from stfc_parser.Team import Team
+
+
+def get_combatants_from_df(players_df: pd.DataFrame) -> Combatants:
+    if players_df.empty:
+        return Combatants(Team([]), Team([]))
+
+    def to_spec(row) -> ShipSpecifier:
+        return ShipSpecifier(
+            name=row.get('Player Name'),
+            alliance=row.get('Alliance'),
+            ship=row.get('Ship Name')
+        )
+
+    # Team 2 is the last row (often the POV/Defender)
+    t2 = Team([to_spec(players_df.iloc[-1])])
+
+    # Team 1 is the attackers/others
+    t1_members = [to_spec(row) for _, row in players_df.iloc[:-1].iterrows()]
+    t1 = Team(t1_members)
+
+    return Combatants(team_one=t1, team_two=t2)
 
 def get_teams_from_players_df(players_df: pd.DataFrame):
     """

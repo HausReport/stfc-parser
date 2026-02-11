@@ -1,0 +1,320 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	67	VICTORY	SS REVENANT	75	5911343616	0	Dajash Tolra	Toli	Gwen DeMarco	5801213703	5644759872	4968584699	3955581527	Manmoor	1/22/2026 9:15:37 AM
+Borg Type 03.2	70	DEFEAT	Borg Type 03.2	70	1.11286904317542E+15	0	Borg Drone	--	--	1.78057488435298E+15	0	445143721088246	0	Manmoor	1/22/2026 9:15:37 AM
+
+Reward Name	Count
+Borg Type 03 Solo Armada Credits	8394748
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	142141520	957601152	4811600896	Laid to Rest---Phantom's Tithe---Collective's Bane	Safe Cracker	No Locked Doors	The Looking Glass	I Have One Job!	5	135878192	6156004	711538	1051697	0.22	4.2	5	19548347	13205645	158766244	5	3821988230	5801213939	247	1856	902	61715660	0	1	NO	NO
+Enemy Fleet 1	7609315328	2124189184	1.11285931239014E+15	Defense Protocol γ---Q Juniors Twist---Defense Protocol β---Defense Protocol α	--	--	--	--	0	811909952	1132900864	1132900864	1132900864	0.1	1.5	0	141612608	141612608	141612608	0	445143731666944	1.78057492666778E+15	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+1	8	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	9	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2645068	12469604	25610670	0	60458688	101184030	0	--	--	--	--	--	--	--
+1	10	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2689448	12678825	26040378	0	61473092	102881743	0	--	--	--	--	--	--	--
+1	11	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2642329	12456694	25584154	0	60396092	101079269	0	--	--	--	--	--	--	--
+1	12	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2730038	12870178	26433388	0	62400864	104434468	0	--	--	--	--	--	--	--
+1	13	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2808803	13241500	27196026	0	64201212	107447541	0	--	--	--	--	--	--	--
+1	14	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2809537	13244962	27203136	0	64217996	107475631	0	--	--	--	--	--	--	--
+1	15	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2783248	13121024	26948586	0	63617088	106469946	0	--	--	--	--	--	--	--
+1	16	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2722028	12832419	26355836	0	62217788	104128071	0	--	--	--	--	--	--	--
+1	17	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2759662	13009835	26720222	0	63077988	105567707	0	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2159976120320	7439917776896	1786555531264	0	19199816630272	2719262048256	27867004010496	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	110102962176	379243528192	91068162048	0	978694438912	138612097024	1420496994304	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	1932335906816	6655823577088	1598270210048	0	17176344920064	2432678887424	24930095726592	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	122904240128	423336837120	101656338432	0	1092483809280	154728005632	1585653219328	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2317111787520	7981162823680	1916525346816	0	20596580679680	2917084954624	29894295683072	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	119897735168	412981100544	99169599488	0	1065759277056	150943023104	1546864689152	--	--	--	--	--	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	1960776957952	6753787314176	1621794357248	0	17429155545088	2468483956736	25297030217728	--	--	--	--	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2329624707072	8024262967296	1926875054080	0	20707807330304	2932839809024	30055730249728	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2337486405632	8051341393920	1933377404928	0	20777686532096	2942734827520	30157156909056	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2114183364608	7282187304960	1748679524352	0	18792769912832	2661613174784	27276206931968	--	--	--	--	--	--	--
+1	28	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	129709973504	446778802176	107285479424	0	1152979304448	163295993856	1673457565696	--	--	--	--	--	--	--
+1	29	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	127373582336	438731210752	105353003008	0	1132211339264	160354721792	1643314413568	--	--	--	--	--	--	--
+1	30	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	109824663552	378284965888	90837975040	0	976220717056	138261782528	1416906539008	--	--	--	--	--	--	--
+1	31	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	119369801728	411162640384	98732933120	0	1061066506240	150278479872	1540053401600	--	--	--	--	--	--	--
+1	32	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2345652453376	8079469969408	1940131938304	0	20850275254272	2953015984128	30262513631232	--	--	--	--	--	--	--
+1	33	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	2243971776512	7729235623936	1856029851648	0	19946444685312	2825008185344	28950673752064	--	--	--	--	--	--	--
+1	34	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	121696772096	419177758720	100657610752	0	1081750716416	153207939072	1570074918912	--	--	--	--	--	--	--
+1	35	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	120381939712	414648893440	99570089984	0	1070063288320	151552630784	1553111580672	--	--	--	--	--	--	--
+1	36	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	37	Charging Weapons	Borg Type 03.2	--	Borg Type 03.2	NO	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	38	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	5173875834880	17821127933952	4279406428160	0	45990077792256	6513557504000	66750930485248	--	--	--	--	--	--	--
+1	39	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	288314654720	993083785216	238470266880	0	2562800746496	362968514560	3719700938752	--	--	--	--	--	--	--
+1	40	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	4809801334784	16567093952512	3978273751040	0	42753853489152	6055213400064	62053809127424	--	--	--	--	--	--	--
+1	41	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	279579164672	962994896896	231244988416	0	2485151858688	351971180544	3606999728128	--	--	--	--	--	--	--
+1	42	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	304991469568	1050526220288	252263972864	0	2711039508480	383963447296	3934857723904	--	--	--	--	--	--	--
+1	43	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	4835943907328	16657140416512	3999896698880	0	42986230513664	6088121647104	62391089889280	--	--	--	--	--	--	--
+1	44	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	329324167168	1134338768896	272389980160	0	2927330328576	414596546560	4248786698240	--	--	--	--	--	--	--
+1	45	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	314582302720	1083561345024	260196728832	0	2796291358720	396037586944	4058594148352	--	--	--	--	--	--	--
+1	46	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	5588853456896	19250494308352	4622641528832	0	49678771027968	7035985330176	72104774991872	--	--	--	--	--	--	--
+1	47	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	330615324672	1138786041856	273457905664	0	2938807255040	416222150656	4265444376576	--	--	--	--	--	--	--
+1	48	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	318861672448	1098301308928	263736262656	0	2834330288128	401425235968	4113804296192	--	--	--	--	--	--	--
+1	49	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	306710183936	1056446218240	253685547008	0	2726316998656	386127249408	3957031698432	--	--	--	--	--	--	--
+1	50	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	317552295936	1093791252480	262653247488	0	2822691356672	399776677888	4096911474688	--	--	--	--	--	--	--
+1	51	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	5110402383872	17602497740800	4226906324992	0	45425868406784	6433648672768	65932026183680	--	--	--	--	--	--	--
+1	52	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1548792	7301447	14996062	0	35400956	59247257	0	--	--	--	--	--	--	--
+1	53	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1626522	7667890	15748680	0	37177648	62220740	0	--	--	--	--	--	--	--
+1	54	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1640860	7735482	15887504	0	37505368	62769214	0	--	--	--	--	--	--	--
+1	55	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1647845	7768414	15955139	0	37665036	63036434	0	--	--	--	--	--	--	--
+1	56	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1595834	7523220	15451548	0	36476216	61046818	0	--	--	--	--	--	--	--
+1	57	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1560894	7358502	15113243	0	35677584	59710223	0	--	--	--	--	--	--	--
+1	58	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1577470	7436642	15273731	0	36056448	60344291	0	--	--	--	--	--	--	--
+1	59	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1568562	7394647	15187480	0	35852836	60003525	0	--	--	--	--	--	--	--
+1	60	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1564599	7375967	15149114	0	35762264	59851944	0	--	--	--	--	--	--	--
+1	61	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1561202	7359955	15116227	0	35684628	59722012	0	--	--	--	--	--	--	--
+1	62	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	63	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1592667	7508287	15420879	0	36403816	60925649	0	--	--	--	--	--	--	--
+1	64	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	65	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	66	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	67	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1567728	7390718	15179410	0	35833784	59971640	0	--	--	--	--	--	--	--
+1	68	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1571432	7408180	15215274	0	35918448	60113334	0	--	--	--	--	--	--	--
+1	69	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1548852	7301729	14996640	0	35402324	59249545	0	--	--	--	--	--	--	--
+1	70	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1620614	7640040	15691478	0	37042616	61994748	0	--	--	--	--	--	--	--
+1	71	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1637021	7717387	15850338	0	37417632	62622378	0	--	--	--	--	--	--	--
+1	72	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	594343493632	2047183159296	491592286208	0	5283061432320	748237684736	7667942686720	--	--	--	--	--	--	--
+1	73	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	624874684416	2152346157056	516845142016	0	5554449678336	786674352128	8061841309696	--	--	--	--	--	--	--
+1	74	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	11717188780032	40359207895040	9691499331584	0	104152948539392	14751149064192	151169695481856	--	--	--	--	--	--	--
+1	75	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10683881095168	36800034766848	8836831248384	0	94967976427520	13450279387136	137838444150784	--	--	--	--	--	--	--
+1	76	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	570090192896	1963644026880	471531913216	0	5067476303872	717704790016	7355037646848	--	--	--	--	--	--	--
+1	77	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	626959319040	2159526412288	518569361408	0	5572979589120	789298970624	8088735711232	--	--	--	--	--	--	--
+1	78	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10515429457920	36219815723008	8697502236672	0	93470626676736	13238208561152	135665165533184	--	--	--	--	--	--	--
+1	79	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10026726981632	34536503115776	8293287198720	0	89126594412544	12622966554624	129360145154048	--	--	--	--	--	--	--
+1	80	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	574556798976	1979028996096	475226341376	0	5107179585536	723328008192	7412663713792	--	--	--	--	--	--	--
+1	81	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	669599268864	2306397437952	553837658112	0	5952002588672	842979999744	8638856953856	--	--	--	--	--	--	--
+1	82	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10810154811392	37234979897344	8941274660864	0	96090414120960	13609252945920	139467570544640	--	--	--	--	--	--	--
+1	83	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	576302415872	1985041793024	476670197760	0	5122695888896	725525266432	7435185029120	--	--	--	--	--	--	--
+1	84	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9549813645312	32893801857024	7898823393280	0	84887352639488	12022556131328	123207235403776	--	--	--	--	--	--	--
+1	85	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	668200206336	2301578444800	552680488960	0	5939565953024	841218326528	8620806766592	--	--	--	--	--	--	--
+1	86	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+1	87	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1619538	7634966	15681059	0	37018016	61953579	0	--	--	--	--	--	--	--
+1	88	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1624771	7659636	15731726	0	37137628	62153761	0	--	--	--	--	--	--	--
+1	89	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1545077	7283933	14960091	0	35316040	59105141	0	--	--	--	--	--	--	--
+1	90	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	91	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1581561	7455929	15313344	0	36149960	60500794	0	--	--	--	--	--	--	--
+1	92	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	93	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1609952	7589774	15588240	0	36798904	61586870	0	--	--	--	--	--	--	--
+1	94	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1643415	7747526	15912241	0	37563764	62866946	0	--	--	--	--	--	--	--
+1	95	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1538030	7250712	14891859	0	35154968	58835569	0	--	--	--	--	--	--	--
+1	96	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1616799	7622055	15654541	0	36955416	61848811	0	--	--	--	--	--	--	--
+1	97	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1632375	7695484	15805352	0	37311436	62444647	0	--	--	--	--	--	--	--
+1	98	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1574188	7421173	15241960	0	35981444	60218765	0	--	--	--	--	--	--	--
+1	99	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1599219	7539174	15484316	0	36553572	61176281	0	--	--	--	--	--	--	--
+1	100	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1619258	7633646	15678347	0	37011616	61942867	0	--	--	--	--	--	--	--
+1	101	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1540850	7264010	14919170	0	35219440	58943470	0	--	--	--	--	--	--	--
+1	102	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1652338	7789591	15998635	0	37767716	63208280	0	--	--	--	--	--	--	--
+1	103	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1608257	7581782	15571826	0	36760156	61522021	0	--	--	--	--	--	--	--
+1	104	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1658719	7819675	16060423	0	37913576	63452393	0	--	--	--	--	--	--	--
+1	105	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1636622	7715501	15846466	0	37408492	62607081	0	--	--	--	--	--	--	--
+1	106	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1628604	7677707	15768841	0	37225244	62300396	0	--	--	--	--	--	--	--
+1	107	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	5799572668416	19976306032640	4796923772928	0	51551833948160	7301264572416	74823371849728	--	--	--	--	--	--	--
+1	108	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	5994103963648	20646356582400	4957824090112	0	53281002881024	7546169982976	77333117534208	--	--	--	--	--	--	--
+1	109	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	6084417290240	20957437624320	5032524120064	0	54083792666624	7659868127232	78498303574016	--	--	--	--	--	--	--
+1	110	Shield Depleted	Borg Type 03.2	--	Borg Type 03.2	YES	XanOfHanoi	ThunderDome	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	111	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1537815478272	0	286189453312	0	3075635675136	435600916480	4464039690240	--	--	--	--	--	--	--
+1	112	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	30377976528896	0	5653380726784	0	60756045332480	8604853731328	88182548856832	--	--	--	--	--	--	--
+1	113	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	30714584104960	0	5716023705600	0	61429260484608	8700197601280	89159670693888	--	--	--	--	--	--	--
+1	114	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	27489535524864	0	5115838201856	0	54979154935808	7786678714368	79797849948160	--	--	--	--	--	--	--
+1	115	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	30034056183808	0	5589376696320	0	60068204642304	8507433680896	87184203841536	--	--	--	--	--	--	--
+1	116	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	29854535778304	0	5555967492096	0	59709163831296	8456588754944	86663078346752	--	--	--	--	--	--	--
+1	117	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	26628493148160	0	4955596914688	0	53257065988096	7542775742464	77298380308480	--	--	--	--	--	--	--
+1	118	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1685810970624	0	313731579904	0	3371626921984	477521903616	4893647568896	--	--	--	--	--	--	--
+1	119	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	28269487325184	0	5260987858944	0	56539062730752	8007602667520	82061935247360	--	--	--	--	--	--	--
+1	120	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	25862715998208	0	4813084426240	0	51725507493888	7325858398208	75075449520128	--	--	--	--	--	--	--
+1	121	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	25647739043840	0	4773077057536	0	51295553585152	7264965492736	74451404193792	--	--	--	--	--	--	--
+1	122	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	27988701741056	0	5208733122560	0	55977487368192	7928066080768	81246856151040	--	--	--	--	--	--	--
+1	123	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1651336019968	0	307315769344	0	3302677020672	467756810240	4793571999744	--	--	--	--	--	--	--
+1	124	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	27620926291968	0	5140289945600	0	55241936470016	7823897919488	80179254788096	--	--	--	--	--	--	--
+1	125	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	30550752493568	0	5685534261248	0	61101593067520	8653792870400	88684086951936	--	--	--	--	--	--	--
+2	127	battle_action_type_{0}	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	--	--	32369760	--	--	--	--
+2	128	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	129	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	130	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	131	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	132	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	133	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+2	134	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2659022	12535389	25745782	0	60777644	101717837	0	--	--	--	--	--	--	--
+2	135	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2690848	12685425	26053934	0	61505092	102935299	0	--	--	--	--	--	--	--
+2	136	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2770046	13058789	26820766	0	63315340	105964941	0	--	--	--	--	--	--	--
+2	137	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2827122	13327860	27373396	0	64619928	108148306	0	--	--	--	--	--	--	--
+2	138	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2801663	13207838	27126890	0	64038004	107174395	0	--	--	--	--	--	--	--
+2	139	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2723638	12840008	26371424	0	62254584	104189654	0	--	--	--	--	--	--	--
+2	140	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2779306	13102444	26910426	0	63527000	106319176	0	--	--	--	--	--	--	--
+2	141	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2778669	13099441	26904258	0	63512440	106294808	0	--	--	--	--	--	--	--
+2	142	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2627645	12387468	25441976	0	60060452	100517541	0	--	--	--	--	--	--	--
+2	143	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	2810951	13251624	27216820	0	64250300	107529695	0	--	--	--	--	--	--	--
+2	144	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9523803717632	0	1772395036672	0	19047636795392	2697709879296	27646125670400	--	--	--	--	--	--	--
+2	145	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	494771339264	0	92077735936	0	989544185856	140148752384	1436244508672	--	--	--	--	--	--	--
+2	146	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	558558281728	0	103948591104	0	1117118267392	158217052160	1621408088064	--	--	--	--	--	--	--
+2	147	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8881842421760	0	1652925005824	0	17763712106496	2515868450816	25782611083264	--	--	--	--	--	--	--
+2	148	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	562713657344	0	104721907712	0	1125429018624	159394070528	1633470513152	--	--	--	--	--	--	--
+2	149	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8644525031424	0	1608759902208	0	17289076277248	2448645685248	25093715525632	--	--	--	--	--	--	--
+2	150	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	570173292544	0	106110156800	0	1140348289024	161507082240	1655124656128	--	--	--	--	--	--	--
+2	151	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9306653065216	0	1731982917632	0	18613333393408	2636199362560	27015770013696	--	--	--	--	--	--	--
+2	152	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10194046156800	0	1897128263680	0	20388123770880	2887562821632	29591735369728	--	--	--	--	--	--	--
+2	153	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	554989322240	0	103284391936	0	1109980217344	157206036480	1611047895040	--	--	--	--	--	--	--
+2	154	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9645656637440	0	1795072065536	0	19291342635008	2732225331200	27999846006784	--	--	--	--	--	--	--
+2	155	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	527190720512	0	98111029248	0	1054383013888	149331869696	1530352893952	--	--	--	--	--	--	--
+2	156	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	515924688896	0	96014409728	0	1031850950656	146140667904	1497649381376	--	--	--	--	--	--	--
+2	157	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9161616130048	0	1704991391744	0	18323259523072	2595114975232	26594752069632	--	--	--	--	--	--	--
+2	158	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9578749100032	0	1782620356608	0	19157525463040	2713272451072	27805622468608	--	--	--	--	--	--	--
+2	159	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8549798248448	0	1591130980352	0	17099621662720	2421811838976	24818739052544	--	--	--	--	--	--	--
+2	160	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	511495012352	0	95190032384	0	1022991532032	144885882880	1484790693888	--	--	--	--	--	--	--
+2	161	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8588731875328	0	1598376640512	0	17177488916480	2432840761344	24931756670976	--	--	--	--	--	--	--
+2	162	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	163	Charging Weapons	Borg Type 03.2	--	Borg Type 03.2	NO	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	164	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21591102586880	0	4018136940544	0	43182272282624	6115888726016	62675623084032	--	--	--	--	--	--	--
+2	165	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21956336287744	0	4086107209728	0	43912735490048	6219340709888	63735838277632	--	--	--	--	--	--	--
+2	166	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	22561719058432	0	4198769885184	0	45123505225728	6390826401792	65493167767552	--	--	--	--	--	--	--
+2	167	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	22676993212416	0	4220222701568	0	45354053533696	6423480107008	65827789340672	--	--	--	--	--	--	--
+2	168	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1311401705472	0	244053835776	0	2622807343104	371467223040	3806795661312	--	--	--	--	--	--	--
+2	169	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	25744711352320	0	4791129866240	0	51489502396416	7292434513920	74732909101056	--	--	--	--	--	--	--
+2	170	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23417531138048	0	4358037831680	0	46835133579264	6633244327936	67977458221056	--	--	--	--	--	--	--
+2	171	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24796714762240	0	4614705905664	0	49593500827648	7023903637504	71981017858048	--	--	--	--	--	--	--
+2	172	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24837372248064	0	4622272430080	0	49674815799296	7035423293440	72099037184000	--	--	--	--	--	--	--
+2	173	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23084281102336	0	4296019542016	0	46168629313536	6538846011392	67010083946496	--	--	--	--	--	--	--
+2	174	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24496461316096	0	4558828339200	0	48992993935360	6938858881024	71109424709632	--	--	--	--	--	--	--
+2	175	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21943514300416	0	4083721175040	0	43887095709696	6215713161216	63698618023936	--	--	--	--	--	--	--
+2	176	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	22838811557888	0	4250337542144	0	45677694418944	6469313101824	66297530417152	--	--	--	--	--	--	--
+2	177	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	22371920510976	0	4163448078336	0	44743908130816	6337064337408	64942212382720	--	--	--	--	--	--	--
+2	178	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	179	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1603170	7557801	15522574	0	36643884	61327429	0	--	--	--	--	--	--	--
+2	180	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1584389	7469265	15340733	0	36214616	60609003	0	--	--	--	--	--	--	--
+2	181	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1606497	7573484	15554784	0	36719924	61454689	0	--	--	--	--	--	--	--
+2	182	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1591533	7502943	15409904	0	36377904	60882284	0	--	--	--	--	--	--	--
+2	183	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1632150	7694419	15803168	0	37306276	62436013	0	--	--	--	--	--	--	--
+2	184	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1600511	7545268	15496833	0	36583116	61225728	0	--	--	--	--	--	--	--
+2	185	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	186	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1590028	7495849	15395333	0	36343508	60824718	0	--	--	--	--	--	--	--
+2	187	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1662160	7835898	16093742	0	37992232	63584032	0	--	--	--	--	--	--	--
+2	188	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1614094	7609301	15628346	0	36893580	61745321	0	--	--	--	--	--	--	--
+2	189	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1577647	7437481	15275453	0	36060512	60351093	0	--	--	--	--	--	--	--
+2	190	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1639569	7729396	15875003	0	37475860	62719828	0	--	--	--	--	--	--	--
+2	191	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1659564	7823658	16068604	0	37932888	63484714	0	--	--	--	--	--	--	--
+2	192	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1557436	7342197	15079755	0	35598532	59577920	0	--	--	--	--	--	--	--
+2	193	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1642565	7743523	15904017	0	37544352	62834457	0	--	--	--	--	--	--	--
+2	194	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1641105	7736640	15889880	0	37510980	62778605	0	--	--	--	--	--	--	--
+2	195	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1640570	7734118	15884702	0	37498752	62758142	0	--	--	--	--	--	--	--
+2	196	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1598071	7533762	15473201	0	36527332	61132366	0	--	--	--	--	--	--	--
+2	197	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1650897	7782799	15984685	0	37734784	63153165	0	--	--	--	--	--	--	--
+2	198	Charging Weapons	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	199	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+2	200	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1635476	7710102	15835375	0	37382312	62563265	0	--	--	--	--	--	--	--
+2	201	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1653678	7795912	16011617	0	37798360	63259567	0	--	--	--	--	--	--	--
+2	202	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1537535	7248378	14887067	0	35143652	58816632	0	--	--	--	--	--	--	--
+2	203	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1599639	7541153	15488381	0	36563168	61192341	0	--	--	--	--	--	--	--
+2	204	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1629177	7680406	15774385	0	37238332	62322300	0	--	--	--	--	--	--	--
+2	205	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1599242	7539284	15484543	0	36554104	61177173	0	--	--	--	--	--	--	--
+2	206	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1567288	7388646	15175154	0	35823736	59954824	0	--	--	--	--	--	--	--
+2	207	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1606119	7571704	15551128	0	36711292	61440243	0	--	--	--	--	--	--	--
+2	208	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	209	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1619224	7633486	15678019	0	37010840	61941569	0	--	--	--	--	--	--	--
+2	210	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1568329	7393549	15185226	0	35847512	59994616	0	--	--	--	--	--	--	--
+2	211	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1625921	7665059	15742864	0	37163920	62197764	0	--	--	--	--	--	--	--
+2	212	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1647444	7766522	15951255	0	37655864	63021085	0	--	--	--	--	--	--	--
+2	213	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+2	214	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1618029	7627849	15666442	0	36983512	61895832	0	--	--	--	--	--	--	--
+2	215	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1602223	7553339	15513409	0	36622248	61291219	0	--	--	--	--	--	--	--
+2	216	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1577135	7435066	15270493	0	36048804	60331498	0	--	--	--	--	--	--	--
+2	217	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1592522	7507605	15419477	0	36400508	60920112	0	--	--	--	--	--	--	--
+2	218	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1636252	7713762	15842892	0	37400056	62592962	0	--	--	--	--	--	--	--
+2	219	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1634114	7703682	15822191	0	37351184	62511171	0	--	--	--	--	--	--	--
+2	220	Charging Weapons	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	222	battle_action_type_{0}	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	--	--	35059190	--	--	--	--
+3	223	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	224	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	225	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	226	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	227	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	228	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.75	No Locked Doors	Dajash Tolra	--	--	--
+3	229	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	11	The Looking Glass	Toli	--	--	--
+3	230	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3158363	12633454	26758042	0	63167268	105717127	0	--	--	--	--	--	--	--
+3	231	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	232	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3010263	12041054	25503320	0	60205268	100759905	0	--	--	--	--	--	--	--
+3	233	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3216124	12864498	27247400	0	64322488	107650510	0	--	--	--	--	--	--	--
+3	234	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3141678	12566712	26616680	0	62833560	105158630	0	--	--	--	--	--	--	--
+3	235	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3159847	12639390	26770614	0	63196948	105766799	0	--	--	--	--	--	--	--
+3	236	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3155116	12620466	26730532	0	63102328	105608442	0	--	--	--	--	--	--	--
+3	237	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	238	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3038272	12153089	25740614	0	60765444	101697419	0	--	--	--	--	--	--	--
+3	239	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	3172637	12690548	26878970	0	63452740	106194895	0	--	--	--	--	--	--	--
+3	240	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9842573967360	0	1831718486016	0	19685177294848	2788005117952	28571464630272	--	--	--	--	--	--	--
+3	241	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9058026258432	0	1685712928768	0	18116077682688	2565773328384	26294043541504	--	--	--	--	--	--	--
+3	242	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10162873040896	0	1891326623744	0	20325775441920	2878731845632	29501243260928	--	--	--	--	--	--	--
+3	243	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9044700954624	0	1683233046528	0	18089429172224	2561999503360	26255363670016	--	--	--	--	--	--	--
+3	244	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8368622141440	0	1557413756928	0	16737269448704	2370494267392	24292811079680	--	--	--	--	--	--	--
+3	245	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9454883962880	0	1759568855040	0	18909795188736	2678186442752	27446061563904	--	--	--	--	--	--	--
+3	246	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8794223935488	0	1636618993664	0	17588474085376	2491048525824	25528268488704	--	--	--	--	--	--	--
+3	247	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	566602825728	0	105445687296	0	1133207355392	160495599616	1644760268800	--	--	--	--	--	--	--
+3	248	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9902911127552	0	1842947424256	0	19805851615232	2805093498880	28746616668160	--	--	--	--	--	--	--
+3	249	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9020304785408	0	1678692974592	0	18040636833792	2555087552512	26184547041280	--	--	--	--	--	--	--
+3	250	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9403551973376	0	1750015934464	0	18807133306880	2663646494720	27297054720000	--	--	--	--	--	--	--
+3	251	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	8884087422976	0	1653342732288	0	17768202108928	2516503232512	25789129031680	--	--	--	--	--	--	--
+3	252	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	505190907904	0	94016823296	0	1010383323136	143100239872	1466490814464	--	--	--	--	--	--	--
+3	253	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9728217317376	0	1810436718592	0	19456463994880	2755611590656	28239506440192	--	--	--	--	--	--	--
+3	254	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	521994731520	0	97144045568	0	1043991035904	147860029440	1515269783552	--	--	--	--	--	--	--
+3	255	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	501100576768	0	93255614464	0	1002202660864	141941587968	1454617264128	--	--	--	--	--	--	--
+3	256	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	9855364497408	0	1834099015680	0	19710758354944	2791627161600	28608594706432	--	--	--	--	--	--	--
+3	257	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	10093181534208	0	1878357049344	0	20186394525696	2858991616000	29298941493248	--	--	--	--	--	--	--
+3	258	Officer Ability	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	SS REVENANT	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.08	The Winning Gambit	Masriad Vael	--	--	--
+3	259	Charging Weapons	Borg Type 03.2	--	Borg Type 03.2	NO	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	260	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1345128759296	0	250330169344	0	2690261450752	381020749824	3904699629568	--	--	--	--	--	--	--
+3	261	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21977060343808	0	4089959153664	0	43954187796480	6225214308352	63795992985600	--	--	--	--	--	--	--
+3	262	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23593519939584	0	4390784073728	0	47187111182336	6683090747392	68488324448256	--	--	--	--	--	--	--
+3	263	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21117802643456	0	3930050002944	0	42235668201472	5981821730816	61301699117056	--	--	--	--	--	--	--
+3	264	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24454717505536	0	4551054196736	0	48909510508544	6927030943744	70988251267072	--	--	--	--	--	--	--
+3	265	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	22411848187904	0	4170873569280	0	44823763484672	6348371656704	65058113585152	--	--	--	--	--	--	--
+3	266	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23301634129920	0	4336463904768	0	46603339563008	6600412889088	67641024708608	--	--	--	--	--	--	--
+3	267	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23741694214144	0	4418359525376	0	47483459731456	6725063147520	68918450323456	--	--	--	--	--	--	--
+3	268	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21229507444736	0	3950838284288	0	42459077804032	6013462773760	61625960759296	--	--	--	--	--	--	--
+3	269	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	23587568222208	0	4389676777472	0	47175207747584	6681404637184	68471048110080	--	--	--	--	--	--	--
+3	270	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24198357450752	0	4503345037312	0	48396786204672	6854420201472	70244068491264	--	--	--	--	--	--	--
+3	271	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	24665787465728	0	4590334902272	0	49331650428928	6986825990144	71600946806784	--	--	--	--	--	--	--
+3	272	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	1479525793792	0	275341639680	0	2959056044032	419089874944	4294833602560	--	--	--	--	--	--	--
+3	273	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	21142827958272	0	3934707253248	0	42285718831104	5988909580288	61374344462336	--	--	--	--	--	--	--
+3	274	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1845509	7382038	15635381	0	36910188	61773116	0	--	--	--	--	--	--	--
+3	275	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1798116	7192464	15233859	0	35962320	60186759	0	--	--	--	--	--	--	--
+3	276	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1891820	7567282	16027733	0	37836408	63323243	0	--	--	--	--	--	--	--
+3	277	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1875940	7503759	15893192	0	37518796	62791687	0	--	--	--	--	--	--	--
+3	278	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1772255	7089022	15014764	0	35445108	59321149	0	--	--	--	--	--	--	--
+3	279	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1898614	7594457	16085292	0	37972284	63550647	0	--	--	--	--	--	--	--
+3	280	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1821351	7285406	15430711	0	36427028	60964496	0	--	--	--	--	--	--	--
+3	281	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1755857	7023426	14875832	0	35117132	58772247	0	--	--	--	--	--	--	--
+3	282	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1776824	7107297	15053472	0	35536484	59474077	0	--	--	--	--	--	--	--
+3	283	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1762529	7050115	14932359	0	35250576	58995579	0	--	--	--	--	--	--	--
+3	284	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1831030	7324122	15512714	0	36620608	61288474	0	--	--	--	--	--	--	--
+3	285	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1834376	7337506	15541062	0	36687528	61400472	0	--	--	--	--	--	--	--
+3	286	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+3	287	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1795253	7181010	15209599	0	35905052	60090914	0	--	--	--	--	--	--	--
+3	288	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1775561	7102242	15042766	0	35511212	59431781	0	--	--	--	--	--	--	--
+3	289	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1792063	7168254	15182581	0	35841268	59984166	0	--	--	--	--	--	--	--
+3	290	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1755634	7022536	14873947	0	35112680	58764797	0	--	--	--	--	--	--	--
+3	291	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1867422	7469689	15821030	0	37348444	62506585	0	--	--	--	--	--	--	--
+3	292	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1760267	7041070	14913201	0	35205348	58919886	0	--	--	--	--	--	--	--
+3	293	Attack	Borg Type 03.2	--	Borg Type 03.2	NO	XanOfHanoi	ThunderDome	SS REVENANT	YES	--	--	NO	1759213	7036852	14904267	0	35184260	58884592	0	--	--	--	--	--	--	--
+3	294	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	49422448721920	0	9197581238272	0	98845048438784	13999379841024	143465698557952	--	--	--	--	--	--	--
+3	295	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	44599875731456	0	8300093505536	0	89199885680640	12633350602752	129466504314880	--	--	--	--	--	--	--
+3	296	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	49309043130368	0	9176475500544	0	98618228867072	13967251472384	143136496025600	--	--	--	--	--	--	--
+3	297	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	42468275912704	0	7903400427520	0	84936677654528	12029546987520	123278807007232	--	--	--	--	--	--	--
+3	298	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	49997106118656	0	9304525504512	0	99994363232256	14162171265024	145133823590400	--	--	--	--	--	--	--
+3	299	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	50018174107648	0	9308446130176	0	100036499210240	14168126128128	145194993319936	--	--	--	--	--	--	--
+3	300	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	49516921225216	0	9215161663488	0	99033985056768	14026145792000	143739922153472	--	--	--	--	--	--	--
+3	301	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	51317376548864	0	9550229929984	0	102634912481280	14536141701120	148966377259008	--	--	--	--	--	--	--
+3	302	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	44421416484864	0	8266882482176	0	88842967187456	12582791938048	128948474216448	--	--	--	--	--	--	--
+3	303	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	45202869846016	0	8412311584768	0	90405873909760	12804142137344	131216913203200	--	--	--	--	--	--	--
+3	304	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	2584890572800	0	481051443200	0	5169789009920	732195618816	7503535407104	--	--	--	--	--	--	--
+3	305	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	47141061918720	0	8773011767296	0	94282266443776	13353162375168	136843177754624	--	--	--	--	--	--	--
+3	306	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	YES	46091869356032	0	8577755906048	0	92183881318400	13055963955200	133797542625280	--	--	--	--	--	--	--
+3	307	Attack	XanOfHanoi	ThunderDome	SS REVENANT	YES	Borg Type 03.2	--	Borg Type 03.2	NO	--	--	NO	2981981061120	0	554950524928	0	5963971559424	844674957312	8656228188160	--	--	--	--	--	--	--
+3	308	Combatant Destroyed	Borg Type 03.2	--	Borg Type 03.2	YES	XanOfHanoi	ThunderDome	Borg Type 03.2	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

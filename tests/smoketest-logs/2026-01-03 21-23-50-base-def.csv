@@ -1,0 +1,32 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+KerryCG	65	DEFEAT	BORG CUBE	70	6818866176	0	Strike Team SNW La'an	Strike Team SNW Una	Shaxs	7602644745	0	4732615009	0	Lotch	1/3/2026 9:23:50 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1122938112	453490304	10356893696	True Aim	Red Alert! Raise Shields!	Bend the Rules	Over My Dead Program	Time is Patient	36	1009698368	5201835	5279042	73369998	0.22	3.45	36	3608064	83406506	3683493	40.5	9441409101	11272379290	212	1647	535.5	595680	0	1	NO	NO
+Player Fleet 2	722487	242480	1944110	Pinpoint Targeting	Efficient Crystal Acquisition	Advanced Warp Theory	--	Hidden Stash	3	663313	5872	5975	38319	0.22	3.45	3	4100	40275	4121	3	2406102	1482117	187	51	196.84	97223	0	1	NO	NO
+Player Fleet 3	126823	41255	1115945	Explorer Hunter	Efficient Gas Acquisition	Resource Protection Protocols	--	Extraction Protocol	2.4	123893	1302	8686	1302	0.22	3.45	2.4	7153	550	548	2.4	1084744	1147146	181	45	107.1	70830	0	1	NO	NO
+Player Fleet 4	263257	79830	1458466	Explorer Hunter	Efficient Ore Acquisition	Cargo Optimization Algorithms	Defensive Mining	Take Everything They Have	2.4	257154	2719	18054	2719	0.22	3.45	2.4	14868	550	548	2.4	1335730	1581201	181	50	157.5	223655	0	1	NO	NO
+Player Fleet 5	3088154	2690885	32504620	Combat Scavenger	Behind the Scenes	Varied Income Streams	Pack Rat	Outside the Box	3	3026250	100124	102277	100124	0.22	3.35	3	22672	258298	257207	3	27454272	37554970	207	186	333.9	60753000	0	10.3	NO	NO
+Player Fleet 6	2981509	2622495	32045752	--	--	--	--	--	0	0	0	0	0	0	0	0	0	0	0	0	27053226	37038277	0	0	0	0	0	0	NO	NO
+Enemy Fleet 1	574640000	316260480	5927965696	Phase Discriminating Amplifier	Targeting Optimization	Shield Backdoor	Crush Their Hopes	Special Delivery	40.5	538707904	3650850	42822000	3650850	0.22	2.95	36	59174400	2042880	2034816	36	4527255889	7328675565	172	1524	333.88	1524240	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	KerryCG	--	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.26	Tertiary Adjunct	Seven of Nine	--	--	--
+1	2	Officer Ability	KerryCG	--	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.3	Crush Their Hopes	Strike Team SNW Una	--	--	--
+1	3	Forbidden Tech Ability	KerryCG	--	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	10	--	Red Matter	--	--	--
+1	4	Forbidden Tech Ability	KerryCG	--	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	3	--	Q Cannon	--	--	--
+1	5	Forbidden Tech Ability	KerryCG	--	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	15	--	Q Cannon	--	--	--
+1	6	Forbidden Tech Ability	NileRed	ThunderDome	KOS'KARII	NO	--	--	KOS'KARII	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	Black Market Armaments	The Godsend	--	--	--
+1	7	Attack	NileRed	ThunderDome	DEFENSE PLATFORM A	NO	KerryCG	--	BORG CUBE	NO	--	--	NO	315738912	385903136	116909056	1982207872	215619840	662212704	2354166112	--	--	--	--	--	--	--
+1	8	Attack	NileRed	ThunderDome	DEFENSE PLATFORM B	NO	KerryCG	--	BORG CUBE	NO	--	--	NO	291946432	356823392	108099376	1832838656	199371808	612311664	2176768000	--	--	--	--	--	--	--
+1	9	Attack	NileRed	ThunderDome	DEFENSE PLATFORM C	NO	KerryCG	--	BORG CUBE	NO	--	--	YES	1373928064	1679245440	508726144	8625515520	938262976	2881597888	10244080256	--	--	--	--	--	--	--
+1	10	Attack	NileRed	ThunderDome	DEFENSE PLATFORM D	NO	KerryCG	--	BORG CUBE	NO	--	--	NO	271906720	332330432	98378080	1702618752	185686592	568808032	2022112544	--	--	--	--	--	--	--
+1	11	Attack	NileRed	ThunderDome	DEFENSE PLATFORM E	NO	KerryCG	--	BORG CUBE	NO	--	--	YES	1701218560	2079267072	615514816	10652648448	1161771392	3558818880	12651601408	--	--	--	--	--	--	--
+1	12	Shield Depleted	KerryCG	--	BORG CUBE	NO	NileRed	ThunderDome	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	13	Attack	NileRed	ThunderDome	DEFENSE PLATFORM F	NO	KerryCG	--	BORG CUBE	NO	--	--	NO	914396544	0	148876272	2576585728	281000896	860781392	3060078048	--	--	--	--	--	--	--
+1	14	Attack	KerryCG	--	BORG CUBE	NO	NileRed	ThunderDome	VAHKLAS	NO	--	--	NO	13455095	17124666	4219326	88186464	770141	25879483	97876209	--	--	--	--	--	--	--
+1	15	Shield Depleted	NileRed	ThunderDome	VAHKLAS	NO	KerryCG	--	VAHKLAS	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	16	Combatant Destroyed	NileRed	ThunderDome	VAHKLAS	NO	KerryCG	--	VAHKLAS	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

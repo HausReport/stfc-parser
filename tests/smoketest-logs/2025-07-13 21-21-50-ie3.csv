@@ -1,0 +1,39 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	59	VICTORY	SANCTUS	40	911879616	0	Kathryn Janeway	Annorax	Gwen DeMarco	948056471	942306239	517973597	473052406	Reeka	7/13/2025 9:21:50 PM
+Hurak Vanguard	50	DEFEAT	Hurak Vanguard	50	897642944	0	Hurak Warrior	--	--	450450000	0	346500000	0	Reeka	7/13/2025 9:21:50 PM
+
+Reward Name	Count
+House Hurak Insignia	390
+chest_name_{0}	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	142938928	50171636	718769024	Drain of the Empire	Red Alert! Raise Shields!	Bend the Rules	Time is Patient	I Have One Job!	6	131014360	16234589	1805110	1339028	0.22	3.4	6	869025	324120	8841182	6	481835905	955702088	204	607	172.42	2742270	0	1	NO	NO
+Enemy Fleet 1	118017904	381150016	398475008	ship_ability_name_{0}	--	--	--	--	0	72279904	7623000	7623000	7623000	0.3	2	0	27720000	27720000	20790000	0	346500000	450449984	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.1	Bend the Rules	Kathryn Janeway	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.7	I Have One Job!	Gwen DeMarco	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	3	A Fighting Chance	WOK Leonard McCoy	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	2.5	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	7	Forbidden Tech Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	8	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	1275591	5619497	4161803	12242726	86678	5846573	17539722	--	--	--	--	--	--	--
+1	9	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	1255746	5532071	4097056	12052260	85330	5755615	17266848	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	15490891	58275256	19680236	56868320	9772426	30250785	129836344	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	14457954	54389448	18367952	53076324	9120798	28233656	121178820	--	--	--	--	--	--	--
+1	12	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	13	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	794763	5563338	3837684	11289267	79928	5391245	16173735	--	--	--	--	--	--	--
+1	14	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	902407	6316849	4357468	12818310	90753	6121446	18364341	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	14092385	53014212	18048828	51814352	8890179	27562348	118297608	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	12894709	48508668	16514905	47410780	8134625	25219895	108243792	--	--	--	--	--	--	--
+1	17	Officer Ability	XanOfHanoi	ThunderDome	SANCTUS	YES	--	--	SANCTUS	NO	--	--	--	--	--	--	--	--	Officer	0.06	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	18	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	586581	8437742	5370532	15939340	113445	7611910	22835730	--	--	--	--	--	--	--
+1	19	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	NO	490152	7050650	4487662	13319048	94795	6360576	19081731	--	--	--	--	--	--	--
+1	20	Attack	Hurak Vanguard	--	Hurak Vanguard	NO	XanOfHanoi	ThunderDome	SANCTUS	YES	YES	444992	6401044	4074195	12091908	86062	5774550	17323651	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	NO	14806483	55700580	18810738	54355804	9340667	28914260	124100012	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	145791216	548452672	185218880	535211424	91972360	284702648	1221943904	--	--	--	--	--	--	--
+1	23	Shield Depleted	Hurak Vanguard	--	Hurak Vanguard	YES	XanOfHanoi	ThunderDome	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	24	Attack	XanOfHanoi	ThunderDome	SANCTUS	YES	Hurak Vanguard	--	Hurak Vanguard	NO	YES	681003200	0	181686368	525003808	90218256	279272816	1198638816	--	--	--	--	--	--	--
+1	25	Combatant Destroyed	Hurak Vanguard	--	Hurak Vanguard	YES	XanOfHanoi	ThunderDome	Hurak Vanguard	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

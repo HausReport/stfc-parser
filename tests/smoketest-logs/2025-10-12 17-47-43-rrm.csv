@@ -1,0 +1,120 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+XanOfHanoi	62	VICTORY	USS ENTERPRISE-D	60	3010939648	0	SNW Christopher Pike	Annorax	SNW Hemmer	1359425377	1342836162	3321119679	3137583351	Mirror Terix	10/12/2025 5:47:43 PM
+Romulan Republic Miner	68	DEFEAT	Romulan Republic Miner	68	41291771904	0	Romulan Republic Commander	--	--	46106296992	0	30737531328	0	Mirror Terix	10/12/2025 5:47:43 PM
+
+Reward Name	Count
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	381956480	174273456	2454709760	Galaxy Class	Prepared For Anything	Quick Thinker	Time is Patient	Fix What Is Broken	6.5	318923008	3426469	3480901	40525458	0.22	3.4	6.5	2357267	30140157	2357267	6.5	2214079786	2695339619	262	1184	308.48	4132420	0	1	NO	NO
+Enemy Fleet 1	1107097600	1762760704	38421913600	Dismantlement---Deadlock---Photophobia	--	--	--	--	0	451872480	218408352	218408352	218408352	0.1	1.5	0	117517384	117517384	117517384	0	30737530880	46106296320	50	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.09	Prepared For Anything	SNW Christopher Pike	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.35	Quick Thinker	SNW Christopher Pike	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	25	Fix What Is Broken	SNW Hemmer	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	5	War's Almost Over	Tom Paris	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+1	6	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+1	7	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+1	8	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	Black Market Armaments	The Godsend	--	--	--
+1	9	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1200	Not Playing Nice	The Godsend	--	--	--
+1	10	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.2	Black Market Armaments	The Godsend	--	--	--
+1	11	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1700	--	Agony Booth	--	--	--
+1	12	Forbidden Tech Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	ForbiddenTechAbility	16	--	Agony Booth	--	--	--
+1	13	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1255211	13511977	63280264	8052354	11666089	88878087	8887808	--	--	--	--	--	--	--
+1	14	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1258302	13545256	63436116	8072186	11694821	89096983	8909698	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	91519320	69040888	28231966	0	0	45990782	142801392	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1175651456	886894912	362666048	0	0	590794752	1834417664	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1237414912	933488448	381718912	0	0	621832512	1930789760	--	--	--	--	--	--	--
+1	18	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	82967952	62589856	25594032	0	0	41693504	129458336	--	--	--	--	--	--	--
+1	19	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	84249112	63556348	25989246	0	0	42337322	131457384	--	--	--	--	--	--	--
+1	20	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	92880856	70068016	28651976	0	0	46674992	144925856	--	--	--	--	--	--	--
+1	21	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	22	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	23	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	YES	0	0	0	0	0	0	0	--	--	--	--	--	--	--
+1	24	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	754598	8123030	42930420	5462856	9055162	60296424	6029642	--	--	--	--	--	--	--
+1	25	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	714584	7692282	40653912	5173172	8574987	57099034	5709903	--	--	--	--	--	--	--
+1	26	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	27	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+1	28	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+1	29	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	31	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	796539	--	--	--	--
+2	32	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+2	33	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+2	34	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+2	35	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1028145	11067673	65153156	8290678	15119800	91508593	9150859	--	--	--	--	--	--	--
+2	36	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	977151	10518747	61921736	7879483	14369899	86970015	8697001	--	--	--	--	--	--	--
+2	37	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	38	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	39	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	40	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	582073	6265842	40656232	5173467	10134906	57102291	5710229	--	--	--	--	--	--	--
+2	41	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	608347	6548678	42491424	5406993	10592389	59679847	5967984	--	--	--	--	--	--	--
+2	42	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	618441	6657332	43196436	5496706	10768136	60670047	6067004	--	--	--	--	--	--	--
+2	43	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1302305024	982440640	401736288	0	0	654441376	2032040576	--	--	--	--	--	--	--
+2	44	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1291341568	974169920	398354240	0	0	648931968	2014933760	--	--	--	--	--	--	--
+2	45	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1302734080	982764352	401868640	0	0	654657056	2032710016	--	--	--	--	--	--	--
+2	46	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1393696000	1051384640	429928640	0	0	700367616	2174641664	--	--	--	--	--	--	--
+2	47	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1254527872	946398272	386997952	0	0	630432128	1957491968	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1323321600	998295296	408219520	0	0	665002752	2064833664	--	--	--	--	--	--	--
+2	49	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+2	51	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	6123450368	4619445248	1888967808	0	0	3077189760	9554673664	--	--	--	--	--	--	--
+2	52	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	5728014848	4321134080	1766983552	0	0	2878473088	8937659392	--	--	--	--	--	--	--
+3	54	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	762831.4	--	--	--	--
+3	55	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+3	56	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+3	57	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+3	58	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1289760	10435334	63156284	8036578	14656394	88703955	8870395	--	--	--	--	--	--	--
+3	59	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1337735	10823493	65505484	8335512	15201562	92003442	9200344	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1289940608	1055406016	412392000	0	0	671799936	2085938688	--	--	--	--	--	--	--
+3	61	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1319058688	1079229824	421700992	0	0	686964608	2133024896	--	--	--	--	--	--	--
+3	62	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	80557392	65910596	25754074	0	0	41954214	130267848	--	--	--	--	--	--	--
+3	63	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1337019008	1093924608	427442880	0	0	696318272	2162068224	--	--	--	--	--	--	--
+3	64	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1207750272	988159296	386115872	0	0	628995296	1953030144	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1161202432	950074688	371234592	0	0	604753248	1877758464	--	--	--	--	--	--	--
+3	66	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	67	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	68	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	779838	6309599	42090148	5355932	10492358	59116250	5911625	--	--	--	--	--	--	--
+3	69	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	763505	6177450	41208612	5243758	10272605	57878118	5787812	--	--	--	--	--	--	--
+3	70	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	788980	6383561	42583544	5418716	10615353	59809231	5980923	--	--	--	--	--	--	--
+3	71	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	72	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+3	73	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+3	74	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+4	76	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	991963.6	--	--	--	--
+4	77	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+4	78	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+4	79	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+4	80	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1240447	10036347	60741548	7729305	14096017	85312422	8531242	--	--	--	--	--	--	--
+4	81	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1239654	10029928	60702704	7724362	14087003	85257865	8525786	--	--	--	--	--	--	--
+4	82	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	83	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	84	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	85	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	789166	6385068	42593596	5419996	10617858	59823349	5982335	--	--	--	--	--	--	--
+4	86	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	802488	6492861	43312656	5511495	10797108	60833280	6083328	--	--	--	--	--	--	--
+4	87	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	763727	6179242	41220568	5245279	10275586	57894911	5789491	--	--	--	--	--	--	--
+4	88	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1152989696	943355200	379478784	0	0	618183232	1857640448	--	--	--	--	--	--	--
+4	89	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1274553600	1042816640	419488608	0	0	683360480	2053498368	--	--	--	--	--	--	--
+4	90	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1236493952	1011676928	406962208	0	0	662954528	1992178560	--	--	--	--	--	--	--
+4	91	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1139975040	932706880	375195328	0	0	611205248	1836672000	--	--	--	--	--	--	--
+4	92	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1156268416	946037824	380557888	0	0	619941120	1862923008	--	--	--	--	--	--	--
+4	93	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1190633344	974154560	391868288	0	0	638366016	1918290176	--	--	--	--	--	--	--
+4	94	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Resist and Retaliate	Hugh	--	--	--
+4	95	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	2300	Time is Patient	Annorax	--	--	--
+4	96	Charging Weapons	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	98	battle_action_type_{0}	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	--	--	967096.4	--	--	--	--
+5	99	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	To the Journey!	Harry Kim	--	--	--
+5	100	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Knock it Down	B'Elanna Torres	--	--	--
+5	101	Officer Ability	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	USS ENTERPRISE-D	NO	--	--	--	--	--	--	--	--	--	--	Officer	1	Now We're Cooking	Neelix	--	--	--
+5	102	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1281151	10365675	62734696	7982932	14558558	88111829	8811183	--	--	--	--	--	--	--
+5	103	Attack	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	--	--	NO	1234342	9986953	60442608	7691265	14026644	84892557	8489255	--	--	--	--	--	--	--
+5	104	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1142795520	935014528	376123616	0	0	612717536	1841216128	--	--	--	--	--	--	--
+5	105	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1349785472	1104369920	444249376	0	0	723696544	2174708224	--	--	--	--	--	--	--
+5	106	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	1326873216	1085623552	436708352	0	0	711411968	2137793152	--	--	--	--	--	--	--
+5	107	Shield Depleted	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+5	108	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	NO	162022672	0	29329222	0	0	47778246	143573648	--	--	--	--	--	--	--
+5	109	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	2360388864	0	427275840	0	0	696046016	2091618688	--	--	--	--	--	--	--
+5	110	Attack	XanOfHanoi	ThunderDome	USS ENTERPRISE-D	NO	Romulan Republic Miner	--	Romulan Republic Miner	NO	--	--	YES	2240108544	0	405502752	0	0	660577056	1985034240	--	--	--	--	--	--	--
+5	111	Combatant Destroyed	Romulan Republic Miner	--	Romulan Republic Miner	NO	XanOfHanoi	ThunderDome	Romulan Republic Miner	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

@@ -1,0 +1,100 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Borg Cube	25	DEFEAT	BORG CUBE	25	38879152	0	Borg Cube	--	--	38576151	0	38576151	0	Castor	11/25/2024 6:41:04 PM
+
+Reward Name	Count
+Active Nanoprobe	128
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	267496	223985	447263	Cybernetic Augmentation	Resistance is Futile	Strengthen the Unimatrix	Cybernetic Enhancements	Adapt & Overcome	2.45	224495	29917	2901	2386	0.12	1.92	2.45	538	538	43721	2.79	448331	446195	120	37	13.8	186000	0	1	NO	NO
+Player Fleet 2	1492857	487400	1866757	Collective Severance	Safe Cracker	No Locked Doors	The Looking Glass	Savage Tenacity	3.5	1294432	164057	10560	5867	0.18	2.26	3.5	18262	18262	60956	3	1990709	1742805	158	60	24.34	1567800	0	1	NO	NO
+Player Fleet 3	412225	411485	705096	Romulan Crusher	Weaponry is irrelevant	You will be assimilated	Fight or Flight	Warp Theory	3	346180	79365	4855	5551	0.17	1.7	3	1065	1222	80010	3	743554	666637	119	59	14.02	107046	0	1	NO	NO
+Player Fleet 4	151686	159910	208325	Cybernetic Augmentation	Leader	Inspirational	Engine Redlining	Rerouting Power	2.1	128823	15788	1385	1210	0.12	1.58	2.1	499	499	30984	2.45	216190	200460	135	33	6.74	87000	0	1	NO	NO
+Player Fleet 5	179342	167250	202740	Cybernetic Augmentation	Weaponry is irrelevant	You will be assimilated	Adapt & Overcome	Strengthen the Unimatrix	1.75	145827	24104	1623	1435	0.12	1.91	2.45	476	476	32498	1.75	200978	204501	120	33	7.11	90000	0	1	NO	NO
+Enemy Fleet 1	206390	96610	38576152	ship_ability_name_{0}	--	--	--	--	0	128390	4875	29250	4875	0.3	2.7	0	14492	2415	2415	0	38576152	38576152	2	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	2	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+1	3	Officer Ability	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	--	--	D3 CLASS	NO	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	4	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.5	Inspirational	James T. Kirk	--	--	--
+1	5	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+1	6	Officer Ability	Biggk81	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+1	7	Forbidden Tech Ability	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	--	--	D3 CLASS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.6	--	Transphasic Torpedoes	--	--	--
+1	8	Forbidden Tech Ability	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	--	--	D3 CLASS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.03	--	Transphasic Torpedoes	--	--	--
+1	9	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	291	1163	3591	0	0	5045	0	--	--	--	--	--	--	--
+1	10	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	315	1260	3891	0	0	5466	0	--	--	--	--	--	--	--
+1	11	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	681432	2725727	260342	0	0	3509570	157931	--	--	--	--	--	--	--
+1	12	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	NO	1336755	5347019	673876	0	0	6974076	383574	--	--	--	--	--	--	--
+1	13	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	NO	30825	123301	14295	0	0	161943	6478	--	--	--	--	--	--	--
+1	14	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	YES	61840	247362	28679	0	0	324886	12995	--	--	--	--	--	--	--
+1	15	Attack	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	441107	1764428	172879	0	0	2286937	91477	--	--	--	--	--	--	--
+1	16	Attack	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	414395	1657581	149064	0	0	2145932	75108	--	--	--	--	--	--	--
+1	17	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	18	Charging Weapons	Borg Cube	--	BORG CUBE	NO	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	19	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	20	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	21	Charging Weapons	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	22	Charging Weapons	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	23	Charging Weapons	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	24	Attack	Borg Cube	--	BORG CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	NO	505	2020	3544	0	0	6069	0	--	--	--	--	--	--	--
+1	25	Attack	Borg Cube	--	BORG CUBE	NO	noBuenoman	Continuum	VI'DAR	YES	YES	1306	5224	9165	0	0	15695	0	--	--	--	--	--	--	--
+1	26	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	27	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	28	Charging Weapons	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	29	Charging Weapons	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+1	30	Charging Weapons	Borg Cube	--	BORG CUBE	NO	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	32	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+2	33	Officer Ability	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	--	--	D3 CLASS	NO	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	34	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.5	Inspirational	James T. Kirk	--	--	--
+2	35	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+2	36	Officer Ability	Biggk81	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+2	37	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	YES	919	3676	11351	0	0	15946	0	--	--	--	--	--	--	--
+2	38	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	349	1395	4307	0	0	6051	0	--	--	--	--	--	--	--
+2	39	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	40	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	NO	1415493	5661973	444889	0	0	7130194	392161	--	--	--	--	--	--	--
+2	41	Charging Weapons	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	42	Charging Weapons	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	43	Charging Weapons	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	44	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	45	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	NO	1852	7410	22897	0	0	32159	0	--	--	--	--	--	--	--
+2	46	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	YES	4728	18914	58448	0	0	82090	0	--	--	--	--	--	--	--
+2	47	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	551605	2206420	131478	0	0	2765075	124428	--	--	--	--	--	--	--
+2	48	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	NO	2532301	10129203	933614	0	0	12886368	708750	--	--	--	--	--	--	--
+2	49	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	NO	30811	123242	8935	0	0	156719	6269	--	--	--	--	--	--	--
+2	50	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	NO	32471	129886	9416	0	0	165166	6607	--	--	--	--	--	--	--
+2	51	Attack	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	367920	1471679	77736	0	0	1843591	73744	--	--	--	--	--	--	--
+2	52	Attack	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	349732	1398929	79654	0	0	1766488	61827	--	--	--	--	--	--	--
+2	53	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	304	1217	3757	0	0	5278	0	--	--	--	--	--	--	--
+2	54	Attack	Borg Cube	--	BORG CUBE	NO	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	NO	306	1225	3782	0	0	5313	0	--	--	--	--	--	--	--
+2	55	Charging Weapons	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	56	Charging Weapons	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	57	Charging Weapons	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	58	Charging Weapons	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	59	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.02	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	60	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	YES	1304	5218	16123	0	0	22645	0	--	--	--	--	--	--	--
+2	61	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	YES	1291	5165	15961	0	0	22417	0	--	--	--	--	--	--	--
+2	62	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	NO	550	2200	6797	0	0	9547	0	--	--	--	--	--	--	--
+2	63	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	NO	486	1944	6007	0	0	8437	0	--	--	--	--	--	--	--
+3	65	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	0.3	No Locked Doors	Dajash Tolra	--	--	--
+3	66	Officer Ability	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	--	--	VI'DAR TALIOS	NO	--	--	--	--	--	--	--	--	Officer	1	The Looking Glass	Toli	--	--	--
+3	67	Officer Ability	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	--	--	D3 CLASS	NO	--	--	--	--	--	--	--	--	Officer	2	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	68	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.5	Inspirational	James T. Kirk	--	--	--
+3	69	Officer Ability	CS91	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	0.4	Leader	James T. Kirk	--	--	--
+3	70	Officer Ability	Biggk81	Continuum	VI'DAR	YES	--	--	VI'DAR	NO	--	--	--	--	--	--	--	--	Officer	10	Weaponry is irrelevant	Five of Eleven	--	--	--
+3	71	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	NO	293	1174	3627	0	0	5094	0	--	--	--	--	--	--	--
+3	72	Attack	Borg Cube	--	BORG CUBE	NO	Biggk81	Continuum	VI'DAR	YES	NO	331	1326	4096	0	0	5753	0	--	--	--	--	--	--	--
+3	73	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	685037	2740146	119101	0	0	3391659	152625	--	--	--	--	--	--	--
+3	74	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	YES	3490732	13962927	869113	0	0	17367556	955216	--	--	--	--	--	--	--
+3	75	Shield Depleted	Borg Cube	--	BORG CUBE	YES	SubspaceEddie	Continuum	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	76	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	YES	14268123	0	710488	0	0	14197736	780875	--	--	--	--	--	--	--
+3	77	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	NO	167075	0	7928	0	0	168272	6731	--	--	--	--	--	--	--
+3	78	Attack	D1g1tal3ng1n33r	Continuum	D3 CLASS	YES	Borg Cube	--	BORG CUBE	NO	NO	184980	0	8777	0	0	186305	7452	--	--	--	--	--	--	--
+3	79	Attack	CS91	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	2410847	0	52420	0	0	2368526	94741	--	--	--	--	--	--	--
+3	80	Attack	Biggk81	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	NO	2123116	0	60528	0	0	2109801	73843	--	--	--	--	--	--	--
+3	81	Charging Weapons	Borg Cube	--	BORG CUBE	NO	Borg Cube	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	82	Attack	noBuenoman	Continuum	VI'DAR	YES	Borg Cube	--	BORG CUBE	NO	YES	5219801	0	178142	0	0	5165496	232447	--	--	--	--	--	--	--
+3	83	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	NO	13584036	0	811491	0	0	13645049	750478	--	--	--	--	--	--	--
+3	84	Attack	SubspaceEddie	Continuum	VI'DAR TALIOS	YES	Borg Cube	--	BORG CUBE	NO	NO	12165284	0	726737	0	0	12219925	672096	--	--	--	--	--	--	--
+3	85	Combatant Destroyed	Borg Cube	--	BORG CUBE	YES	SubspaceEddie	Continuum	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

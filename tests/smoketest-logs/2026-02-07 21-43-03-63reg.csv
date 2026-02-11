@@ -1,0 +1,138 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Assimilated Galor-Class	63	DEFEAT	Assimilated Galor-Class	63	122386169856	0	Assimilated Gul	--	--	193259148780	0	48314787195	0	Jorvathis	2/7/2026 9:43:03 PM
+
+Reward Name	Count
+Solo Outpost Credits	912
+Common Solo Outpost Components	138
+Outpost Retaliation Medal	118
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1714627456	489228992	13212080128	Phase Discriminating Amplifier	Captain's Prerogative	We Used to Be Explorers	You will be assimilated	Fear Is the True Enemy	40.5	1650478336	6391193	75769425	6391193	0.22	4.2	40.5	91771776	3056498	3017522	40.5	10754059166	15670100057	242	1673	622.34	2917470	0	1	NO	NO
+Player Fleet 2	123201328	45774216	1265602432	Ore Mining Laser	Scan the enemy	Negotiations	See the Flaws	Psychologist	20	118760000	5983289	6088721	5983289	0.22	4.1	16	3251101	2968989	2934753	20	941882605	1589322285	227	1535	580.29	3462532	0	737	NO	NO
+Player Fleet 3	127805328	45752644	1193918336	Gas Mining Laser	Timeless	Rerouting Power	Quick Thinking	The Dancing Doctor	20	123363984	5983289	6088721	5983289	0.22	4.3	16	2934753	3016920	3198856	18	934058360	1453778322	227	1552	588.7	3501613	0	737	NO	NO
+Enemy Fleet 1	908131072	691081984	120786960384	Isolytic Burst---Diverted Power	--	--	--	--	0	821348992	36159196	7231839	14463677	0.1	1.5	0	9039799	4519900	124656704	0	48314785792	193259143168	80	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Hyperthermic Decay %	Hyperthermic Stablizer %	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	XanOfHanoi	ThunderDome	DIVITAE	NO	--	--	DIVITAE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	Psychologist	Cadet Leonard McCoy	--	--	--
+1	2	Officer Ability	XanOfHanoi	ThunderDome	DIVITAE	NO	--	--	DIVITAE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Scan the enemy	Cadet Nyota Uhura	--	--	--
+1	3	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.12	The Dancing Doctor	Next Gen Crusher	--	--	--
+1	4	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.15	Timeless	Next Gen La Forge	--	--	--
+1	5	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+1	6	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6968575	32851852	39004240	98863592	637125	71330154	106995230	--	--	--	--	--	--	--
+1	7	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7214030	34009000	40378096	102345888	659567	73842633	110763948	--	--	--	--	--	--	--
+1	8	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	929805696	2451305984	506459712	0	0	821896896	3065674496	--	--	--	--	--	--	--
+1	9	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	829618048	2187174912	451888096	0	0	733336416	2735344640	--	--	--	--	--	--	--
+1	10	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	92186640	243037504	50213524	0	0	81487876	303949792	--	--	--	--	--	--	--
+1	11	Attack	XanOfHanoi	ThunderDome	DIVITAE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	705718272	1860529920	392640192	0	0	619792320	2339096064	--	--	--	--	--	--	--
+1	12	Attack	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	873599424	2303125760	382416288	0	0	603653472	2955488000	--	--	--	--	--	--	--
+1	13	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	14	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18932796	89254600	105969920	268600704	1730994	193795610	290693404	--	--	--	--	--	--	--
+1	15	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1813467520	4780959744	987785152	0	0	1603004736	5979207680	--	--	--	--	--	--	--
+1	16	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1767785984	4660526592	962902656	0	0	1562624640	5828590592	--	--	--	--	--	--	--
+1	17	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1856929664	4895541760	1011458688	0	0	1641422848	6122507264	--	--	--	--	--	--	--
+1	18	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	19	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7151633	33714840	40028848	101460656	653862	73203934	109805905	--	--	--	--	--	--	--
+1	20	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6861305	32346156	38403840	97341760	627318	70232154	105348225	--	--	--	--	--	--	--
+1	21	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	891370688	2349977088	485524384	0	0	787922272	2938949888	--	--	--	--	--	--	--
+1	22	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	775381504	2044187648	422345760	0	0	685394208	2556520704	--	--	--	--	--	--	--
+1	23	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	777623360	2050097920	423566880	0	0	687375968	2563912192	--	--	--	--	--	--	--
+1	24	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+1	25	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1656614016	4367436800	902347968	0	0	1464354624	5462044160	--	--	--	--	--	--	--
+1	26	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1727547776	4554444288	940985152	0	0	1527056576	5695920640	--	--	--	--	--	--	--
+1	27	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1797683328	4739346944	979187584	0	0	1589052416	5927165440	--	--	--	--	--	--	--
+2	29	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	4712834	--	--	--	--
+2	30	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	31	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+2	32	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+2	33	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6593939	31085712	38683552	96459064	602873	69370055	104055085	--	--	--	--	--	--	--
+2	34	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6914768	32598194	40565704	101152296	632206	72745265	109117903	--	--	--	--	--	--	--
+2	35	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1111879296	2931318016	482952736	0	0	783748768	3742401280	--	--	--	--	--	--	--
+2	36	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	1032119168	2721041408	448308384	0	0	727526944	3473942016	--	--	--	--	--	--	--
+2	37	Shield Depleted	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	38	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3803380992	0	454307104	0	0	737262112	3520425984	--	--	--	--	--	--	--
+2	39	Attack	XanOfHanoi	ThunderDome	DIVITAE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	413311616	0	50493536	0	0	79705312	384099840	--	--	--	--	--	--	--
+2	40	Attack	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	393436160	0	47362104	0	0	74762264	366036000	--	--	--	--	--	--	--
+2	41	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	42	Officer Ability	XanOfHanoi	ThunderDome	DIVITAE	NO	--	--	DIVITAE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.5	See the Flaws	Nero	--	--	--
+2	43	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	18123282	85438328	106320808	265115408	1656982	190661920	285992888	--	--	--	--	--	--	--
+2	44	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	45	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6532928	30798090	38325628	95566568	597295	68728203	103092306	--	--	--	--	--	--	--
+2	46	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	6641603	31310416	38963176	97156320	607231	69871497	104807249	--	--	--	--	--	--	--
+2	47	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4071387904	0	486320064	0	0	789213632	3768494336	--	--	--	--	--	--	--
+2	48	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3757618688	0	448840896	0	0	728391104	3478068480	--	--	--	--	--	--	--
+2	49	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3732658944	0	445859488	0	0	723553184	3454965248	--	--	--	--	--	--	--
+2	50	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+2	51	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	53	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	4480652	--	--	--	--
+3	54	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+3	55	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+3	56	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7405322	29621288	39007820	96033928	592424	69064312	103596470	--	--	--	--	--	--	--
+3	57	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7771848	31087392	40938508	100787112	621746	72482645	108723961	--	--	--	--	--	--	--
+3	58	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3824766208	0	432863840	0	0	702463328	3555166720	--	--	--	--	--	--	--
+3	59	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3916193536	0	443211040	0	0	719254816	3640149760	--	--	--	--	--	--	--
+3	60	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4212838144	0	476783488	0	0	773737344	3915884288	--	--	--	--	--	--	--
+3	61	Attack	XanOfHanoi	ThunderDome	DIVITAE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3487304448	0	410368448	0	0	647776704	3249896192	--	--	--	--	--	--	--
+3	62	Attack	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	434688320	0	50430628	0	0	79605988	405512960	--	--	--	--	--	--	--
+3	63	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	64	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	20763492	83053976	109372496	269265760	1661076	193646724	290470076	--	--	--	--	--	--	--
+3	65	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7998537728	0	905225984	0	0	1469025536	7434738176	--	--	--	--	--	--	--
+3	66	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7519835648	0	851049408	0	0	1381106112	6989778944	--	--	--	--	--	--	--
+3	67	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7698179584	0	871233280	0	0	1413861120	7155551744	--	--	--	--	--	--	--
+3	68	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	69	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7780774	31123098	40985528	100902880	622460	72565894	108848846	--	--	--	--	--	--	--
+3	70	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7561498	30245992	39830480	98059248	604918	70520854	105781282	--	--	--	--	--	--	--
+3	71	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3925979392	0	444318528	0	0	721052224	3649245696	--	--	--	--	--	--	--
+3	72	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3757357568	0	425234944	0	0	690082816	3492509696	--	--	--	--	--	--	--
+3	73	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3728538368	0	421973376	0	0	684789888	3465721856	--	--	--	--	--	--	--
+3	74	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+3	75	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7381600256	0	835404800	0	0	1355717632	6861287424	--	--	--	--	--	--	--
+3	76	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7567298048	0	856420928	0	0	1389823040	7033895936	--	--	--	--	--	--	--
+3	77	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	8255203328	0	934273856	0	0	1516164928	7673312256	--	--	--	--	--	--	--
+4	79	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	5128294	--	--	--	--
+4	80	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	81	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+4	82	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+4	83	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7642965	30571858	39232980	97829088	611435	70355329	105532997	--	--	--	--	--	--	--
+4	84	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7574961	30299844	38883904	96958648	605995	69729341	104594011	--	--	--	--	--	--	--
+4	85	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3581300736	0	427780000	0	0	694213024	3314867712	--	--	--	--	--	--	--
+4	86	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3487096576	0	416527488	0	0	675952256	3227671808	--	--	--	--	--	--	--
+4	87	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4111990016	0	491169888	0	0	797084000	3806075904	--	--	--	--	--	--	--
+4	88	Attack	XanOfHanoi	ThunderDome	DIVITAE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	NO	385594016	0	47107324	0	0	74360092	358341248	--	--	--	--	--	--	--
+4	89	Attack	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3086875904	0	371600128	0	0	586580224	2871895808	--	--	--	--	--	--	--
+4	90	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	91	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	21129832	84519328	108463968	270459456	1690383	194505191	291757776	--	--	--	--	--	--	--
+4	92	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	93	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7513085	30052342	38566284	96166648	601045	69159762	103739642	--	--	--	--	--	--	--
+4	94	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7881952	31527810	40459756	100888104	630554	72555270	108832906	--	--	--	--	--	--	--
+4	95	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3569375488	0	426355584	0	0	691901568	3303829504	--	--	--	--	--	--	--
+4	96	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3956430336	0	472588576	0	0	766929696	3662089216	--	--	--	--	--	--	--
+4	97	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3956083200	0	472547104	0	0	766862368	3661767936	--	--	--	--	--	--	--
+4	98	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+4	99	Charging Weapons	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	101	battle_action_type_{0}	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	--	--	5174280	--	--	--	--
+5	102	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.1	Reclaiming Lives	PIC Hugh	--	--	--
+5	103	Officer Ability	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	--	--	U.S.S. NEWGRANGE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.8	Quick Thinking	Gabriel Lorca	--	--	--
+5	104	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7561428	30245712	38814436	96785424	604913	69604767	104407146	--	--	--	--	--	--	--
+5	105	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7816238	31264952	40122428	100046968	625297	71950351	107925532	--	--	--	--	--	--	--
+5	106	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3443346944	0	411301696	0	0	667471424	3187177216	--	--	--	--	--	--	--
+5	107	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3376654336	0	403335360	0	0	654543808	3125445888	--	--	--	--	--	--	--
+5	108	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4052777728	0	484097088	0	0	785606208	3751268608	--	--	--	--	--	--	--
+5	109	Attack	XanOfHanoi	ThunderDome	DIVITAE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3020736512	0	369037920	0	0	582535776	2807238656	--	--	--	--	--	--	--
+5	110	Attack	XanOfHanoi	ThunderDome	U.S.S. NEWGRANGE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	2804633856	0	337623680	0	0	532947328	2609310208	--	--	--	--	--	--	--
+5	111	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	112	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	19950228	79800920	102408816	255360688	1596015	183646669	275469998	--	--	--	--	--	--	--
+5	113	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7701853184	0	919972736	0	0	1492956544	7128869376	--	--	--	--	--	--	--
+5	114	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	8126110720	0	970649472	0	0	1575196544	7521563648	--	--	--	--	--	--	--
+5	115	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7409133568	0	885007872	0	0	1436214784	6857926656	--	--	--	--	--	--	--
+5	116	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	117	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7926044	31704176	40686088	101452472	634082	72961144	109441718	--	--	--	--	--	--	--
+5	118	Attack	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	NO	7465556	29862222	38322304	95558272	597243	68722240	103083357	--	--	--	--	--	--	--
+5	119	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3766343168	0	449883008	0	0	730082432	3486143744	--	--	--	--	--	--	--
+5	120	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	4080371456	0	487393120	0	0	790954848	3776809728	--	--	--	--	--	--	--
+5	121	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	3661380352	0	437345376	0	0	709736032	3388989696	--	--	--	--	--	--	--
+5	122	Officer Ability	XanOfHanoi	ThunderDome	BORG CUBE	NO	--	--	BORG CUBE	NO	--	--	--	--	--	--	--	--	--	--	Officer	0.06	Fear Is the True Enemy	Enterprise-E Riker	--	--	--
+5	123	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7835416064	0	935926528	0	0	1518847232	7252495360	--	--	--	--	--	--	--
+5	124	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7159484928	0	855187776	0	0	1387822400	6626850304	--	--	--	--	--	--	--
+5	125	Attack	XanOfHanoi	ThunderDome	BORG CUBE	NO	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	--	--	YES	7099321344	0	848001344	0	0	1376160064	6571162624	--	--	--	--	--	--	--
+5	126	Combatant Destroyed	Assimilated Galor-Class	--	Assimilated Galor-Class	NO	XanOfHanoi	ThunderDome	Assimilated Galor-Class	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+
